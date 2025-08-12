@@ -1,0 +1,254 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "Id"
+        ]
+    },
+    "data": [
+        {
+            "Id": 1020001,
+            "ExchangeTicketName": "事前登録報酬UR交換チケット",
+            "Description": "2023/04/14までに追加されたURカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 1020002,
+            "ExchangeTicketName": "【0.5周年記念】URセレクトチケット",
+            "Description": "一部のURカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 1020003,
+            "ExchangeTicketName": "【スタートボーナス】URセレクトチケット（103期通常のみ）",
+            "Description": "103期のガチャから排出される恒常URカード全てから選択できるチケットです。"
+        },
+        {
+            "Id": 2030701,
+            "ExchangeTicketName": "メンバーシップ【スリーズブーケ】特典 SRセレクトチケット（通常/GP PRIZEのみ）",
+            "Description": "スリーズブーケの通常/GP PRIZE SRカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 2030702,
+            "ExchangeTicketName": "メンバーシップ【スリーズブーケ】特典 URセレクトチケット（通常/GP PRIZEのみ）",
+            "Description": "スリーズブーケの通常/GP PRIZE URカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 2030703,
+            "ExchangeTicketName": "メンバーシップ【スリーズブーケ】特典 《LIMITED》SRセレクトチケット",
+            "Description": "スリーズブーケのLIMITED SRカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 2030704,
+            "ExchangeTicketName": "メンバーシップ【スリーズブーケ】特典 《LIMITED》URセレクトチケット",
+            "Description": "スリーズブーケのLIMITED URカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 2030705,
+            "ExchangeTicketName": "メンバーシップ【DOLLCHESTRA】特典 SRセレクトチケット（通常/GP PRIZEのみ）",
+            "Description": "DOLLCHESTRAの通常/GP PRIZE SRカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 2030706,
+            "ExchangeTicketName": "メンバーシップ【DOLLCHESTRA】特典 URセレクトチケット（通常/GP PRIZEのみ）",
+            "Description": "DOLLCHESTRAの通常/GP PRIZE URカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 2030707,
+            "ExchangeTicketName": "メンバーシップ【DOLLCHESTRA】特典 《LIMITED》SRセレクトチケット",
+            "Description": "DOLLCHESTRAのLIMITED SRカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 2030708,
+            "ExchangeTicketName": "メンバーシップ【DOLLCHESTRA】特典 《LIMITED》URセレクトチケット",
+            "Description": "DOLLCHESTRAのLIMITED URカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 2030709,
+            "ExchangeTicketName": "メンバーシップ【みらくらぱーく！】特典 SRセレクトチケット（通常/GP PRIZEのみ）",
+            "Description": "みらくらぱーく！の通常/GP PRIZE SRカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 2030710,
+            "ExchangeTicketName": "メンバーシップ【みらくらぱーく！】特典 URセレクトチケット（通常/GP PRIZEのみ）",
+            "Description": "みらくらぱーく！の通常/GP PRIZE URカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 2030711,
+            "ExchangeTicketName": "メンバーシップ【みらくらぱーく！】特典 《LIMITED》SRセレクトチケット",
+            "Description": "みらくらぱーく！のLIMITED SRカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 2030712,
+            "ExchangeTicketName": "メンバーシップ【みらくらぱーく！】特典 《LIMITED》URセレクトチケット",
+            "Description": "みらくらぱーく！のLIMITED URカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 3030801,
+            "ExchangeTicketName": "【ライブグランプリ～103期12月度】SRセレクトチケット",
+            "Description": "103期12月度までのライブグランプリ報酬SRカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 3030802,
+            "ExchangeTicketName": "【ライブグランプリ～103期12月度】URセレクトチケット",
+            "Description": "103期12月度までのライブグランプリ報酬URカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 4030001,
+            "ExchangeTicketName": "【ユニット甲子園2024】URセレクトチケット",
+            "Description": "103期のガチャから排出される恒常URカード全てから選択できるチケットです。"
+        },
+        {
+            "Id": 4030002,
+            "ExchangeTicketName": "【スリーズブーケ】SRセレクトチケット（103期通常のみ）",
+            "Description": "スリーズブーケに所属するキャラのカードのうち、\\n103期のガチャから排出される恒常SRカード全てから選択できるチケットです。"
+        },
+        {
+            "Id": 4030003,
+            "ExchangeTicketName": "【DOLLCHESTRA】SRセレクトチケット（103期通常のみ）",
+            "Description": "DOLLCHESTRAに所属するキャラのカードのうち、\\n103期のガチャから排出される恒常SRカード全てから選択できるチケットです。"
+        },
+        {
+            "Id": 4030004,
+            "ExchangeTicketName": "【みらくらぱーく！】SRセレクトチケット（103期通常のみ）",
+            "Description": "みらくらぱーく！に所属するキャラのカードのうち、\\n103期のガチャから排出される恒常SRカード全てから選択できるチケットです。"
+        },
+        {
+            "Id": 4030005,
+            "ExchangeTicketName": "URセレクトチケット（103期通常のみ）",
+            "Description": "103期のガチャから排出される恒常URカード全てから選択できるチケットです。"
+        },
+        {
+            "Id": 4030006,
+            "ExchangeTicketName": "【104期生 Dream Believers】URセレクトチケット",
+            "Description": "104期新入生の新規URカード3種（DreamBelievers）から1枚選択できるセレクトチケットです。"
+        },
+        {
+            "Id": 4030007,
+            "ExchangeTicketName": "【蓮ノ空歌留多】URセレクトチケット",
+            "Description": "蓮ノ空歌留多シリーズから選択できるチケットです。"
+        },
+        {
+            "Id": 4030008,
+            "ExchangeTicketName": "SRセレクトチケット（103期GP PRIZEのみ）",
+            "Description": "103期のGP PRIZEカテゴリーのSRカード全てから選択できるチケットです。"
+        },
+        {
+            "Id": 4030009,
+            "ExchangeTicketName": "URセレクトチケット（103期GP PRIZEのみ）",
+            "Description": "103期のGP PRIZEカテゴリーのURカード全てから選択できるチケットです。"
+        },
+        {
+            "Id": 4030010,
+            "ExchangeTicketName": "【1周年記念】《LIMITED》URセレクトチケット",
+            "Description": "103期のSPRING / SUMMER / AUTUMN / WINTERのURカード全てから選択できるチケットです。"
+        },
+        {
+            "Id": 4030011,
+            "ExchangeTicketName": "URセレクトチケット（通常/GP PRIZEのみ）",
+            "Description": "通常/GP PRIZEのURカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 4030012,
+            "ExchangeTicketName": "【コミケ104出展記念！】URセレクトチケット",
+            "Description": "2024 SPRING までの恒常URカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 4030013,
+            "ExchangeTicketName": "【DEEPNESS】URセレクトチケット（103期）",
+            "Description": "[DEEPNESS] 乙宗 梢 または [DEEPNESS] 夕霧 綴理 のいずれかから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 4030014,
+            "ExchangeTicketName": "【1.5周年記念】URセレクトチケット",
+            "Description": "2024 AUTUMN までの恒常URカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 4030015,
+            "ExchangeTicketName": "【1.5周年記念】《LIMITED》URセレクトチケット",
+            "Description": "2024 SUMMER までのLIMITED URカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 4030016,
+            "ExchangeTicketName": "【TRY TRY SELECT!!!】URセレクトチケット",
+            "Description": "特定のURカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 4030017,
+            "ExchangeTicketName": "【TRY TRY SELECT!!!】SRセレクトチケット",
+            "Description": "特定のSRカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 4030018,
+            "ExchangeTicketName": "URセレクトチケット（103期GRADUATION）",
+            "Description": "103期のGRADUATION LIMITED URカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 4030019,
+            "ExchangeTicketName": "SRセレクトチケット（103期GRADUATION）",
+            "Description": "103期のGRADUATION LIMITED SRカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 4030020,
+            "ExchangeTicketName": "【Dream Believers】URセレクトチケット（104期）",
+            "Description": "Dream Believersのカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 4030021,
+            "ExchangeTicketName": "メンバーシップ【Edel Note】特典 SRセレクトチケット（通常/GP PRIZEのみ）",
+            "Description": "Edel Noteの通常/GP PRIZE SRカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 4030022,
+            "ExchangeTicketName": "メンバーシップ【Edel Note】特典 URセレクトチケット（通常/GP PRIZEのみ）",
+            "Description": "Edel Noteの通常/GP PRIZE URカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 4030023,
+            "ExchangeTicketName": "メンバーシップ【Edel Note】特典 《LIMITED》SRセレクトチケット",
+            "Description": "Edel NoteのLIMITED SRカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 4030024,
+            "ExchangeTicketName": "メンバーシップ【Edel Note】特典 《LIMITED》URセレクトチケット",
+            "Description": "Edel NoteのLIMITED URカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 4030025,
+            "ExchangeTicketName": "【2周年記念】《LIMITED》URセレクトチケット",
+            "Description": "特定のLIMITEDのURカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 4030026,
+            "ExchangeTicketName": "【2周年記念】《LIMITED》SRセレクトチケット",
+            "Description": "特定のLIMITEDのSRカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 4030027,
+            "ExchangeTicketName": "SRセレクトチケット（103期通常のみ）",
+            "Description": "103期のガチャから排出される恒常SRカード全てから選択できるチケットです。"
+        },
+        {
+            "Id": 4030028,
+            "ExchangeTicketName": "SRセレクトチケット（104期通常のみ）",
+            "Description": "104期のガチャから排出される恒常SRカード全てから選択できるチケットです。"
+        },
+        {
+            "Id": 4030029,
+            "ExchangeTicketName": "URセレクトチケット（104期通常のみ）",
+            "Description": "104期のガチャから排出される恒常URカード全てから選択できるチケットです。"
+        },
+        {
+            "Id": 4030030,
+            "ExchangeTicketName": "【Star Sign Memories/乙宗 梢】URセレクトチケット",
+            "Description": "乙宗 梢のURカードと交換できるチケットです。※一部を除く"
+        },
+        {
+            "Id": 4030031,
+            "ExchangeTicketName": "【Star Sign Memories/夕霧 綴理】URセレクトチケット",
+            "Description": "夕霧 綴理のURカードと交換できるチケットです。※一部を除く"
+        },
+        {
+            "Id": 4030032,
+            "ExchangeTicketName": "【Star Sign Memories/藤島 慈】URセレクトチケット",
+            "Description": "藤島 慈のURカードと交換できるチケットです。※一部を除く"
+        }
+    ]
+}

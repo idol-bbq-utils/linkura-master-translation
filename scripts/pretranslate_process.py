@@ -162,7 +162,7 @@ def merge_todo():
     pretranslated_to_kv_files(output_dir, new_files_dir, output_dir)
 
     if input("继续执行 import_db_json，请输入 1: ") == "1":
-        import_db_json.main("./gakumasu-diff/json", output_dir, "data")
+        import_db_json.main("./link-like-diff/json", output_dir, "data")
         print("文件已输出到 data")
 
 
@@ -190,7 +190,7 @@ def main():
         values_to_keys()
 
     elif do_idx == "2":
-        gen_todo(input("新 gakumasu_diff_to_json 文件夹: ") or "gakumasu-diff/json")
+        gen_todo(input("新 link_like_diff_to_json 文件夹: ") or "link-like-diff/json")
 
     elif do_idx == "3":
         pretranslated_to_kv_files(

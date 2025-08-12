@@ -1,0 +1,33 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "Id"
+        ]
+    },
+    "data": [
+        {
+            "Id": 100,
+            "UnitName": "蓮ノ空女学院スクールアイドルクラブ"
+        },
+        {
+            "Id": 101,
+            "UnitName": "スリーズブーケ"
+        },
+        {
+            "Id": 102,
+            "UnitName": "DOLLCHESTRA"
+        },
+        {
+            "Id": 103,
+            "UnitName": "みらくらぱーく！"
+        },
+        {
+            "Id": 104,
+            "UnitName": "蓮ノ空女学院スクールアイドルクラブ"
+        },
+        {
+            "Id": 105,
+            "UnitName": "Edel Note"
+        }
+    ]
+}

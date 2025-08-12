@@ -1,0 +1,49 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "Id"
+        ]
+    },
+    "data": [
+        {
+            "Id": 1005001,
+            "Description": "・2024年5月～7月に開催されるライブグランプリ\\n・Grade Quest 103期SPRING / 104期SPRING",
+            "TermTitle": "1st Term"
+        },
+        {
+            "Id": 1005002,
+            "Description": "・2024年8月～10月に開催されるライブグランプリ\\n・2024年8月～10月に開催されるGrade Challenge\\n・Grade Quest 103期SUMMER / 104期SUMMER",
+            "TermTitle": "2nd Term"
+        },
+        {
+            "Id": 1005003,
+            "Description": "・集計期間中に開催されるライブグランプリ\\n・集計期間中に開催されるGrade Challenge\\n・Grade Quest 103期AUTUMN / 104期AUTUMN",
+            "TermTitle": "3rd Term"
+        },
+        {
+            "Id": 1005004,
+            "Description": "・集計期間中に開催されるライブグランプリ\\n・集計期間中に開催されるGrade Challenge\\n・Grade Quest 103期WINTER / 104期WINTER",
+            "TermTitle": "Final Term"
+        },
+        {
+            "Id": 1005005,
+            "Description": "・集計期間中に開催されるライブグランプリ",
+            "TermTitle": "Opening Term"
+        },
+        {
+            "Id": 1005006,
+            "Description": "・集計期間中に開催されるライブグランプリ",
+            "TermTitle": "105期 1st Term"
+        },
+        {
+            "Id": 1005007,
+            "Description": "105期 Special TermではTerm Grade Pt.は集計されません",
+            "TermTitle": "105期 Special Term"
+        },
+        {
+            "Id": 1005008,
+            "Description": "・集計期間中に開催されるライブグランプリ",
+            "TermTitle": "105期 2nd Term"
+        }
+    ]
+}

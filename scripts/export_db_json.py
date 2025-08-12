@@ -128,7 +128,7 @@ def ex_main(input_json, output_json):
     print(f"导出完成: {output_json} (共 {len(export_dict)} 条)")
 
 def main():
-    orig_dir = input("原json文件夹: ") or "gakumasu-diff/json"
+    orig_dir = input("原json文件夹: ") or "link-like-diff/json"
     if not os.path.isdir("./exports"):
         os.mkdir("./exports")
 

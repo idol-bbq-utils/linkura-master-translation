@@ -1,0 +1,1009 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "Id"
+        ]
+    },
+    "data": [
+        {
+            "Id": 1031101,
+            "Description": "SPRING LIMITED"
+        },
+        {
+            "Id": 1031102,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1031103,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1031104,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1031201,
+            "Description": "SPRING LIMITED"
+        },
+        {
+            "Id": 1031202,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1031203,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1031204,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1031301,
+            "Description": "SPRING LIMITED"
+        },
+        {
+            "Id": 1031302,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1031303,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1031304,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1031401,
+            "Description": "SPRING LIMITED"
+        },
+        {
+            "Id": 1031402,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1031403,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1031404,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1031501,
+            "Description": "SPRING LIMITED"
+        },
+        {
+            "Id": 1031502,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1031503,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1031504,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1031601,
+            "Description": "SPRING LIMITED"
+        },
+        {
+            "Id": 1031602,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1031603,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1031604,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1032101,
+            "Description": "SUMMER LIMITED"
+        },
+        {
+            "Id": 1032102,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1032103,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1032104,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1032201,
+            "Description": "SUMMER LIMITED"
+        },
+        {
+            "Id": 1032202,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1032203,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1032204,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1032301,
+            "Description": "SUMMER LIMITED"
+        },
+        {
+            "Id": 1032302,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1032303,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1032304,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1032401,
+            "Description": "SUMMER LIMITED"
+        },
+        {
+            "Id": 1032402,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1032403,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1032404,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1032501,
+            "Description": "SUMMER LIMITED"
+        },
+        {
+            "Id": 1032502,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1032503,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1032504,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1032601,
+            "Description": "SUMMER LIMITED"
+        },
+        {
+            "Id": 1032602,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1032603,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1032604,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1033101,
+            "Description": "AUTUMN LIMITED"
+        },
+        {
+            "Id": 1033102,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1033103,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1033104,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1033201,
+            "Description": "AUTUMN LIMITED"
+        },
+        {
+            "Id": 1033202,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1033203,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1033204,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1033301,
+            "Description": "AUTUMN LIMITED"
+        },
+        {
+            "Id": 1033302,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1033303,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1033304,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1033401,
+            "Description": "AUTUMN LIMITED"
+        },
+        {
+            "Id": 1033402,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1033403,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1033404,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1033501,
+            "Description": "AUTUMN LIMITED"
+        },
+        {
+            "Id": 1033502,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1033503,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1033504,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1033601,
+            "Description": "AUTUMN LIMITED"
+        },
+        {
+            "Id": 1033602,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1033603,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1033604,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1034101,
+            "Description": "WINTER LIMITED"
+        },
+        {
+            "Id": 1034102,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1034103,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1034104,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1034201,
+            "Description": "WINTER LIMITED"
+        },
+        {
+            "Id": 1034202,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1034203,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1034204,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1034301,
+            "Description": "WINTER LIMITED"
+        },
+        {
+            "Id": 1034302,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1034303,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1034304,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1034401,
+            "Description": "WINTER LIMITED"
+        },
+        {
+            "Id": 1034402,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1034403,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1034404,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1034501,
+            "Description": "WINTER LIMITED"
+        },
+        {
+            "Id": 1034502,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1034503,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1034504,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1034601,
+            "Description": "WINTER LIMITED"
+        },
+        {
+            "Id": 1034602,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1034603,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1034604,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1035601,
+            "Description": "GRADUATION LIMITED"
+        },
+        {
+            "Id": 1035602,
+            "Description": "通常"
+        },
+        {
+            "Id": 1035603,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1035604,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1035605,
+            "Description": "レアリティ：BR"
+        },
+        {
+            "Id": 1041101,
+            "Description": "SPRING LIMITED"
+        },
+        {
+            "Id": 1041102,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1041103,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1041104,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1041201,
+            "Description": "SPRING LIMITED"
+        },
+        {
+            "Id": 1041202,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1041203,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1041204,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1041301,
+            "Description": "SPRING LIMITED"
+        },
+        {
+            "Id": 1041302,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1041303,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1041304,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1041401,
+            "Description": "SPRING LIMITED"
+        },
+        {
+            "Id": 1041402,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1041403,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1041404,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1041501,
+            "Description": "SPRING LIMITED"
+        },
+        {
+            "Id": 1041502,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1041503,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1041504,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1041601,
+            "Description": "SPRING LIMITED"
+        },
+        {
+            "Id": 1041602,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1041603,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1041604,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1042101,
+            "Description": "SUMMER LIMITED"
+        },
+        {
+            "Id": 1042102,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1042103,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1042104,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1042201,
+            "Description": "SUMMER LIMITED"
+        },
+        {
+            "Id": 1042202,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1042203,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1042204,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1042301,
+            "Description": "SUMMER LIMITED"
+        },
+        {
+            "Id": 1042302,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1042303,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1042304,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1042401,
+            "Description": "SUMMER LIMITED"
+        },
+        {
+            "Id": 1042402,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1042403,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1042404,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1042501,
+            "Description": "SUMMER LIMITED"
+        },
+        {
+            "Id": 1042502,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1042503,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1042504,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1042601,
+            "Description": "SUMMER LIMITED"
+        },
+        {
+            "Id": 1042602,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1042603,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1042604,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1043101,
+            "Description": "AUTUMN LIMITED"
+        },
+        {
+            "Id": 1043102,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1043103,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1043104,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1043201,
+            "Description": "AUTUMN LIMITED"
+        },
+        {
+            "Id": 1043202,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1043203,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1043204,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1043301,
+            "Description": "AUTUMN LIMITED"
+        },
+        {
+            "Id": 1043302,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1043303,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1043304,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1043401,
+            "Description": "AUTUMN LIMITED"
+        },
+        {
+            "Id": 1043402,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1043403,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1043404,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1043501,
+            "Description": "AUTUMN LIMITED"
+        },
+        {
+            "Id": 1043502,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1043503,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1043504,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1043601,
+            "Description": "AUTUMN LIMITED"
+        },
+        {
+            "Id": 1043602,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1043603,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1043604,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1044101,
+            "Description": "WINTER LIMITED"
+        },
+        {
+            "Id": 1044102,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1044103,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1044104,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1044201,
+            "Description": "WINTER LIMITED"
+        },
+        {
+            "Id": 1044202,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1044203,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1044204,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1044301,
+            "Description": "WINTER LIMITED"
+        },
+        {
+            "Id": 1044302,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1044303,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1044304,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1044401,
+            "Description": "WINTER LIMITED"
+        },
+        {
+            "Id": 1044402,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1044403,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1044404,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1044501,
+            "Description": "WINTER LIMITED"
+        },
+        {
+            "Id": 1044502,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1044503,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1044504,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1044601,
+            "Description": "WINTER LIMITED"
+        },
+        {
+            "Id": 1044602,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1044603,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1044604,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1045601,
+            "Description": "GRADUATION LIMITED"
+        },
+        {
+            "Id": 1045602,
+            "Description": "通常"
+        },
+        {
+            "Id": 1045603,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1045604,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1045605,
+            "Description": "レアリティ：BR"
+        },
+        {
+            "Id": 1051101,
+            "Description": "SPRING LIMITED"
+        },
+        {
+            "Id": 1051102,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1051103,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1051104,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1051201,
+            "Description": "SPRING LIMITED"
+        },
+        {
+            "Id": 1051202,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1051203,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1051204,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1051301,
+            "Description": "SPRING LIMITED"
+        },
+        {
+            "Id": 1051302,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1051303,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1051304,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1051401,
+            "Description": "SPRING LIMITED"
+        },
+        {
+            "Id": 1051402,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1051403,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1051404,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1051501,
+            "Description": "SPRING LIMITED"
+        },
+        {
+            "Id": 1051502,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1051503,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1051504,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1051601,
+            "Description": "SPRING LIMITED"
+        },
+        {
+            "Id": 1051602,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1051603,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1051604,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1052101,
+            "Description": "SUMMER LIMITED"
+        },
+        {
+            "Id": 1052102,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1052103,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1052104,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1052201,
+            "Description": "SUMMER LIMITED"
+        },
+        {
+            "Id": 1052202,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1052203,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1052204,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1052301,
+            "Description": "SUMMER LIMITED"
+        },
+        {
+            "Id": 1052302,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1052303,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1052304,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1052401,
+            "Description": "SUMMER LIMITED"
+        },
+        {
+            "Id": 1052402,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1052403,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1052404,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1052501,
+            "Description": "SUMMER LIMITED"
+        },
+        {
+            "Id": 1052502,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1052503,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1052504,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1052601,
+            "Description": "SUMMER LIMITED"
+        },
+        {
+            "Id": 1052602,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1052603,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1052604,
+            "Description": "レアリティ：DR"
+        }
+    ]
+}

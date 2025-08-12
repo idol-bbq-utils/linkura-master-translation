@@ -1,0 +1,269 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "Id"
+        ]
+    },
+    "data": [
+        {
+            "Id": 703101,
+            "Name": "ライブグランプリ 103期6月度サークル対抗戦",
+            "Description": "ライブグランプリ 103期6月度サークル対抗戦"
+        },
+        {
+            "Id": 703102,
+            "Name": "ライブグランプリ 103期7月度サークル対抗戦",
+            "Description": "ライブグランプリ 103期7月度サークル対抗戦"
+        },
+        {
+            "Id": 703103,
+            "Name": "ライブグランプリ 103期8月度サークル対抗戦",
+            "Description": "ライブグランプリ 103期8月度サークル対抗戦"
+        },
+        {
+            "Id": 703104,
+            "Name": "ライブグランプリ 103期9月度サークル対抗戦",
+            "Description": "ライブグランプリ 103期9月度サークル対抗戦"
+        },
+        {
+            "Id": 703105,
+            "Name": "ライブグランプリ 103期10月度サークル対抗戦",
+            "Description": "ライブグランプリ 103期10月度サークル対抗戦"
+        },
+        {
+            "Id": 703106,
+            "Name": "ライブグランプリ 103期11月度サークル対抗戦",
+            "Description": "ライブグランプリ 103期11月度サークル対抗戦"
+        },
+        {
+            "Id": 703107,
+            "Name": "ライブグランプリ 103期12月度サークル対抗戦",
+            "Description": "ライブグランプリ 103期12月度サークル対抗戦"
+        },
+        {
+            "Id": 703108,
+            "Name": "Live Grand Prix サークル対抗戦 -Exhibition-",
+            "Description": "Live Grand Prix サークル対抗戦 -Exhibition-"
+        },
+        {
+            "Id": 703109,
+            "Name": "ライブグランプリ 103期2月度サークル対抗戦",
+            "Description": "ライブグランプリ 103期2月度サークル対抗戦"
+        },
+        {
+            "Id": 703110,
+            "Name": "ライブグランプリ 103期3月度サークル対抗戦",
+            "Description": "ライブグランプリ 103期3月度サークル対抗戦"
+        },
+        {
+            "Id": 704101,
+            "Name": "104期OPENING！第1回サークル対抗戦",
+            "Description": "104期OPENING！第1回サークル対抗戦"
+        },
+        {
+            "Id": 704102,
+            "Name": "104期1stTerm 第2回 サークル対抗戦",
+            "Description": "104期1stTerm 第2回 サークル対抗戦"
+        },
+        {
+            "Id": 704103,
+            "Name": "104期1stTerm 第3回 サークル対抗戦",
+            "Description": "104期1stTerm 第3回 サークル対抗戦"
+        },
+        {
+            "Id": 704104,
+            "Name": "104期1stTerm 第4回 サークル対抗戦",
+            "Description": "104期1stTerm 第4回 サークル対抗戦"
+        },
+        {
+            "Id": 704105,
+            "Name": "104期2ndTerm 第1回 サークル対抗戦",
+            "Description": "104期2ndTerm 第1回 サークル対抗戦"
+        },
+        {
+            "Id": 704106,
+            "Name": "104期2ndTerm 第2回 サークル対抗戦",
+            "Description": "104期2ndTerm 第2回 サークル対抗戦"
+        },
+        {
+            "Id": 704107,
+            "Name": "104期2ndTerm 第3回 サークル対抗戦",
+            "Description": "104期2ndTerm 第3回 サークル対抗戦"
+        },
+        {
+            "Id": 704108,
+            "Name": "104期3rdTerm 第1回 サークル対抗戦",
+            "Description": "104期3rdTerm 第1回 サークル対抗戦"
+        },
+        {
+            "Id": 704109,
+            "Name": "104期3rdTerm 第2回 サークル対抗戦",
+            "Description": "104期3rdTerm 第2回 サークル対抗戦"
+        },
+        {
+            "Id": 704110,
+            "Name": "104期3rdTerm 第3回 サークル対抗戦",
+            "Description": "104期3rdTerm 第3回 サークル対抗戦"
+        },
+        {
+            "Id": 704111,
+            "Name": "104期FinalTerm 第1回 サークル対抗戦",
+            "Description": "104期FinalTerm 第1回 サークル対抗戦"
+        },
+        {
+            "Id": 704112,
+            "Name": "104期FinalTerm 第2回 サークル対抗戦",
+            "Description": "104期FinalTerm 第2回 サークル対抗戦"
+        },
+        {
+            "Id": 705101,
+            "Name": "105期OpeningTerm サークル対抗戦",
+            "Description": "105期OpeningTerm サークル対抗戦"
+        },
+        {
+            "Id": 705102,
+            "Name": "105期1stTerm 第1回 サークル対抗戦",
+            "Description": "105期1stTerm 第1回 サークル対抗戦"
+        },
+        {
+            "Id": 705103,
+            "Name": "105期1stTerm 第2回 サークル対抗戦",
+            "Description": "105期1stTerm 第2回 サークル対抗戦"
+        },
+        {
+            "Id": 705104,
+            "Name": "105期2ndTerm 第1回 サークル対抗戦",
+            "Description": "105期2ndTerm 第1回 サークル対抗戦"
+        },
+        {
+            "Id": 803101,
+            "Name": "ライブグランプリ 103期第1回個人戦",
+            "Description": "ライブグランプリ 103期第1回個人戦"
+        },
+        {
+            "Id": 803102,
+            "Name": "ライブグランプリ 103期第2回個人戦",
+            "Description": "ライブグランプリ 103期第2回個人戦"
+        },
+        {
+            "Id": 803103,
+            "Name": "ライブグランプリ 103期第3回個人戦",
+            "Description": "ライブグランプリ 103期第3回個人戦"
+        },
+        {
+            "Id": 803104,
+            "Name": "ライブグランプリ 103期第4回個人戦",
+            "Description": "ライブグランプリ 103期第4回個人戦"
+        },
+        {
+            "Id": 803105,
+            "Name": "ライブグランプリ 103期第5回個人戦",
+            "Description": "ライブグランプリ 103期第5回個人戦"
+        },
+        {
+            "Id": 803106,
+            "Name": "ライブグランプリ 103期第6回個人戦",
+            "Description": "ライブグランプリ 103期第6回個人戦"
+        },
+        {
+            "Id": 803107,
+            "Name": "ライブグランプリ 103期第7回個人戦",
+            "Description": "ライブグランプリ 103期第7回個人戦"
+        },
+        {
+            "Id": 803108,
+            "Name": "ライブグランプリ 103期第8回個人戦",
+            "Description": "ライブグランプリ 103期第8回個人戦"
+        },
+        {
+            "Id": 803109,
+            "Name": "ライブグランプリ 103期第9回個人戦",
+            "Description": "ライブグランプリ 103期第9回個人戦"
+        },
+        {
+            "Id": 804101,
+            "Name": "ライブグランプリ 104期第1回個人戦",
+            "Description": "ライブグランプリ 104期第1回個人戦"
+        },
+        {
+            "Id": 804102,
+            "Name": "Live Grand Prix 104期1stTerm 第2回 個人戦",
+            "Description": "Live Grand Prix 104期1stTerm 第2回 個人戦"
+        },
+        {
+            "Id": 804103,
+            "Name": "Live Grand Prix 104期1stTerm 第3回 個人戦",
+            "Description": "Live Grand Prix 104期1stTerm 第3回 個人戦"
+        },
+        {
+            "Id": 804104,
+            "Name": "Live Grand Prix 104期1stTerm 第4回 個人戦",
+            "Description": "Live Grand Prix 104期1stTerm 第4回 個人戦"
+        },
+        {
+            "Id": 804105,
+            "Name": "Live Grand Prix 104期2ndTerm 第1回 個人戦",
+            "Description": "Live Grand Prix 104期2ndTerm 第1回 個人戦"
+        },
+        {
+            "Id": 804106,
+            "Name": "Live Grand Prix 104期2ndTerm 第2回 個人戦",
+            "Description": "Live Grand Prix 104期2ndTerm 第2回 個人戦"
+        },
+        {
+            "Id": 804107,
+            "Name": "Live Grand Prix 104期2ndTerm 第3回 個人戦",
+            "Description": "Live Grand Prix 104期2ndTerm 第3回 個人戦"
+        },
+        {
+            "Id": 804108,
+            "Name": "Live Grand Prix 104期3rdTerm 第1回 個人戦",
+            "Description": "Live Grand Prix 104期3rdTerm 第1回 個人戦"
+        },
+        {
+            "Id": 804109,
+            "Name": "Live Grand Prix 104期3rdTerm 第2回 個人戦",
+            "Description": "Live Grand Prix 104期3rdTerm 第2回 個人戦"
+        },
+        {
+            "Id": 804110,
+            "Name": "Live Grand Prix 104期3rdTerm 第3回 個人戦",
+            "Description": "Live Grand Prix 104期3rdTerm 第3回 個人戦"
+        },
+        {
+            "Id": 804111,
+            "Name": "Live Grand Prix 104期FinalTerm 第1回 個人戦",
+            "Description": "Live Grand Prix 104期FinalTerm 第1回 個人戦"
+        },
+        {
+            "Id": 804112,
+            "Name": "Live Grand Prix 104期FinalTerm 第2回 個人戦",
+            "Description": "Live Grand Prix 104期FinalTerm 第2回 個人戦"
+        },
+        {
+            "Id": 805101,
+            "Name": "Live Grand Prix 105期OpeningTerm 個人戦",
+            "Description": "Live Grand Prix 105期OpeningTerm 個人戦"
+        },
+        {
+            "Id": 805102,
+            "Name": "Live Grand Prix 105期1stTerm 第1回 個人戦",
+            "Description": "Live Grand Prix 105期1stTerm 第1回 個人戦"
+        },
+        {
+            "Id": 805103,
+            "Name": "Live Grand Prix 105期1stTerm 第2回 個人戦",
+            "Description": "Live Grand Prix 105期1stTerm 第2回 個人戦"
+        },
+        {
+            "Id": 805104,
+            "Name": "Live Grand Prix 105期SpecialTerm 個人戦",
+            "Description": "Live Grand Prix 105期SpecialTerm 個人戦"
+        },
+        {
+            "Id": 805105,
+            "Name": "Live Grand Prix 105期2ndTerm 第1回 個人戦",
+            "Description": "Live Grand Prix 105期2ndTerm 第1回 個人戦"
+        }
+    ]
+}

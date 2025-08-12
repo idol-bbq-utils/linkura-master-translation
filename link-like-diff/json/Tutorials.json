@@ -1,0 +1,53 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "Id"
+        ]
+    },
+    "data": [
+        {
+            "Id": 20,
+            "Description": "規約承認"
+        },
+        {
+            "Id": 30,
+            "Description": "ホームメニュー"
+        },
+        {
+            "Id": 40,
+            "Description": "ランチャー"
+        },
+        {
+            "Id": 50,
+            "Description": "スクステトップ"
+        },
+        {
+            "Id": 5010,
+            "Description": "グレードライブ1"
+        },
+        {
+            "Id": 5020,
+            "Description": "グレードライブ2"
+        },
+        {
+            "Id": 5030,
+            "Description": "グレードライブ3"
+        },
+        {
+            "Id": 5040,
+            "Description": "グレードライブ4"
+        },
+        {
+            "Id": 5050,
+            "Description": "グレードライブ5"
+        },
+        {
+            "Id": 5060,
+            "Description": "グレードライブ6"
+        },
+        {
+            "Id": 5070,
+            "Description": "グレードライブ7"
+        }
+    ]
+}

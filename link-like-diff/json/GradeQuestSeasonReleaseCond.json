@@ -1,0 +1,57 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "Id"
+        ]
+    },
+    "data": [
+        {
+            "Id": 10310,
+            "ConditionsDescription": "0"
+        },
+        {
+            "Id": 10320,
+            "ConditionsDescription": "103期SPRING ステージランク2をクリア"
+        },
+        {
+            "Id": 10330,
+            "ConditionsDescription": "103期SPRING ステージランク2をクリア"
+        },
+        {
+            "Id": 10340,
+            "ConditionsDescription": "103期SPRING ステージランク2をクリア"
+        },
+        {
+            "Id": 10350,
+            "ConditionsDescription": "103期SPRING ステージランク5をクリア"
+        },
+        {
+            "Id": 10410,
+            "ConditionsDescription": "103期SPRING ステージランク2をクリア"
+        },
+        {
+            "Id": 10420,
+            "ConditionsDescription": "103期SPRING ステージランク2をクリア"
+        },
+        {
+            "Id": 10430,
+            "ConditionsDescription": "103期SPRING ステージランク2をクリア"
+        },
+        {
+            "Id": 10440,
+            "ConditionsDescription": "103期SPRING ステージランク2をクリア"
+        },
+        {
+            "Id": 10450,
+            "ConditionsDescription": "103期SPRING ステージランク5をクリア"
+        },
+        {
+            "Id": 10510,
+            "ConditionsDescription": "103期SPRING ステージランク2をクリア"
+        },
+        {
+            "Id": 10520,
+            "ConditionsDescription": "103期SPRING ステージランク2をクリア"
+        }
+    ]
+}

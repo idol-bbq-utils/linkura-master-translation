@@ -293,10 +293,10 @@ def save_json(data: list, name: str):
     }
 
     # 写入 JSON 文件
-    os.makedirs('./gakumasu-diff/json', exist_ok=True)
-    with open(f'gakumasu-diff/json/{name}.json', 'w', encoding='utf-8') as f:
+    os.makedirs('./link-like-diff/json', exist_ok=True)
+    with open(f'link-like-diff/json/{name}.json', 'w', encoding='utf-8') as f:
         json.dump(result, f, ensure_ascii=False, indent=4)
-    return f'gakumasu-diff/json/{name}.json'
+    return f'link-like-diff/json/{name}.json'
 
 def sort_records_fields(records: List[dict], field_paths: list):
     def hasPaths(record:dict, path:list):
@@ -449,7 +449,7 @@ def transform_value_for_test_mode(value):
 # process_list = ["ProduceStepLesson", "SupportCardFlavor"]
 process_list = None
 
-def convert_yaml_types(folder_path="./gakumasu-diff/orig"):
+def convert_yaml_types(folder_path="./link-like-diff/orig"):
     """
     遍历指定文件夹中的所有 YAML 文件，加载它们的内容，并打印每个文件的类型。
     自动替换 YAML 文件中的制表符为空格。

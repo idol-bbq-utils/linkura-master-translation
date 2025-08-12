@@ -1,0 +1,61 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "Id"
+        ]
+    },
+    "data": [
+        {
+            "Id": 1,
+            "CampaignName": "無料10連キャンペーン"
+        },
+        {
+            "Id": 2,
+            "CampaignName": "謹賀新年！今年もリンクラ！スペシャルキャンペーン"
+        },
+        {
+            "Id": 3,
+            "CampaignName": "PARTY!開催記念キャンペーン"
+        },
+        {
+            "Id": 4,
+            "CampaignName": "1日1回無料ガチャキャンペーン"
+        },
+        {
+            "Id": 5,
+            "CampaignName": "1日1回 PARTY! LIMITED COLLECTION EXTRA 無料10連ガチャキャンペーン"
+        },
+        {
+            "Id": 6,
+            "CampaignName": "1日1回 SPRING LIMITED COLLECTION MEMORY REVIVAL 無料10連ガチャキャンペーン"
+        },
+        {
+            "Id": 7,
+            "CampaignName": "1日1回無料10連ガチャキャンペーン"
+        },
+        {
+            "Id": 8,
+            "CampaignName": "1日1回 PARTY! LIMITED COLLECTION 無料10連ガチャキャンペーン"
+        },
+        {
+            "Id": 9,
+            "CampaignName": "1日1回無料10連ガチャキャンペーン"
+        },
+        {
+            "Id": 10,
+            "CampaignName": "1日1回 PARTY! LIMITED COLLECTION 無料10連ガチャキャンペーン"
+        },
+        {
+            "Id": 11,
+            "CampaignName": "1日1回無料ガチャキャンペーン"
+        },
+        {
+            "Id": 12,
+            "CampaignName": "1日1回無料10連ガチャキャンペーン"
+        },
+        {
+            "Id": 13,
+            "CampaignName": "1日1回無料10連ガチャキャンペーン"
+        }
+    ]
+}

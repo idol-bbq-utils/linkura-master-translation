@@ -1,0 +1,1325 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "Id"
+        ]
+    },
+    "data": [
+        {
+            "Id": 103101,
+            "Title": "Dream Believers（4人Ver.）",
+            "TitleFurigana": "どりーむびりーばーず",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 103102,
+            "Title": "永遠のEuphoria（4人Ver.）",
+            "TitleFurigana": "えいえんのゆーふぉりあ",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 103103,
+            "Title": "フォーチュンムービー",
+            "TitleFurigana": "ふぉーちゅんむーびー",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 103104,
+            "Title": "Reflection in the mirror",
+            "TitleFurigana": "りふれくしょんいんざみらー",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 103105,
+            "Title": "謳歌爛漫",
+            "TitleFurigana": "おうからんまん",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 103106,
+            "Title": "眩耀夜行",
+            "TitleFurigana": "げんようやこう",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 103107,
+            "Title": "Kawaii no susume",
+            "TitleFurigana": "かわいいのすすめ",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 103108,
+            "Title": "ジブンダイアリー",
+            "TitleFurigana": "じぶんだいありー",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 103109,
+            "Title": "永遠のEuphoria",
+            "TitleFurigana": "えいえんのゆーふぉりあ",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 103110,
+            "Title": "ハクチューアラモード",
+            "TitleFurigana": "はくちゅーあらもーど",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 103111,
+            "Title": "パラレルダンサー",
+            "TitleFurigana": "ぱられるだんさー",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 103112,
+            "Title": "Dream Believers",
+            "TitleFurigana": "どりーむびりーばーず",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 103113,
+            "Title": "アイデンティティ",
+            "TitleFurigana": "あいでんてぃてぃ",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 103114,
+            "Title": "Legato",
+            "TitleFurigana": "れがーと",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 103115,
+            "Title": "千変万華",
+            "TitleFurigana": "せんぺんばんか",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 103116,
+            "Title": "Yup! Yup! Yup!",
+            "TitleFurigana": "やっぷやっぷやっぷ",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 103117,
+            "Title": "シュガーメルト",
+            "TitleFurigana": "しゅがーめると",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 103118,
+            "Title": "Link to the FUTURE",
+            "TitleFurigana": "りんくとぅざふゅーちゃー",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 103119,
+            "Title": "ハッピー至上主義！",
+            "TitleFurigana": "はっぴーしじょうしゅぎ",
+            "Description": "シャッフルユニット",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 103120,
+            "Title": "マハラジャンボリー",
+            "TitleFurigana": "まはらじゃんぼりー",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 103201,
+            "Title": "Preserved Roses",
+            "TitleFurigana": "ぷりざーぶどろーぜず",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 103202,
+            "Title": "心予報",
+            "TitleFurigana": "こころよほう",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 103203,
+            "Title": "ダンスロボットダンス",
+            "TitleFurigana": "だんすろぼっとだんす",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 103204,
+            "Title": "御旗のもとに",
+            "TitleFurigana": "みはたのもとに",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 103205,
+            "Title": "ダイヤモンドハッピー",
+            "TitleFurigana": "だいやもんどはっぴー",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 103301,
+            "Title": "TOKIMEKI Runners",
+            "TitleFurigana": "ときめきらんなーず",
+            "Description": "LLカバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 103302,
+            "Title": "君のこころは輝いてるかい?",
+            "TitleFurigana": "きみのこころはかがやいてるかい",
+            "Description": "LLカバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 104101,
+            "Title": "Dream Believers（104期Ver.）",
+            "TitleFurigana": "どりーむびりーばーず",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 104102,
+            "Title": "Sparkly Spot（104期NEW Ver.）",
+            "TitleFurigana": "すぱーくりーすぽっと",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 104103,
+            "Title": "365 Days",
+            "TitleFurigana": "えぶりでい",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 104104,
+            "Title": "千変万華（104期Ver.）",
+            "TitleFurigana": "せんぺんばんか",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 104105,
+            "Title": "Bloom the smile, Bloom the dream!",
+            "TitleFurigana": "ぶるーむざすまいるぶるーむざどりーむ",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 104106,
+            "Title": "永遠のEuphoria（104期Ver.）",
+            "TitleFurigana": "えいえんのゆーふぉりあ",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 104107,
+            "Title": "眩耀夜行（104期Ver.）",
+            "TitleFurigana": "げんようやこう",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 104108,
+            "Title": "ハクチューアラモード（104期Ver.）",
+            "TitleFurigana": "はくちゅーあらもーど",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 104109,
+            "Title": "ファンファーレ！！！",
+            "TitleFurigana": "ふぁんふぁーれ",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 104110,
+            "Title": "マハラジャンボリー（104期Ver.）",
+            "TitleFurigana": "まはらじゃんぼりー",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 104111,
+            "Title": "Link to the FUTURE（104期Ver.）",
+            "TitleFurigana": "りんくとぅざふゅーちゃー",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 104112,
+            "Title": "ハナムスビ",
+            "TitleFurigana": "はなむすび",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 104113,
+            "Title": "シュガーメルト（104期Ver.）",
+            "TitleFurigana": "しゅがーめると",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 104114,
+            "Title": "全方位キュン♡",
+            "TitleFurigana": "ぜんほういきゅん",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 104115,
+            "Title": "Chu! Chocolate",
+            "TitleFurigana": "ちゅちょこれいと",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 104116,
+            "Title": "ベジ・ラブ・ルー",
+            "TitleFurigana": "べじらぶるー",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 104117,
+            "Title": "おいでよ！石川大観光",
+            "TitleFurigana": "おいでよいしかわだいかんこう",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 104118,
+            "Title": "いったん",
+            "TitleFurigana": "いったん",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 104119,
+            "Title": "Dream Believers（SAKURA Ver.）",
+            "TitleFurigana": "どりーむびりーばーずさくらばーじょん",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 104120,
+            "Title": "Love it! Wonderful Trip!",
+            "TitleFurigana": "らぶいっとわんだふるとりっぷ",
+            "Description": "2年生曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 104201,
+            "Title": "ミラクルショッピング ～ドン・キホーテのテーマ～",
+            "TitleFurigana": "みらくるしょっぴんぐどんきほーてのてーま",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 104202,
+            "Title": "ルージュの伝言",
+            "TitleFurigana": "るーじゅのでんごん",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 104203,
+            "Title": "Welcome!",
+            "TitleFurigana": "うぇるかむ",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 104204,
+            "Title": "コネクト",
+            "TitleFurigana": "こねくと",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 104301,
+            "Title": "夏色えがおで1,2,Jump!",
+            "TitleFurigana": "なついろえがおでわんつーじゃんぷ",
+            "Description": "LLカバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 104302,
+            "Title": "常夏☆サンシャイン",
+            "TitleFurigana": "とこなつさんしゃいん",
+            "Description": "LLカバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 105101,
+            "Title": "Dream Believers（105期Ver.）",
+            "TitleFurigana": "どりーむびりーばーず",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 105102,
+            "Title": "Celebration!",
+            "TitleFurigana": "せれぶれいしょん",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 105103,
+            "Title": "チリコンカン",
+            "TitleFurigana": "ちりこんかん",
+            "Description": "Edel Note",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 105104,
+            "Title": "Hello, new dream!",
+            "TitleFurigana": "はろーにゅーどりーむ",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 105105,
+            "Title": "幸せのリボン",
+            "TitleFurigana": "しあわせのりぼん",
+            "Description": "ソロ曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 105106,
+            "Title": "BLAST!!",
+            "TitleFurigana": "ぶらすと",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 203101,
+            "Title": "Mix shake!!",
+            "TitleFurigana": "みっくすしぇいく",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 203102,
+            "Title": "ツキマカセ",
+            "TitleFurigana": "つきまかせ",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 203103,
+            "Title": "Holiday∞Holiday",
+            "TitleFurigana": "ほりでいほりでい",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 203104,
+            "Title": "Mirage Voyage",
+            "TitleFurigana": "みらーじゅぼやーじゅ",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 203105,
+            "Title": "夏めきペイン",
+            "TitleFurigana": "なつめきぺいん",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 203106,
+            "Title": "ド！ド！ド！",
+            "TitleFurigana": "どどど",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 203107,
+            "Title": "素顔のピクセル",
+            "TitleFurigana": "すがおのぴくせる",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 203108,
+            "Title": "ノンフィクションヒーローショー",
+            "TitleFurigana": "のんふぃくしょんひーろーしょー",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 203109,
+            "Title": "Runway",
+            "TitleFurigana": "らんうぇい",
+            "Description": "ソロ曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 203110,
+            "Title": "青春の輪郭",
+            "TitleFurigana": "せいしゅんのりんかく",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 203111,
+            "Title": "ツバサ・ラ・リベルテ",
+            "TitleFurigana": "つばさらりべるて",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 203112,
+            "Title": "天才なのかもしれない",
+            "TitleFurigana": "てんさいなのかもしれない",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 203113,
+            "Title": "Special Thanks",
+            "TitleFurigana": "すぺしゃるさんくす",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 203114,
+            "Title": "ミルク",
+            "TitleFurigana": "みるく",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 203115,
+            "Title": "Colorfulness",
+            "TitleFurigana": "からふるねす",
+            "Description": "シャッフルユニット",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 203116,
+            "Title": "BANG YOU グラビティ",
+            "TitleFurigana": "ばんゆうぐらびてぃ",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 203117,
+            "Title": "抱きしめる花びら",
+            "TitleFurigana": "だきしめるはなびら",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 203118,
+            "Title": "STEP UP !",
+            "TitleFurigana": "すてっぷあっぷ",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 203201,
+            "Title": "そばかす",
+            "TitleFurigana": "そばかす",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 203202,
+            "Title": "ビバハピ",
+            "TitleFurigana": "びばはぴ",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 203203,
+            "Title": "狙いうち",
+            "TitleFurigana": "ねらいうち",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 203204,
+            "Title": "♡桃色片想い♡",
+            "TitleFurigana": "ももいろかたおもい",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 203205,
+            "Title": "いーあるふぁんくらぶ",
+            "TitleFurigana": "いーあるふぁんくらぶ",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 203206,
+            "Title": "ハッピーシンセサイザ",
+            "TitleFurigana": "はっぴーしんせさいざ",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 203207,
+            "Title": "強風オールバック",
+            "TitleFurigana": "きょうふうおーるばっく",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 203208,
+            "Title": "CHANGE!!!!",
+            "TitleFurigana": "ちぇんじ",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 203301,
+            "Title": "僕らのLIVE 君とのLIFE",
+            "TitleFurigana": "ぼくらのらいぶきみとのらいふ",
+            "Description": "LLカバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 203302,
+            "Title": "始まりは君の空",
+            "TitleFurigana": "はじまりはきみのそら",
+            "Description": "LLカバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 204101,
+            "Title": "アイデンティティ（104期NEW Ver.）",
+            "TitleFurigana": "あいでんてぃてぃ",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 204102,
+            "Title": "Mix shake!!（104期Ver.）",
+            "TitleFurigana": "みっくすしぇいく",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 204103,
+            "Title": "ノンフィクションヒーローショー（104期Ver.）",
+            "TitleFurigana": "のんふぃくしょんひーろーしょー",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 204104,
+            "Title": "みらくりえーしょん",
+            "TitleFurigana": "みらくりえーしょん",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 204105,
+            "Title": "アオクハルカ",
+            "TitleFurigana": "あおくはるか",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 204106,
+            "Title": "Mirage Voyage（104期Ver.）",
+            "TitleFurigana": "みらーじゅぼやーじゅ",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 204107,
+            "Title": "Proof",
+            "TitleFurigana": "ぷるーふ",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 204108,
+            "Title": "夏めきペイン（104期Ver.）",
+            "TitleFurigana": "なつめきぺいん",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 204109,
+            "Title": "Holiday∞Holiday（104期Ver.）",
+            "TitleFurigana": "ほりでいほりでい",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 204110,
+            "Title": "素顔のピクセル（104期Ver.）",
+            "TitleFurigana": "すがおのぴくせる",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 204111,
+            "Title": "ド！ド！ド！（104期Ver.）",
+            "TitleFurigana": "どどど",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 204112,
+            "Title": "バアドケージ",
+            "TitleFurigana": "ばあどけーじ",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 204113,
+            "Title": "ツバサ・ラ・リベルテ（104期Ver.）",
+            "TitleFurigana": "つばさらりべるて",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 204114,
+            "Title": "青春の輪郭（104期Ver.）",
+            "TitleFurigana": "せいしゅんのりんかく",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 204115,
+            "Title": "天才なのかもしれない（104期Ver.）",
+            "TitleFurigana": "てんさいなのかもしれない",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 204116,
+            "Title": "KEY of Like！",
+            "TitleFurigana": "きーおぶらいく",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 204117,
+            "Title": "ユメワズライ",
+            "TitleFurigana": "ゆめわずらい",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 204118,
+            "Title": "レム",
+            "TitleFurigana": "れむ",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 204119,
+            "Title": "恋景色昭和ロマン",
+            "TitleFurigana": "こいげしきしょうわろまん",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 204120,
+            "Title": "いつでも、いつまでも",
+            "TitleFurigana": "いつでもいつまでも",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 204121,
+            "Title": "アステリズム",
+            "TitleFurigana": "あすてりずむ",
+            "Description": "3年生曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 204201,
+            "Title": "ビビデバ",
+            "TitleFurigana": "びびでば",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 204202,
+            "Title": "きゅうくらりん",
+            "TitleFurigana": "きゅうくらりん",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 204301,
+            "Title": "Snow halation",
+            "TitleFurigana": "すのうはれーしょん",
+            "Description": "LLカバー",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 204302,
+            "Title": "NEO SKY, NEO MAP!",
+            "TitleFurigana": "ねおすかいねおまっぷ",
+            "Description": "LLカバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 205101,
+            "Title": "WAWO!",
+            "TitleFurigana": "わお",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 205102,
+            "Title": "やっぱ天使！",
+            "TitleFurigana": "やっぱてんし",
+            "Description": "ソロ曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 205103,
+            "Title": "37.5℃のファンタジー",
+            "TitleFurigana": "ななどごぶのふぁんたじー",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 205201,
+            "Title": "輪舞-revolution",
+            "TitleFurigana": "ろんどれぼりゅーしょん",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 205202,
+            "Title": "ロミオとシンデレラ",
+            "TitleFurigana": "ろみおとしんでれら",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 205203,
+            "Title": "月光",
+            "TitleFurigana": "げっこう",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 205301,
+            "Title": "青空Jumping Heart",
+            "TitleFurigana": "あおぞらじゃんぴんぐはーと",
+            "Description": "LLカバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 303101,
+            "Title": "On your mark",
+            "TitleFurigana": "おんゆあまーく",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 303102,
+            "Title": "水彩世界",
+            "TitleFurigana": "すいさいせかい",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 303103,
+            "Title": "AWOKE",
+            "TitleFurigana": "あうぉーく",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 303104,
+            "Title": "Sparkly Spot",
+            "TitleFurigana": "すぱーくりーすぽっと",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 303105,
+            "Title": "希望的プリズム",
+            "TitleFurigana": "きぼうてきぷりずむ",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 303106,
+            "Title": "スケイプゴート",
+            "TitleFurigana": "すけいぷごーと",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 303107,
+            "Title": "DEEPNESS",
+            "TitleFurigana": "でぃーぷねす",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 303108,
+            "Title": "Tragic Drops",
+            "TitleFurigana": "とらじっくどろっぷす",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 303109,
+            "Title": "ココン東西",
+            "TitleFurigana": "ここんとうざい",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 303110,
+            "Title": "残陽",
+            "TitleFurigana": "ざんよう",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 303111,
+            "Title": "Take It Over",
+            "TitleFurigana": "ていくいっとおーばー",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 303112,
+            "Title": "KNOT",
+            "TitleFurigana": "のっと",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 303113,
+            "Title": "Trick & Cute",
+            "TitleFurigana": "とりっくあんどきゅーと",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 303114,
+            "Title": "Dear my future",
+            "TitleFurigana": "でぃあまいふゅーちゃー",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 303115,
+            "Title": "明日の空の僕たちへ",
+            "TitleFurigana": "あすのそらのぼくたちへ",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 303116,
+            "Title": "飴色",
+            "TitleFurigana": "あめいろ",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 303117,
+            "Title": "青とシャボン",
+            "TitleFurigana": "あおとしゃぼん",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 303118,
+            "Title": "Pleasure Feather",
+            "TitleFurigana": "ぷれじゃーふぇざー",
+            "Description": "シャッフルユニット",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 303119,
+            "Title": "以心☆電信",
+            "TitleFurigana": "いしんでんしん",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 303201,
+            "Title": "深愛",
+            "TitleFurigana": "しんあい",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 303202,
+            "Title": "ロストワンの号哭",
+            "TitleFurigana": "ろすとわんのごうこく",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 303203,
+            "Title": "名前のない怪物",
+            "TitleFurigana": "なまえのないかいぶつ",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 303204,
+            "Title": "ヴィラン",
+            "TitleFurigana": "ヴぃらん",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 303205,
+            "Title": "威風堂々",
+            "TitleFurigana": "いふうどうどう",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 303206,
+            "Title": "祝福",
+            "TitleFurigana": "しゅくふく",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 303207,
+            "Title": "lucky train!",
+            "TitleFurigana": "らっきーとれいん",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 304101,
+            "Title": "On your mark（104期Ver.）",
+            "TitleFurigana": "おんゆあまーく",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 304102,
+            "Title": "Reflection in the mirror（104期NEW Ver.）",
+            "TitleFurigana": "りふれくしょんいんざみらー",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 304103,
+            "Title": "ココン東西（104期Ver.）",
+            "TitleFurigana": "ここんとうざい",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 304104,
+            "Title": "Tragic Drops（104期Ver.）",
+            "TitleFurigana": "とらじっくどろっぷす",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 304105,
+            "Title": "レディバグ",
+            "TitleFurigana": "れでぃばぐ",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 304106,
+            "Title": "KNOT（104期Ver.）",
+            "TitleFurigana": "のっと",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 304107,
+            "Title": "月夜見海月",
+            "TitleFurigana": "つきよみくらげ",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 304108,
+            "Title": "以心☆電信（104期Ver.）",
+            "TitleFurigana": "いしんでんしん",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 304109,
+            "Title": "DEEPNESS（ReC Ver.）",
+            "TitleFurigana": "でぃーぷねす",
+            "Description": "102&103期曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 304110,
+            "Title": "希望的プリズム（104期Ver.）",
+            "TitleFurigana": "きぼうてきぷりずむ",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 304111,
+            "Title": "Trick & Cute（104期Ver.）",
+            "TitleFurigana": "とりっくあんどきゅーと",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 304112,
+            "Title": "Take It Over（104期Ver.）",
+            "TitleFurigana": "ていくいっとおーばー",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 304113,
+            "Title": "Now or Never",
+            "TitleFurigana": "なうおあねばー",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 304114,
+            "Title": "ジョーショーキリュー",
+            "TitleFurigana": "じょーしょーきりゅー",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 304115,
+            "Title": "AWOKE（104期Ver.）",
+            "TitleFurigana": "あうぉーく",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 304116,
+            "Title": "水彩世界（104期Ver.）",
+            "TitleFurigana": "すいさいせかい",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 304117,
+            "Title": "AURORA FLOWER",
+            "TitleFurigana": "おーろらふらわー",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 304118,
+            "Title": "ゲッカビジン",
+            "TitleFurigana": "げっかびじん",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 304119,
+            "Title": "かくれんぼしよう",
+            "TitleFurigana": "かくれんぼしよう",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 304120,
+            "Title": "COMPASS",
+            "TitleFurigana": "こんぱす",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 304121,
+            "Title": "マハラジャンボリーⅡ",
+            "TitleFurigana": "まはらじゃんぼりーつー",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 304122,
+            "Title": "恥は人生のかきすて",
+            "TitleFurigana": "はじはじんせいのかきすて",
+            "Description": "1年生曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 304201,
+            "Title": "This game",
+            "TitleFurigana": "でぃすげーむ",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 304202,
+            "Title": "STARTLINER",
+            "TitleFurigana": "すたーとらいなー",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 304203,
+            "Title": "雑踏、僕らの街",
+            "TitleFurigana": "ざっとうぼくらのまち",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 304301,
+            "Title": "Daydream Warrior",
+            "TitleFurigana": "でいどりーむうぉりあー",
+            "Description": "LLカバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 305101,
+            "Title": "Edelied",
+            "TitleFurigana": "えーでりーと",
+            "Description": "Edel Note",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 305102,
+            "Title": "アンペア",
+            "TitleFurigana": "あんぺあ",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 305103,
+            "Title": "Retrofuture",
+            "TitleFurigana": "れとろふゅーちゃー",
+            "Description": "Edel Note",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 305104,
+            "Title": "be proud",
+            "TitleFurigana": "びーぷらうど",
+            "Description": "ソロ曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 305105,
+            "Title": "アイマイメーデー",
+            "TitleFurigana": "あいまいめーでー",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 305106,
+            "Title": "十六夜セレーネ",
+            "TitleFurigana": "いざよいせれーね",
+            "Description": "Edel Note",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 305107,
+            "Title": "アイドゥーミー！",
+            "TitleFurigana": "あいどぅーみー",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 405101,
+            "Title": "天地黎明",
+            "TitleFurigana": "てんちれいめい",
+            "Description": "Edel Note",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 405102,
+            "Title": "フルーツパンチ",
+            "TitleFurigana": "ふるーつぱんち",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 405103,
+            "Title": "太陽であれ！",
+            "TitleFurigana": "たいようであれ",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 405104,
+            "Title": "とーひょー☆スター！",
+            "TitleFurigana": "とーひょーすたー",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 405105,
+            "Title": "Very! Very! COCO夏っ",
+            "TitleFurigana": "べりーべりーここなつっ",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 405106,
+            "Title": "My Lucky Clover",
+            "TitleFurigana": "まいらっきーくろーばー",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 405107,
+            "Title": "diamondz",
+            "TitleFurigana": "だいやもんず",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 405301,
+            "Title": "虹色Passions!",
+            "TitleFurigana": "にじいろぱっしょんず",
+            "Description": "LLカバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 405302,
+            "Title": "愛♡スクリ～ム！",
+            "TitleFurigana": "あいすくりーむ",
+            "Description": "LLカバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 405303,
+            "Title": "START!! True dreams",
+            "TitleFurigana": "すたーととぅるーどりーむす",
+            "Description": "LLカバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        }
+    ]
+}

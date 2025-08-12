@@ -1,0 +1,121 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "Id"
+        ]
+    },
+    "data": [
+        {
+            "Id": 1011,
+            "NameLast": "大賀美",
+            "NameFirst": "沙知",
+            "CharacterVoice": "小原 好美",
+            "Introduction": "誕生日　　　　　　身長　　\n趣味　　　　　　\n特技　　　　　　\n好きな食べ物　　\n好きな言葉　　　\n好きな教科　　　\n好きな動物　　　",
+            "DisplayFullName": ""
+        },
+        {
+            "Id": 1020,
+            "NameLast": "",
+            "NameFirst": "",
+            "CharacterVoice": "花宮初奈&佐々木琴子&月音こな",
+            "Introduction": "誕生日　　　　　　身長　　 \n趣味　　　　　　 \n特技　　　　　　 \n好きな食べ物　　 \n好きな言葉　　　 \n好きな教科　　　 \n好きな動物　　　",
+            "DisplayFullName": "乙宗 梢＆夕霧 綴理＆藤島 慈"
+        },
+        {
+            "Id": 1021,
+            "NameLast": "乙宗",
+            "NameFirst": "梢",
+            "CharacterVoice": "花宮初奈",
+            "Introduction": "蓮ノ空女学院 102期卒業生\n誕生日　　6月15日　　　　身長　　167cm\n趣味　　　　　　天体観測、音楽鑑賞、お茶菓子作り\n特技　　　　　　クラシックバレエ、筋トレ\n好きな食べ物　　紅茶、湯豆腐\n好きな言葉　　　立てば芍薬、座れば牡丹、歩く姿は百合の花\n好きな教科　　　美術、世界史\n好きな動物　　　猫",
+            "DisplayFullName": ""
+        },
+        {
+            "Id": 1022,
+            "NameLast": "夕霧",
+            "NameFirst": "綴理",
+            "CharacterVoice": "佐々木琴子",
+            "Introduction": "蓮ノ空女学院 102期卒業生\n誕生日　　11月17日　　　　身長　　171cm\n趣味　　　　　　うごくものをながめる、誰かの話を聞くこと\n特技　　　　　　寝るまでの速さは自慢\n好きな食べ物　　チョコのケーキ、まねっこドーブツ\n好きな言葉　　　和気あいあい\n好きな教科　　　数学\n好きな動物　　　あったかい生き物",
+            "DisplayFullName": ""
+        },
+        {
+            "Id": 1023,
+            "NameLast": "藤島",
+            "NameFirst": "慈",
+            "CharacterVoice": "月音こな",
+            "Introduction": "蓮ノ空女学院 102期卒業生\n誕生日　　12月20日　　　　身長　　160cm\n趣味　　　　　　配信、編集作業（地味だけど大事！）\n特技　　　　　　女の子の絵を描くこと、アクセサリー作り、作詞\n好きな食べ物　　最中（こしあん）、ねぎとろ\n好きな言葉　　　好きこそ物の上手なれ\n好きな教科　　　勉強なんて将来の役に立たないからいいんだよ\n好きな動物　　　シェパード",
+            "DisplayFullName": ""
+        },
+        {
+            "Id": 1031,
+            "NameLast": "日野下",
+            "NameFirst": "花帆",
+            "CharacterVoice": "楡井希実",
+            "Introduction": "誕生日　　5月22日　　　　身長　　155cm\n趣味　　　　　　カラオケ、読書\n特技　　　　　　食べ物の好き嫌いがない、紅茶を淹れること\n好きな食べ物　　りんご、ハントンライス\n好きな言葉　　　なんにでも全力！\n好きな教科　　　体育と音楽、かな！\n好きな動物　　　動物全般、とくにうさぎ！",
+            "DisplayFullName": ""
+        },
+        {
+            "Id": 1032,
+            "NameLast": "村野",
+            "NameFirst": "さやか",
+            "CharacterVoice": "野中ここな",
+            "Introduction": "誕生日　　1月13日　　　　身長　　157cm\n趣味　　　　　　お弁当作り、お弁当研究\n　　　　　　　　（市販物や駅弁のチェック）\n特技　　　　　　計画を立てて物事を進める\n好きな食べ物　　味付け海苔、濃い目に淹れたお茶\n好きな言葉　　　心堅石穿\n好きな教科　　　現代文、数学\n好きな動物　　　レッサーパンダ",
+            "DisplayFullName": ""
+        },
+        {
+            "Id": 1033,
+            "NameLast": "大沢",
+            "NameFirst": "瑠璃乃",
+            "CharacterVoice": "菅 叶和",
+            "Introduction": "誕生日　　8月31日　　　　身長　　151cm\n趣味　　　　　　釣り、カラオケ、バッティングセンター、配信\n特技　　　　　　どんなことでも楽しめる！\n好きな食べ物　　タピオカ！ 琥珀糖！\n好きな言葉　　　その道に入らんと思ふ心こそ、\n　　　　　　　　我身ながらの師匠なりけれ\n好きな教科　　　美術、音楽\n好きな動物　　　チャウチャウ、おっきいクマ",
+            "DisplayFullName": ""
+        },
+        {
+            "Id": 1041,
+            "NameLast": "百生",
+            "NameFirst": "吟子",
+            "CharacterVoice": "櫻井陽菜",
+            "Introduction": "誕生日　　10月20日　　　　身長　　162cm\n趣味　　　　　　和装、神社仏閣や喫茶店を巡ること\n特技　　　　　　加賀繍、日本舞踊\n好きな食べ物　　コーヒー、和菓子、いなり寿司\n好きな言葉　　　千里の道も一歩から、花鳥風月\n好きな教科　　　古文、日本史、家庭科\n好きな動物　　　きつね、たぬき、鶴と亀",
+            "DisplayFullName": ""
+        },
+        {
+            "Id": 1042,
+            "NameLast": "徒町",
+            "NameFirst": "小鈴",
+            "CharacterVoice": "葉山風花",
+            "Introduction": "誕生日　　2月28日　　　　身長　　152cm\n趣味　　　　　　文房具集め\n特技　　　　　　ひとの長所を見つけること！\n好きな食べ物　　駄菓子のラムネ\n好きな言葉　　　石の上にも三年\n好きな教科　　　図画工作！\n好きな動物　　　デッカい恐竜",
+            "DisplayFullName": ""
+        },
+        {
+            "Id": 1043,
+            "NameLast": "安養寺",
+            "NameFirst": "姫芽",
+            "CharacterVoice": "来栖りん",
+            "Introduction": "誕生日　　9月24日　　　　身長　　160cm\n趣味　　　　　　ゲームとその布教\n特技　　　　　　ゲーム、動画配信、早食い\n好きな食べ物　　甘くて可愛いもの\n好きな言葉　　　楽しいが一番！、対戦相手は敵役の仲間、\n　　　　　　　　ggwp、<3\n好きな教科　　　全教科イーブン\n好きな動物　　　ウミウシ、アルマジロトカゲ、変な生き物",
+            "DisplayFullName": ""
+        },
+        {
+            "Id": 1044,
+            "NameLast": "",
+            "NameFirst": "",
+            "CharacterVoice": "進藤あまね&三宅美羽",
+            "Introduction": "誕生日　　　　　　身長　　 \n趣味　　　　　　 \n特技　　　　　　 \n好きな食べ物　　 \n好きな言葉　　　 \n好きな教科　　　 \n好きな動物　　　",
+            "DisplayFullName": "桂城 泉＆セラス 柳田 リリエンフェルト"
+        },
+        {
+            "Id": 1051,
+            "NameLast": "桂城",
+            "NameFirst": "泉",
+            "CharacterVoice": "進藤あまね",
+            "Introduction": "誕生日　　12月1日　　　　身長　　170cm\n趣味　　　　　　体を動かすこと、人間観察\n特技　　　　　　スポーツ全般、特に短距離走\n好きな食べ物　　イタリア料理、ハンバーガー、牛丼\n好きな言葉　　　逢うは別れの始め\n好きな教科　　　体育、数学\n好きな動物　　　虎、ウサギ",
+            "DisplayFullName": ""
+        },
+        {
+            "Id": 1052,
+            "NameLast": "",
+            "NameFirst": "セラス",
+            "CharacterVoice": "三宅美羽",
+            "Introduction": "誕生日　　6月26日　　　　身長　　153cm\n趣味　　　　　　ホラー映画、ヴァイオリンを弾くこと\n特技　　　　　　モノマネ、暇つぶし\n好きな食べ物　　パフェ、ギョウザ、キャラメル味のもの、\n　　　　　　　　とうもろこし\n好きな言葉　　　よい花は後から\n好きな教科　　　国語、美術\n好きな動物　　　ラッコ",
+            "DisplayFullName": "セラス 柳田 リリエンフェルト"
+        }
+    ]
+}

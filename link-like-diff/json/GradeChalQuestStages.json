@@ -1,0 +1,153 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "Id"
+        ]
+    },
+    "data": [
+        {
+            "Id": 1040101,
+            "Name": "Grade Challenge Stage A"
+        },
+        {
+            "Id": 1040102,
+            "Name": "Grade Challenge Stage B"
+        },
+        {
+            "Id": 1040103,
+            "Name": "Grade Challenge Stage C"
+        },
+        {
+            "Id": 1040201,
+            "Name": "Grade Challenge Stage A"
+        },
+        {
+            "Id": 1040202,
+            "Name": "Grade Challenge Stage B"
+        },
+        {
+            "Id": 1040203,
+            "Name": "Grade Challenge Stage C"
+        },
+        {
+            "Id": 1040301,
+            "Name": "Grade Challenge Stage A"
+        },
+        {
+            "Id": 1040302,
+            "Name": "Grade Challenge Stage B"
+        },
+        {
+            "Id": 1040303,
+            "Name": "Grade Challenge Stage C"
+        },
+        {
+            "Id": 1040401,
+            "Name": "Grade Challenge Stage A"
+        },
+        {
+            "Id": 1040402,
+            "Name": "Grade Challenge Stage B"
+        },
+        {
+            "Id": 1040403,
+            "Name": "Grade Challenge Stage C"
+        },
+        {
+            "Id": 1040501,
+            "Name": "Grade Challenge Stage A"
+        },
+        {
+            "Id": 1040502,
+            "Name": "Grade Challenge Stage B"
+        },
+        {
+            "Id": 1040503,
+            "Name": "Grade Challenge Stage C"
+        },
+        {
+            "Id": 1040601,
+            "Name": "Grade Challenge Stage A"
+        },
+        {
+            "Id": 1040602,
+            "Name": "Grade Challenge Stage B"
+        },
+        {
+            "Id": 1040603,
+            "Name": "Grade Challenge Stage C"
+        },
+        {
+            "Id": 1040701,
+            "Name": "Grade Challenge Stage A"
+        },
+        {
+            "Id": 1040702,
+            "Name": "Grade Challenge Stage B"
+        },
+        {
+            "Id": 1040703,
+            "Name": "Grade Challenge Stage C"
+        },
+        {
+            "Id": 1040801,
+            "Name": "Grade Challenge Stage A"
+        },
+        {
+            "Id": 1040802,
+            "Name": "Grade Challenge Stage B"
+        },
+        {
+            "Id": 1040803,
+            "Name": "Grade Challenge Stage C"
+        },
+        {
+            "Id": 1040901,
+            "Name": "Grade Challenge Stage A"
+        },
+        {
+            "Id": 1040902,
+            "Name": "Grade Challenge Stage B"
+        },
+        {
+            "Id": 1040903,
+            "Name": "Grade Challenge Stage C"
+        },
+        {
+            "Id": 1041001,
+            "Name": "Grade Challenge Stage A"
+        },
+        {
+            "Id": 1041002,
+            "Name": "Grade Challenge Stage B"
+        },
+        {
+            "Id": 1041003,
+            "Name": "Grade Challenge Stage C"
+        },
+        {
+            "Id": 1041101,
+            "Name": "Grade Challenge Stage A"
+        },
+        {
+            "Id": 1041102,
+            "Name": "Grade Challenge Stage B"
+        },
+        {
+            "Id": 1041103,
+            "Name": "Grade Challenge Stage C"
+        },
+        {
+            "Id": 1041201,
+            "Name": "Grade Challenge Stage A"
+        },
+        {
+            "Id": 1041202,
+            "Name": "Grade Challenge Stage B"
+        },
+        {
+            "Id": 1041203,
+            "Name": "Grade Challenge Stage C"
+        }
+    ]
+}

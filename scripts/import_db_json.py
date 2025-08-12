@@ -108,6 +108,6 @@ def main(base_dir, translated_dir, output_dir="merged"):
 
 if __name__ == "__main__":
     main(
-        base_dir=input("源json文件夹: ") or "gakumasu-diff/json",
+        base_dir=input("源json文件夹: ") or "link-like-diff/json",
         translated_dir=input("预翻译完成文件夹: ") or "pretranslate_todo/translated_out"
     )

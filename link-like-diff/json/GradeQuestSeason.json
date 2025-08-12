@@ -1,0 +1,57 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "Id"
+        ]
+    },
+    "data": [
+        {
+            "Id": 1031,
+            "Name": "103期SPRING"
+        },
+        {
+            "Id": 1032,
+            "Name": "103期SUMMER"
+        },
+        {
+            "Id": 1033,
+            "Name": "103期AUTUMN"
+        },
+        {
+            "Id": 1034,
+            "Name": "103期WINTER"
+        },
+        {
+            "Id": 1035,
+            "Name": "103期GRADUATION"
+        },
+        {
+            "Id": 1041,
+            "Name": "104期SPRING"
+        },
+        {
+            "Id": 1042,
+            "Name": "104期SUMMER"
+        },
+        {
+            "Id": 1043,
+            "Name": "104期AUTUMN"
+        },
+        {
+            "Id": 1044,
+            "Name": "104期WINTER"
+        },
+        {
+            "Id": 1045,
+            "Name": "104期GRADUATION"
+        },
+        {
+            "Id": 1051,
+            "Name": "105期SPRING"
+        },
+        {
+            "Id": 1052,
+            "Name": "105期SUMMER"
+        }
+    ]
+}

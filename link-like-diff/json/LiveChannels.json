@@ -1,0 +1,34 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "Id"
+        ]
+    },
+    "data": [
+        {
+            "Id": 100,
+            "Name": "蓮ノ空女学院スクールアイドルクラブ",
+            "Description": "蓮ノ空女学院スクールアイドルクラブの全体チャンネルです。"
+        },
+        {
+            "Id": 101,
+            "Name": "スリーズブーケ",
+            "Description": "スリーズブーケのライブ配信チャンネルです。"
+        },
+        {
+            "Id": 102,
+            "Name": "DOLLCHESTRA",
+            "Description": "DOLLCHESTRAのライブ配信チャンネルです。"
+        },
+        {
+            "Id": 103,
+            "Name": "みらくらぱーく！",
+            "Description": "みらくらぱーく！のライブ配信チャンネルです。"
+        },
+        {
+            "Id": 105,
+            "Name": "Edel Note",
+            "Description": "Edel Noteのライブ配信チャンネルです。"
+        }
+    ]
+}
