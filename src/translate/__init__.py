@@ -11,14 +11,14 @@ prompt_module_map = {
     I18nLanguage.ZH_CN: zh_cn
 }
 
-def translate_file(api_client: anthropic.Anthropic, file: Path, target_language: I18nLanguage, chunk_size: int = 100) -> None:
+def translate_file(api_client: anthropic.Anthropic, file: Path, target_language: I18nLanguage, chunk_size: int = 24) -> None:
     """
     Translate a file containing text entries to the specified language with chunked processing.
     
     Args:
         file: Path to the input file containing text entries
         target_language: Target language for translation
-        chunk_size: Number of texts to process in each chunk (default: 100)
+        chunk_size: Number of texts to process in each chunk (default: 24)
     """
     prompt_module = prompt_module_map.get(target_language)
     if not prompt_module:

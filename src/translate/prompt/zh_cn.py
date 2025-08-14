@@ -14,7 +14,12 @@ glossary = {
     # hasu
     "蓮ノ空": "莲之空",
     "スクールアイドル": "学园偶像",
-    "ラブライブ！": "Love Live!"
+    "ラブライブ！": "Love Live!",
+    "スリーズブーケ": "Ceriese Bouquet",
+    "DOLLCHESTRA": "DOLLCHESTRA",
+    "みらくらぱーく！": "Mira-Cra Park!",
+    # game
+    "ボルテージ": "Voltage"
 }
 glossary_entries = '\n'.join([f"- {k} - {v}" for k, v in glossary.items()])
 
