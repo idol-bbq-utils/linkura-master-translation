@@ -1,0 +1,912 @@
+[
+  {
+    "raw": "DOLLCHESTRAに所属するメンバーのアピール値が150％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "DOLLCHESTRAに所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "DOLLCHESTRAに所属するメンバーのアピール値が200％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "Edel Noteに所属するメンバーのアピール値が150％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "Edel Noteに所属するメンバーのアピール値が200％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "みらくらぱーく！に所属するメンバーのアピール値が150％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "みらくらぱーく！に所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "みらくらぱーく！に所属するメンバーのアピール値が200％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ&APレデュース",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ&APレデュース&CTレデュース",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ（DOLLCHESTRA）",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ（DOLLCHESTRA）&APレデュース&CTレデュース",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ（Edel Note）",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ（みらくらぱーく！）",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ（みらくらぱーく！）&APレデュース&CTレデュース",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ（スリーズブーケ）",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ（スリーズブーケ）&APレデュース&CTレデュース",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ（セラス）",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ（セラス）&APレデュース&CTレデュース",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ（乙宗梢）",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ（夕霧綴理）",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ（大沢瑠璃乃）",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ（大沢瑠璃乃）&APレデュース&CTレデュース",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ（安養寺姫芽）",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ（安養寺姫芽）&APレデュース&CTレデュース",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ（徒町小鈴）",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ（徒町小鈴）&APレデュース&CTレデュース",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ（日野下花帆）",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ（日野下花帆）&APレデュース&CTレデュース",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ（村野さやか）",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ（村野さやか）&APレデュース&CTレデュース",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ（桂城泉）&APレデュース&CTレデュース",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ（百生吟子）",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ（百生吟子）&APレデュース&CTレデュース",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アピールアップ（藤島慈）",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "スリーズブーケに所属するメンバーのアピール値が150％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "スリーズブーケに所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "スリーズブーケに所属するメンバーのアピール値が200％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "セラスのアピール値が320％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "セラスのアピール値が400％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "乙宗梢のアピール値が400％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "乙宗梢／夕霧綴理／藤島慈のアピール値が200%上昇／全てのスキルの消費APが2減少",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "乙宗梢／夕霧綴理／藤島慈のアピール値が200％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "乙宗梢／夕霧綴理／藤島慈のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "乙宗梢／夕霧綴理／藤島慈のアピール値が200％上昇／全てのスキルの消費APが2減少",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "全メンバーのアピール値が40％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "全メンバーのアピール値が54％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "全メンバーのアピール値が60％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "全メンバーのアピール値が72％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "全メンバーのアピール値が80％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "夕霧綴理のアピール値が400％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "大沢瑠璃乃のアピール値が320％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "大沢瑠璃乃のアピール値が400％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "安養寺姫芽のアピール値が320％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "安養寺姫芽のアピール値が400％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "徒町小鈴のアピール値が320％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "徒町小鈴のアピール値が400％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "日野下花帆のアピール値が320％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "日野下花帆のアピール値が400％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "日野下花帆／村野さやか／大沢瑠璃乃のアピール値が200％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "日野下花帆／村野さやか／大沢瑠璃乃のアピール値が200％上昇／全てのスキルの消費APが2減少",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "村野さやかのアピール値が320％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "村野さやかのアピール値が400％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "桂城泉のアピール値が320％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "百生吟子のアピール値が320％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "百生吟子のアピール値が400％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "百生吟子／徒町小鈴／安養寺姫芽のアピール値が200%上昇／全てのスキルの消費APが2減少",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "百生吟子／徒町小鈴／安養寺姫芽のアピール値が200％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "藤島慈のアピール値が400％上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  }
+]

@@ -1,0 +1,743 @@
+[
+  {
+    "raw": "イベント_1",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "イベント_2",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "イベント_3",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ガチャ_1",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ガチャ_2",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ガチャ_3",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ガチャ_4",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ガチャ_5",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "クエストライブTOP_1",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "クエストライブ_1",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "クエストライブ_2",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "クエストライブ_3",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "クエストライブ_4",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "クエストライブ_5",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "グレードチャレンジ_1",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "グレードチャレンジ_2",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "グレードチャレンジ_3",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "グレードチャレンジ_4",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "スクールアイドルコネクト_1",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "スクールアイドルコネクト_10",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "スクールアイドルコネクト_2",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "スクールアイドルコネクト_3",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "スクールアイドルコネクト_4",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "スクールアイドルコネクト_5",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "スクールアイドルコネクト_6",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "スクールアイドルコネクト_7",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "スクールアイドルコネクト_8",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "スクールアイドルコネクト_9",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "スクールアイドルステージ_1",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "スクールアイドルステージ_2",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "スクールアイドルステージ_3",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "デイリーライブ_1",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "デイリーライブ_2",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ドリームライブ_1",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ホーム_1",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ホーム_2",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ホーム_3",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ライブグランプリサークル戦_1",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ライブグランプリサークル戦_2",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ライブグランプリサークル戦_3",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ライブグランプリサークル戦_4",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ライブグランプリサークル戦_5",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ライブグランプリ個人戦_1",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ラーニングライブ_1",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "活動記録_1",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "活動記録_2",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "編成_1",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "編成_2",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "編成_3",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "編成_4",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "編成_5",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "編成_6",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "育成_1",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "育成_2",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "育成_3",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "育成_4",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "育成_5",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  }
+]

@@ -1,0 +1,1835 @@
+[
+  {
+    "raw": "102期生、103期生のスキル消費APを+2する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "102期生のスキルのAPを-2する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "102期生のスキル消費APを-1する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "103期生のスキルのAPを-2する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "103期生のスキル消費APを-1する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "104期生のスキル消費APを-1する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "104期生のスキル消費APを-2する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "AP2以下のスキルのAPを+2、AP5以上のスキルのAPを-2する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "AP3以下のスキルのAPを+2、AP6以上のスキルのAPを-2する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "AP4以上のスキルのAPを-2する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "AP4以上の消費APを-3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "AP5以上のスキルのAPを-3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "AP6以上のスキルのAPを-4する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "APの回復速度を+100%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "APの回復速度を+25%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "APの回復速度を+50%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "APの回復速度を-25%し、APを+5する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "APの回復速度を-25%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "APの回復速度を-50%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "APの回復速度を-9999%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "APを+10する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "APを+1する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "APを+20する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "APを+2する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "APを+5する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "APを+7する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "APを-10する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "APを-20する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "APを-5する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "APを0にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "BPの値を+10する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "BPの値を+1する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "BPの値を+20する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "BPの値を+2する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "BPの値を+5する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "さやかの消費APを-2する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "さやかの消費APを-3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "さやかの消費APを-9する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "スキルハート獲得数を+100%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "スキルハート獲得数を+40%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "スキルハート獲得数を+50%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "セクション開始時に手札を捨てて引き直し、吟子の消費APを-3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "セクション開始時に手札を捨てて引き直す。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ボルテージLv.を2倍にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を-50する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を50%増加。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ボルテージの上昇速度を+25%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ボルテージの上昇速度を+50%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ボルテージの上昇速度を-50%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ボルテージを+150する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ボルテージを+300する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ボルテージを+30する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ボルテージを+45する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ボルテージを-150する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ボルテージを-300する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ムード値を100%増加させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ムード値を20%増加させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ムード値を50%増加させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ムード値をハッピー方向に+25する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ムード値をハッピー方向に+50する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ムード値をハッピー方向に+75する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ムード値をメロウ方向に+25する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ムード値をメロウ方向に+30する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ムード値をメロウ方向に+50する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ムード値をメロウ方向に+75する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メイン効果がアトラクト効果のスキルの消費APを-3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メイン効果がアトラクト効果のスキルの消費APを-4する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メイン効果がハート上限変動のスキルの消費APを-3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メイン効果がハート獲得のスキルの消費APを-1する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メイン効果がハート獲得のスキルの消費APを-4する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メイン効果がボルテージ増加のスキルの消費APを-1する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メイン効果がボルテージ増加のスキルの消費APを-2する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メイン効果がボルテージ増加のスキルの消費APを-3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メイン効果がムード値変動のスキルの消費APを-3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メイン効果がメンタルプロテクトのスキルの消費APを-5する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メイン効果がリシャッフルのスキルの消費APを-1する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メンタルの減少速度を-25%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メンタルの減少速度を-35%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メンタルの減少速度を-50%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メンタルの減少速度を100%増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メンタルの減少速度を50%増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メンタルを現在値の10%回復させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メンタルを現在値の10%減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メンタルを現在値の15%回復させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メンタルを現在値の20%減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メンタルを現在値の25%回復させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メンタルを現在値の40%減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メンタルを現在値の50%減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メンタルを現在値の75%減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メンタルを現在値の90%減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "メンタル減少速度100%増加、メイン効果メンタル回復スキルAP-3",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "吟子の消費APを-3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "姫芽が《イグニッションモード》になる。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "姫芽の《イグニッションモード》の状態を切り替える。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "姫芽の消費APを-3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "小鈴の消費APを-3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "慈、瑠璃乃の消費APを-3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "慈、花帆の消費APを-3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "慈の消費APを-2する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "慈の消費APを-3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "手札の上限枚数を1枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "手札の上限枚数を2枚増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "手札の上限枚数を2枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "手札の上限枚数を3枚増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "手札の上限枚数を3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "手札を捨てて引き直し、APを+5する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "手札を捨てて引き直し、APを-20する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "手札を捨てて引き直し、APを0にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "手札を捨てて引き直し、ボルテージを+45する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "手札を捨てて引き直し、メンタルを現在値の40%減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "最初に引くスキルがさやかのスキルになる。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "最初に引くスキルがセラスのスキルになる。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "最初に引くスキルが吟子のスキルになる。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "最初に引くスキルが姫芽のスキルになる。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "最初に引くスキルが小鈴のスキルになる。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "最初に引くスキルが慈のスキルになる。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "最初に引くスキルが梢のスキルになる。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "最初に引くスキルが泉のスキルになる。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "最初に引くスキルが瑠璃乃のスキルになる。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "最初に引くスキルが綴理のスキルになる。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "最初に引くスキルが花帆のスキルになる。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "梢、さやかの消費APを-3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "梢、綴理、花帆、さやかのスキル消費APを-2する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "梢、花帆の消費APを-3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "梢の消費APを-2する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "梢の消費APを-3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "梢の消費APを-9する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "消費APを+1する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "消費APを+2する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "消費APを-1する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "消費APを-2する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "消費APを-3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "瑠璃乃の消費APを-3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "綴理、さやかの消費APを-3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "綴理、瑠璃乃の消費APを-3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "綴理の消費APを-2する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "綴理の消費APを-3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "綴理の消費APを-9する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "花帆の消費APを-2する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "花帆の消費APを-3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "花帆の消費APを-9する。",
+    "translation": {
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  }
+]
