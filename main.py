@@ -3,6 +3,8 @@ import sys
 from pathlib import Path
 from src.generate import analyze
 from src.model.localization import I18nLanguage
+from src.translate import translate_file, claude
+import os
 
 i18n = [lang.value for lang in I18nLanguage]
 OUTPUT_DIR = Path("data")
@@ -33,7 +35,9 @@ def command_translate(args):
 
     And user also can translated by handmade
     """
-    print("TODO")
+    if args.file:
+        client = claude.setup_client(os.environ["ANTHROPIC_API_KEY"], os.environ["ANTHROPIC_BASE_URL"])
+        translate_file(client, Path(args.file), I18nLanguage.ZH_CN)
     return 0
 
 def command_generate(args):
@@ -84,8 +88,8 @@ def main():
         help='Translation tool, providing basic large model API translation interface',
     )
     parser_translate.add_argument(
-        '--about', '-a',
-        help='Example for sub args'
+        '--file', '-f',
+        help='Path to the input file containing text to translate'
     )
     parser_translate.set_defaults(func=command_translate)
     
