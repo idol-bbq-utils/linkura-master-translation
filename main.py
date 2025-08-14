@@ -37,7 +37,8 @@ def command_translate(args):
     """
     if args.file:
         client = claude.setup_client(os.environ["ANTHROPIC_API_KEY"], os.environ["ANTHROPIC_BASE_URL"])
-        translate_file(client, Path(args.file), I18nLanguage.ZH_CN)
+        limit = args.limit if hasattr(args, 'limit') and args.limit else None
+        translate_file(client, Path(args.file), I18nLanguage.ZH_CN, limit=limit)
     return 0
 
 def command_generate(args):
@@ -90,6 +91,11 @@ def main():
     parser_translate.add_argument(
         '--file', '-f',
         help='Path to the input file containing text to translate'
+    )
+    parser_translate.add_argument(
+        '--limit',
+        type=int,
+        help='Maximum number of items to translate (default: translate all untranslated items)'
     )
     parser_translate.set_defaults(func=command_translate)
     

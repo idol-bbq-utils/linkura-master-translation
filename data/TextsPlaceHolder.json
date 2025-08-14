@@ -3,8 +3,8 @@
     "raw": "- Link-Like System -\\n今日も素敵なスクールアイドル応援ライフを。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "- Link-Like System -\\n今日也要度过美好的学园偶像应援生活。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -16,8 +16,8 @@
     "raw": "A Rankチケットでアーカイブを再生します。\\nよろしいですか？\\n（チケットランクによって使用できるビューが異なります）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "使用A Rank门票播放档案。\\n确定吗？\\n（根据门票等级可使用的视角会有所不同）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -29,8 +29,8 @@
     "raw": "B Rankチケットでアーカイブを再生します。\\nよろしいですか？\\n（チケットランクによって使用できるビューが異なります）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "使用B Rank门票播放档案。\\n确定吗？\\n（根据门票等级可使用的视角会有所不同）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -42,8 +42,8 @@
     "raw": "C Rankチケットでアーカイブを再生します。\\nよろしいですか？\\n（チケットランクによって使用できるビューが異なります）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "使用C Rank门票播放档案。\\n确定吗？\\n（根据门票等级可使用的视角会有所不同）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -55,8 +55,8 @@
     "raw": "D Rankチケットでアーカイブを再生します。\\nよろしいですか？\\n（チケットランクによって使用できるビューが異なります）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "使用D Rank门票播放档案。\\n确定吗？\\n（根据门票等级可使用的视角会有所不同）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -68,8 +68,8 @@
     "raw": "E Rankチケットでアーカイブを再生します。\\nよろしいですか？\\n（チケットランクによって使用できるビューが異なります）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "使用E Rank门票播放档案。\\n确定吗？\\n（根据门票等级可使用的视角会有所不同）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -81,8 +81,8 @@
     "raw": "S Rankチケットでアーカイブを再生します。\\nよろしいですか？\\n（チケットランクによって使用できるビューが異なります）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "使用S Rank门票播放档案。\\n确定吗？\\n（根据门票等级可使用的视角会有所不同）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -94,8 +94,8 @@
     "raw": "アーカイブを再生します。\\nよろしいですか？",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "播放档案。\\n确定吗？",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -107,8 +107,8 @@
     "raw": "ガチャの開催期間が終了しています。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "抽卡活动已结束。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -120,8 +120,8 @@
     "raw": "クイックマニュアル",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "快速手册",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -133,8 +133,8 @@
     "raw": "ゲストチケットでアーカイブを再生します。\\nよろしいですか？\\n（チケットランクによって使用できるビューが異なります）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "使用访客门票播放档案。\\n确定吗？\\n（根据门票等级可使用的视角会有所不同）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -146,8 +146,8 @@
     "raw": "以下のプライズおよび順位ステッカー・Grade Pt.は\\n{0}終了後、ユーザーに順次配布されます。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "以下奖品以及排名贴纸・Grade Pt.将在\\n{0}结束后陆续发放给用户。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -159,8 +159,8 @@
     "raw": "後日のアップデートで解放されます。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将在之后的更新中开放。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",

@@ -3,8 +3,8 @@
     "raw": "アイテム獲得数増加",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "道具获得数量增加",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -16,8 +16,8 @@
     "raw": "スタイルPt.獲得数増加",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "经验值.获得数量增加",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -29,8 +29,8 @@
     "raw": "デイリーライブ開放",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "每日Live开放",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -42,8 +42,8 @@
     "raw": "期間中、デイリーライブでチャームが追加で獲得できる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "活动期间，每日Live可额外获得魅力值。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -55,8 +55,8 @@
     "raw": "期間中、デイリーライブでペタルコインが追加で獲得できる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "活动期间，每日Live可额外获得花瓣币。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -68,8 +68,8 @@
     "raw": "期間中、デイリーライブで技能書が追加で獲得できる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "活动期间，每日Live可额外获得技能书。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -81,8 +81,8 @@
     "raw": "期間中、デイリーライブで獲得できるアイテムの個数が1.5倍に増加。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "活动期间，每日Live可获得的道具个数增加1.5倍。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -94,8 +94,8 @@
     "raw": "期間中、デイリーライブで獲得できるアイテムの個数が2倍に増加。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "活动期间，每日Live可获得的道具个数增加2倍。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -107,8 +107,8 @@
     "raw": "期間中、デイリーライブで獲得できるスタイルPt.の量が1.5倍に増加。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "活动期间，每日Live可获得的经验值.数量增加1.5倍。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -120,8 +120,8 @@
     "raw": "期間中、デイリーライブで獲得できるスタイルPt.の量が2倍に増加。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "活动期间，每日Live可获得的经验值.数量增加2倍。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -133,8 +133,8 @@
     "raw": "期間中、デイリーライブで獲得できる証アイテムの個数が1.5倍に増加。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "活动期间，每日Live可获得的证明道具个数增加1.5倍。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -146,8 +146,8 @@
     "raw": "期間中、ラーニングライブの習得度の上昇量が1.5倍に増加。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "活动期间，学习Live的习得度上升量增加1.5倍。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -159,8 +159,8 @@
     "raw": "期間中、ラーニングライブの習得度の上昇量が2倍に増加。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "活动期间，学习Live的习得度上升量增加2倍。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -172,8 +172,8 @@
     "raw": "期間中、曜日に関わらず全てのデイリーライブに挑戦可能。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "活动期间，无论星期几都可以挑战所有每日Live。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -185,8 +185,8 @@
     "raw": "獲得アイテム追加",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得道具追加",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -198,8 +198,8 @@
     "raw": "習得度の上昇量増加",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "习得度上升量增加",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -211,8 +211,8 @@
     "raw": "証アイテム獲得数増加",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "证明道具获得数量增加",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",

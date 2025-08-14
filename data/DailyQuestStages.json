@@ -3,8 +3,8 @@
     "raw": "LOVEを獲得するためのセクション効果が豊富なライブ。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "拥有丰富区间效果的演出，用于获得LOVE。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -16,8 +16,8 @@
     "raw": "スタイルPt.クエストI",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "经验值.任务I",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -29,8 +29,8 @@
     "raw": "スタイルPt.クエストII",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "经验值.任务II",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -42,8 +42,8 @@
     "raw": "スタイルPt.クエストIII",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "经验值.任务III",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -55,8 +55,8 @@
     "raw": "スタイルPt.クエストIV",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "经验值.任务IV",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -68,8 +68,8 @@
     "raw": "スタイルPt.クエストV",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "经验值.任务V",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -81,8 +81,8 @@
     "raw": "チアリーダークエストI",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Cheer Leader任务I",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -94,8 +94,8 @@
     "raw": "チアリーダークエストII",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Cheer Leader任务II",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -107,8 +107,8 @@
     "raw": "チアリーダークエストIII",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Cheer Leader任务III",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -120,8 +120,8 @@
     "raw": "チアリーダークエストIV",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Cheer Leader任务IV",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -133,8 +133,8 @@
     "raw": "チアリーダークエストV",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Cheer Leader任务V",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -146,8 +146,8 @@
     "raw": "トリックスタークエストI",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Trickster任务I",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -159,8 +159,8 @@
     "raw": "トリックスタークエストII",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Trickster任务II",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -172,8 +172,8 @@
     "raw": "トリックスタークエストIII",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Trickster任务III",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -185,8 +185,8 @@
     "raw": "トリックスタークエストIV",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Trickster任务IV",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -198,8 +198,8 @@
     "raw": "トリックスタークエストV",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Trickster任务V",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -211,8 +211,8 @@
     "raw": "パフォーマークエストI",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Performer任务I",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -224,8 +224,8 @@
     "raw": "パフォーマークエストII",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Performer任务II",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -237,8 +237,8 @@
     "raw": "パフォーマークエストIII",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Performer任务III",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -250,8 +250,8 @@
     "raw": "パフォーマークエストIV",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Performer任务IV",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -263,8 +263,8 @@
     "raw": "パフォーマークエストV",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Performer任务V",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -276,8 +276,8 @@
     "raw": "ムードメーカークエストI",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mood Maker任务I",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -289,8 +289,8 @@
     "raw": "ムードメーカークエストII",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mood Maker任务II",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -302,8 +302,8 @@
     "raw": "ムードメーカークエストIII",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mood Maker任务III",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -315,8 +315,8 @@
     "raw": "ムードメーカークエストIV",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mood Maker任务IV",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -328,8 +328,8 @@
     "raw": "ムードメーカークエストV",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mood Maker任务V",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -341,8 +341,8 @@
     "raw": "手札交換のセクション効果に注意。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "注意手牌交换的区间效果。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -354,8 +354,8 @@
     "raw": "手札交換を多用して、状況に合わせたスキルを使おう。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "多使用手牌交换，根据情况使用技能。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -367,8 +367,8 @@
     "raw": "積極的にスキルを使ってLOVEを獲得しよう。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "积极使用技能来获得LOVE。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -380,8 +380,8 @@
     "raw": "総合力が試されるライブ。ベストな編成で挑もう。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "考验综合实力的Live。用最佳编成来挑战吧。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",

@@ -3,8 +3,8 @@
     "raw": "1プレイの間にスキルを合計7回発動させよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在1次游戏中累计发动7次技能",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -16,8 +16,8 @@
     "raw": "1プレイの間にボルテージLv.を8以上にしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在1次游戏中将Voltage Lv.提升至8以上",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -29,8 +29,8 @@
     "raw": "1回特訓しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "进行1次特训",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -42,8 +42,8 @@
     "raw": "2023 April 第1話『花咲きたい！』PART1を読もう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "阅读2023 April 第1话『想要绽放！』PART1",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -55,8 +55,8 @@
     "raw": "2023 April 第1話『花咲きたい！』PART2を読もう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "阅读2023 April 第1话『想要绽放！』PART2",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -68,8 +68,8 @@
     "raw": "2023 April 第1話『花咲きたい！』PART3を読もう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "阅读2023 April 第1话『想要绽放！』PART3",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -81,8 +81,8 @@
     "raw": "2023 April 第1話『花咲きたい！』PART4を読もう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "阅读2023 April 第1话『想要绽放！』PART4",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -94,8 +94,8 @@
     "raw": "2023 April 第1話『花咲きたい！』PART5を読もう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "阅读2023 April 第1话『想要绽放！』PART5",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -107,8 +107,8 @@
     "raw": "3回特訓しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "进行3次特训",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -120,8 +120,8 @@
     "raw": "With×MEETSを1回視聴しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "观看1次With×MEETS",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -133,8 +133,8 @@
     "raw": "With×MEETSを2回視聴しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "观看2次With×MEETS",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -146,8 +146,8 @@
     "raw": "「10連カードパックチケット（2025/H1）」を使用してガチャを引こう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "使用「10连卡包券（2025/H1）」进行抽卡",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -159,8 +159,8 @@
     "raw": "いずれかのFes×LIVEのアーカイブを1回視聴しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "观看1次任意Fes×LIVE存档",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -172,8 +172,8 @@
     "raw": "いずれかのWith×MEETSのアーカイブを1回視聴しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "观看1次任意With×MEETS存档",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -185,8 +185,8 @@
     "raw": "いずれかのWith×MEETSのアーカイブを2回視聴しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "观看2次任意With×MEETS存档",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -198,8 +198,8 @@
     "raw": "いずれかのWith×MEETSのアーカイブを3回視聴しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "观看3次任意With×MEETS存档",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -211,8 +211,8 @@
     "raw": "いずれかのガチャを1回引こう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "进行1次任意抽卡",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -224,8 +224,8 @@
     "raw": "いずれかのメンバーのアニメーションカードをホーム壁紙に設定しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将任意成员的动画卡片设为主页壁纸",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -237,8 +237,8 @@
     "raw": "いずれかの楽曲でFULL COMBOを1回達成しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在任意乐曲中达成1次FULL COMBO",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -250,8 +250,8 @@
     "raw": "いずれかの楽曲でスコアを1500000以上獲得しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在任意乐曲中获得1500000以上分数",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -263,8 +263,8 @@
     "raw": "いずれかの楽曲の難易度HARD以上を1回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "通关1次任意乐曲的HARD以上难度",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -276,8 +276,8 @@
     "raw": "いずれかの楽曲の難易度NORMALを1回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "通关1次任意乐曲的NORMAL难度",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -289,8 +289,8 @@
     "raw": "いずれかの楽曲を10回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "通关10次任意乐曲",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -302,8 +302,8 @@
     "raw": "いずれかの楽曲を5回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "通关5次任意乐曲",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -315,8 +315,8 @@
     "raw": "カードを10回入手しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得10次卡片",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -328,8 +328,8 @@
     "raw": "カードを30回入手しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得30次卡片",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -341,8 +341,8 @@
     "raw": "カードを3回入手しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得3次卡片",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -354,8 +354,8 @@
     "raw": "カードを合計20枚入手しよう（レアリティ・メンバー問わず）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "总计获得20张卡片（不限稀有度·成员）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -367,8 +367,8 @@
     "raw": "カードを計20種類入手しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "总计获得20种卡片",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -380,8 +380,8 @@
     "raw": "クエストライブの☆を30個獲得しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在Quest Live中获得30个☆",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -393,8 +393,8 @@
     "raw": "クエストライブの☆を60個獲得しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在Quest Live中获得60个☆",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -406,8 +406,8 @@
     "raw": "クエストライブを10回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "通关10次Quest Live",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -419,8 +419,8 @@
     "raw": "クエストライブを30回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "通关30次Quest Live",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -432,8 +432,8 @@
     "raw": "クエストライブを3回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "通关3次Quest Live",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -445,8 +445,8 @@
     "raw": "クエストライブ（チャレンジモードは除く）で☆を計30個獲得しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在Quest Live（挑战模式除外）中总计获得30个☆",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -458,8 +458,8 @@
     "raw": "クエストライブ（チャレンジモードは除く）で☆を計60個獲得しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在Quest Live（挑战模式除外）中总计获得60个☆",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -471,8 +471,8 @@
     "raw": "スクールアイドルショウで任意の楽曲を10回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像秀中通关任意乐曲10次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -484,8 +484,8 @@
     "raw": "スクールアイドルショウで任意の楽曲を15回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像秀中通关任意乐曲15次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -497,8 +497,8 @@
     "raw": "スクールアイドルショウで任意の楽曲を1回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像秀中通关任意乐曲1次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -510,8 +510,8 @@
     "raw": "スクールアイドルショウで任意の楽曲を20回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像秀中通关任意乐曲20次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -523,8 +523,8 @@
     "raw": "スクールアイドルショウで任意の楽曲を25回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像秀中通关任意乐曲25次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -536,8 +536,8 @@
     "raw": "スクールアイドルショウで任意の楽曲を2回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像秀中通关任意乐曲2次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -549,8 +549,8 @@
     "raw": "スクールアイドルショウで任意の楽曲を30回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像秀中通关任意乐曲30次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -562,8 +562,8 @@
     "raw": "スクールアイドルショウで任意の楽曲を35回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像秀中通关任意乐曲35次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -575,8 +575,8 @@
     "raw": "スクールアイドルショウで任意の楽曲を3回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像秀中通关任意乐曲3次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -588,8 +588,8 @@
     "raw": "スクールアイドルショウで任意の楽曲を40回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像秀中通关任意乐曲40次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -601,8 +601,8 @@
     "raw": "スクールアイドルショウで任意の楽曲を45回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像秀中通关任意乐曲45次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -614,8 +614,8 @@
     "raw": "スクールアイドルショウで任意の楽曲を50回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像秀中通关任意乐曲50次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -627,8 +627,8 @@
     "raw": "スクールアイドルショウで任意の楽曲を5回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像秀中通关任意乐曲5次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -640,8 +640,8 @@
     "raw": "スクールアイドルショウで任意の楽曲を7回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像秀中通关任意乐曲7次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -653,8 +653,8 @@
     "raw": "スクールアイドルステージ、またはスクールアイドルショウでスキルLvを1回上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像舞台或学园偶像秀中提升技能等级1次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -666,8 +666,8 @@
     "raw": "スクールアイドルステージ、またはスクールアイドルショウでスキルLvを3回上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像舞台或学园偶像秀中提升技能等级3次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -679,8 +679,8 @@
     "raw": "スクールアイドルステージでデイリーライブを12回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像舞台中通关Daily Live12次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -692,8 +692,8 @@
     "raw": "スクールアイドルステージでデイリーライブを18回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像舞台中通关Daily Live18次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -705,8 +705,8 @@
     "raw": "スクールアイドルステージでデイリーライブを24回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像舞台中通关Daily Live24次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -718,8 +718,8 @@
     "raw": "スクールアイドルステージでデイリーライブを3回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像舞台中通关Daily Live3次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -731,8 +731,8 @@
     "raw": "スクールアイドルステージでライブを100回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像舞台中通关演出100次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -744,8 +744,8 @@
     "raw": "スクールアイドルステージでライブを10回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像舞台中通关演出10次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -757,8 +757,8 @@
     "raw": "スクールアイドルステージでライブを150回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像舞台中通关演出150次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -770,8 +770,8 @@
     "raw": "スクールアイドルステージでライブを200回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像舞台中通关演出200次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -783,8 +783,8 @@
     "raw": "スクールアイドルステージでライブを20回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像舞台中通关演出20次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -796,8 +796,8 @@
     "raw": "スクールアイドルステージでライブを300回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像舞台中通关演出300次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -809,8 +809,8 @@
     "raw": "スクールアイドルステージでライブを30回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像舞台中通关演出30次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -822,8 +822,8 @@
     "raw": "スクールアイドルステージでライブを3回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像舞台中通关演出3次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -835,8 +835,8 @@
     "raw": "スクールアイドルステージでライブを400回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像舞台中通关演出400次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -848,8 +848,8 @@
     "raw": "スクールアイドルステージでライブを500回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像舞台中通关演出500次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -861,8 +861,8 @@
     "raw": "スクールアイドルステージでライブを50回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像舞台中通关演出50次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -874,8 +874,8 @@
     "raw": "スクールアイドルステージでライブを5回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在学园偶像舞台中通关演出5次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -887,8 +887,8 @@
     "raw": "スタイルのLvを合計20上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "造型等级合计提升20级",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -900,8 +900,8 @@
     "raw": "スタイルのLvを合計40上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "造型等级合计提升40级",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -913,8 +913,8 @@
     "raw": "スタイルのLvを合計60上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "造型等级合计提升60级",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -926,8 +926,8 @@
     "raw": "スタイルのLvを合計80上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "造型等级合计提升80级",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -939,8 +939,8 @@
     "raw": "セラス 柳田 リリエンフェルトのMember Fan Lv.を10まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将塞拉斯 柳田 利林费尔德的Member Fan Lv.提升到10",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -952,8 +952,8 @@
     "raw": "セラス 柳田 リリエンフェルトのMember Fan Lv.を20まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将塞拉斯 柳田 利林费尔德的Member Fan Lv.提升到20",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -965,8 +965,8 @@
     "raw": "セラス 柳田 リリエンフェルトのカードを5枚入手しよう（レアリティ問わず）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得塞拉斯 柳田 利林费尔德的卡片5张（不限稀有度）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -978,8 +978,8 @@
     "raw": "セラス 柳田 リリエンフェルトのカードを5種類入手しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得塞拉斯 柳田 利林费尔德的卡片5种",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -991,8 +991,8 @@
     "raw": "セラス 柳田 リリエンフェルトのスタイルのスタイルLv.を合計300まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将塞拉斯 柳田 利林费尔德的Style的Style Lv.合计提升到300",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1004,8 +1004,8 @@
     "raw": "セラス 柳田 リリエンフェルトのスタイルのスタイルLv.を合計300まで上げよう（レアリティ問わず）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将塞拉斯 柳田 利林费尔德的Style的Style Lv.合计提升到300（不限稀有度）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1017,8 +1017,8 @@
     "raw": "セレクトチケットを使用して任意のメンバーカードを交換しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "使用选择券交换任意成员卡片",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1030,8 +1030,8 @@
     "raw": "センタースキルを1回発動させよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "发动1次Center技能",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1043,8 +1043,8 @@
     "raw": "デイリーライブの難易度Iを全てクリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "通关Daily Live的所有难度I",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1056,8 +1056,8 @@
     "raw": "デイリーライブを12回クリアしよう（スキップ可）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "通关Daily Live 12次（可跳过）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1069,8 +1069,8 @@
     "raw": "デイリーライブを18回クリアしよう（スキップ可）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "通关Daily Live 18次（可跳过）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1082,8 +1082,8 @@
     "raw": "デイリーライブを24回クリアしよう（スキップ可）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "通关Daily Live 24次（可跳过）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1095,8 +1095,8 @@
     "raw": "デイリーライブを3回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "通关Daily Live 3次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1108,8 +1108,8 @@
     "raw": "デイリーライブを3回クリアしよう（スキップ可）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "通关Daily Live 3次（可跳过）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1121,8 +1121,8 @@
     "raw": "デイリーライブを6回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "通关Daily Live 6次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1134,8 +1134,8 @@
     "raw": "ドリームライブでいずれかのメンバーのクエスト解放条件を確認しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在Dream Live中确认任一成员的任务解放条件",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1147,8 +1147,8 @@
     "raw": "ドリームライブを1回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "通关Dream Live 1次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1160,8 +1160,8 @@
     "raw": "ドリームライブを1回クリアしよう（メンバーは問わず）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "通关Dream Live 1次（成员不限）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1173,8 +1173,8 @@
     "raw": "ドリームライブを2回クリアしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "通关Dream Live 2次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1186,8 +1186,8 @@
     "raw": "ドリームライブを2回クリアしよう（メンバーは問わず）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "通关Dream Live 2次（成员不限）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1199,8 +1199,8 @@
     "raw": "プロフィールカードを変更しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "更换资料卡片",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1212,8 +1212,8 @@
     "raw": "ホーム壁紙を変更しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "更换主页壁纸",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1225,8 +1225,8 @@
     "raw": "ホーム画面に時計を表示しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在主页画面显示时钟",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1238,8 +1238,8 @@
     "raw": "ミュージックPt.を消費して楽曲を1つ解放しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "消费Music Pt.解放1首乐曲",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1251,8 +1251,8 @@
     "raw": "ライブを100回クリアしよう（スキップ可）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "完成100次Live演出（可跳过）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1264,8 +1264,8 @@
     "raw": "ライブを10回クリアしよう（スキップ可）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "完成10次Live演出（可跳过）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1277,8 +1277,8 @@
     "raw": "ライブを150回クリアしよう（スキップ可）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "完成150次Live演出（可跳过）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1290,8 +1290,8 @@
     "raw": "ライブを200回クリアしよう（スキップ可）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "完成200次Live演出（可跳过）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1303,8 +1303,8 @@
     "raw": "ライブを20回クリアしよう（スキップ可）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "完成20次Live演出（可跳过）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1316,8 +1316,8 @@
     "raw": "ライブを300回クリアしよう（スキップ可）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "完成300次Live演出（可跳过）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1329,8 +1329,8 @@
     "raw": "ライブを30回クリアしよう（スキップ可）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "完成30次Live演出（可跳过）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1342,8 +1342,8 @@
     "raw": "ライブを3回クリアしよう（スキップ可）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "完成3次Live演出（可跳过）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1355,8 +1355,8 @@
     "raw": "ライブを400回クリアしよう（スキップ可）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "完成400次Live演出（可跳过）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1368,8 +1368,8 @@
     "raw": "ライブを500回クリアしよう（スキップ可）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "完成500次Live演出（可跳过）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1381,8 +1381,8 @@
     "raw": "ライブを50回クリアしよう（スキップ可）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "完成50次Live演出（可跳过）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1394,8 +1394,8 @@
     "raw": "ライブを5回クリアしよう（スキップ可）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "完成5次Live演出（可跳过）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1407,8 +1407,8 @@
     "raw": "乙宗梢のMember Fan Lv.を10まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将乙宗梢的Member Fan Lv.提升至10",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1420,8 +1420,8 @@
     "raw": "乙宗梢のMember Fan Lv.を20まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将乙宗梢的Member Fan Lv.提升至20",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1433,8 +1433,8 @@
     "raw": "乙宗梢のカードを5枚入手しよう（レアリティ問わず）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得5张乙宗梢的卡片（不限稀有度）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1446,8 +1446,8 @@
     "raw": "乙宗梢のカードを5種類入手しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得5种乙宗梢的卡片",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1459,8 +1459,8 @@
     "raw": "乙宗梢のスタイルのスタイルLv.を合計300まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将乙宗梢的等级合计提升至300",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1472,8 +1472,8 @@
     "raw": "乙宗梢のスタイルのスタイルLv.を合計300まで上げよう（レアリティ問わず）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将乙宗梢的等级合计提升至300（不限稀有度）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1485,8 +1485,8 @@
     "raw": "任意のカードを10回入手しよう（解放Pt.に変換されても可）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得10张任意卡片（转换为解放Pt.也可以）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1498,8 +1498,8 @@
     "raw": "任意のカードを30回入手しよう（解放Pt.に変換されても可）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得30张任意卡片（转换为解放Pt.也可以）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1511,8 +1511,8 @@
     "raw": "任意のカードを3回入手しよう（解放Pt.に変換されても可）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得3张任意卡片（转换为解放Pt.也可以）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1524,8 +1524,8 @@
     "raw": "任意のスタイルのLvを合計20上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将任意造型的Lv合计提升20",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1537,8 +1537,8 @@
     "raw": "任意のスタイルのLvを合計40上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将任意造型的Lv合计提升40",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1550,8 +1550,8 @@
     "raw": "任意のスタイルのLvを合計60上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将任意造型的Lv合计提升60",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1563,8 +1563,8 @@
     "raw": "任意のスタイルのLvを合計80上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将任意风格的Lv合计提升80",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1576,8 +1576,8 @@
     "raw": "任意のスタイルを1回特訓しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "对任意风格进行1次特训",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1589,8 +1589,8 @@
     "raw": "任意のスタイルを3回特訓しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "对任意风格进行3次特训",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1602,8 +1602,8 @@
     "raw": "夕霧綴理のMember Fan Lv.を10まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将夕雾缀理的Member Fan Lv.提升至10",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1615,8 +1615,8 @@
     "raw": "夕霧綴理のMember Fan Lv.を20まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将夕雾缀理的Member Fan Lv.提升至20",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1628,8 +1628,8 @@
     "raw": "夕霧綴理のカードを5枚入手しよう（レアリティ問わず）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得夕雾缀理的卡片5张（不限稀有度）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1641,8 +1641,8 @@
     "raw": "夕霧綴理のカードを5種類入手しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得夕雾缀理的卡片5种类",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1654,8 +1654,8 @@
     "raw": "夕霧綴理のスタイルのスタイルLv.を合計300まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将夕雾缀理的风格的风格Lv.合计提升至300",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1667,8 +1667,8 @@
     "raw": "夕霧綴理のスタイルのスタイルLv.を合計300まで上げよう（レアリティ問わず）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将夕雾缀理的风格的风格Lv.合计提升至300（不限稀有度）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1680,8 +1680,8 @@
     "raw": "大沢瑠璃乃のMember Fan Lv.を10まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将大泽瑠璃乃的Member Fan Lv.提升至10",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1693,8 +1693,8 @@
     "raw": "大沢瑠璃乃のMember Fan Lv.を20まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将大泽瑠璃乃的Member Fan Lv.提升至20",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1706,8 +1706,8 @@
     "raw": "大沢瑠璃乃のカードを5枚入手しよう（レアリティ問わず）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得大泽瑠璃乃的卡片5张（不限稀有度）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1719,8 +1719,8 @@
     "raw": "大沢瑠璃乃のカードを5種類入手しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得大泽瑠璃乃的卡片5种类",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1732,8 +1732,8 @@
     "raw": "大沢瑠璃乃のスタイルのスタイルLv.を合計300まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将大泽瑠璃乃的风格的风格Lv.合计提升至300",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1745,8 +1745,8 @@
     "raw": "大沢瑠璃乃のスタイルのスタイルLv.を合計300まで上げよう（レアリティ問わず）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将大泽瑠璃乃的风格的风格Lv.合计提升至300（不限稀有度）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1758,8 +1758,8 @@
     "raw": "安養寺姫芽のMember Fan Lv.を10まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将安养寺姬芽的Member Fan Lv.提升至10",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1771,8 +1771,8 @@
     "raw": "安養寺姫芽のMember Fan Lv.を20まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将安养寺姬芽的Member Fan Lv.提升至20",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1784,8 +1784,8 @@
     "raw": "安養寺姫芽のカードを5枚入手しよう（レアリティ問わず）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得安养寺姬芽的卡片5张（不限稀有度）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1797,8 +1797,8 @@
     "raw": "安養寺姫芽のカードを5種類入手しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得安养寺姬芽的卡片5种类",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1810,8 +1810,8 @@
     "raw": "安養寺姫芽のスタイルのスタイルLv.を合計300まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将安养寺姬芽的风格的风格Lv.合计提升至300",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1823,8 +1823,8 @@
     "raw": "安養寺姫芽のスタイルのスタイルLv.を合計300まで上げよう（レアリティ問わず）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将安养寺姬芽的风格的风格Lv.合计提升至300（不限稀有度）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1836,8 +1836,8 @@
     "raw": "徒町小鈴のMember Fan Lv.を10まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将徒町小铃的Member Fan Lv.提升至10",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1849,8 +1849,8 @@
     "raw": "徒町小鈴のMember Fan Lv.を20まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将徒町小铃的Member Fan Lv.提升至20",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1862,8 +1862,8 @@
     "raw": "徒町小鈴のカードを5枚入手しよう（レアリティ問わず）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得徒町小铃的卡片5张（不限稀有度）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1875,8 +1875,8 @@
     "raw": "徒町小鈴のカードを5種類入手しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得徒町小铃的5种卡片",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1888,8 +1888,8 @@
     "raw": "徒町小鈴のスタイルのスタイルLv.を合計300まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将徒町小铃风格的风格Lv.合计提升至300",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1901,8 +1901,8 @@
     "raw": "徒町小鈴のスタイルのスタイルLv.を合計300まで上げよう（レアリティ問わず）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将徒町小铃风格的风格Lv.合计提升至300（不限稀有度）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1914,8 +1914,8 @@
     "raw": "日野下花帆のMember Fan Lv.を10まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将日野下花帆的Member Fan Lv.提升至10",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1927,8 +1927,8 @@
     "raw": "日野下花帆のMember Fan Lv.を20まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将日野下花帆的Member Fan Lv.提升至20",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1940,8 +1940,8 @@
     "raw": "日野下花帆のカードを5枚入手しよう（レアリティ問わず）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得日野下花帆的5张卡片（不限稀有度）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1953,8 +1953,8 @@
     "raw": "日野下花帆のカードを5種類入手しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得日野下花帆的5种卡片",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1966,8 +1966,8 @@
     "raw": "日野下花帆のスタイルのスタイルLv.を合計300まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将日野下花帆风格的风格Lv.合计提升至300",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1979,8 +1979,8 @@
     "raw": "日野下花帆のスタイルのスタイルLv.を合計300まで上げよう（レアリティ問わず）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将日野下花帆风格的风格Lv.合计提升至300（不限稀有度）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1992,8 +1992,8 @@
     "raw": "時計のデザインを変更しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "更换时钟的设计",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2005,8 +2005,8 @@
     "raw": "村野さやかのMember Fan Lv.を10まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将村野沙耶香的Member Fan Lv.提升至10",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2018,8 +2018,8 @@
     "raw": "村野さやかのMember Fan Lv.を20まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将村野沙耶香的Member Fan Lv.提升至20",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2031,8 +2031,8 @@
     "raw": "村野さやかのカードを5枚入手しよう（レアリティ問わず）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得村野沙耶香的5张卡片（不限稀有度）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2044,8 +2044,8 @@
     "raw": "村野さやかのカードを5種類入手しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得村野沙耶香的5种卡片",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2057,8 +2057,8 @@
     "raw": "村野さやかのスタイルのスタイルLv.を合計300まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将村野沙耶香风格的风格Lv.合计提升至300",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2070,8 +2070,8 @@
     "raw": "村野さやかのスタイルのスタイルLv.を合計300まで上げよう（レアリティ問わず）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将村野沙耶香风格的风格Lv.合计提升至300（不限稀有度）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2083,8 +2083,8 @@
     "raw": "桂城 泉のMember Fan Lv.を10まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将桂城泉的Member Fan Lv.提升至10",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2096,8 +2096,8 @@
     "raw": "桂城 泉のMember Fan Lv.を20まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将桂城泉的Member Fan Lv.提升至20",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2109,8 +2109,8 @@
     "raw": "桂城 泉のカードを5枚入手しよう（レアリティ問わず）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得桂城泉的5张卡片（不限稀有度）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2122,8 +2122,8 @@
     "raw": "桂城 泉のカードを5種類入手しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得桂城泉的5种卡片",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2135,8 +2135,8 @@
     "raw": "桂城 泉のスタイルのスタイルLv.を合計300まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将桂城泉风格的风格Lv.合计提升至300",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2148,8 +2148,8 @@
     "raw": "桂城 泉のスタイルのスタイルLv.を合計300まで上げよう（レアリティ問わず）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将桂城泉风格的风格Lv.合计提升至300（不限稀有度）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2161,8 +2161,8 @@
     "raw": "百生吟子のMember Fan Lv.を10まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将百生吟子的Member Fan Lv.提升至10",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2174,8 +2174,8 @@
     "raw": "百生吟子のMember Fan Lv.を20まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将百生吟子的Member Fan Lv.提升至20",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2187,8 +2187,8 @@
     "raw": "百生吟子のカードを5枚入手しよう（レアリティ問わず）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得百生吟子的卡片5张（稀有度不限）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2200,8 +2200,8 @@
     "raw": "百生吟子のカードを5種類入手しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得百生吟子的卡片5种",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2213,8 +2213,8 @@
     "raw": "百生吟子のスタイルのスタイルLv.を合計300まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将百生吟子的等级合计提升到300",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2226,8 +2226,8 @@
     "raw": "百生吟子のスタイルのスタイルLv.を合計300まで上げよう（レアリティ問わず）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将百生吟子的等级合计提升到300（稀有度不限）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2239,8 +2239,8 @@
     "raw": "第1話『花咲きたい！』PART1を読もう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "阅读第1话『想要花开！』PART1",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2252,8 +2252,8 @@
     "raw": "第1話『花咲きたい！』PART2を読もう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "阅读第1话『想要花开！』PART2",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2265,8 +2265,8 @@
     "raw": "第1話『花咲きたい！』PART3を読もう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "阅读第1话『想要花开！』PART3",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2278,8 +2278,8 @@
     "raw": "第1話『花咲きたい！』PART4を読もう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "阅读第1话『想要花开！』PART4",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2291,8 +2291,8 @@
     "raw": "第1話『花咲きたい！』PART5を読もう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "阅读第1话『想要花开！』PART5",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2304,8 +2304,8 @@
     "raw": "編成でいずれかのメンバーカードをエースカードに設定しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在编成中将任意一张成员卡片设为王牌卡片",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2317,8 +2317,8 @@
     "raw": "編成でおすすめ編成を1回使用しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在编成中使用推荐编成1次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2330,8 +2330,8 @@
     "raw": "編成でおまかせ編成を1回使用しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在编成中使用自动编成1次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2343,8 +2343,8 @@
     "raw": "育成でいずれかのメンバーカードで解放画面を開こう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在培养中打开任意一张成员卡片的解放画面",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2356,8 +2356,8 @@
     "raw": "育成でいずれかのメンバーカードのセンタースキル、またはスキルを強化しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在培养中强化任意一张成员卡片的中心技能或技能",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2369,8 +2369,8 @@
     "raw": "育成でいずれかのメンバーカードのレベルを10にしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在培养中将任意一张成员卡片的等级提升到10",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2382,8 +2382,8 @@
     "raw": "育成でいずれかのメンバーカードのレベルを30にしよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在培养中将任意一张成员卡片的等级提升到30",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2395,8 +2395,8 @@
     "raw": "育成でいずれかのメンバーカードを1回特訓しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在培养中将任意一张成员卡片特训1次",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2408,8 +2408,8 @@
     "raw": "藤島慈のMember Fan Lv.を10まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将藤岛慈的Member Fan Lv.提升到10",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2421,8 +2421,8 @@
     "raw": "藤島慈のMember Fan Lv.を20まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将藤岛慈的Member Fan Lv.提升到20",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2434,8 +2434,8 @@
     "raw": "藤島慈のカードを5枚入手しよう（レアリティ問わず）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得藤岛慈的卡片5张（稀有度不限）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2447,8 +2447,8 @@
     "raw": "藤島慈のカードを5種類入手しよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "获得藤岛慈的卡片5种",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2460,8 +2460,8 @@
     "raw": "藤島慈のスタイルのスタイルLv.を合計300まで上げよう",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将藤岛慈的等级合计提升到300",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -2473,8 +2473,8 @@
     "raw": "藤島慈のスタイルのスタイルLv.を合計300まで上げよう（レアリティ問わず）",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将藤岛慈的等级合计提升到300（稀有度不限）",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",

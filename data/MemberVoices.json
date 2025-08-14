@@ -3,8 +3,8 @@
     "raw": "BADセクション①",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "BAD区间①",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -16,8 +16,8 @@
     "raw": "BADセクション②",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "BAD区间②",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -29,8 +29,8 @@
     "raw": "BADセクション③",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "BAD区间③",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -42,8 +42,8 @@
     "raw": "GOODセクション①",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "GOOD区间①",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -55,8 +55,8 @@
     "raw": "GOODセクション②",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "GOOD区间②",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -68,8 +68,8 @@
     "raw": "GOODセクション③",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "GOOD区间③",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -81,8 +81,8 @@
     "raw": "★1ライブクリア①",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "★1演出通关①",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -94,8 +94,8 @@
     "raw": "★1ライブクリア②",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "★1演出通关②",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -107,8 +107,8 @@
     "raw": "★1ライブクリア③",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "★1演出通关③",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -120,8 +120,8 @@
     "raw": "★2ライブクリア①",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "★2演出通关①",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -133,8 +133,8 @@
     "raw": "★2ライブクリア②",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "★2演出通关②",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -146,8 +146,8 @@
     "raw": "★2ライブクリア③",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "★2演出通关③",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -159,8 +159,8 @@
     "raw": "★3ライブクリア①",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "★3演出通关①",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -172,8 +172,8 @@
     "raw": "★3ライブクリア②",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "★3演出通关②",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -185,8 +185,8 @@
     "raw": "★3ライブクリア③",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "★3演出通关③",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -198,8 +198,8 @@
     "raw": "スキルLv. UP①",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "技能等级提升①",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -211,8 +211,8 @@
     "raw": "スキルLv. UP②",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "技能等级提升②",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -224,8 +224,8 @@
     "raw": "スキルLv. UP③",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "技能等级提升③",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -237,8 +237,8 @@
     "raw": "スキル効果①",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "技能效果①",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -250,8 +250,8 @@
     "raw": "スキル効果②",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "技能效果②",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -263,8 +263,8 @@
     "raw": "スキル効果③",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "技能效果③",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -276,8 +276,8 @@
     "raw": "スタイルLv. MAX①",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "风格等级MAX①",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -289,8 +289,8 @@
     "raw": "スタイルLv. MAX②",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "风格等级MAX②",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -302,8 +302,8 @@
     "raw": "スタイルLv. MAX③",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "风格等级MAX③",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -315,8 +315,8 @@
     "raw": "スタイルLv. UP①",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "风格等级提升①",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -328,8 +328,8 @@
     "raw": "スタイルLv. UP②",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "风格等级提升②",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -341,8 +341,8 @@
     "raw": "スタイルLv. UP③",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "风格等级提升③",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -354,8 +354,8 @@
     "raw": "スタイルLv. UP④",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "风格等级提升④",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -367,8 +367,8 @@
     "raw": "スタイルLv. UP⑤",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "风格等级提升⑤",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -380,8 +380,8 @@
     "raw": "スタイルLv. UP⑥",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "风格等级提升⑥",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -393,8 +393,8 @@
     "raw": "タイトルコール①",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "标题呼叫①",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -406,8 +406,8 @@
     "raw": "タイトルコール②",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "标题呼叫②",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -419,8 +419,8 @@
     "raw": "メンタルダウン①",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mental下降①",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -432,8 +432,8 @@
     "raw": "メンタルダウン②",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mental下降②",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -445,8 +445,8 @@
     "raw": "メンタルダウン③",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mental下降③",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -458,8 +458,8 @@
     "raw": "ライブ失敗①",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "演出失败①",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -471,8 +471,8 @@
     "raw": "ライブ失敗②",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "演出失败②",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -484,8 +484,8 @@
     "raw": "ライブ失敗③",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "演出失败③",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -497,8 +497,8 @@
     "raw": "解放Lv. UP①",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "解放等级提升①",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -510,8 +510,8 @@
     "raw": "解放Lv. UP②",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "解放等级提升②",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -523,8 +523,8 @@
     "raw": "解放Lv. UP③",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "解放等级提升③",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",

@@ -3,8 +3,8 @@
     "raw": "102期生、103期生のスキル消費APを+2する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "102期生、103期生的技能消耗AP+2。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -16,8 +16,8 @@
     "raw": "102期生のスキルのAPを-2する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "102期生的技能AP-2。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -29,8 +29,8 @@
     "raw": "102期生のスキル消費APを-1する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "102期生的技能消耗AP-1。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -42,8 +42,8 @@
     "raw": "103期生のスキルのAPを-2する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "103期生的技能AP-2。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -55,8 +55,8 @@
     "raw": "103期生のスキル消費APを-1する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "103期生的技能消耗AP-1。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -68,8 +68,8 @@
     "raw": "104期生のスキル消費APを-1する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "104期生的技能消耗AP-1。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -81,8 +81,8 @@
     "raw": "104期生のスキル消費APを-2する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "104期生的技能消耗AP-2。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -94,8 +94,8 @@
     "raw": "AP2以下のスキルのAPを+2、AP5以上のスキルのAPを-2する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "AP2以下的技能AP+2，AP5以上的技能AP-2。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -107,8 +107,8 @@
     "raw": "AP3以下のスキルのAPを+2、AP6以上のスキルのAPを-2する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "AP3以下的技能AP+2，AP6以上的技能AP-2。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -120,8 +120,8 @@
     "raw": "AP4以上のスキルのAPを-2する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "AP4以上的技能AP-2。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -133,8 +133,8 @@
     "raw": "AP4以上の消費APを-3する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "AP4以上的消耗AP-3。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -146,8 +146,8 @@
     "raw": "AP5以上のスキルのAPを-3する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "AP5以上的技能AP-3。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -159,8 +159,8 @@
     "raw": "AP6以上のスキルのAPを-4する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "AP6以上的技能AP-4。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -172,8 +172,8 @@
     "raw": "APの回復速度を+100%する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "AP的回复速度+100%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -185,8 +185,8 @@
     "raw": "APの回復速度を+25%する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "AP的回复速度+25%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -198,8 +198,8 @@
     "raw": "APの回復速度を+50%する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "AP的回复速度+50%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -211,8 +211,8 @@
     "raw": "APの回復速度を-25%し、APを+5する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "AP的回复速度-25%，AP+5。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -224,8 +224,8 @@
     "raw": "APの回復速度を-25%する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "AP的回复速度-25%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -237,8 +237,8 @@
     "raw": "APの回復速度を-50%する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "AP的回复速度-50%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -250,8 +250,8 @@
     "raw": "APの回復速度を-9999%する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "AP的回复速度-9999%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -263,8 +263,8 @@
     "raw": "APを+10する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "AP+10。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -276,8 +276,8 @@
     "raw": "APを+1する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "AP+1。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -289,8 +289,8 @@
     "raw": "APを+20する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "AP+20。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -302,8 +302,8 @@
     "raw": "APを+2する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "AP+2。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -315,8 +315,8 @@
     "raw": "APを+5する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "AP+5。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -328,8 +328,8 @@
     "raw": "APを+7する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "AP+7。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -341,8 +341,8 @@
     "raw": "APを-10する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "AP-10。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -354,8 +354,8 @@
     "raw": "APを-20する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "AP-20。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -367,8 +367,8 @@
     "raw": "APを-5する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "AP-5。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -380,8 +380,8 @@
     "raw": "APを0にする。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "AP归零。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -393,8 +393,8 @@
     "raw": "BPの値を+10する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "BP值+10。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -406,8 +406,8 @@
     "raw": "BPの値を+1する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "BP值+1。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -419,8 +419,8 @@
     "raw": "BPの値を+20する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "BP值+20。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -432,8 +432,8 @@
     "raw": "BPの値を+2する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "BP值+2。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -445,8 +445,8 @@
     "raw": "BPの値を+5する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "BP值+5。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -458,8 +458,8 @@
     "raw": "さやかの消費APを-2する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "沙耶香的消费AP-2。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -471,8 +471,8 @@
     "raw": "さやかの消費APを-3する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "沙耶香的消费AP-3。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -484,8 +484,8 @@
     "raw": "さやかの消費APを-9する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "沙耶香的消费AP-9。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -497,8 +497,8 @@
     "raw": "スキルハート獲得数を+100%する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "技能爱心获得数+100%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -510,8 +510,8 @@
     "raw": "スキルハート獲得数を+40%する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "技能爱心获得数+40%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -523,8 +523,8 @@
     "raw": "スキルハート獲得数を+50%する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "技能爱心获得数+50%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -536,8 +536,8 @@
     "raw": "セクション開始時に手札を捨てて引き直し、吟子の消費APを-3する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "小节开始时弃牌并重抽，吟子的消费AP-3。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -549,8 +549,8 @@
     "raw": "セクション開始時に手札を捨てて引き直す。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "小节开始时弃牌并重抽。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -562,8 +562,8 @@
     "raw": "ボルテージLv.を2倍にする。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Voltage Lv.变为2倍。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -575,8 +575,8 @@
     "raw": "ボルテージPt.を-50する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Voltage Pt.-50。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -588,8 +588,8 @@
     "raw": "ボルテージPt.を50%増加。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Voltage Pt.增加50%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -601,8 +601,8 @@
     "raw": "ボルテージの上昇速度を+25%する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Voltage上升速度+25%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -614,8 +614,8 @@
     "raw": "ボルテージの上昇速度を+50%する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Voltage上升速度+50%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -627,8 +627,8 @@
     "raw": "ボルテージの上昇速度を-50%する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Voltage上升速度-50%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -640,8 +640,8 @@
     "raw": "ボルテージを+150する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Voltage+150。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -653,8 +653,8 @@
     "raw": "ボルテージを+300する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Voltage+300。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -666,8 +666,8 @@
     "raw": "ボルテージを+30する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Voltage+30。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -679,8 +679,8 @@
     "raw": "ボルテージを+45する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Voltage+45。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -692,8 +692,8 @@
     "raw": "ボルテージを-150する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Voltage-150。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -705,8 +705,8 @@
     "raw": "ボルテージを-300する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Voltage-300。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -718,8 +718,8 @@
     "raw": "ムード値を100%増加させる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mood值增加100%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -731,8 +731,8 @@
     "raw": "ムード値を20%増加させる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mood值增加20%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -744,8 +744,8 @@
     "raw": "ムード値を50%増加させる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mood值增加50%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -757,8 +757,8 @@
     "raw": "ムード値をハッピー方向に+25する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mood值向快乐方向+25。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -770,8 +770,8 @@
     "raw": "ムード値をハッピー方向に+50する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mood值向快乐方向+50。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -783,8 +783,8 @@
     "raw": "ムード値をハッピー方向に+75する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mood值向快乐方向+75。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -796,8 +796,8 @@
     "raw": "ムード値をメロウ方向に+25する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mood值向温和方向+25。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -809,8 +809,8 @@
     "raw": "ムード値をメロウ方向に+30する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mood值向温和方向+30。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -822,8 +822,8 @@
     "raw": "ムード値をメロウ方向に+50する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mood值向温和方向+50。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -835,8 +835,8 @@
     "raw": "ムード値をメロウ方向に+75する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mood值向温和方向+75。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -848,8 +848,8 @@
     "raw": "メイン効果がアトラクト効果のスキルの消費APを-3する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "主要效果为魅力效果的技能消耗AP-3。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -861,8 +861,8 @@
     "raw": "メイン効果がアトラクト効果のスキルの消費APを-4する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "主要效果为魅力效果的技能消耗AP-4。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -874,8 +874,8 @@
     "raw": "メイン効果がハート上限変動のスキルの消費APを-3する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "主要效果为爱心上限变动的技能消耗AP-3。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -887,8 +887,8 @@
     "raw": "メイン効果がハート獲得のスキルの消費APを-1する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "主要效果为爱心获得的技能消耗AP-1。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -900,8 +900,8 @@
     "raw": "メイン効果がハート獲得のスキルの消費APを-4する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "主要效果为爱心获得的技能消耗AP-4。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -913,8 +913,8 @@
     "raw": "メイン効果がボルテージ増加のスキルの消費APを-1する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "主要效果为Voltage增加的技能消耗AP-1。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -926,8 +926,8 @@
     "raw": "メイン効果がボルテージ増加のスキルの消費APを-2する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "主要效果为Voltage增加的技能消耗AP-2。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -939,8 +939,8 @@
     "raw": "メイン効果がボルテージ増加のスキルの消費APを-3する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "主要效果为Voltage增加的技能消费AP减少3点。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -952,8 +952,8 @@
     "raw": "メイン効果がムード値変動のスキルの消費APを-3する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "主要效果为心情值变动的技能消费AP减少3点。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -965,8 +965,8 @@
     "raw": "メイン効果がメンタルプロテクトのスキルの消費APを-5する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "主要效果为Mental保护的技能消费AP减少5点。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -978,8 +978,8 @@
     "raw": "メイン効果がリシャッフルのスキルの消費APを-1する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "主要效果为重新洗牌的技能消费AP减少1点。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -991,8 +991,8 @@
     "raw": "メンタルの減少速度を-25%する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mental减少速度降低25%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1004,8 +1004,8 @@
     "raw": "メンタルの減少速度を-35%する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mental减少速度降低35%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1017,8 +1017,8 @@
     "raw": "メンタルの減少速度を-50%する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mental减少速度降低50%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1030,8 +1030,8 @@
     "raw": "メンタルの減少速度を100%増加する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mental减少速度增加100%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1043,8 +1043,8 @@
     "raw": "メンタルの減少速度を50%増加する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mental减少速度增加50%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1056,8 +1056,8 @@
     "raw": "メンタルを現在値の10%回復させる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mental恢复当前值的10%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1069,8 +1069,8 @@
     "raw": "メンタルを現在値の10%減少させる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mental减少当前值的10%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1082,8 +1082,8 @@
     "raw": "メンタルを現在値の15%回復させる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mental恢复当前值的15%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1095,8 +1095,8 @@
     "raw": "メンタルを現在値の20%減少させる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mental减少当前值的20%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1108,8 +1108,8 @@
     "raw": "メンタルを現在値の25%回復させる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mental恢复当前值的25%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1121,8 +1121,8 @@
     "raw": "メンタルを現在値の40%減少させる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mental减少当前值的40%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1134,8 +1134,8 @@
     "raw": "メンタルを現在値の50%減少させる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mental减少当前值的50%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1147,8 +1147,8 @@
     "raw": "メンタルを現在値の75%減少させる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mental减少当前值的75%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1160,8 +1160,8 @@
     "raw": "メンタルを現在値の90%減少させる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mental减少当前值的90%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1173,8 +1173,8 @@
     "raw": "メンタル減少速度100%増加、メイン効果メンタル回復スキルAP-3",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Mental减少速度增加100%，主要效果Mental恢复技能AP减少3点",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1186,8 +1186,8 @@
     "raw": "吟子の消費APを-3する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "百生吟子的消费AP减少3点。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1199,8 +1199,8 @@
     "raw": "姫芽が《イグニッションモード》になる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "安养寺姬芽进入《点燃模式》。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1212,8 +1212,8 @@
     "raw": "姫芽の《イグニッションモード》の状態を切り替える。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "切换安养寺姬芽的《点燃模式》状态。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1225,8 +1225,8 @@
     "raw": "姫芽の消費APを-3する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "安养寺姬芽的消费AP减少3点。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1238,8 +1238,8 @@
     "raw": "小鈴の消費APを-3する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "徒町小铃的消费AP减少3点。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1251,8 +1251,8 @@
     "raw": "慈、瑠璃乃の消費APを-3する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "藤岛慈、大泽瑠璃乃的消耗AP-3。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1264,8 +1264,8 @@
     "raw": "慈、花帆の消費APを-3する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "藤岛慈、日野下花帆的消耗AP-3。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1277,8 +1277,8 @@
     "raw": "慈の消費APを-2する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "藤岛慈的消耗AP-2。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1290,8 +1290,8 @@
     "raw": "慈の消費APを-3する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "藤岛慈的消耗AP-3。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1303,8 +1303,8 @@
     "raw": "手札の上限枚数を1枚減少する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "手牌上限枚数减少1张。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1316,8 +1316,8 @@
     "raw": "手札の上限枚数を2枚増加する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "手牌上限枚数增加2张。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1329,8 +1329,8 @@
     "raw": "手札の上限枚数を2枚減少する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "手牌上限枚数减少2张。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1342,8 +1342,8 @@
     "raw": "手札の上限枚数を3枚増加する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "手牌上限枚数增加3张。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1355,8 +1355,8 @@
     "raw": "手札の上限枚数を3枚減少する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "手牌上限枚数减少3张。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1368,8 +1368,8 @@
     "raw": "手札を捨てて引き直し、APを+5する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "弃掉手牌重新抽取，AP+5。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1381,8 +1381,8 @@
     "raw": "手札を捨てて引き直し、APを-20する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "弃掉手牌重新抽取，AP-20。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1394,8 +1394,8 @@
     "raw": "手札を捨てて引き直し、APを0にする。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "弃掉手牌重新抽取，AP变为0。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1407,8 +1407,8 @@
     "raw": "手札を捨てて引き直し、ボルテージを+45する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "弃掉手牌重新抽取，Voltage+45。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1420,8 +1420,8 @@
     "raw": "手札を捨てて引き直し、メンタルを現在値の40%減少させる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "弃掉手牌重新抽取，Mental减少当前值的40%。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1433,8 +1433,8 @@
     "raw": "最初に引くスキルがさやかのスキルになる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "最初抽取的技能变为村野沙耶香的技能。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1446,8 +1446,8 @@
     "raw": "最初に引くスキルがセラスのスキルになる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "最初抽取的技能变为塞拉斯的技能。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1459,8 +1459,8 @@
     "raw": "最初に引くスキルが吟子のスキルになる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "最初抽取的技能变为百生吟子的技能。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1472,8 +1472,8 @@
     "raw": "最初に引くスキルが姫芽のスキルになる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "最初抽取的技能变为安养寺姬芽的技能。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1485,8 +1485,8 @@
     "raw": "最初に引くスキルが小鈴のスキルになる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "最初抽取的技能变为徒町小铃的技能。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1498,8 +1498,8 @@
     "raw": "最初に引くスキルが慈のスキルになる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "最初抽取的技能变为藤岛慈的技能。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1511,8 +1511,8 @@
     "raw": "最初に引くスキルが梢のスキルになる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "最初抽取的技能变为乙宗梢的技能。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1524,8 +1524,8 @@
     "raw": "最初に引くスキルが泉のスキルになる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "最初抽取的技能变为桂城泉的技能。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1537,8 +1537,8 @@
     "raw": "最初に引くスキルが瑠璃乃のスキルになる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "最初抽取的技能变为大泽瑠璃乃的技能。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1550,8 +1550,8 @@
     "raw": "最初に引くスキルが綴理のスキルになる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "最初抽取的技能变为夕雾缀理的技能。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1563,8 +1563,8 @@
     "raw": "最初に引くスキルが花帆のスキルになる。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "最初抽取的技能变为花帆的技能。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1576,8 +1576,8 @@
     "raw": "梢、さやかの消費APを-3する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "梢、沙耶香的消耗AP-3。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1589,8 +1589,8 @@
     "raw": "梢、綴理、花帆、さやかのスキル消費APを-2する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "梢、缀理、花帆、沙耶香的技能消耗AP-2。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1602,8 +1602,8 @@
     "raw": "梢、花帆の消費APを-3する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "梢、花帆的消耗AP-3。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1615,8 +1615,8 @@
     "raw": "梢の消費APを-2する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "梢的消耗AP-2。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1628,8 +1628,8 @@
     "raw": "梢の消費APを-3する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "梢的消耗AP-3。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1641,8 +1641,8 @@
     "raw": "梢の消費APを-9する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "梢的消耗AP-9。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1654,8 +1654,8 @@
     "raw": "消費APを+1する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "消耗AP+1。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1667,8 +1667,8 @@
     "raw": "消費APを+2する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "消耗AP+2。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1680,8 +1680,8 @@
     "raw": "消費APを-1する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "消耗AP-1。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1693,8 +1693,8 @@
     "raw": "消費APを-2する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "消耗AP-2。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1706,8 +1706,8 @@
     "raw": "消費APを-3する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "消耗AP-3。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1719,8 +1719,8 @@
     "raw": "瑠璃乃の消費APを-3する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "瑠璃乃的消耗AP-3。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1732,8 +1732,8 @@
     "raw": "綴理、さやかの消費APを-3する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "缀理、沙耶香的消耗AP-3。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1745,8 +1745,8 @@
     "raw": "綴理、瑠璃乃の消費APを-3する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "缀理、瑠璃乃的消耗AP-3。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1758,8 +1758,8 @@
     "raw": "綴理の消費APを-2する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "缀理的消耗AP-2。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1771,8 +1771,8 @@
     "raw": "綴理の消費APを-3する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "缀理的消耗AP-3。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1784,8 +1784,8 @@
     "raw": "綴理の消費APを-9する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "缀理的消耗AP-9。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1797,8 +1797,8 @@
     "raw": "花帆の消費APを-2する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "花帆的消耗AP-2。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1810,8 +1810,8 @@
     "raw": "花帆の消費APを-3する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "花帆的消耗AP-3。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -1823,8 +1823,8 @@
     "raw": "花帆の消費APを-9する。",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "花帆的消耗AP-9。",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",

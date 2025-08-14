@@ -3,8 +3,8 @@
     "raw": "スタンド1",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "看台1",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -16,8 +16,8 @@
     "raw": "スタンド2",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "看台2",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -29,8 +29,8 @@
     "raw": "スタンド3",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "看台3",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -42,8 +42,8 @@
     "raw": "スタンド4",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "看台4",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -55,8 +55,8 @@
     "raw": "スタンド5",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "看台5",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -68,8 +68,8 @@
     "raw": "スタンド6",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "看台6",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -81,8 +81,8 @@
     "raw": "デフォルト",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "默认",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",

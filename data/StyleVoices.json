@@ -3,8 +3,8 @@
     "raw": "スキル発動",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "技能发动",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -16,8 +16,8 @@
     "raw": "スペシャルアピール発動",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "特殊魅力发动",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -29,8 +29,8 @@
     "raw": "ライブ開始",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "Live开始",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",

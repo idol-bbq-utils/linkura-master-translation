@@ -11,14 +11,16 @@ prompt_module_map = {
     I18nLanguage.ZH_CN: zh_cn
 }
 
-def translate_file(api_client: anthropic.Anthropic, file: Path, target_language: I18nLanguage, chunk_size: int = 24) -> None:
+def translate_file(api_client: anthropic.Anthropic, file: Path, target_language: I18nLanguage, chunk_size: int = 24, limit: int = None) -> None:
     """
     Translate a file containing text entries to the specified language with chunked processing.
     
     Args:
+        api_client: Anthropic API client
         file: Path to the input file containing text entries
         target_language: Target language for translation
         chunk_size: Number of texts to process in each chunk (default: 24)
+        limit: Maximum number of items to translate (default: None, translate all)
     """
     prompt_module = prompt_module_map.get(target_language)
     if not prompt_module:
@@ -48,6 +50,12 @@ def translate_file(api_client: anthropic.Anthropic, file: Path, target_language:
     
     print(f"Found {len(untranslated_items)} untranslated items for {target_language.value}")
     
+    # Apply limit if specified
+    if limit is not None and limit > 0:
+        original_count = len(untranslated_items)
+        untranslated_items = untranslated_items[:limit]
+        print(f"Limited to {len(untranslated_items)} items (original: {original_count})")
+    
     # Get base prompt and reference examples
     base_prompt = prompt_module.prompt
     translate_reference = get_reference_prompt(file, target_language)
@@ -72,7 +80,7 @@ def translate_file(api_client: anthropic.Anthropic, file: Path, target_language:
 {texts_array_str}
 
 ## Output Format:
-Return ONLY a JSON array of translated texts in the same order as the original array. Do not include any explanatory text.
+Return ONLY a JSON array of translated texts in the same order as the original array. Do not include any explanatory text. Do not return markdown code format, just json string
 Example format: ["translated text 1", "translated text 2", ...]
 """
         
@@ -82,8 +90,9 @@ Example format: ["translated text 1", "translated text 2", ...]
         # print("=" * 50)
         
         # Call translation API
+        model_id = "claude-sonnet-4-20250514"
         message = api_client.messages.create(
-            model="claude-sonnet-4-20250514",
+            model=model_id,
             max_tokens=4000,
             messages=[
                 {"role": "user", "content": full_prompt}
@@ -112,9 +121,17 @@ Example format: ["translated text 1", "translated text 2", ...]
                     
                     # Fill in the translation
                     item["translation"][locale_key]["text"] = translated_texts[i]
-                    item["translation"][locale_key]["author"] = "claude-api"
+                    item["translation"][locale_key]["author"] = model_id
             
-            print(f"Successfully translated {len(translated_texts)} items in chunk {chunk_idx + 1}")
+            # Write updated data back to file after each chunk
+            try:
+                with open(file, 'w', encoding='utf-8') as f:
+                    json.dump(data, f, ensure_ascii=False, indent=2)
+                print(f"Successfully translated and saved {len(translated_texts)} items in chunk {chunk_idx + 1}")
+            except Exception as e:
+                print(f"Error writing file after chunk {chunk_idx + 1}: {e}")
+                # Continue processing other chunks even if one write fails
+                continue
             
         except json.JSONDecodeError as e:
             print(f"Error parsing JSON response for chunk {chunk_idx + 1}: {e}")
@@ -124,13 +141,8 @@ Example format: ["translated text 1", "translated text 2", ...]
             print(f"Error processing chunk {chunk_idx + 1}: {e}")
             continue
     
-    # Write updated data back to file
-    try:
-        with open(file, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-        print(f"Successfully updated translation file: {file}")
-    except Exception as e:
-        print(f"Error writing file {file}: {e}")
+    print(f"Translation process completed for file: {file}")
+    print(f"Total chunks processed: {chunk_idx + 1}")
 
 
 

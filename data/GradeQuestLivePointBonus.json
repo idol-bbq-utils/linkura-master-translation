@@ -3,8 +3,8 @@
     "raw": "レアリティ：BR",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "稀有度：BR",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -16,8 +16,8 @@
     "raw": "レアリティ：DR",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "稀有度：DR",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -29,8 +29,8 @@
     "raw": "通常",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "通常",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",

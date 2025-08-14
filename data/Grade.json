@@ -3,8 +3,8 @@
     "raw": "ゴールド",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "黄金",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -16,8 +16,8 @@
     "raw": "シルバー",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "白银",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -29,8 +29,8 @@
     "raw": "ビギナー",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "新手",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -42,8 +42,8 @@
     "raw": "ブロンズ",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "青铜",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
@@ -55,8 +55,8 @@
     "raw": "プラチナ",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "白金",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
         "text": "",
