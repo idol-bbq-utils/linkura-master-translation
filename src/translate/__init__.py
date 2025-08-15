@@ -11,7 +11,7 @@ prompt_module_map = {
     I18nLanguage.ZH_CN: zh_cn
 }
 
-def translate_file(api_client: anthropic.Anthropic, file: Path, target_language: I18nLanguage, chunk_size: int = 24, limit: int = None) -> None:
+def translate_file(api_client: anthropic.Anthropic, file: Path, target_language: I18nLanguage, chunk_size: int = 48, limit: int = None) -> None:
     """
     Translate a file containing text entries to the specified language with chunked processing.
     
@@ -58,7 +58,7 @@ def translate_file(api_client: anthropic.Anthropic, file: Path, target_language:
     
     # Get base prompt and reference examples
     base_prompt = prompt_module.prompt
-    translate_reference = get_reference_prompt(file, target_language)
+    translate_reference = get_reference_prompt(file, target_language, 40)
 
     
     # Process texts in chunks

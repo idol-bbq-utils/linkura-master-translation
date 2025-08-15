@@ -3,7 +3,9 @@ import json
 import random
 from src.model.localization import I18nLanguage
 
-def get_reference_prompt(input_file: Path, locale: I18nLanguage, limit: int = 10) -> str:
+author_exclude_keyword = ["ai", "claude", "llm"]
+
+def get_reference_prompt(input_file: Path, locale: I18nLanguage, limit: int = 30) -> str:
     """
     Generate reference prompt from translation file
     
@@ -28,6 +30,11 @@ def get_reference_prompt(input_file: Path, locale: I18nLanguage, limit: int = 10
             "translation" in item and
             locale_key in item["translation"] and
             item["translation"][locale_key].get("text", "").strip()):
+            
+            # Check if author contains any excluded keywords
+            author = item["translation"][locale_key].get("author", "").lower()
+            if any(keyword in author for keyword in author_exclude_keyword):
+                continue
             
             raw_text = item["raw"]
             translated_text = item["translation"][locale_key]["text"]
