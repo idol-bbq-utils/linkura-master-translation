@@ -8,11 +8,10 @@
 # 使用脚本更新
 
  - `make update` 更新 MasterDB 的 `orig` 和 `json` 文件
- - `make gen-todo` 生成待翻译文件到 `pretranslate_todo/todo` 文件夹内
-   - 需要手动将 `pretranslate_todo/todo` 内的文件复制到 `gakumas-generic-strings-translation/working/todo` 内，然后在 `gakumas-generic-strings-translation` 内运行 `make pretranslate`
-   - 翻译完成后将 `gakumas-generic-strings-translation/working/new` 内的文件复制到 `pretranslate_todo/todo/new` 内。若 `new` 文件夹不存在，则手动创建
- - `make merge` 将 `pretranslate_todo/todo/new` 内的文件合并到 `data`
- - 全部处理完成后，请手动清空 `pretranslate_todo` 文件夹
+ - `make gen-todo` 生成待翻译文件到 `data` 文件夹内
+   - 可以使用 `python main.py --locale zh-CN translate --limit 100 -f data/Stickers.json` 执行大模型翻译
+   - 如 `ANTHROPIC_API_KEY=key ANTHROPIC_BASE_URL=https://api_url/ python main.py --locale zh-CN translate --limit 9600 -f data/Stickers.json`
+ - 翻译完成后可使用 `python main.py --locale zh-CN generate` 来生成汉化进度统计
 
 
 
@@ -31,3 +30,9 @@
 
 1. 生成 todo 文件: 运行 `pretranslate_process.py` 选 2。旧的翻译数据在 `data` 内，新的文件使用 `gakumasu_diff_to_json` 生成
 2. 预翻译完成后，将新文件放入 `todo/new` 内，运行 `pretranslate_process.py` 选 4
+
+## translation progress
+
+![translation zh-CN](https://img.shields.io/badge/translation_zh--CN-28909%2F29413-blue)
+
+---

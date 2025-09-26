@@ -377,6 +377,32 @@
     }
   },
   {
+    "raw": "第5話『桂城 泉』",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "第5话『桂城泉』",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "第5話『眠れる海のお姫様！』",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "第5话『沉睡之海的公主！』",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "第5話『顔を上げて』",
     "translation": {
       "zh-CN": {
@@ -412,6 +438,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "第6話『未来への花』",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "第6话『通向未来的花朵』",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -490,6 +529,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "～Shades of Stars～",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "～Shades of Stars～",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   }

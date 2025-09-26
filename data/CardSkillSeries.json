@@ -1,5 +1,18 @@
 [
   {
+    "raw": "102エバーモア",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "102永恒",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "APエスカレート：メンタル & メンタルバリア：ハートキャプチャ",
     "translation": {
       "zh-CN": {
@@ -48,6 +61,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "APゲイン：ブレイブ & リインフォース",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "AP获得：Brave & 强化",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -377,6 +403,19 @@
     }
   },
   {
+    "raw": "APレデュース：梢 & 吟子 & ハートブースト：梢 & 吟子",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "AP减少：梢 & 吟子 & 心心提升：梢 & 吟子",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "APレデュース：梢 & 綴理 & 慈",
     "translation": {
       "zh-CN": {
@@ -438,6 +477,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "APレデュース：綴理 & 小鈴 & アトラクトブースト：綴理 & 小鈴",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "AP减少：缀理 & 小铃 & 魅力提升：缀理 & 小铃",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -559,6 +611,32 @@
     }
   },
   {
+    "raw": "‖デーモニックウイング",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "‖恶魔之翼",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "《37.5℃のファンタジー》",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "《37.5℃のファンタジー》",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "《シュータードレス/RIO》",
     "translation": {
       "zh-CN": {
@@ -585,6 +663,19 @@
     }
   },
   {
+    "raw": "《可惜夜花火》",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "《可惜夜花火》",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "《奇跡の舞踏会》",
     "translation": {
       "zh-CN": {
@@ -594,6 +685,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "《蒼のツバメ》",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "《蒼のツバメ》",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -633,6 +737,32 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "みらくらサークル",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Mira-Cra 圈",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "みらくら・マーブル・ブースト!!",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Mira-Cra·大理石·提升!!",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -780,6 +910,19 @@
     }
   },
   {
+    "raw": "アグレッシブグルーヴィブースト",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "积极律动提升",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "アグレッシブハート",
     "translation": {
       "zh-CN": {
@@ -923,6 +1066,19 @@
     }
   },
   {
+    "raw": "アグレッシブブーステッドボルテージ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "积极提升电压",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "アグレッシブブースト：DOLLCHESTRA",
     "translation": {
       "zh-CN": {
@@ -975,6 +1131,19 @@
     }
   },
   {
+    "raw": "アグレッシブメロウアンビエンス",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "积极悠扬氛围",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "アグレッシブリゲイン",
     "translation": {
       "zh-CN": {
@@ -1010,6 +1179,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "アサガオデュー",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "牵牛花露水",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1183,6 +1365,32 @@
     }
   },
   {
+    "raw": "アバンダンスブーステッドアトラクト",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "丰富提升魅力",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "アバンダンスブーステッドハート",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "丰富提升心心",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "アバンダンスブーステッドリカバーハート",
     "translation": {
       "zh-CN": {
@@ -1274,6 +1482,19 @@
     }
   },
   {
+    "raw": "アンビエンスハート",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "氛围心心",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "アーリードロー：3/APゲイン & レイトドロー：3/APレデュース",
     "translation": {
       "zh-CN": {
@@ -1287,6 +1508,19 @@
     }
   },
   {
+    "raw": "アーリードロー：3/APゲイン & レイトドロー：3/APレデュース & ハッピーアンビエンス",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "早期抽取：3/AP获得 & 延迟抽取：3/AP减少 & 快乐氛围",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "アーリードロー：3/APレデュース",
     "translation": {
       "zh-CN": {
@@ -1296,6 +1530,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "イグザクトアトラクション",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "精确魅力",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1404,6 +1651,19 @@
     }
   },
   {
+    "raw": "イザヨイラバー",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "十六夜恋人",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "イニシアチブ",
     "translation": {
       "zh-CN": {
@@ -1426,6 +1686,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "イミテーションエクステアトラクト",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "模拟延展魅力",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1469,6 +1742,58 @@
     }
   },
   {
+    "raw": "イミテーションライト",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "模拟光芒",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "イミテーションリフレッシュプロテクト",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "模拟刷新保护",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "イミテーションワイド",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "模拟宽广",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "イルミネイトブースト",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "照明提升",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "インクリーズ",
     "translation": {
       "zh-CN": {
@@ -1504,6 +1829,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "インスタンス & アバンダンス：APゲイン",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "瞬间 & 丰富：AP获得",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1547,6 +1885,58 @@
     }
   },
   {
+    "raw": "インスタンス & ドロー：アトラクトブースト：みらくらぱーく！",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "瞬间 & 抽取：魅力提升：Mira-Cra Park!",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "インスタンス & ドロー：サウンドヒート",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "瞬间 & 抽取：音效热度",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "インスタンス & ドロー：ハートブースト：スリーズブーケ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "瞬间 & 抽取：心心提升：Ceriese Bouquet",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "インスタンス & ドロー：ボルテージブースト：DOLLCHESTRA",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "瞬间 & 抽取：电压提升：DOLLCHESTRA",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "インスタンス & ドロー：ワイドハート",
     "translation": {
       "zh-CN": {
@@ -1560,6 +1950,19 @@
     }
   },
   {
+    "raw": "インスタンス & ワイドハート",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "瞬间 & 宽广心心",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "インスタンス ＆ APレデュース：サウンド",
     "translation": {
       "zh-CN": {
@@ -1569,6 +1972,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "インスタンス＆アバンダンス：APレデュース",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "瞬间&丰富：AP减少",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1595,6 +2011,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "インタープリテーション & サウンドハートブースト：さやか",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "诠释 & 音效心心提升：沙耶香",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1794,6 +2223,19 @@
     }
   },
   {
+    "raw": "エクステアンビエンス",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "延展氛围",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "エクスティンクション",
     "translation": {
       "zh-CN": {
@@ -1816,6 +2258,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "エクステスケルツォアンビエンス",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "延展诙谐氛围",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1950,6 +2405,19 @@
     }
   },
   {
+    "raw": "エクステメロウバイブス",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "延展悠扬氛围",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "エクステメンター",
     "translation": {
       "zh-CN": {
@@ -1989,6 +2457,58 @@
     }
   },
   {
+    "raw": "エクステリテイクワイド",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "延展重取宽广",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "エクステリフレッシュゲイン",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "延展刷新获得",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "エクステリフレッシュヒート",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "延展刷新热度",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "エクステリブートボルテージ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "延展重启电压",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "エクステンドハンド",
     "translation": {
       "zh-CN": {
@@ -2011,6 +2531,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "エクステンドハンド：3 & ヒートアップ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "延长之手：3 & 升温",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -2050,6 +2583,32 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "エンジェリックブライト",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "天使光辉",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "エンジェルアシスト",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "天使协助",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -3003,6 +3562,19 @@
     }
   },
   {
+    "raw": "グルーヴィアンビエンスゲイン",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "律动氛围获得",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "グルーヴィイニシアチブ",
     "translation": {
       "zh-CN": {
@@ -3012,6 +3584,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "グルーヴィシグニャル",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "律动信号",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -3068,6 +3653,19 @@
     }
   },
   {
+    "raw": "グルーヴィヒートバイブス",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "律动热度氛围",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "グルーヴィファッシネイト",
     "translation": {
       "zh-CN": {
@@ -3090,6 +3688,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "グルーヴィブーステッドアトラクト",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "律动提升魅力",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -3185,6 +3796,19 @@
     }
   },
   {
+    "raw": "グルーヴイグニッション",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "律动点火",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "グレイスブーケ",
     "translation": {
       "zh-CN": {
@@ -3211,6 +3835,45 @@
     }
   },
   {
+    "raw": "ゲーミングバディ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "游戏伙伴",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ココナツトロピカル",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "椰子热带",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ココナツパラダイス",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "椰子天堂",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "コーチング",
     "translation": {
       "zh-CN": {
@@ -3224,6 +3887,19 @@
     }
   },
   {
+    "raw": "サウンドアトラクトブースト",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Sound Attract Boost",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "サウンドアンビエンス",
     "translation": {
       "zh-CN": {
@@ -3233,6 +3909,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "サウンドグルーヴィハート",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Sound Groovy Heart",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -3276,6 +3965,97 @@
     }
   },
   {
+    "raw": "サウンドフュージョン",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Sound Fusion",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サウンドブーステッドアトラクション",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Sound Boosted Attraction",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サウンドブーステッドアトラクト",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Sound Boosted Attract",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サウンドブーステッドハート",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Sound Boosted Heart",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サウンドブーステッドファッシネイション",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Sound Boosted Fascination",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サウンドブーステッドフィール",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Sound Boosted Feel",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サウンドブーステッドボルテージ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Sound Boosted Voltage",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "サウンドプロテクト",
     "translation": {
       "zh-CN": {
@@ -3289,6 +4069,45 @@
     }
   },
   {
+    "raw": "サウンドボルテージバイブス",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Sound Voltage Vibes",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サウンドリゲイン",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Sound Regain",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サウンドリフレッシュ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Sound Refresh",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "サウンドリフレッシュマインド",
     "translation": {
       "zh-CN": {
@@ -3298,6 +4117,45 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "サウンドリプレイアトラクション",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Sound Replay Attraction",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サウンドワイドハート",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Sound Wide Heart",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サウンド・セイバー",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Sound·Saver",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -3337,6 +4195,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "サウンド：ドロー：ワイドハート",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Sound：Draw：Wide Heart",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -3389,6 +4260,97 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "サマードーン",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Summer Dawn",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サマーナイトスパーク",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Summer Night Spark",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サマーナイトフラワー",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Summer Night Flower",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サマーマジックアワー",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Summer Magic Hour",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サンシェン",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Sun Shine",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サンセットスター",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Sunset Star",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サンセットライト",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Sunset Light",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -3562,6 +4524,19 @@
     }
   },
   {
+    "raw": "シーファンジーホア",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Sea Fantasy Flower",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "シーユーアゲイン",
     "translation": {
       "zh-CN": {
@@ -3653,6 +4628,19 @@
     }
   },
   {
+    "raw": "ジャストドロー：2/APレデュース & APゲイン",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Just Draw：2/AP Reduce & AP Gain",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ジャストドロー：フィナーレ/APレデュース＆アザードロー：アトラクトブースト",
     "translation": {
       "zh-CN": {
@@ -3692,6 +4680,19 @@
     }
   },
   {
+    "raw": "ジャストドロー：フィーバー/リタルダンド＆バイブス＆アンビエンス",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Just Draw：Fever/Ritardando & Vibes & Ambience",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "スイッチアトラクション",
     "translation": {
       "zh-CN": {
@@ -3727,6 +4728,32 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "スウィートトリック",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Sweet Trick",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "スウィートドリーム",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Sweet Dream",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -3783,6 +4810,19 @@
     }
   },
   {
+    "raw": "スーシェン",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Su Shine",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ズッキュン♡ラブビーム",
     "translation": {
       "zh-CN": {
@@ -3792,6 +4832,32 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "セインテスバディ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Saintess Buddy",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "セラフィックウイング‖",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Seraphic Wing‖",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -3809,6 +4875,19 @@
     }
   },
   {
+    "raw": "センコウハナビ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "闪光烟花",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ソラス",
     "translation": {
       "zh-CN": {
@@ -3818,6 +4897,84 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ソルフューエル",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Sol Fuel",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ソルブレイブ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Sol Brave",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ソーラーココナツ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Solar Coconut",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "タイムレス∞スピリッツ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Timeless∞Spirits",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "タイムレス∞フォース",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Timeless∞Force",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "タイムレス∞ボルテージ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Timeless∞Voltage",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -3844,6 +5001,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ダブルパンチ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Double Punch",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -3978,6 +5148,19 @@
     }
   },
   {
+    "raw": "チアフルブースト：みらくらぱーく！",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Cheerful Boost：Mira-Cra Park!",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "チアフルプロテクト",
     "translation": {
       "zh-CN": {
@@ -4056,6 +5239,19 @@
     }
   },
   {
+    "raw": "チアフルリゲインエクステンド",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Cheerful Regain Extend",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "チェイス＊ドリーム",
     "translation": {
       "zh-CN": {
@@ -4117,6 +5313,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "チェイン：さやか & ジャストドロー：フィーバー/APレデュース & リインフォース",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Chain：沙耶香 & Just Draw：Fever/AP Reduce & Reinforce",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -4433,6 +5642,19 @@
     }
   },
   {
+    "raw": "チェイン：花帆 & ジャストドロー：フィーバー/APレデュース & リインフォース & APゲイン",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Chain：花帆 & Just Draw：Fever/AP Reduce & Reinforce & AP Gain",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "チェイン：花帆 & ドロー：APゲイン & アトラクトブースト：さやか",
     "translation": {
       "zh-CN": {
@@ -4719,6 +5941,19 @@
     }
   },
   {
+    "raw": "ツバメガエシ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "燕返",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "テイラー",
     "translation": {
       "zh-CN": {
@@ -4728,6 +5963,45 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "テトラゲイン",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Tetra Gain",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "テトラハート",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Tetra Heart",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "デイタイムホット",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Daytime Hot",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -4745,6 +6019,19 @@
     }
   },
   {
+    "raw": "デビルアシスト",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Devil Assist",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "デュオアトラクト",
     "translation": {
       "zh-CN": {
@@ -4754,6 +6041,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "トゥモローリボン",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Tomorrow Ribbon",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -4901,6 +6201,45 @@
     }
   },
   {
+    "raw": "トリプレットアトラクト",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Triplet Attract",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "トリプレットボルテージ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Triplet Voltage",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "トリプレットワイド",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Triplet Wide",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ドライブイグニッション",
     "translation": {
       "zh-CN": {
@@ -4940,6 +6279,19 @@
     }
   },
   {
+    "raw": "ドリームジョッキー",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Dream Jockey",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ドリームブーケ",
     "translation": {
       "zh-CN": {
@@ -4962,6 +6314,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ドレス《37.5℃のファンタジー》",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "服装《37.5℃のファンタジー》",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -5135,6 +6500,19 @@
     }
   },
   {
+    "raw": "ドレス《フルーツパンチ》",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "服装《フルーツパンチ》",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ドレス《ユメワズライ》",
     "translation": {
       "zh-CN": {
@@ -5170,6 +6548,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ドレス《可惜夜花火》",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "服装《可惜夜花火》",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -5226,6 +6617,19 @@
     }
   },
   {
+    "raw": "ドレス《蒼のツバメ》",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "服装《蒼のツバメ》",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ドレス《青嵐の鯉流し》",
     "translation": {
       "zh-CN": {
@@ -5235,6 +6639,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ドロー & コレクト：ワイドハート",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Draw & Collect：Wide Heart",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -5343,6 +6760,19 @@
     }
   },
   {
+    "raw": "ドロー：APレデュース & ハートブースト",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Draw：AP Reduce & Heart Boost",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ドロー：APレデュース：グルーヴィ＆チアフル",
     "translation": {
       "zh-CN": {
@@ -5417,6 +6847,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ドロー：アトラクトブースト & イグニッション：みらくらぱーく！",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Draw：Attract Boost & Ignition：Mira-Cra Park!",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -5651,6 +7094,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ドロー：ハートブースト & コレクト：ワイドハート",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Draw：Heart Boost & Collect：Wide Heart",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -6136,6 +7592,32 @@
     }
   },
   {
+    "raw": "ナイトクイーン",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Night Queen",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ナイトグロウ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Night Glow",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ナインハート・アトラクション",
     "translation": {
       "zh-CN": {
@@ -6266,6 +7748,19 @@
     }
   },
   {
+    "raw": "ナナドゴブ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Nanado Gob",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ハイアトラクト",
     "translation": {
       "zh-CN": {
@@ -6379,6 +7874,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ハートキャプチャ & ワイドハート：DOLLCHESTRA",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Heart Capture & Wide Heart：DOLLCHESTRA",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -6500,6 +8008,19 @@
     }
   },
   {
+    "raw": "ハートフルパンチ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Heartful Punch",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ハートブレッシング",
     "translation": {
       "zh-CN": {
@@ -6561,6 +8082,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "バックリットアンビエンス",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Backlit Ambience",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -6630,6 +8164,19 @@
     }
   },
   {
+    "raw": "ヒートアップ & サウンドプロテクトブースト",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Heat Up & Sound Protect Boost",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ヒートアップ：ハートキャプチャ",
     "translation": {
       "zh-CN": {
@@ -6656,6 +8203,19 @@
     }
   },
   {
+    "raw": "ヒートアップ：ブレイブ & ドロー：サウンドボルテージブースト",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Heat Up：Brave & Draw：Sound Voltage Boost",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ヒーリングハート",
     "translation": {
       "zh-CN": {
@@ -6665,6 +8225,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ヒーローズイグニッション",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Heroes Ignition",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -6691,6 +8264,32 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ビリーフマイセルフ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Belief Myself",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ファイアフラワー",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Fire Flower",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -6808,6 +8407,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "フェイバリット：2 & ジャストドロー：2/APレデュース & エクステンドハンド",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Favorite：2 & Just Draw：2/AP Reduce & Extend Hand",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -7007,6 +8619,32 @@
     }
   },
   {
+    "raw": "フラワーイグニッション",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Flower Ignition",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "フラワーシーケンス",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Flower Sequence",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "フルネスエクステハート",
     "translation": {
       "zh-CN": {
@@ -7072,6 +8710,19 @@
     }
   },
   {
+    "raw": "フルーツパンチ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Fruits Punch",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "フレッシュブーケ",
     "translation": {
       "zh-CN": {
@@ -7094,6 +8745,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ブラストアトラクション",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Blast Attraction",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -7146,6 +8810,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ブレイブアグレッシブアトラクション",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Brave Aggressive Attraction",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -7423,6 +9100,19 @@
     }
   },
   {
+    "raw": "ベイファンジーホア",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Bay Funji Hoa",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ボルテックスアトラクション",
     "translation": {
       "zh-CN": {
@@ -7592,6 +9282,19 @@
     }
   },
   {
+    "raw": "マーメイドプライド",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Mermaid Pride",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ミッドドロー：2〜4/APレデュース＆アザードロー：ハートブースト",
     "translation": {
       "zh-CN": {
@@ -7605,6 +9308,19 @@
     }
   },
   {
+    "raw": "ミッドワイドビリーフ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Mid Wide Belief",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ミラージュ",
     "translation": {
       "zh-CN": {
@@ -7614,6 +9330,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ムーンライトブルーム",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Moonlight Bloom",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -7696,6 +9425,19 @@
     }
   },
   {
+    "raw": "メーデーメロウ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Mayday Mellow",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "モジュレートエクステブースト",
     "translation": {
       "zh-CN": {
@@ -7731,6 +9473,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "モーニングライズ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Morning Rise",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -7783,6 +9538,32 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ラブコレクト・ブレス",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Love Collect Bless",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ラブフレーバー",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Love Flavor",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -7943,6 +9724,19 @@
     }
   },
   {
+    "raw": "リットアトラクトバイブス",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Lit Attract Vibes",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "リットハッピーアンビエンス",
     "translation": {
       "zh-CN": {
@@ -7952,6 +9746,32 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "リテイクワイド",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Retake Wide",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "リピートアンビエンス",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Repeat Ambience",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -8164,6 +9984,19 @@
     }
   },
   {
+    "raw": "リブートエクステ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Reboot Exten",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "リブートエクステンド",
     "translation": {
       "zh-CN": {
@@ -8346,6 +10179,19 @@
     }
   },
   {
+    "raw": "レイディアントアトラクション",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Radiant Attraction",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "レイトドロー：3/APレデュース",
     "translation": {
       "zh-CN": {
@@ -8355,6 +10201,32 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "レイトドロー：3/APレデュース & APゲイン",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Late Draw：3/AP Reduce & AP Gain",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "レイトドロー：3/APレデュース & ハッピーアンビエンス",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Late Draw：3/AP Reduce & Happy Ambience",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -8446,6 +10318,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ワイドヒート",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Wide Heat",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },

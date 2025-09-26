@@ -195,6 +195,32 @@
     }
   },
   {
+    "raw": "105期2ndTerm 第2回 サークル対抗戦",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "105期2ndTerm 第2回 社团对抗战",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "105期3rdTerm 第1回 サークル対抗戦",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "105期3rdTerm 第1回 社团对抗战",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "105期OpeningTerm サークル対抗戦",
     "translation": {
       "zh-CN": {
@@ -386,6 +412,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期3rdTerm 第1回 個人戦",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期3rdTerm 第1回 个人战",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },

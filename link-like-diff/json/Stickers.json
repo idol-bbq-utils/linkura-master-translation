@@ -1164,6 +1164,12 @@
             "RequirementText": "[紅葉乃舞姫]日野下 花帆 解放完了"
         },
         {
+            "Id": 10314221,
+            "Name": "[四蓮琴之武]日野下 花帆",
+            "Text": "[四蓮琴之武]日野下 花帆 を4回解放した記念のステッカー",
+            "RequirementText": "[四蓮琴之武]日野下 花帆 解放完了"
+        },
+        {
             "Id": 10315011,
             "Name": "[Dream Believers]日野下 花帆",
             "Text": "[Dream Believers]日野下 花帆を4回解放した記念のステッカー",
@@ -1348,6 +1354,12 @@
             "Name": "[フルーツパンチ]日野下 花帆",
             "Text": "[フルーツパンチ]日野下 花帆 を4回解放した記念のステッカー",
             "RequirementText": "[フルーツパンチ]日野下 花帆 解放完了"
+        },
+        {
+            "Id": 10315321,
+            "Name": "[可惜夜花火]日野下 花帆",
+            "Text": "[可惜夜花火]日野下 花帆 を4回解放した記念のステッカー",
+            "RequirementText": "[可惜夜花火]日野下 花帆 解放完了"
         },
         {
             "Id": 10318011,
@@ -1564,6 +1576,18 @@
             "Name": "[COMPASS]村野 さやか",
             "Text": "[COMPASS]村野 さやか を4回解放した記念のステッカー",
             "RequirementText": "[COMPASS]村野 さやか 解放完了"
+        },
+        {
+            "Id": 10324231,
+            "Name": "[ブルウモーメント]村野 さやか",
+            "Text": "[ブルウモーメント]村野 さやか を4回解放した記念のステッカー",
+            "RequirementText": "[ブルウモーメント]村野 さやか 解放完了"
+        },
+        {
+            "Id": 10324241,
+            "Name": "[四蓮琴之虎]村野 さやか",
+            "Text": "[四蓮琴之虎]村野 さやか を4回解放した記念のステッカー",
+            "RequirementText": "[四蓮琴之虎]村野 さやか 解放完了"
         },
         {
             "Id": 10325011,
@@ -2064,6 +2088,12 @@
             "RequirementText": "[Very! Very! COCO夏っ]大沢 瑠璃乃 解放完了"
         },
         {
+            "Id": 10335261,
+            "Name": "[ニャオシグニャル]大沢 瑠璃乃",
+            "Text": "[ニャオシグニャル]大沢 瑠璃乃 を4回解放した記念のステッカー",
+            "RequirementText": "[ニャオシグニャル]大沢 瑠璃乃 解放完了"
+        },
+        {
             "Id": 10338011,
             "Name": "[Prism Echo]大沢 瑠璃乃",
             "Text": "[Prism Echo]大沢 瑠璃乃 を4回解放した記念のステッカー",
@@ -2104,6 +2134,12 @@
             "Name": "[17th Birthday]大沢 瑠璃乃",
             "Text": "[17th Birthday]大沢 瑠璃乃 を4回解放した記念のステッカー",
             "RequirementText": "[17th Birthday]大沢 瑠璃乃 解放完了"
+        },
+        {
+            "Id": 10339021,
+            "Name": "[18th Birthday]大沢 瑠璃乃",
+            "Text": "[18th Birthday]大沢 瑠璃乃 を4回解放した記念のステッカー",
+            "RequirementText": "[18th Birthday]大沢 瑠璃乃 解放完了"
         },
         {
             "Id": 10413011,
@@ -2244,6 +2280,18 @@
             "RequirementText": "[フルーツパンチ]百生 吟子 解放完了"
         },
         {
+            "Id": 10415171,
+            "Name": "[可惜夜花火]百生 吟子",
+            "Text": "[可惜夜花火]百生 吟子 を4回解放した記念のステッカー",
+            "RequirementText": "[可惜夜花火]百生 吟子 解放完了"
+        },
+        {
+            "Id": 10415181,
+            "Name": "[蒼のツバメ]百生 吟子",
+            "Text": "[蒼のツバメ]百生 吟子 を4回解放した記念のステッカー",
+            "RequirementText": "[蒼のツバメ]百生 吟子 解放完了"
+        },
+        {
             "Id": 10418011,
             "Name": "[Ether Aria]百生 吟子",
             "Text": "[Ether Aria]百生 吟子 を4回解放した記念のステッカー",
@@ -2314,6 +2362,12 @@
             "Name": "[魔法少女リズミックハート２]徒町 小鈴",
             "Text": "[魔法少女リズミックハート２]徒町 小鈴 を4回解放した記念のステッカー",
             "RequirementText": "[魔法少女リズミックハート２]徒町 小鈴 解放完了"
+        },
+        {
+            "Id": 10424041,
+            "Name": "[ブルウモーメント]徒町 小鈴",
+            "Text": "[ブルウモーメント]徒町 小鈴 を4回解放した記念のステッカー",
+            "RequirementText": "[ブルウモーメント]徒町 小鈴 解放完了"
         },
         {
             "Id": 10425011,
@@ -2586,6 +2640,12 @@
             "RequirementText": "[Very! Very! COCO夏っ]安養寺 姫芽 解放完了"
         },
         {
+            "Id": 10435171,
+            "Name": "[ニャオシグニャル]安養寺 姫芽",
+            "Text": "[ニャオシグニャル]安養寺 姫芽 を4回解放した記念のステッカー",
+            "RequirementText": "[ニャオシグニャル]安養寺 姫芽 解放完了"
+        },
+        {
             "Id": 10438011,
             "Name": "[Ether Aria]安養寺 姫芽",
             "Text": "[Ether Aria]安養寺 姫芽 を4回解放した記念のステッカー",
@@ -2614,6 +2674,12 @@
             "Name": "[16th Birthday]安養寺 姫芽",
             "Text": "[16th Birthday]安養寺 姫芽 を4回解放した記念のステッカー",
             "RequirementText": "[16th Birthday]安養寺 姫芽 解放完了"
+        },
+        {
+            "Id": 10439021,
+            "Name": "[17th Birthday]安養寺 姫芽",
+            "Text": "[17th Birthday]安養寺 姫芽 を4回解放した記念のステッカー",
+            "RequirementText": "[17th Birthday]安養寺 姫芽 解放完了"
         },
         {
             "Id": 10444011,
@@ -2668,6 +2734,18 @@
             "Name": "[蒼のツバメ]桂城 泉",
             "Text": "[蒼のツバメ]桂城 泉 を4回解放した記念のステッカー",
             "RequirementText": "[蒼のツバメ]桂城 泉 解放完了"
+        },
+        {
+            "Id": 10515051,
+            "Name": "[フュージョンクラスト]桂城 泉",
+            "Text": "[フュージョンクラスト]桂城 泉 を4回解放した記念のステッカー",
+            "RequirementText": "[フュージョンクラスト]桂城 泉 解放完了"
+        },
+        {
+            "Id": 10515061,
+            "Name": "[片翼のトリバガ]桂城 泉",
+            "Text": "[片翼のトリバガ]桂城 泉 を4回解放した記念のステッカー",
+            "RequirementText": "[片翼のトリバガ]桂城 泉 解放完了"
         },
         {
             "Id": 10518011,
@@ -2728,6 +2806,18 @@
             "Name": "[天地黎明]セラス 柳田 リリエンフェルト",
             "Text": "[天地黎明]セラス 柳田 リリエンフェルト を4回解放した記念のステッカー",
             "RequirementText": "[天地黎明]セラス 柳田 リリエンフェルト 解放完了"
+        },
+        {
+            "Id": 10525051,
+            "Name": "[フュージョンクラスト]セラス 柳田 リリエンフェルト",
+            "Text": "[フュージョンクラスト]セラス 柳田 リリエンフェルト を4回解放した記念のステッカー",
+            "RequirementText": "[フュージョンクラスト]セラス 柳田 リリエンフェルト 解放完了"
+        },
+        {
+            "Id": 10525061,
+            "Name": "[片翼のトリバガ]セラス 柳田 リリエンフェルト",
+            "Text": "[片翼のトリバガ]セラス 柳田 リリエンフェルト を4回解放した記念のステッカー",
+            "RequirementText": "[片翼のトリバガ]セラス 柳田 リリエンフェルト 解放完了"
         },
         {
             "Id": 10528011,
@@ -6042,6 +6132,234 @@
             "RequirementText": "105期2ndTerm 第1回 サークル対抗戦に参加"
         },
         {
+            "Id": 20250501,
+            "Name": "105期2ndTerm 第2回 サークル対抗戦 1位",
+            "Text": "105期2ndTerm 第2回 サークル対抗戦 1位 を称えるステッカー",
+            "RequirementText": "105期2ndTerm 第2回 サークル対抗戦 1位 入賞"
+        },
+        {
+            "Id": 20250502,
+            "Name": "105期2ndTerm 第2回 サークル対抗戦 2位",
+            "Text": "105期2ndTerm 第2回 サークル対抗戦 2位 を称えるステッカー",
+            "RequirementText": "105期2ndTerm 第2回 サークル対抗戦 2位 入賞"
+        },
+        {
+            "Id": 20250503,
+            "Name": "105期2ndTerm 第2回 サークル対抗戦 3位",
+            "Text": "105期2ndTerm 第2回 サークル対抗戦 3位 を称えるステッカー",
+            "RequirementText": "105期2ndTerm 第2回 サークル対抗戦 3位 入賞"
+        },
+        {
+            "Id": 20250504,
+            "Name": "105期2ndTerm 第2回 サークル対抗戦 4位",
+            "Text": "105期2ndTerm 第2回 サークル対抗戦 4位 を称えるステッカー",
+            "RequirementText": "105期2ndTerm 第2回 サークル対抗戦 4位 入賞"
+        },
+        {
+            "Id": 20250505,
+            "Name": "105期2ndTerm 第2回 サークル対抗戦 5位",
+            "Text": "105期2ndTerm 第2回 サークル対抗戦 5位 を称えるステッカー",
+            "RequirementText": "105期2ndTerm 第2回 サークル対抗戦 5位 入賞"
+        },
+        {
+            "Id": 20250506,
+            "Name": "105期2ndTerm 第2回 サークル対抗戦 6位",
+            "Text": "105期2ndTerm 第2回 サークル対抗戦 6位 を称えるステッカー",
+            "RequirementText": "105期2ndTerm 第2回 サークル対抗戦 6位 入賞"
+        },
+        {
+            "Id": 20250507,
+            "Name": "105期2ndTerm 第2回 サークル対抗戦 7位",
+            "Text": "105期2ndTerm 第2回 サークル対抗戦 7位 を称えるステッカー",
+            "RequirementText": "105期2ndTerm 第2回 サークル対抗戦 7位 入賞"
+        },
+        {
+            "Id": 20250508,
+            "Name": "105期2ndTerm 第2回 サークル対抗戦 8位",
+            "Text": "105期2ndTerm 第2回 サークル対抗戦 8位 を称えるステッカー",
+            "RequirementText": "105期2ndTerm 第2回 サークル対抗戦 8位 入賞"
+        },
+        {
+            "Id": 20250509,
+            "Name": "105期2ndTerm 第2回 サークル対抗戦 9位",
+            "Text": "105期2ndTerm 第2回 サークル対抗戦 9位 を称えるステッカー",
+            "RequirementText": "105期2ndTerm 第2回 サークル対抗戦 9位 入賞"
+        },
+        {
+            "Id": 20250510,
+            "Name": "105期2ndTerm 第2回 サークル対抗戦 10位",
+            "Text": "105期2ndTerm 第2回 サークル対抗戦 10位 を称えるステッカー",
+            "RequirementText": "105期2ndTerm 第2回 サークル対抗戦 10位 入賞"
+        },
+        {
+            "Id": 20250511,
+            "Name": "105期2ndTerm 第2回 サークル対抗戦 TOP30位",
+            "Text": "105期2ndTerm 第2回 サークル対抗戦 TOP30位 を称えるステッカー",
+            "RequirementText": "105期2ndTerm 第2回 サークル対抗戦 TOP30位 入賞"
+        },
+        {
+            "Id": 20250512,
+            "Name": "105期2ndTerm 第2回 サークル対抗戦 TOP100位",
+            "Text": "105期2ndTerm 第2回 サークル対抗戦 TOP100位 を称えるステッカー",
+            "RequirementText": "105期2ndTerm 第2回 サークル対抗戦 TOP100位 入賞"
+        },
+        {
+            "Id": 20250513,
+            "Name": "105期2ndTerm 第2回 サークル対抗戦 TOP200位",
+            "Text": "105期2ndTerm 第2回 サークル対抗戦 TOP200位 を称えるステッカー",
+            "RequirementText": "105期2ndTerm 第2回 サークル対抗戦 TOP200位 入賞"
+        },
+        {
+            "Id": 20250514,
+            "Name": "105期2ndTerm 第2回 サークル対抗戦 TOP300位",
+            "Text": "105期2ndTerm 第2回 サークル対抗戦 TOP300位 を称えるステッカー",
+            "RequirementText": "105期2ndTerm 第2回 サークル対抗戦 TOP300位 入賞"
+        },
+        {
+            "Id": 20250515,
+            "Name": "105期2ndTerm 第2回 サークル対抗戦 TOP500位",
+            "Text": "105期2ndTerm 第2回 サークル対抗戦 TOP500位 を称えるステッカー",
+            "RequirementText": "105期2ndTerm 第2回 サークル対抗戦 TOP500位 入賞"
+        },
+        {
+            "Id": 20250516,
+            "Name": "105期2ndTerm 第2回 サークル対抗戦 TOP1000位",
+            "Text": "105期2ndTerm 第2回 サークル対抗戦 TOP1000位 を称えるステッカー",
+            "RequirementText": "105期2ndTerm 第2回 サークル対抗戦 TOP1000位 入賞"
+        },
+        {
+            "Id": 20250517,
+            "Name": "105期2ndTerm 第2回 サークル対抗戦 TOP1500位",
+            "Text": "105期2ndTerm 第2回 サークル対抗戦 TOP1500位 を称えるステッカー",
+            "RequirementText": "105期2ndTerm 第2回 サークル対抗戦 TOP1500位 入賞"
+        },
+        {
+            "Id": 20250518,
+            "Name": "105期2ndTerm 第2回 サークル対抗戦 TOP2000位",
+            "Text": "105期2ndTerm 第2回 サークル対抗戦 TOP2000位 を称えるステッカー",
+            "RequirementText": "105期2ndTerm 第2回 サークル対抗戦 TOP2000位 入賞"
+        },
+        {
+            "Id": 20250519,
+            "Name": "105期2ndTerm 第2回 サークル対抗戦 参加",
+            "Text": "105期2ndTerm 第2回 サークル対抗戦 参加賞のステッカー",
+            "RequirementText": "105期2ndTerm 第2回 サークル対抗戦に参加"
+        },
+        {
+            "Id": 20250601,
+            "Name": "105期3rdTerm 第1回 サークル対抗戦 1位",
+            "Text": "105期3rdTerm 第1回 サークル対抗戦 1位 を称えるステッカー",
+            "RequirementText": "105期3rdTerm 第1回 サークル対抗戦 1位 入賞"
+        },
+        {
+            "Id": 20250602,
+            "Name": "105期3rdTerm 第1回 サークル対抗戦 2位",
+            "Text": "105期3rdTerm 第1回 サークル対抗戦 2位 を称えるステッカー",
+            "RequirementText": "105期3rdTerm 第1回 サークル対抗戦 2位 入賞"
+        },
+        {
+            "Id": 20250603,
+            "Name": "105期3rdTerm 第1回 サークル対抗戦 3位",
+            "Text": "105期3rdTerm 第1回 サークル対抗戦 3位 を称えるステッカー",
+            "RequirementText": "105期3rdTerm 第1回 サークル対抗戦 3位 入賞"
+        },
+        {
+            "Id": 20250604,
+            "Name": "105期3rdTerm 第1回 サークル対抗戦 4位",
+            "Text": "105期3rdTerm 第1回 サークル対抗戦 4位 を称えるステッカー",
+            "RequirementText": "105期3rdTerm 第1回 サークル対抗戦 4位 入賞"
+        },
+        {
+            "Id": 20250605,
+            "Name": "105期3rdTerm 第1回 サークル対抗戦 5位",
+            "Text": "105期3rdTerm 第1回 サークル対抗戦 5位 を称えるステッカー",
+            "RequirementText": "105期3rdTerm 第1回 サークル対抗戦 5位 入賞"
+        },
+        {
+            "Id": 20250606,
+            "Name": "105期3rdTerm 第1回 サークル対抗戦 6位",
+            "Text": "105期3rdTerm 第1回 サークル対抗戦 6位 を称えるステッカー",
+            "RequirementText": "105期3rdTerm 第1回 サークル対抗戦 6位 入賞"
+        },
+        {
+            "Id": 20250607,
+            "Name": "105期3rdTerm 第1回 サークル対抗戦 7位",
+            "Text": "105期3rdTerm 第1回 サークル対抗戦 7位 を称えるステッカー",
+            "RequirementText": "105期3rdTerm 第1回 サークル対抗戦 7位 入賞"
+        },
+        {
+            "Id": 20250608,
+            "Name": "105期3rdTerm 第1回 サークル対抗戦 8位",
+            "Text": "105期3rdTerm 第1回 サークル対抗戦 8位 を称えるステッカー",
+            "RequirementText": "105期3rdTerm 第1回 サークル対抗戦 8位 入賞"
+        },
+        {
+            "Id": 20250609,
+            "Name": "105期3rdTerm 第1回 サークル対抗戦 9位",
+            "Text": "105期3rdTerm 第1回 サークル対抗戦 9位 を称えるステッカー",
+            "RequirementText": "105期3rdTerm 第1回 サークル対抗戦 9位 入賞"
+        },
+        {
+            "Id": 20250610,
+            "Name": "105期3rdTerm 第1回 サークル対抗戦 10位",
+            "Text": "105期3rdTerm 第1回 サークル対抗戦 10位 を称えるステッカー",
+            "RequirementText": "105期3rdTerm 第1回 サークル対抗戦 10位 入賞"
+        },
+        {
+            "Id": 20250611,
+            "Name": "105期3rdTerm 第1回 サークル対抗戦 TOP30位",
+            "Text": "105期3rdTerm 第1回 サークル対抗戦 TOP30位 を称えるステッカー",
+            "RequirementText": "105期3rdTerm 第1回 サークル対抗戦 TOP30位 入賞"
+        },
+        {
+            "Id": 20250612,
+            "Name": "105期3rdTerm 第1回 サークル対抗戦 TOP100位",
+            "Text": "105期3rdTerm 第1回 サークル対抗戦 TOP100位 を称えるステッカー",
+            "RequirementText": "105期3rdTerm 第1回 サークル対抗戦 TOP100位 入賞"
+        },
+        {
+            "Id": 20250613,
+            "Name": "105期3rdTerm 第1回 サークル対抗戦 TOP200位",
+            "Text": "105期3rdTerm 第1回 サークル対抗戦 TOP200位 を称えるステッカー",
+            "RequirementText": "105期3rdTerm 第1回 サークル対抗戦 TOP200位 入賞"
+        },
+        {
+            "Id": 20250614,
+            "Name": "105期3rdTerm 第1回 サークル対抗戦 TOP300位",
+            "Text": "105期3rdTerm 第1回 サークル対抗戦 TOP300位 を称えるステッカー",
+            "RequirementText": "105期3rdTerm 第1回 サークル対抗戦 TOP300位 入賞"
+        },
+        {
+            "Id": 20250615,
+            "Name": "105期3rdTerm 第1回 サークル対抗戦 TOP500位",
+            "Text": "105期3rdTerm 第1回 サークル対抗戦 TOP500位 を称えるステッカー",
+            "RequirementText": "105期3rdTerm 第1回 サークル対抗戦 TOP500位 入賞"
+        },
+        {
+            "Id": 20250616,
+            "Name": "105期3rdTerm 第1回 サークル対抗戦 TOP1000位",
+            "Text": "105期3rdTerm 第1回 サークル対抗戦 TOP1000位 を称えるステッカー",
+            "RequirementText": "105期3rdTerm 第1回 サークル対抗戦 TOP1000位 入賞"
+        },
+        {
+            "Id": 20250617,
+            "Name": "105期3rdTerm 第1回 サークル対抗戦 TOP1500位",
+            "Text": "105期3rdTerm 第1回 サークル対抗戦 TOP1500位 を称えるステッカー",
+            "RequirementText": "105期3rdTerm 第1回 サークル対抗戦 TOP1500位 入賞"
+        },
+        {
+            "Id": 20250618,
+            "Name": "105期3rdTerm 第1回 サークル対抗戦 TOP2000位",
+            "Text": "105期3rdTerm 第1回 サークル対抗戦 TOP2000位 を称えるステッカー",
+            "RequirementText": "105期3rdTerm 第1回 サークル対抗戦 TOP2000位 入賞"
+        },
+        {
+            "Id": 20250619,
+            "Name": "105期3rdTerm 第1回 サークル対抗戦 参加",
+            "Text": "105期3rdTerm 第1回 サークル対抗戦 参加賞のステッカー",
+            "RequirementText": "105期3rdTerm 第1回 サークル対抗戦に参加"
+        },
+        {
             "Id": 20330101,
             "Name": "Live Grand Prix 103期第1回個人戦 1位",
             "Text": "Live Grand Prix 103期第1回個人戦 1位 を称えるステッカー",
@@ -9318,6 +9636,132 @@
             "RequirementText": "Live Grand Prix 105期2ndTerm 第1回 個人戦に参加"
         },
         {
+            "Id": 20350601,
+            "Name": "Live Grand Prix 105期3rdTerm 第1回 個人戦 1位",
+            "Text": "Live Grand Prix 105期3rdTerm 第1回 個人戦 1位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第1回 個人戦 1位 入賞"
+        },
+        {
+            "Id": 20350602,
+            "Name": "Live Grand Prix 105期3rdTerm 第1回 個人戦 2位",
+            "Text": "Live Grand Prix 105期3rdTerm 第1回 個人戦 2位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第1回 個人戦 2位 入賞"
+        },
+        {
+            "Id": 20350603,
+            "Name": "Live Grand Prix 105期3rdTerm 第1回 個人戦 3位",
+            "Text": "Live Grand Prix 105期3rdTerm 第1回 個人戦 3位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第1回 個人戦 3位 入賞"
+        },
+        {
+            "Id": 20350604,
+            "Name": "Live Grand Prix 105期3rdTerm 第1回 個人戦 4位",
+            "Text": "Live Grand Prix 105期3rdTerm 第1回 個人戦 4位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第1回 個人戦 4位 入賞"
+        },
+        {
+            "Id": 20350605,
+            "Name": "Live Grand Prix 105期3rdTerm 第1回 個人戦 5位",
+            "Text": "Live Grand Prix 105期3rdTerm 第1回 個人戦 5位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第1回 個人戦 5位 入賞"
+        },
+        {
+            "Id": 20350606,
+            "Name": "Live Grand Prix 105期3rdTerm 第1回 個人戦 6位",
+            "Text": "Live Grand Prix 105期3rdTerm 第1回 個人戦 6位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第1回 個人戦 6位 入賞"
+        },
+        {
+            "Id": 20350607,
+            "Name": "Live Grand Prix 105期3rdTerm 第1回 個人戦 7位",
+            "Text": "Live Grand Prix 105期3rdTerm 第1回 個人戦 7位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第1回 個人戦 7位 入賞"
+        },
+        {
+            "Id": 20350608,
+            "Name": "Live Grand Prix 105期3rdTerm 第1回 個人戦 8位",
+            "Text": "Live Grand Prix 105期3rdTerm 第1回 個人戦 8位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第1回 個人戦 8位 入賞"
+        },
+        {
+            "Id": 20350609,
+            "Name": "Live Grand Prix 105期3rdTerm 第1回 個人戦 9位",
+            "Text": "Live Grand Prix 105期3rdTerm 第1回 個人戦 9位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第1回 個人戦 9位 入賞"
+        },
+        {
+            "Id": 20350610,
+            "Name": "Live Grand Prix 105期3rdTerm 第1回 個人戦 10位",
+            "Text": "Live Grand Prix 105期3rdTerm 第1回 個人戦 10位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第1回 個人戦 10位 入賞"
+        },
+        {
+            "Id": 20350611,
+            "Name": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP100位",
+            "Text": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP100位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP100位 入賞"
+        },
+        {
+            "Id": 20350612,
+            "Name": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP200位",
+            "Text": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP200位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP200位 入賞"
+        },
+        {
+            "Id": 20350613,
+            "Name": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP500位",
+            "Text": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP500位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP500位 入賞"
+        },
+        {
+            "Id": 20350614,
+            "Name": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP1000位",
+            "Text": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP1000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP1000位 入賞"
+        },
+        {
+            "Id": 20350615,
+            "Name": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP2000位",
+            "Text": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP2000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP2000位 入賞"
+        },
+        {
+            "Id": 20350616,
+            "Name": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP3000位",
+            "Text": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP3000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP3000位 入賞"
+        },
+        {
+            "Id": 20350617,
+            "Name": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP5000位",
+            "Text": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP5000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP5000位 入賞"
+        },
+        {
+            "Id": 20350618,
+            "Name": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP7000位",
+            "Text": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP7000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP7000位 入賞"
+        },
+        {
+            "Id": 20350619,
+            "Name": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP10000位",
+            "Text": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP10000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP10000位 入賞"
+        },
+        {
+            "Id": 20350620,
+            "Name": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP15000位",
+            "Text": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP15000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第1回 個人戦 TOP15000位 入賞"
+        },
+        {
+            "Id": 20350621,
+            "Name": "Live Grand Prix 105期3rdTerm 第1回 個人戦 参加",
+            "Text": "Live Grand Prix 105期3rdTerm 第1回 個人戦 参加賞のステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第1回 個人戦に参加"
+        },
+        {
             "Id": 40103101,
             "Name": "『Dream Believers（4人Ver.）』マエストロ",
             "Text": "『Dream Believers（4人Ver.）』のマスタリーLv.を30にした記念のステッカー",
@@ -10428,6 +10872,54 @@
             "RequirementText": "『diamondz』マスタリーLv.30到達"
         },
         {
+            "Id": 40405108,
+            "Name": "『可惜夜花火』マエストロ",
+            "Text": "『可惜夜花火』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『可惜夜花火』マスタリーLv.30到達"
+        },
+        {
+            "Id": 40405109,
+            "Name": "『ブルウモーメント』マエストロ",
+            "Text": "『ブルウモーメント』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『ブルウモーメント』マスタリーLv.30到達"
+        },
+        {
+            "Id": 40405110,
+            "Name": "『フュージョンクラスト』マエストロ",
+            "Text": "『フュージョンクラスト』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『フュージョンクラスト』マスタリーLv.30到達"
+        },
+        {
+            "Id": 40405111,
+            "Name": "『夏めきペイン（105期Ver.）』マエストロ",
+            "Text": "『夏めきペイン（105期Ver.）』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『夏めきペイン（105期Ver.）』マスタリーLv.30到達"
+        },
+        {
+            "Id": 40405112,
+            "Name": "『ニャオシグニャル』マエストロ",
+            "Text": "『ニャオシグニャル』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『ニャオシグニャル』マスタリーLv.30到達"
+        },
+        {
+            "Id": 40405113,
+            "Name": "『ハートにQ』マエストロ",
+            "Text": "『ハートにQ』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『ハートにQ』マスタリーLv.30到達"
+        },
+        {
+            "Id": 40405114,
+            "Name": "『片翼のトリバガ』マエストロ",
+            "Text": "『片翼のトリバガ』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『片翼のトリバガ』マスタリーLv.30到達"
+        },
+        {
+            "Id": 40405115,
+            "Name": "『ドライブ・スペード・クレイジー』マエストロ",
+            "Text": "『ドライブ・スペード・クレイジー』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『ドライブ・スペード・クレイジー』マスタリーLv.30到達"
+        },
+        {
             "Id": 40405301,
             "Name": "『虹色Passions!』マエストロ",
             "Text": "『虹色Passions!』のマスタリーLv.を30にした記念のステッカー",
@@ -10444,6 +10936,12 @@
             "Name": "『START!! True dreams』マエストロ",
             "Text": "『START!! True dreams』のマスタリーLv.を30にした記念のステッカー",
             "RequirementText": "『START!! True dreams』マスタリーLv.30到達"
+        },
+        {
+            "Id": 40405304,
+            "Name": "『Shocking Party』マエストロ",
+            "Text": "『Shocking Party』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『Shocking Party』マスタリーLv.30到達"
         },
         {
             "Id": 90000001,
@@ -10974,6 +11472,102 @@
             "RequirementText": "「８番らーめんコラボ記念！８番エーデルセット」を購入"
         },
         {
+            "Id": 90000089,
+            "Name": "[BLACK COLLECTION]日野下 花帆",
+            "Text": "BLACK COLLECTION by ZOZOTOWN コラボ記念！",
+            "RequirementText": "「BLACK COLLECTION by ZOZOTOWN 蓮ノ三連華コーディネート」を購入"
+        },
+        {
+            "Id": 90000090,
+            "Name": "[BLACK COLLECTION]村野 さやか",
+            "Text": "BLACK COLLECTION by ZOZOTOWN コラボ記念！",
+            "RequirementText": "「BLACK COLLECTION by ZOZOTOWN 蓮ノ三連華コーディネート」を購入"
+        },
+        {
+            "Id": 90000091,
+            "Name": "[BLACK COLLECTION]大沢 瑠璃乃",
+            "Text": "BLACK COLLECTION by ZOZOTOWN コラボ記念！",
+            "RequirementText": "「BLACK COLLECTION by ZOZOTOWN 蓮ノ三連華コーディネート」を購入"
+        },
+        {
+            "Id": 90000092,
+            "Name": "[BLACK COLLECTION]百生 吟子",
+            "Text": "BLACK COLLECTION by ZOZOTOWN コラボ記念！",
+            "RequirementText": "「BLACK COLLECTION by ZOZOTOWN 蓮ノ小三角コーディネート」を購入"
+        },
+        {
+            "Id": 90000093,
+            "Name": "[BLACK COLLECTION]徒町 小鈴",
+            "Text": "BLACK COLLECTION by ZOZOTOWN コラボ記念！",
+            "RequirementText": "「BLACK COLLECTION by ZOZOTOWN 蓮ノ小三角コーディネート」を購入"
+        },
+        {
+            "Id": 90000094,
+            "Name": "[BLACK COLLECTION]安養寺 姫芽",
+            "Text": "BLACK COLLECTION by ZOZOTOWN コラボ記念！",
+            "RequirementText": "「BLACK COLLECTION by ZOZOTOWN 蓮ノ小三角コーディネート」を購入"
+        },
+        {
+            "Id": 90000095,
+            "Name": "[BLACK COLLECTION]セラス 柳田 リリエンフェルト",
+            "Text": "BLACK COLLECTION by ZOZOTOWN コラボ記念！",
+            "RequirementText": "「BLACK COLLECTION by ZOZOTOWN Edel Noteコーディネート」を購入"
+        },
+        {
+            "Id": 90000096,
+            "Name": "[BLACK COLLECTION]桂城 泉",
+            "Text": "BLACK COLLECTION by ZOZOTOWN コラボ記念！",
+            "RequirementText": "「BLACK COLLECTION by ZOZOTOWN Edel Noteコーディネート」を購入"
+        },
+        {
+            "Id": 90000097,
+            "Name": "[BLACK COLLECTION/mini]日野下 花帆",
+            "Text": "BLACK COLLECTION by ZOZOTOWN コラボ記念！",
+            "RequirementText": "「BLACK COLLECTION by ZOZOTOWN 蓮ノ三連華コーディネート」を購入"
+        },
+        {
+            "Id": 90000098,
+            "Name": "[BLACK COLLECTION/mini]村野 さやか",
+            "Text": "BLACK COLLECTION by ZOZOTOWN コラボ記念！",
+            "RequirementText": "「BLACK COLLECTION by ZOZOTOWN 蓮ノ三連華コーディネート」を購入"
+        },
+        {
+            "Id": 90000099,
+            "Name": "[BLACK COLLECTION/mini]大沢 瑠璃乃",
+            "Text": "BLACK COLLECTION by ZOZOTOWN コラボ記念！",
+            "RequirementText": "「BLACK COLLECTION by ZOZOTOWN 蓮ノ三連華コーディネート」を購入"
+        },
+        {
+            "Id": 90000100,
+            "Name": "[BLACK COLLECTION/mini]百生 吟子",
+            "Text": "BLACK COLLECTION by ZOZOTOWN コラボ記念！",
+            "RequirementText": "「BLACK COLLECTION by ZOZOTOWN 蓮ノ小三角コーディネート」を購入"
+        },
+        {
+            "Id": 90000101,
+            "Name": "[BLACK COLLECTION/mini]徒町 小鈴",
+            "Text": "BLACK COLLECTION by ZOZOTOWN コラボ記念！",
+            "RequirementText": "「BLACK COLLECTION by ZOZOTOWN 蓮ノ小三角コーディネート」を購入"
+        },
+        {
+            "Id": 90000102,
+            "Name": "[BLACK COLLECTION/mini]安養寺 姫芽",
+            "Text": "BLACK COLLECTION by ZOZOTOWN コラボ記念！",
+            "RequirementText": "「BLACK COLLECTION by ZOZOTOWN 蓮ノ小三角コーディネート」を購入"
+        },
+        {
+            "Id": 90000103,
+            "Name": "[BLACK COLLECTION/mini]セラス 柳田 リリエンフェルト",
+            "Text": "BLACK COLLECTION by ZOZOTOWN コラボ記念！",
+            "RequirementText": "「BLACK COLLECTION by ZOZOTOWN Edel Noteコーディネート」を購入"
+        },
+        {
+            "Id": 90000104,
+            "Name": "[BLACK COLLECTION/mini]桂城 泉",
+            "Text": "BLACK COLLECTION by ZOZOTOWN コラボ記念！",
+            "RequirementText": "「BLACK COLLECTION by ZOZOTOWN Edel Noteコーディネート」を購入"
+        },
+        {
             "Id": 90010210,
             "Name": "Kozue Birthday 2023",
             "Text": "Happy 17th Birthday to Dear Kozue!",
@@ -11052,6 +11646,12 @@
             "RequirementText": "「Rurino's 17th Birthday セレブレイトパック」を購入"
         },
         {
+            "Id": 90010332,
+            "Name": "Rurino's 18th Birthday",
+            "Text": "Happy 18th Birthday to Dear Rurino!\n「大沢 瑠璃乃、みんなに愛されて18周年！」",
+            "RequirementText": "「Rurino's 18th Birthday セレブレイトパック」を購入"
+        },
+        {
             "Id": 90010411,
             "Name": "Ginko's 16th Birthday",
             "Text": "Happy 16th Birthday to Dear Ginko! 「百生 吟子。16歳に、なりました。」",
@@ -11068,6 +11668,12 @@
             "Name": "Hime's 16th Birthday",
             "Text": "Happy 16th Birthday to Dear Hime! 「16歳に、なりました～。」",
             "RequirementText": "「Hime's 16th Birthday セレブレイトパック」を購入"
+        },
+        {
+            "Id": 90010432,
+            "Name": "Hime's 17th Birthday",
+            "Text": "Happy 17th Birthday to Dear Hime!\n「あんようじせぶんてぃ～ん」",
+            "RequirementText": "「Hime's 17th Birthday セレブレイトパック」を購入"
         },
         {
             "Id": 90010521,
@@ -11304,6 +11910,12 @@
             "RequirementText": "CD『太陽であれ！』購入特典"
         },
         {
+            "Id": 90405108,
+            "Name": "<nobr>Jacket『可惜夜花火 / ブルウモーメント / Very! Very! COCO夏っ / フュージョンクラスト』</nobr>",
+            "Text": "どんな今日が待ってるんだろう みんなの夏はナニイロ？ 燃えなくたって燃やしてやる 無自覚も罪なものね",
+            "RequirementText": "<nobr>CD『可惜夜花火 / ブルウモーメント / Very! Very! COCO夏っ / フュージョンクラスト』購入特典</nobr>"
+        },
+        {
             "Id": 91000001,
             "Name": "Cover『Link！Like！ラブライブ！はじめてガイドブック』",
             "Text": "はじめてでも大丈夫！「リンクラ」はあなたのスクールアイドル応援活動を全力サポートします。",
@@ -11368,6 +11980,18 @@
             "Name": "Jacket『2nd Live Tour ～Blooming with ○○○～ Blu-ray Memorial BOX』",
             "Text": "2nd Live Tourのキャストライブによる103期から104期へ至る進化がたっぷり詰めこまれたメモリアルボックス",
             "RequirementText": "Blu-ray『2nd Live Tour ～Blooming with ○○○～ Blu-ray Memorial BOX』購入特典"
+        },
+        {
+            "Id": 91100003,
+            "Name": "Jacket『3rd Live Tour TRY TRI UNITY!!! Blu-ray Memorial BOX』",
+            "Text": "3rd Live Tour TRY TRI UNITY!!!のキャストライブに\nよる3ユニットの個性が輝くメモリアルボックス",
+            "RequirementText": "Blu-ray『3rd Live Tour TRY TRI UNITY!!! Blu-ray Memorial BOX』購入特典"
+        },
+        {
+            "Id": 91100004,
+            "Name": "Jacket『3rd Live Tour TRI TRI UNITY!!! Blu-ray Memorial BOX』",
+            "Text": "3rd Live Tour TRY TRY UNITY!!!/TRI TRI UNITY!!!の\nキャストライブによる104期の挑戦と栄光が\n刻まれたメモリアルボックス",
+            "RequirementText": "Blu-ray『3rd Live Tour TRI TRI UNITY!!! Blu-ray Memorial BOX』購入特典"
         },
         {
             "Id": 92000001,
@@ -12066,10 +12690,34 @@
             "RequirementText": "きまっし!!みらぱ！の部屋ラジオを応援"
         },
         {
+            "Id": 94000058,
+            "Name": "[きまっし!!みらぱ！の部屋]日野下 花帆＆村野 さやか",
+            "Text": "きまっし!!みらぱ！の部屋ラジオの応援ありがとうございます！",
+            "RequirementText": "きまっし!!みらぱ！の部屋ラジオを応援"
+        },
+        {
+            "Id": 94000059,
+            "Name": "きまっし!!みらぱ！の部屋ラジオ",
+            "Text": "きまっし!!みらぱ！の部屋ラジオの応援ありがとうございます！",
+            "RequirementText": "きまっし!!みらぱ！の部屋ラジオを応援"
+        },
+        {
             "Id": 95000001,
             "Name": "[Shades of Stars/mini]藤島 慈",
             "Text": "102期活動記録 ～Shades of Stars～\n第1話『a falling star』読了証",
             "RequirementText": "102期活動記録 ～Shades of Stars～ 第1話『a falling star』を読了"
+        },
+        {
+            "Id": 95000002,
+            "Name": "[Shades of Stars/mini]夕霧 綴理",
+            "Text": "102期活動記録 ～Shades of Stars～\n第2話『Sparkly Spot』読了証",
+            "RequirementText": "102期活動記録 ～Shades of Stars～ 第2話『Sparkly Spot』を読了"
+        },
+        {
+            "Id": 95000003,
+            "Name": "[Shades of Stars/mini]乙宗 梢",
+            "Text": "102期活動記録 ～Shades of Stars～\n第3話『Reflection in the mirror』前編 読了証",
+            "RequirementText": "102期活動記録 ～Shades of Stars～ 第3話『Reflection in the mirror』前編 を読了"
         },
         {
             "Id": 99000001,

@@ -2901,6 +2901,21 @@
             "Description": "全メンバーのアピール値が54％上昇"
         },
         {
+            "Id": 20314221,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が60％上昇"
+        },
+        {
+            "Id": 20314222,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が60％上昇"
+        },
+        {
+            "Id": 20314223,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が60％上昇"
+        },
+        {
             "Id": 20315011,
             "CenterAttributeName": "アピールアップ",
             "Description": "全メンバーのアピール値が80％上昇"
@@ -3367,6 +3382,21 @@
         },
         {
             "Id": 20315313,
+            "CenterAttributeName": "アピールアップ（スリーズブーケ）",
+            "Description": "スリーズブーケに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20315321,
+            "CenterAttributeName": "アピールアップ（スリーズブーケ）",
+            "Description": "スリーズブーケに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20315322,
+            "CenterAttributeName": "アピールアップ（スリーズブーケ）",
+            "Description": "スリーズブーケに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20315323,
             "CenterAttributeName": "アピールアップ（スリーズブーケ）",
             "Description": "スリーズブーケに所属するメンバーのアピール値が200％上昇"
         },
@@ -3892,6 +3922,36 @@
         },
         {
             "Id": 20324223,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が54％上昇"
+        },
+        {
+            "Id": 20324231,
+            "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
+            "Description": "DOLLCHESTRAに所属するメンバーのアピール値が150％上昇"
+        },
+        {
+            "Id": 20324232,
+            "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
+            "Description": "DOLLCHESTRAに所属するメンバーのアピール値が150％上昇"
+        },
+        {
+            "Id": 20324233,
+            "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
+            "Description": "DOLLCHESTRAに所属するメンバーのアピール値が150％上昇"
+        },
+        {
+            "Id": 20324241,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が54％上昇"
+        },
+        {
+            "Id": 20324242,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が54％上昇"
+        },
+        {
+            "Id": 20324243,
             "CenterAttributeName": "アピールアップ",
             "Description": "全メンバーのアピール値が54％上昇"
         },
@@ -5136,6 +5196,21 @@
             "Description": "みらくらぱーく！に所属するメンバーのアピール値が200％上昇"
         },
         {
+            "Id": 20335261,
+            "CenterAttributeName": "アピールアップ（みらくらぱーく！）",
+            "Description": "みらくらぱーく！に所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20335262,
+            "CenterAttributeName": "アピールアップ（みらくらぱーく！）",
+            "Description": "みらくらぱーく！に所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20335263,
+            "CenterAttributeName": "アピールアップ（みらくらぱーく！）",
+            "Description": "みらくらぱーく！に所属するメンバーのアピール値が200％上昇"
+        },
+        {
             "Id": 20338011,
             "CenterAttributeName": "アピールアップ（みらくらぱーく！）&APレデュース&CTレデュース",
             "Description": "みらくらぱーく！に所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少"
@@ -5222,6 +5297,21 @@
         },
         {
             "Id": 20339013,
+            "CenterAttributeName": "アピールアップ（大沢瑠璃乃）",
+            "Description": "大沢瑠璃乃のアピール値が400％上昇"
+        },
+        {
+            "Id": 20339021,
+            "CenterAttributeName": "アピールアップ（大沢瑠璃乃）",
+            "Description": "大沢瑠璃乃のアピール値が400％上昇"
+        },
+        {
+            "Id": 20339022,
+            "CenterAttributeName": "アピールアップ（大沢瑠璃乃）",
+            "Description": "大沢瑠璃乃のアピール値が400％上昇"
+        },
+        {
+            "Id": 20339023,
             "CenterAttributeName": "アピールアップ（大沢瑠璃乃）",
             "Description": "大沢瑠璃乃のアピール値が400％上昇"
         },
@@ -5574,6 +5664,36 @@
             "Id": 20415163,
             "CenterAttributeName": "アピールアップ（スリーズブーケ）",
             "Description": "スリーズブーケに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20415171,
+            "CenterAttributeName": "アピールアップ（スリーズブーケ）",
+            "Description": "スリーズブーケに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20415172,
+            "CenterAttributeName": "アピールアップ（スリーズブーケ）",
+            "Description": "スリーズブーケに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20415173,
+            "CenterAttributeName": "アピールアップ（スリーズブーケ）",
+            "Description": "スリーズブーケに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20415181,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が72％上昇"
+        },
+        {
+            "Id": 20415182,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が72％上昇"
+        },
+        {
+            "Id": 20415183,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が72％上昇"
         },
         {
             "Id": 20418011,
@@ -6436,6 +6556,21 @@
             "Description": "みらくらぱーく！に所属するメンバーのアピール値が200％上昇"
         },
         {
+            "Id": 20435171,
+            "CenterAttributeName": "アピールアップ（みらくらぱーく！）",
+            "Description": "みらくらぱーく！に所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20435172,
+            "CenterAttributeName": "アピールアップ（みらくらぱーく！）",
+            "Description": "みらくらぱーく！に所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20435173,
+            "CenterAttributeName": "アピールアップ（みらくらぱーく！）",
+            "Description": "みらくらぱーく！に所属するメンバーのアピール値が200％上昇"
+        },
+        {
             "Id": 20438011,
             "CenterAttributeName": "アピールアップ（みらくらぱーく！）&APレデュース&CTレデュース",
             "Description": "みらくらぱーく！に所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少"
@@ -6497,6 +6632,21 @@
         },
         {
             "Id": 20439013,
+            "CenterAttributeName": "アピールアップ（安養寺姫芽）",
+            "Description": "安養寺姫芽のアピール値が400％上昇"
+        },
+        {
+            "Id": 20439021,
+            "CenterAttributeName": "アピールアップ（安養寺姫芽）",
+            "Description": "安養寺姫芽のアピール値が400％上昇"
+        },
+        {
+            "Id": 20439022,
+            "CenterAttributeName": "アピールアップ（安養寺姫芽）",
+            "Description": "安養寺姫芽のアピール値が400％上昇"
+        },
+        {
+            "Id": 20439023,
             "CenterAttributeName": "アピールアップ（安養寺姫芽）",
             "Description": "安養寺姫芽のアピール値が400％上昇"
         },
@@ -6619,6 +6769,36 @@
             "Id": 20515043,
             "CenterAttributeName": "アピールアップ",
             "Description": "全メンバーのアピール値が72％上昇"
+        },
+        {
+            "Id": 20515051,
+            "CenterAttributeName": "アピールアップ（Edel Note）",
+            "Description": "Edel Noteに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20515052,
+            "CenterAttributeName": "アピールアップ（Edel Note）",
+            "Description": "Edel Noteに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20515053,
+            "CenterAttributeName": "アピールアップ（Edel Note）",
+            "Description": "Edel Noteに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20515061,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
+            "Id": 20515062,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
+            "Id": 20515063,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
         },
         {
             "Id": 20518011,
@@ -6762,6 +6942,36 @@
         },
         {
             "Id": 20525043,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
+            "Id": 20525051,
+            "CenterAttributeName": "アピールアップ（Edel Note）",
+            "Description": "Edel Noteに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20525052,
+            "CenterAttributeName": "アピールアップ（Edel Note）",
+            "Description": "Edel Noteに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20525053,
+            "CenterAttributeName": "アピールアップ（Edel Note）",
+            "Description": "Edel Noteに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20525061,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
+            "Id": 20525062,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
+            "Id": 20525063,
             "CenterAttributeName": "アピールアップ",
             "Description": "全メンバーのアピール値が80％上昇"
         },

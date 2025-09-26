@@ -559,6 +559,19 @@
     }
   },
   {
+    "raw": "フルーツパンチ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "メンバーシップ",
     "translation": {
       "zh-CN": {
@@ -579,6 +592,19 @@
         "author": ""
       },
       "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "太陽であれ！",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
         "text": "",
         "author": ""
       }

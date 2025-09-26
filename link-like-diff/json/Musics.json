@@ -1301,6 +1301,62 @@
             "ReleaseConditionText": "初めから習得"
         },
         {
+            "Id": 405108,
+            "Title": "可惜夜花火",
+            "TitleFurigana": "あたらよはなび",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 405109,
+            "Title": "ブルウモーメント",
+            "TitleFurigana": "ぶるうもーめんと",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 405110,
+            "Title": "フュージョンクラスト",
+            "TitleFurigana": "ふゅーじょんくらすと",
+            "Description": "Edel Note",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 405111,
+            "Title": "夏めきペイン（105期Ver.）",
+            "TitleFurigana": "なつめきぺいん",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 405112,
+            "Title": "ニャオシグニャル",
+            "TitleFurigana": "にゃおしぐにゃる",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 405113,
+            "Title": "ハートにQ",
+            "TitleFurigana": "はーとにきゅー",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 405114,
+            "Title": "片翼のトリバガ",
+            "TitleFurigana": "へんよくのとりばが",
+            "Description": "Edel Note",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 405115,
+            "Title": "ドライブ・スペード・クレイジー",
+            "TitleFurigana": "どらいぶすぺーとくれいじー",
+            "Description": "Edel Note",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
             "Id": 405301,
             "Title": "虹色Passions!",
             "TitleFurigana": "にじいろぱっしょんず",
@@ -1318,6 +1374,13 @@
             "Id": 405303,
             "Title": "START!! True dreams",
             "TitleFurigana": "すたーととぅるーどりーむす",
+            "Description": "LLカバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 405304,
+            "Title": "Shocking Party",
+            "TitleFurigana": "しょっきんぐぱーてぃー",
             "Description": "LLカバー",
             "ReleaseConditionText": "ミュージックPt. を使用して習得"
         }

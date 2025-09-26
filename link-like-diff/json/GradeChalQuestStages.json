@@ -148,6 +148,18 @@
         {
             "Id": 1041203,
             "Name": "Grade Challenge Stage C"
+        },
+        {
+            "Id": 1041301,
+            "Name": "Grade Challenge Stage A"
+        },
+        {
+            "Id": 1041302,
+            "Name": "Grade Challenge Stage B"
+        },
+        {
+            "Id": 1041303,
+            "Name": "Grade Challenge Stage C"
         }
     ]
 }

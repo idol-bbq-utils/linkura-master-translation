@@ -34,6 +34,26 @@
             "Id": 9000203,
             "Name": "おほしさまプラン",
             "Description": "おほしさまプラン"
+        },
+        {
+            "Id": 9000301,
+            "Name": "SpringFlower",
+            "Description": "SpringFlower"
+        },
+        {
+            "Id": 9000302,
+            "Name": "SummerFlower",
+            "Description": "SummerFlower"
+        },
+        {
+            "Id": 9000303,
+            "Name": "AutumnFlower",
+            "Description": "AutumnFlower"
+        },
+        {
+            "Id": 9000304,
+            "Name": "WinterFlower",
+            "Description": "WinterFlower"
         }
     ]
 }

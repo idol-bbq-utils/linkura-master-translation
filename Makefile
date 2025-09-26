@@ -3,7 +3,7 @@ update:
 	python scripts/linkura_diff_to_json.py
 
 gen-todo:
-	python scripts/pretranslate_process.py --gen_todo
+	python main.py gentodo -i link-like-diff/json/
 
 merge:
 	python scripts/pretranslate_process.py --merge

@@ -1541,6 +1541,126 @@
             "Description": "華やかな特設ステージ"
         },
         {
+            "Id": 704491,
+            "Name": "教室",
+            "Description": "いつもの教室"
+        },
+        {
+            "Id": 704492,
+            "Name": "体育館",
+            "Description": "学校の体育館"
+        },
+        {
+            "Id": 704493,
+            "Name": "講堂",
+            "Description": "静かな講堂"
+        },
+        {
+            "Id": 704494,
+            "Name": "特設ステージ",
+            "Description": "華やかな特設ステージ"
+        },
+        {
+            "Id": 704501,
+            "Name": "教室",
+            "Description": "いつもの教室"
+        },
+        {
+            "Id": 704502,
+            "Name": "体育館",
+            "Description": "学校の体育館"
+        },
+        {
+            "Id": 704503,
+            "Name": "講堂",
+            "Description": "静かな講堂"
+        },
+        {
+            "Id": 704504,
+            "Name": "特設ステージ",
+            "Description": "華やかな特設ステージ"
+        },
+        {
+            "Id": 704511,
+            "Name": "教室",
+            "Description": "いつもの教室"
+        },
+        {
+            "Id": 704512,
+            "Name": "体育館",
+            "Description": "学校の体育館"
+        },
+        {
+            "Id": 704513,
+            "Name": "講堂",
+            "Description": "静かな講堂"
+        },
+        {
+            "Id": 704514,
+            "Name": "特設ステージ",
+            "Description": "華やかな特設ステージ"
+        },
+        {
+            "Id": 704521,
+            "Name": "教室",
+            "Description": "いつもの教室"
+        },
+        {
+            "Id": 704522,
+            "Name": "体育館",
+            "Description": "学校の体育館"
+        },
+        {
+            "Id": 704523,
+            "Name": "講堂",
+            "Description": "静かな講堂"
+        },
+        {
+            "Id": 704524,
+            "Name": "特設ステージ",
+            "Description": "華やかな特設ステージ"
+        },
+        {
+            "Id": 704531,
+            "Name": "教室",
+            "Description": "いつもの教室"
+        },
+        {
+            "Id": 704532,
+            "Name": "体育館",
+            "Description": "学校の体育館"
+        },
+        {
+            "Id": 704533,
+            "Name": "講堂",
+            "Description": "静かな講堂"
+        },
+        {
+            "Id": 704534,
+            "Name": "特設ステージ",
+            "Description": "華やかな特設ステージ"
+        },
+        {
+            "Id": 704541,
+            "Name": "教室",
+            "Description": "いつもの教室"
+        },
+        {
+            "Id": 704542,
+            "Name": "体育館",
+            "Description": "学校の体育館"
+        },
+        {
+            "Id": 704543,
+            "Name": "講堂",
+            "Description": "静かな講堂"
+        },
+        {
+            "Id": 704544,
+            "Name": "特設ステージ",
+            "Description": "華やかな特設ステージ"
+        },
+        {
             "Id": 803011,
             "Name": "教室",
             "Description": "いつもの教室"
@@ -3041,6 +3161,66 @@
             "Description": "華やかな特設ステージ"
         },
         {
+            "Id": 805161,
+            "Name": "教室",
+            "Description": "いつもの教室"
+        },
+        {
+            "Id": 805162,
+            "Name": "体育館",
+            "Description": "学校の体育館"
+        },
+        {
+            "Id": 805163,
+            "Name": "講堂",
+            "Description": "静かな講堂"
+        },
+        {
+            "Id": 805164,
+            "Name": "特設ステージ",
+            "Description": "華やかな特設ステージ"
+        },
+        {
+            "Id": 805171,
+            "Name": "教室",
+            "Description": "いつもの教室"
+        },
+        {
+            "Id": 805172,
+            "Name": "体育館",
+            "Description": "学校の体育館"
+        },
+        {
+            "Id": 805173,
+            "Name": "講堂",
+            "Description": "静かな講堂"
+        },
+        {
+            "Id": 805174,
+            "Name": "特設ステージ",
+            "Description": "華やかな特設ステージ"
+        },
+        {
+            "Id": 805181,
+            "Name": "教室",
+            "Description": "いつもの教室"
+        },
+        {
+            "Id": 805182,
+            "Name": "体育館",
+            "Description": "学校の体育館"
+        },
+        {
+            "Id": 805183,
+            "Name": "講堂",
+            "Description": "静かな講堂"
+        },
+        {
+            "Id": 805184,
+            "Name": "特設ステージ",
+            "Description": "華やかな特設ステージ"
+        },
+        {
             "Id": 900011,
             "Name": "野外ステージ",
             "Description": "野外ステージ"
@@ -3082,6 +3262,66 @@
         },
         {
             "Id": 900033,
+            "Name": "ホール",
+            "Description": "ホール"
+        },
+        {
+            "Id": 900041,
+            "Name": "野外ステージ",
+            "Description": "スタジアム"
+        },
+        {
+            "Id": 900042,
+            "Name": "野外ステージ",
+            "Description": "スタジアム"
+        },
+        {
+            "Id": 900043,
+            "Name": "野外ステージ",
+            "Description": "スタジアム"
+        },
+        {
+            "Id": 900051,
+            "Name": "プール",
+            "Description": "プール"
+        },
+        {
+            "Id": 900052,
+            "Name": "プール",
+            "Description": "プール"
+        },
+        {
+            "Id": 900053,
+            "Name": "プール",
+            "Description": "プール"
+        },
+        {
+            "Id": 900061,
+            "Name": "テーマパーク",
+            "Description": "テーマパーク"
+        },
+        {
+            "Id": 900062,
+            "Name": "テーマパーク",
+            "Description": "テーマパーク"
+        },
+        {
+            "Id": 900063,
+            "Name": "テーマパーク",
+            "Description": "テーマパーク"
+        },
+        {
+            "Id": 900071,
+            "Name": "ホール",
+            "Description": "ホール"
+        },
+        {
+            "Id": 900072,
+            "Name": "ホール",
+            "Description": "ホール"
+        },
+        {
+            "Id": 900073,
             "Name": "ホール",
             "Description": "ホール"
         },
@@ -3264,6 +3504,21 @@
             "Id": 1041203,
             "Name": "野外ステージ",
             "Description": "野外ステージ"
+        },
+        {
+            "Id": 1041301,
+            "Name": "テーマパーク",
+            "Description": "テーマパーク"
+        },
+        {
+            "Id": 1041302,
+            "Name": "教室",
+            "Description": "教室"
+        },
+        {
+            "Id": 1041303,
+            "Name": "ホール",
+            "Description": "ホール"
         },
         {
             "Id": 531031101,

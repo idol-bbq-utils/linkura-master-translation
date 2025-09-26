@@ -221,6 +221,19 @@
     }
   },
   {
+    "raw": "BLACK COLLECTION by ZOZOTOWN コラボ記念！ログインキャンペーン！",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "BLACK COLLECTION by ZOZOTOWN 联动纪念！登录活动！",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "Bloom the リンクラ！1周年メモリアルキャンペーン！",
     "translation": {
       "zh-CN": {

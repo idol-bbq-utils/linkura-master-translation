@@ -375,5 +375,18 @@
         "author": ""
       }
     }
+  },
+  {
+    "raw": "105期第6シーズン",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "105期第6季度",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
   }
 ]

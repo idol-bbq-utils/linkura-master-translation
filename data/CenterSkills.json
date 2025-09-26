@@ -26,6 +26,32 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】APを$1$回復／最大値の$25%$分のメンタルを回復",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】回复AP$1$／回复最大值$25%$的Mental",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】APを$10$回復",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】回复AP$10$",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】APを$10$回復／スキルの合計発動回数が6回以上の時、APを$6$回復",
     "translation": {
       "zh-CN": {
@@ -100,6 +126,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】APを$12$回復",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】回复AP$12$",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -364,6 +403,19 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】APを$2$回復／最大値の$25%$分のメンタルを回復",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】回复AP$2$／回复最大值$25%$的Mental",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】APを$20$回復／メンタルが最大値の99％以下の時、ボルテージPt.が$1000pt$減少",
     "translation": {
       "zh-CN": {
@@ -516,6 +568,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】APを$3$回復／最大値の$25%$分のメンタルを回復",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】回复AP$3$／回复最大值$25%$的Mental",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -741,6 +806,19 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】APを$4$回復／最大値の$25%$分のメンタルを回復",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】回复AP$4$／回复最大值$25%$的Mental",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】APを$4$回復／最大値の$30%$分のメンタルを回復",
     "translation": {
       "zh-CN": {
@@ -958,6 +1036,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】APを$5$回復／最大値の$25%$分のメンタルを回復",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】回复AP$5$／回复最大值$25%$的Mental",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1205,6 +1296,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】APを$7$回復",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】回复AP$7$",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1491,6 +1595,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】APを$9$回復",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】回复AP$9$",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -11726,6 +11843,19 @@
     }
   },
   {
+    "raw": "【ライブ開始時に発動】ボルテージPt.を$104pt$獲得",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "【Live开始时发动】获得Voltage Pt.$104pt$",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "【ライブ開始時に発動】ボルテージPt.を$108pt$獲得",
     "translation": {
       "zh-CN": {
@@ -11735,6 +11865,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "【ライブ開始時に発動】ボルテージPt.を$110pt$獲得",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "【Live开始时发动】获得Voltage Pt.$110pt$",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -11817,6 +11960,19 @@
     }
   },
   {
+    "raw": "【ライブ開始時に発動】ボルテージPt.を$130pt$獲得",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "【Live开始时发动】获得Voltage Pt.$130pt$",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "【ライブ開始時に発動】ボルテージPt.を$133pt$獲得",
     "translation": {
       "zh-CN": {
@@ -11852,6 +12008,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "【ライブ開始時に発動】ボルテージPt.を$143pt$獲得",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "【Live开始时发动】获得Voltage Pt.$143pt$",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -11895,6 +12064,19 @@
     }
   },
   {
+    "raw": "【ライブ開始時に発動】ボルテージPt.を$156pt$獲得",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "【Live开始时发动】获得Voltage Pt.$156pt$",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "【ライブ開始時に発動】ボルテージPt.を$162pt$獲得",
     "translation": {
       "zh-CN": {
@@ -11917,6 +12099,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "【ライブ開始時に発動】ボルテージPt.を$169pt$獲得",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "【Live开始时发动】获得Voltage Pt.$169pt$",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -12272,6 +12467,19 @@
     }
   },
   {
+    "raw": "【ライブ開始時に発動】ボルテージPt.を$71pt$獲得",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "【Live开始时发动】获得Voltage Pt.$71pt$",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "【ライブ開始時に発動】ボルテージPt.を$74pt$獲得",
     "translation": {
       "zh-CN": {
@@ -12281,6 +12489,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "【ライブ開始時に発動】ボルテージPt.を$78pt$獲得",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "【Live开始时发动】获得Voltage Pt.$78pt$",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -12311,6 +12532,32 @@
     }
   },
   {
+    "raw": "【ライブ開始時に発動】ボルテージPt.を$84pt$獲得",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "【Live开始时发动】获得Voltage Pt.$84pt$",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【ライブ開始時に発動】ボルテージPt.を$91pt$獲得",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "【Live开始时发动】获得Voltage Pt.$91pt$",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "【ライブ開始時に発動】ボルテージPt.を$92pt$獲得",
     "translation": {
       "zh-CN": {
@@ -12333,6 +12580,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "【ライブ開始時に発動】ボルテージPt.を$97pt$獲得",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "【Live开始时发动】获得Voltage Pt.$97pt$",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },

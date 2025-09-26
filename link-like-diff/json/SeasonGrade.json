@@ -44,6 +44,11 @@
             "Id": 1005008,
             "Description": "・集計期間中に開催されるライブグランプリ",
             "TermTitle": "105期 2nd Term"
+        },
+        {
+            "Id": 1005009,
+            "Description": "・集計期間中に開催されるライブグランプリ",
+            "TermTitle": "105期 3rd Term"
         }
     ]
 }

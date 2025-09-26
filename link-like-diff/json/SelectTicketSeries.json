@@ -249,6 +249,11 @@
             "Id": 4030032,
             "ExchangeTicketName": "【Star Sign Memories/藤島 慈】URセレクトチケット",
             "Description": "藤島 慈のURカードと交換できるチケットです。※一部を除く"
+        },
+        {
+            "Id": 4030033,
+            "ExchangeTicketName": "【夏コミ106出展記念！】《LIMITED》URセレクトチケット",
+            "Description": "特定のLIMITEDのURカードから1枚を選んで獲得できるチケットです。"
         }
     ]
 }

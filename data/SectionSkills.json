@@ -455,6 +455,19 @@
     }
   },
   {
+    "raw": "さやか、小鈴の消費APを-3する。",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "沙耶香、小铃的消耗AP-3。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "さやかの消費APを-2する。",
     "translation": {
       "zh-CN": {
@@ -871,6 +884,19 @@
     }
   },
   {
+    "raw": "メイン効果がハートキャプチャのスキルの消費APを-3する。",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "主要效果为心心捕获的技能消耗AP-3。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "メイン効果がハート上限変動のスキルの消費APを-3する。",
     "translation": {
       "zh-CN": {
@@ -949,10 +975,23 @@
     }
   },
   {
+    "raw": "メイン効果がボルテージ増加のスキルの消費APを-5する。",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "主要效果为Voltage增加的技能消耗AP-5。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "メイン効果がムード値変動のスキルの消費APを-3する。",
     "translation": {
       "zh-CN": {
-        "text": "主要效果为心情值变动的技能消费AP减少3点。",
+        "text": "主要效果为气氛值变动的技能消费AP减少3点。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -1716,6 +1755,19 @@
     }
   },
   {
+    "raw": "瑠璃乃、姫芽の消費APを-3する。",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "瑠璃乃、姬芽的消耗AP-3。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "瑠璃乃の消費APを-3する。",
     "translation": {
       "zh-CN": {
@@ -1790,6 +1842,19 @@
       "en": {
         "text": "",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "花帆、吟子の消費APを-3する。",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "花帆、吟子的消耗AP-3。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },

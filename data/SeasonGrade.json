@@ -26,6 +26,19 @@
     }
   },
   {
+    "raw": "105期 3rd Term",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "105期 第3学期",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "105期 Special Term",
     "translation": {
       "zh-CN": {
