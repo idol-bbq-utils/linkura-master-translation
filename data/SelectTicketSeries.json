@@ -3,7 +3,7 @@
     "raw": "103期12月度までのライブグランプリ報酬SRカードから1枚を選んで獲得できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可以从103期12月度为止的演唱会大奖赛报酬SR卡片中选择1张获得的票券。",
+        "text": "可以从103期12月度为止的演唱会大奖赛报酬SR卡牌中选择1张获得的票券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -16,7 +16,7 @@
     "raw": "103期12月度までのライブグランプリ報酬URカードから1枚を選んで獲得できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可以从103期12月度为止的演唱会大奖赛报酬UR卡片中选择1张获得的票券。",
+        "text": "可以从103期12月度为止的演唱会大奖赛报酬UR卡牌中选择1张获得的票券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -29,7 +29,7 @@
     "raw": "103期のGP PRIZEカテゴリーのSRカード全てから選択できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可以从103期GP PRIZE类别的全部SR卡片中选择的票券。",
+        "text": "可以从103期GP PRIZE类别的全部SR卡牌中选择的票券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -42,7 +42,7 @@
     "raw": "103期のGP PRIZEカテゴリーのURカード全てから選択できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可以从103期GP PRIZE类别的全部UR卡片中选择的票券。",
+        "text": "可以从103期GP PRIZE类别的全部UR卡牌中选择的票券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -55,7 +55,7 @@
     "raw": "103期のGRADUATION LIMITED SRカードから1枚を選んで獲得できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可以从103期的GRADUATION LIMITED SR卡片中选择1张获得的票券。",
+        "text": "可以从103期的GRADUATION LIMITED SR卡牌中选择1张获得的票券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -68,7 +68,7 @@
     "raw": "103期のGRADUATION LIMITED URカードから1枚を選んで獲得できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可以从103期的GRADUATION LIMITED UR卡片中选择1张获得的票券。",
+        "text": "可以从103期的GRADUATION LIMITED UR卡牌中选择1张获得的票券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -81,7 +81,7 @@
     "raw": "103期のSPRING / SUMMER / AUTUMN / WINTERのURカード全てから選択できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可以从103期SPRING / SUMMER / AUTUMN / WINTER的全部UR卡片中选择的票券。",
+        "text": "可以从103期SPRING / SUMMER / AUTUMN / WINTER的全部UR卡牌中选择的票券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -94,7 +94,7 @@
     "raw": "103期のガチャから排出される恒常SRカード全てから選択できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可以从103期扭蛋中排出的全部常驻SR卡片中选择的票券。",
+        "text": "可以从103期扭蛋中排出的全部常驻SR卡牌中选择的票券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -107,7 +107,7 @@
     "raw": "103期のガチャから排出される恒常URカード全てから選択できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可以从103期扭蛋中排出的全部常驻UR卡片中选择的票券。",
+        "text": "可以从103期扭蛋中排出的全部常驻UR卡牌中选择的票券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -120,7 +120,7 @@
     "raw": "104期のガチャから排出される恒常SRカード全てから選択できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可以从104期扭蛋中排出的全部常驻SR卡片中选择的票券。",
+        "text": "可以从104期扭蛋中排出的全部常驻SR卡牌中选择的票券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -133,7 +133,7 @@
     "raw": "104期のガチャから排出される恒常URカード全てから選択できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可以从104期扭蛋中排出的全部常驻UR卡片中选择的票券。",
+        "text": "可以从104期扭蛋中排出的全部常驻UR卡牌中选择的票券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -146,7 +146,7 @@
     "raw": "104期新入生の新規URカード3種（DreamBelievers）から1枚選択できるセレクトチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可以从104期新生的新增UR卡片3种（DreamBelievers）中选择1张的选择票券。",
+        "text": "可以从104期新生的新增UR卡牌3种（DreamBelievers）中选择1张的选择票券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -159,7 +159,7 @@
     "raw": "2023/04/14までに追加されたURカードから1枚を選んで獲得できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可以从2023/04/14为止追加的UR卡片中选择1张获得的票券。",
+        "text": "可以从2023/04/14为止追加的UR卡牌中选择1张获得的票券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -172,7 +172,7 @@
     "raw": "2024 AUTUMN までの恒常URカードから1枚を選んで獲得できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可以从2024 AUTUMN为止的常驻UR卡片中选择1张获得的票券。",
+        "text": "可以从2024 AUTUMN为止的常驻UR卡牌中选择1张获得的票券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -185,7 +185,7 @@
     "raw": "2024 SUMMER までのLIMITED URカードから1枚を選んで獲得できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可以从2024 SUMMER为止的LIMITED UR卡片中选择1张获得的票券。",
+        "text": "可以从2024 SUMMER为止的LIMITED UR卡牌中选择1张获得的票券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -198,7 +198,7 @@
     "raw": "2024 SPRING までの恒常URカードから1枚を選んで獲得できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可以从2024 SPRING为止的常驻UR卡片中选择1张获得的票券。",
+        "text": "可以从2024 SPRING为止的常驻UR卡牌中选择1张获得的票券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -211,7 +211,7 @@
     "raw": "DOLLCHESTRAに所属するキャラのカードのうち、\\n103期のガチャから排出される恒常SRカード全てから選択できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可以从DOLLCHESTRA所属角色的卡片中，\\n103期扭蛋中排出的全部常驻SR卡片中选择的票券。",
+        "text": "可以从DOLLCHESTRA所属角色的卡牌中，\\n103期扭蛋中排出的全部常驻SR卡牌中选择的票券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -224,7 +224,7 @@
     "raw": "DOLLCHESTRAのLIMITED SRカードから1枚を選んで獲得できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可以从DOLLCHESTRA的LIMITED SR卡片中选择1张获得的票券。",
+        "text": "可以从DOLLCHESTRA的LIMITED SR卡牌中选择1张获得的票券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -237,7 +237,7 @@
     "raw": "DOLLCHESTRAのLIMITED URカードから1枚を選んで獲得できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可以从DOLLCHESTRA的LIMITED UR卡片中选择1张获得的票券。",
+        "text": "可以从DOLLCHESTRA的LIMITED UR卡牌中选择1张获得的票券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -250,7 +250,7 @@
     "raw": "DOLLCHESTRAの通常/GP PRIZE SRカードから1枚を選んで獲得できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可以从DOLLCHESTRA的通常/GP PRIZE SR卡片中选择1张获得的票券。",
+        "text": "可以从DOLLCHESTRA的通常/GP PRIZE SR卡牌中选择1张获得的票券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -263,7 +263,7 @@
     "raw": "DOLLCHESTRAの通常/GP PRIZE URカードから1枚を選んで獲得できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可以从DOLLCHESTRA的通常/GP PRIZE UR卡片中选择1张获得的票券。",
+        "text": "可以从DOLLCHESTRA的通常/GP PRIZE UR卡牌中选择1张获得的票券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -276,7 +276,7 @@
     "raw": "Dream Believersのカードから1枚を選んで獲得できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可以从Dream Believers的卡片中选择1张获得的票券。",
+        "text": "可以从Dream Believers的卡牌中选择1张获得的票券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -289,7 +289,7 @@
     "raw": "Edel NoteのLIMITED SRカードから1枚を選んで獲得できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可以从Edel Note的LIMITED SR卡片中选择1张获得的票券。",
+        "text": "可以从Edel Note的LIMITED SR卡牌中选择1张获得的票券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -302,7 +302,7 @@
     "raw": "Edel NoteのLIMITED URカードから1枚を選んで獲得できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可以从Edel Note的LIMITED UR卡片中选择1张获得的票券。",
+        "text": "可以从Edel Note的LIMITED UR卡牌中选择1张获得的票券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -705,7 +705,7 @@
     "raw": "【スリーズブーケ】SRセレクトチケット（103期通常のみ）",
     "translation": {
       "zh-CN": {
-        "text": "【Ceriese Bouquet】SR选择券（仅限103期通常）",
+        "text": "【Cerise Bouquet】SR选择券（仅限103期通常）",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -783,7 +783,7 @@
     "raw": "みらくらぱーく！に所属するキャラのカードのうち、\\n103期のガチャから排出される恒常SRカード全てから選択できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可从所属于Mira-Cra Park!的角色卡片中，\\n从103期扭蛋排出的全部恒常SR卡片中选择的券。",
+        "text": "可从所属于Mira-Cra Park!的角色卡牌中，\\n从103期扭蛋排出的全部恒常SR卡牌中选择的券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -796,7 +796,7 @@
     "raw": "みらくらぱーく！のLIMITED SRカードから1枚を選んで獲得できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可从Mira-Cra Park!的LIMITED SR卡片中选择1张获得的券。",
+        "text": "可从Mira-Cra Park!的LIMITED SR卡牌中选择1张获得的券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -809,7 +809,7 @@
     "raw": "みらくらぱーく！のLIMITED URカードから1枚を選んで獲得できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可从Mira-Cra Park!的LIMITED UR卡片中选择1张获得的券。",
+        "text": "可从Mira-Cra Park!的LIMITED UR卡牌中选择1张获得的券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -822,7 +822,7 @@
     "raw": "みらくらぱーく！の通常/GP PRIZE SRカードから1枚を選んで獲得できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可从Mira-Cra Park!的通常/GP PRIZE SR卡片中选择1张获得的券。",
+        "text": "可从Mira-Cra Park!的通常/GP PRIZE SR卡牌中选择1张获得的券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -835,7 +835,7 @@
     "raw": "みらくらぱーく！の通常/GP PRIZE URカードから1枚を選んで獲得できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可从Mira-Cra Park!的通常/GP PRIZE UR卡片中选择1张获得的券。",
+        "text": "可从Mira-Cra Park!的通常/GP PRIZE UR卡牌中选择1张获得的券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -848,7 +848,7 @@
     "raw": "スリーズブーケに所属するキャラのカードのうち、\\n103期のガチャから排出される恒常SRカード全てから選択できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可从所属于Ceriese Bouquet的角色卡片中，\\n从103期扭蛋排出的全部恒常SR卡片中选择的券。",
+        "text": "可从所属于Cerise Bouquet的角色卡牌中，\\n从103期扭蛋排出的全部恒常SR卡牌中选择的券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -861,7 +861,7 @@
     "raw": "スリーズブーケのLIMITED SRカードから1枚を選んで獲得できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可从Ceriese Bouquet的LIMITED SR卡片中选择1张获得的券。",
+        "text": "可从Cerise Bouquet的LIMITED SR卡牌中选择1张获得的券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -874,7 +874,7 @@
     "raw": "スリーズブーケのLIMITED URカードから1枚を選んで獲得できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可从Ceriese Bouquet的LIMITED UR卡片中选择1张获得的券。",
+        "text": "可从Cerise Bouquet的LIMITED UR卡牌中选择1张获得的券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -887,7 +887,7 @@
     "raw": "スリーズブーケの通常/GP PRIZE SRカードから1枚を選んで獲得できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可从Ceriese Bouquet的通常/GP PRIZE SR卡片中选择1张获得的券。",
+        "text": "可从Cerise Bouquet的通常/GP PRIZE SR卡牌中选择1张获得的券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -900,7 +900,7 @@
     "raw": "スリーズブーケの通常/GP PRIZE URカードから1枚を選んで獲得できるチケットです。",
     "translation": {
       "zh-CN": {
-        "text": "可从Ceriese Bouquet的通常/GP PRIZE UR卡片中选择1张获得的券。",
+        "text": "可从Cerise Bouquet的通常/GP PRIZE UR卡牌中选择1张获得的券。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -1069,7 +1069,7 @@
     "raw": "メンバーシップ【スリーズブーケ】特典 《LIMITED》SRセレクトチケット",
     "translation": {
       "zh-CN": {
-        "text": "会员资格【Ceriese Bouquet】特典 《LIMITED》SR选择券",
+        "text": "会员资格【Cerise Bouquet】特典 《LIMITED》SR选择券",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -1082,7 +1082,7 @@
     "raw": "メンバーシップ【スリーズブーケ】特典 《LIMITED》URセレクトチケット",
     "translation": {
       "zh-CN": {
-        "text": "会员资格【Ceriese Bouquet】特典 《LIMITED》UR选择券",
+        "text": "会员资格【Cerise Bouquet】特典 《LIMITED》UR选择券",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -1095,7 +1095,7 @@
     "raw": "メンバーシップ【スリーズブーケ】特典 SRセレクトチケット（通常/GP PRIZEのみ）",
     "translation": {
       "zh-CN": {
-        "text": "会员资格【Ceriese Bouquet】特典 SR选择券（常规/GP PRIZE限定）",
+        "text": "会员资格【Cerise Bouquet】特典 SR选择券（常规/GP PRIZE限定）",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -1108,7 +1108,7 @@
     "raw": "メンバーシップ【スリーズブーケ】特典 URセレクトチケット（通常/GP PRIZEのみ）",
     "translation": {
       "zh-CN": {
-        "text": "会员资格【Ceriese Bouquet】特典 UR选择券（常规/GP PRIZE限定）",
+        "text": "会员资格【Cerise Bouquet】特典 UR选择券（常规/GP PRIZE限定）",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {

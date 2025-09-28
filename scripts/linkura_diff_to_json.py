@@ -126,7 +126,7 @@ primary_key_rules = {
     # "LiveMusic": [["Id"], ["Label"]], # 不确定是否需要汉化
     # "LivePoses": [["Id"], ["Label"]], # 似乎不用汉化
     # "LiveProps": [["Id"], ["Label"]], # 似乎不用汉化
-    "LiveStages": [["Id"], ["Name", "Description"]],
+    "LiveStages": [["Id"], ["Name", "Description", "StageSkillDescription"]],
     # "LiveTimelinesEvol": [["Id"], ["Label"]],  # 不确定是否需要汉化
     "LoginBonuses": [["Id"], ["Name"]],
     # "LoginBonusRewardDatas": [[], []],

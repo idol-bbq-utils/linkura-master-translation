@@ -276,7 +276,7 @@
     "raw": "スキルAP +2（スリーズブーケ）",
     "translation": {
       "zh-CN": {
-        "text": "技能AP +2（Ceriese Bouquet）",
+        "text": "技能AP +2（Cerise Bouquet）",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -393,7 +393,7 @@
     "raw": "スキルAP -1（スリーズブーケ）",
     "translation": {
       "zh-CN": {
-        "text": "技能AP -1（Ceriese Bouquet）",
+        "text": "技能AP -1（Cerise Bouquet）",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -601,7 +601,7 @@
     "raw": "スキルAP -4（スリーズブーケ）",
     "translation": {
       "zh-CN": {
-        "text": "技能AP -4（Ceriese Bouquet）",
+        "text": "技能AP -4（Cerise Bouquet）",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -1329,7 +1329,7 @@
     "raw": "ライブ中、スリーズブーケのメンバーのスキルAPを+2する。",
     "translation": {
       "zh-CN": {
-        "text": "Live演出中，Ceriese Bouquet成员的技能AP+2。",
+        "text": "Live演出中，Cerise Bouquet成员的技能AP+2。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -1342,7 +1342,7 @@
     "raw": "ライブ中、スリーズブーケのメンバーのスキルAPを-1する。",
     "translation": {
       "zh-CN": {
-        "text": "Live演出中，Ceriese Bouquet成员的技能AP-1。",
+        "text": "Live演出中，Cerise Bouquet成员的技能AP-1。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -1355,7 +1355,7 @@
     "raw": "ライブ中、スリーズブーケのメンバーのスキルAPを-4する。",
     "translation": {
       "zh-CN": {
-        "text": "Live演出中，Ceriese Bouquet成员的技能AP-4。",
+        "text": "Live演出中，Cerise Bouquet成员的技能AP-4。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
