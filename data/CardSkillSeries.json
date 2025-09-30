@@ -767,6 +767,19 @@
     }
   },
   {
+    "raw": "アウェイキングガイア",
+    "translation": {
+      "zh-CN": {
+        "text": "Awaking Gaia",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "アキューミュレイト",
     "translation": {
       "zh-CN": {
@@ -3523,6 +3536,19 @@
     }
   },
   {
+    "raw": "グランドデザイン",
+    "translation": {
+      "zh-CN": {
+        "text": "Grand Design",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "グランドフィナーレ",
     "translation": {
       "zh-CN": {
@@ -4550,6 +4576,19 @@
     }
   },
   {
+    "raw": "ジェネシスレルム",
+    "translation": {
+      "zh-CN": {
+        "text": "Genesis Realm",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "ジャスティスアタック",
     "translation": {
       "zh-CN": {
@@ -4797,6 +4836,19 @@
     }
   },
   {
+    "raw": "スコーチング",
+    "translation": {
+      "zh-CN": {
+        "text": "Scorching",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "スターゲイザー",
     "translation": {
       "zh-CN": {
@@ -4845,6 +4897,19 @@
       "zh-CN": {
         "text": "Saintess Buddy",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "セカンドサイト",
+    "translation": {
+      "zh-CN": {
+        "text": "Second Sight",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
       }
     }
   },
@@ -8762,6 +8827,19 @@
     }
   },
   {
+    "raw": "ブリードバッテリー",
+    "translation": {
+      "zh-CN": {
+        "text": "Bleed Battery",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "ブルーミング",
     "translation": {
       "zh-CN": {
@@ -8792,6 +8870,45 @@
     "translation": {
       "zh-CN": {
         "text": "Blooming Heart",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ブルーミングパス",
+    "translation": {
+      "zh-CN": {
+        "text": "Blooming Path",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ブルーミングフューエル",
+    "translation": {
+      "zh-CN": {
+        "text": "Blooming Fuel",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "ブルーミングホライゾン",
+    "translation": {
+      "zh-CN": {
+        "text": "Blooming Horizon",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -9772,6 +9889,149 @@
       "zh-CN": {
         "text": "Repeat Ambience",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "リフレッシュ & サーチ：さやか",
+    "translation": {
+      "zh-CN": {
+        "text": "Refresh & Search：沙耶香",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "リフレッシュ & サーチ：セラス",
+    "translation": {
+      "zh-CN": {
+        "text": "Refresh & Search：塞拉斯",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "リフレッシュ & サーチ：吟子",
+    "translation": {
+      "zh-CN": {
+        "text": "Refresh & Search：吟子",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "リフレッシュ & サーチ：姫芽",
+    "translation": {
+      "zh-CN": {
+        "text": "Refresh & Search：姬芽",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "リフレッシュ & サーチ：小鈴",
+    "translation": {
+      "zh-CN": {
+        "text": "Refresh & Search：小铃",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "リフレッシュ & サーチ：慈",
+    "translation": {
+      "zh-CN": {
+        "text": "Refresh & Search：慈",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "リフレッシュ & サーチ：梢",
+    "translation": {
+      "zh-CN": {
+        "text": "Refresh & Search：梢",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "リフレッシュ & サーチ：泉",
+    "translation": {
+      "zh-CN": {
+        "text": "Refresh & Search：泉",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "リフレッシュ & サーチ：瑠璃乃",
+    "translation": {
+      "zh-CN": {
+        "text": "Refresh & Search：瑠璃乃",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "リフレッシュ & サーチ：綴理",
+    "translation": {
+      "zh-CN": {
+        "text": "Refresh & Search：缀理",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "リフレッシュ & サーチ：花帆",
+    "translation": {
+      "zh-CN": {
+        "text": "Refresh & Search：花帆",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
       }
     }
   },

@@ -4992,6 +4992,19 @@
     }
   },
   {
+    "raw": "[想造の地平から]日野下 花帆 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[想造的地平线]日野下 花帆 解放Pt.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "[抱きしめる花びら]乙宗 梢 解放Pt.",
     "translation": {
       "zh-CN": {
@@ -5399,6 +5412,19 @@
     "translation": {
       "zh-CN": {
         "text": "[眩耀夜行]日野下花帆 解放Pt.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "[眺望の地平から]大沢 瑠璃乃 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[眺望的地平线]大泽 瑠璃乃 解放Pt.",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -6179,6 +6205,19 @@
     "translation": {
       "zh-CN": {
         "text": "[邂逅的舞会]安养寺姬芽 解放Pt.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "[醒悟の地平から]村野 さやか 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[醒悟的地平线]村野 沙耶香 解放Pt.",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -11824,8 +11863,8 @@
         "author": ""
       },
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "学园偶像们对Love Live!倾注的想法以小月亮的形状\\n结晶化而成的物品。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -11850,8 +11889,8 @@
         "author": ""
       },
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "学园偶像们对Love Live!倾注的想法以星星的形状\\n结晶化而成的物品。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -11876,8 +11915,8 @@
         "author": ""
       },
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "学园偶像们对Love Live!倾注的想法以月亮的形状\\n结晶化而成的物品。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -12552,8 +12591,8 @@
         "author": ""
       },
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "装有大吉岭茶叶的罐子。能让懂行的学园偶像满意的\\n逸品。据说还能预防生活习惯病。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -12617,8 +12656,8 @@
         "author": ""
       },
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "松狮犬的挂饰。说实话只是想说这个名字。虽然只是想说，\\n但它的可爱程度是有保证的。看着它就能被治愈。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -12682,8 +12721,8 @@
         "author": ""
       },
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "以巧克力为主角的蛋糕。据说它甜蜜的诱惑让许多学园\\n偶像为之疯狂。偶尔疯狂一下也不错。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -12747,8 +12786,8 @@
         "author": ""
       },
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "能够将Daily Live的啦啦队员任务\\n开放一天的门票。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -12773,8 +12812,8 @@
         "author": ""
       },
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "能够将Daily Live的恶作剧者任务\\n开放一天的门票。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -12799,8 +12838,8 @@
         "author": ""
       },
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "能够将Daily Live的表演者任务\\n开放一天的门票。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -12825,8 +12864,8 @@
         "author": ""
       },
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "能够将Daily Live的气氛制造者任务\\n开放一天的门票。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -13280,8 +13319,8 @@
         "author": ""
       },
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "装饰着企鹅的线缆配饰。穿在智能手机充电线上很可爱，\\n但没有特别的功能性。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -13631,8 +13670,8 @@
         "author": ""
       },
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "可以兑换成为梦想标志的碎片的门票。\\n可以在道具交换所使用。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -13709,8 +13748,8 @@
         "author": ""
       },
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "在Live大奖赛中获得的门票。通过收集，\\n可以从候选中选择1张卡片进行交换。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -13891,8 +13930,8 @@
         "author": ""
       },
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "装饰着小熊猫的收纳盒。比外观看起来能装更多\\n东西。据说半夜会自己站起来。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -13930,8 +13969,8 @@
         "author": ""
       },
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "用于调音小提琴的调音器。能打动人心的\\n美丽演奏源于正确的音准。来聆听吧，莲之空的协奏曲——。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -13956,8 +13995,8 @@
         "author": ""
       },
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "能瞬间准备好牛肉饭的便当包。你可能觉得牛肉饭店\\n到处都有，但在莲之空行不通。这是\"救赎\"。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -14008,8 +14047,8 @@
         "author": ""
       },
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "七彩闪耀的草莓牛奶。所有人都不敢相信自己的眼睛。但游戏\\n总是与自己的战斗。让我们颠覆常识，突破极限吧。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -14073,8 +14112,8 @@
         "author": ""
       },
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "装饰着和风图案的束口袋。可以一个接一个地塞进\\n学园偶像活动所需的各种物品。要能拉上口才行。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -14112,8 +14151,8 @@
         "author": ""
       },
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "大鲸鱼玩偶。它的包容力让人忍不住想要抱住它。\\n这样的鲸鱼也在寻找可以撒娇的对象。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -14138,8 +14177,8 @@
         "author": ""
       },
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "将星空投影到天花板的灯具。只要打开开关，房间就会\\n变成天象馆。也可以叫朋友来开派对。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -14164,8 +14203,8 @@
         "author": ""
       },
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "用强烈一击粉碎核桃的惊人海獭。不满足于贝类\\n甚至对核桃下手的样子仿佛在诉说着\"不要停下\"。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -14255,8 +14294,8 @@
         "author": ""
       },
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "慈和瑠璃乃的亚克力立牌。只要摆放着，无论何时何地，\\n都很有Mira-Cra Park!的感觉。据说有多少个都不嫌多。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -14281,8 +14320,8 @@
         "author": ""
       },
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "拿在手中转动的玩具。正因其简单性而魅力了无数人的\\n传说般的存在。持续转动就能看到某些东西。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -14359,8 +14398,8 @@
         "author": ""
       },
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "抹茶风味的蕨饼。甜味与苦味的和谐，让品尝者永不厌\\n倦。说是学园偶像组合也不为过。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },

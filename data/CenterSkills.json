@@ -52,6 +52,19 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】APを$10$回復／スキルの合計発動回数が20回以上の時、ボルテージPt.を$536pt$獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "【FEVER开始时发动】回复$10$AP／技能合计发动次数20次以上时，获得$536pt$Voltage Pt.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】APを$10$回復／スキルの合計発動回数が6回以上の時、APを$6$回復",
     "translation": {
       "zh-CN": {
@@ -139,6 +152,19 @@
       "zh-CN": {
         "text": "【FEVER开始时发动】回复AP$12$",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】APを$12$回復／スキルの合計発動回数が20回以上の時、ボルテージPt.を$618pt$獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "【FEVER开始时发动】回复$12$AP／技能合计发动次数20次以上时，获得$618pt$Voltage Pt.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
       }
     }
   },
@@ -611,6 +637,45 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】APを$4$回復／スキルの合計発動回数が20回以上の時、ボルテージPt.を$206pt$獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "【FEVER开始时发动】回复$4$AP／技能合计发动次数20次以上时，获得$206pt$Voltage Pt.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】APを$4$回復／スキルの合計発動回数が20回以上の時、ボルテージPt.を$226pt$獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "【FEVER开始时发动】回复$4$AP／技能合计发动次数20次以上时，获得$226pt$Voltage Pt.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】APを$4$回復／スキルの合計発動回数が20回以上の時、ボルテージPt.を$247pt$獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "【FEVER开始时发动】回复$4$AP／技能合计发动次数20次以上时，获得$247pt$Voltage Pt.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】APを$4$回復／スキルの合計発動回数が3回以上の時、APを$4$回復",
     "translation": {
       "zh-CN": {
@@ -884,6 +949,32 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】APを$5$回復／スキルの合計発動回数が20回以上の時、ボルテージPt.を$268pt$獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "【FEVER开始时发动】回复$5$AP／技能合计发动次数20次以上时，获得$268pt$Voltage Pt.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】APを$5$回復／スキルの合計発動回数が20回以上の時、ボルテージPt.を$288pt$獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "【FEVER开始时发动】回复$5$AP／技能合计发动次数20次以上时，获得$288pt$Voltage Pt.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】APを$5$回復／スキルの合計発動回数が3回以上の時、APを$5$回復",
     "translation": {
       "zh-CN": {
@@ -1105,6 +1196,45 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】APを$6$回復／スキルの合計発動回数が20回以上の時、ボルテージPt.を$309pt$獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "【FEVER开始时发动】回复$6$AP／技能合计发动次数20次以上时，获得$309pt$Voltage Pt.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】APを$6$回復／スキルの合計発動回数が20回以上の時、ボルテージPt.を$330pt$獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "【FEVER开始时发动】回复$6$AP／技能合计发动次数20次以上时，获得$330pt$Voltage Pt.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】APを$6$回復／スキルの合計発動回数が20回以上の時、ボルテージPt.を$350pt$獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "【FEVER开始时发动】回复$6$AP／技能合计发动次数20次以上时，获得$350pt$Voltage Pt.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】APを$6$回復／スキルの合計発動回数が3回以上の時、APを$6$回復",
     "translation": {
       "zh-CN": {
@@ -1313,6 +1443,19 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】APを$7$回復／スキルの合計発動回数が20回以上の時、ボルテージPt.を$371pt$獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "【FEVER开始时发动】回复$7$AP／技能合计发动次数20次以上时，获得$371pt$Voltage Pt.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】APを$7$回復／スキルの合計発動回数が6回以上の時、APを$4$回復",
     "translation": {
       "zh-CN": {
@@ -1395,6 +1538,32 @@
     "translation": {
       "zh-CN": {
         "text": "【FEVER开始时发动】AP回复$8$/技能合计发动次数在10次以上时，AP回复$8$",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】APを$8$回復／スキルの合計発動回数が20回以上の時、ボルテージPt.を$412pt$獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "【FEVER开始时发动】回复$8$AP／技能合计发动次数20次以上时，获得$412pt$Voltage Pt.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】APを$8$回復／スキルの合計発動回数が20回以上の時、ボルテージPt.を$453pt$獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "【FEVER开始时发动】回复$8$AP／技能合计发动次数20次以上时，获得$453pt$Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -1608,6 +1777,19 @@
       "zh-CN": {
         "text": "【FEVER开始时发动】回复AP$9$",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】APを$9$回復／スキルの合計発動回数が20回以上の時、ボルテージPt.を$495pt$獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "【FEVER开始时发动】回复$9$AP／技能合计发动次数20次以上时，获得$495pt$Voltage Pt.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
       }
     }
   },
@@ -11635,6 +11817,19 @@
     }
   },
   {
+    "raw": "【ライブ開始時に発動】APを$10$回復／最大値の$100%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "zh-CN": {
+        "text": "【Live开始时发动】回复$10$AP／减少最大值$100%$的Mental（此效果不会让Mental变为0）",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "【ライブ開始時に発動】APを$11$回復",
     "translation": {
       "zh-CN": {
@@ -11652,6 +11847,19 @@
     "translation": {
       "zh-CN": {
         "text": "【Live开始时发动】AP回复$12$",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "【ライブ開始時に発動】APを$12$回復／最大値の$100%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "zh-CN": {
+        "text": "【Live开始时发动】回复$12$AP／减少最大值$100%$的Mental（此效果不会让Mental变为0）",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -11752,10 +11960,36 @@
     }
   },
   {
+    "raw": "【ライブ開始時に発動】APを$4$回復／最大値の$100%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "zh-CN": {
+        "text": "【Live开始时发动】回复$4$AP／减少最大值$100%$的Mental（此效果不会让Mental变为0）",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "【ライブ開始時に発動】APを$5$回復",
     "translation": {
       "zh-CN": {
         "text": "【Live开始时发动】AP回复$5$",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "【ライブ開始時に発動】APを$5$回復／最大値の$100%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "zh-CN": {
+        "text": "【Live开始时发动】回复$5$AP／减少最大值$100%$的Mental（此效果不会让Mental变为0）",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -11778,10 +12012,36 @@
     }
   },
   {
+    "raw": "【ライブ開始時に発動】APを$6$回復／最大値の$100%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "zh-CN": {
+        "text": "【Live开始时发动】回复$6$AP／减少最大值$100%$的Mental（此效果不会让Mental变为0）",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "【ライブ開始時に発動】APを$7$回復",
     "translation": {
       "zh-CN": {
         "text": "【Live开始时发动】AP回复$7$",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "【ライブ開始時に発動】APを$7$回復／最大値の$100%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "zh-CN": {
+        "text": "【Live开始时发动】回复$7$AP／减少最大值$100%$的Mental（此效果不会让Mental变为0）",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -11804,10 +12064,36 @@
     }
   },
   {
+    "raw": "【ライブ開始時に発動】APを$8$回復／最大値の$100%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "zh-CN": {
+        "text": "【Live开始时发动】回复$8$AP／减少最大值$100%$的Mental（此效果不会让Mental变为0）",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "【ライブ開始時に発動】APを$9$回復",
     "translation": {
       "zh-CN": {
         "text": "【Live开始时发动】AP回复$9$",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "【ライブ開始時に発動】APを$9$回復／最大値の$100%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "zh-CN": {
+        "text": "【Live开始时发动】回复$9$AP／减少最大值$100%$的Mental（此效果不会让Mental变为0）",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {

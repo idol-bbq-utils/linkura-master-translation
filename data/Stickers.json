@@ -14313,6 +14313,19 @@
     }
   },
   {
+    "raw": "5th Live Tour ～4Pair Power Spread!!!!～ みらくらぱーく！ presents Heart Stage cross Bloom Days Extra ～Fes×ReC：LIVE～ 開催日にログイン",
+    "translation": {
+      "zh-CN": {
+        "text": "5th Live Tour ～4Pair Power Spread!!!!～ Mira-Cra Park! presents Heart Stage cross Bloom Days Extra ～Fes×ReC：LIVE～ 开催日登录",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "5月30日は宮下愛ちゃんのお誕生日♪",
     "translation": {
       "zh-CN": {
@@ -46657,6 +46670,19 @@
     }
   },
   {
+    "raw": "Live『5th Live Tour ～4Pair Power Spread!!!!～』みらくらぱーく！ presents Heart Stage",
+    "translation": {
+      "zh-CN": {
+        "text": "Live『5th Live Tour ～4Pair Power Spread!!!!～』Mira-Cra Park! presents Heart Stage",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "Live『LoveLive! Series Presents ユニット甲子園 2024』",
     "translation": {
       "zh-CN": {
@@ -55627,6 +55653,32 @@
     }
   },
   {
+    "raw": "[せいごのちへいから]村野 さやか",
+    "translation": {
+      "zh-CN": {
+        "text": "[来自醒悟的地平线]村野 沙耶香",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "[そうぞうのちへいから]日野下 花帆",
+    "translation": {
+      "zh-CN": {
+        "text": "[来自想造的地平线]日野下 花帆",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "[たんきゅうのぶとうかい]徒町 小鈴",
     "translation": {
       "zh-CN": {
@@ -55644,6 +55696,19 @@
     "translation": {
       "zh-CN": {
         "text": "[小小的]瑠璃乃",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "[ちょうぼうのちへいから]大沢 瑠璃乃",
+    "translation": {
+      "zh-CN": {
+        "text": "[来自眺望的地平线]大泽 瑠璃乃",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -63115,6 +63180,45 @@
     }
   },
   {
+    "raw": "[想造の地平から]日野下 花帆",
+    "translation": {
+      "zh-CN": {
+        "text": "[想造的地平线]日野下 花帆",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "[想造の地平から]日野下 花帆 を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[想造的地平线]日野下 花帆 4次解放纪念贴纸",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "[想造の地平から]日野下 花帆 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[想造的地平线]日野下 花帆 解放完成",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "[抱きしめる花びら]乙宗 梢",
     "translation": {
       "zh-CN": {
@@ -64354,6 +64458,45 @@
     "translation": {
       "zh-CN": {
         "text": "[眩耀夜行]日野下 花帆 解放完成",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "[眺望の地平から]大沢 瑠璃乃",
+    "translation": {
+      "zh-CN": {
+        "text": "[眺望的地平线]大泽 瑠璃乃",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "[眺望の地平から]大沢 瑠璃乃 を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[眺望的地平线]大泽 瑠璃乃 4次解放纪念贴纸",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "[眺望の地平から]大沢 瑠璃乃 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[眺望的地平线]大泽 瑠璃乃 解放完成",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -66872,6 +67015,45 @@
     }
   },
   {
+    "raw": "[醒悟の地平から]村野 さやか",
+    "translation": {
+      "zh-CN": {
+        "text": "[醒悟的地平线]村野 沙耶香",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "[醒悟の地平から]村野 さやか を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[醒悟的地平线]村野 沙耶香 4次解放纪念贴纸",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "[醒悟の地平から]村野 さやか 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[醒悟的地平线]村野 沙耶香 解放完成",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "[金魚◎花火]乙宗 梢",
     "translation": {
       "zh-CN": {
@@ -67630,6 +67812,19 @@
     "translation": {
       "zh-CN": {
         "text": "[８番拉面]百生吟子",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "cross Bloom Days Extra ～Fes×ReC：LIVE～\n2025.10.4-5 in 東京・国立代々木競技場　第一体育館",
+    "translation": {
+      "zh-CN": {
+        "text": "cross Bloom Days Extra ～Fes×ReC：LIVE～\n2025.10.4-5 in 东京・国立代代木竞技场　第一体育馆",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -69060,6 +69255,45 @@
     "translation": {
       "zh-CN": {
         "text": "购买「星之魔法变公主！？包」",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "「最果てに花を咲かせる女神＊三連華想造パック」を購入",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「让花朵在最远之地绽放的女神＊三连华想造包」",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "「最果てに花を咲かせる女神＊三連華眺望パック」を購入",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「让花朵在最远之地绽放的女神＊三连华眺望包」",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "「最果てに花を咲かせる女神＊三連華醒悟パック」を購入",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「让花朵在最远之地绽放的女神＊三连华醒悟包」",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -81969,6 +82203,19 @@
     "translation": {
       "zh-CN": {
         "text": "小菜的抱负「身份认同」！",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "この先の未来にはきっと、\n最高の景色があるはずです！",
+    "translation": {
+      "zh-CN": {
+        "text": "在这前方的未来中一定，\n有着最棒的风景！",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -104637,6 +104884,19 @@
     }
   },
   {
+    "raw": "太陽の光は、いつまでも、いつまでも！",
+    "translation": {
+      "zh-CN": {
+        "text": "太阳的光芒，会永远，永远地！",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "好きの気持ちが込められたメッセージカード",
     "translation": {
       "zh-CN": {
@@ -116588,6 +116848,19 @@
     "translation": {
       "zh-CN": {
         "text": "穗乃果推",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "空が澄んでる。きっとこの先も大丈夫。",
+    "translation": {
+      "zh-CN": {
+        "text": "天空很澄澈。一定这之后也没问题。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {

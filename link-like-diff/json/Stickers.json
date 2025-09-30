@@ -1362,6 +1362,12 @@
             "RequirementText": "[可惜夜花火]日野下 花帆 解放完了"
         },
         {
+            "Id": 10315331,
+            "Name": "[想造の地平から]日野下 花帆",
+            "Text": "[想造の地平から]日野下 花帆 を4回解放した記念のステッカー",
+            "RequirementText": "[想造の地平から]日野下 花帆 解放完了"
+        },
+        {
             "Id": 10318011,
             "Name": "[Prism Echo]日野下 花帆",
             "Text": "[Prism Echo]日野下 花帆を4回解放した記念のステッカー",
@@ -1764,6 +1770,12 @@
             "RequirementText": "[太陽であれ！]村野 さやか 解放完了"
         },
         {
+            "Id": 10325301,
+            "Name": "[醒悟の地平から]村野 さやか",
+            "Text": "[醒悟の地平から]村野 さやか を4回解放した記念のステッカー",
+            "RequirementText": "[醒悟の地平から]村野 さやか 解放完了"
+        },
+        {
             "Id": 10328011,
             "Name": "[Prism Echo]村野 さやか",
             "Text": "[Prism Echo]村野 さやかを4回解放した記念のステッカー",
@@ -2092,6 +2104,12 @@
             "Name": "[ニャオシグニャル]大沢 瑠璃乃",
             "Text": "[ニャオシグニャル]大沢 瑠璃乃 を4回解放した記念のステッカー",
             "RequirementText": "[ニャオシグニャル]大沢 瑠璃乃 解放完了"
+        },
+        {
+            "Id": 10335281,
+            "Name": "[眺望の地平から]大沢 瑠璃乃",
+            "Text": "[眺望の地平から]大沢 瑠璃乃 を4回解放した記念のステッカー",
+            "RequirementText": "[眺望の地平から]大沢 瑠璃乃 解放完了"
         },
         {
             "Id": 10338011,
@@ -11568,6 +11586,24 @@
             "RequirementText": "「BLACK COLLECTION by ZOZOTOWN Edel Noteコーディネート」を購入"
         },
         {
+            "Id": 90000105,
+            "Name": "[そうぞうのちへいから]日野下 花帆",
+            "Text": "太陽の光は、いつまでも、いつまでも！",
+            "RequirementText": "「最果てに花を咲かせる女神＊三連華想造パック」を購入"
+        },
+        {
+            "Id": 90000106,
+            "Name": "[せいごのちへいから]村野 さやか",
+            "Text": "この先の未来にはきっと、\n最高の景色があるはずです！",
+            "RequirementText": "「最果てに花を咲かせる女神＊三連華醒悟パック」を購入"
+        },
+        {
+            "Id": 90000107,
+            "Name": "[ちょうぼうのちへいから]大沢 瑠璃乃",
+            "Text": "空が澄んでる。きっとこの先も大丈夫。",
+            "RequirementText": "「最果てに花を咲かせる女神＊三連華眺望パック」を購入"
+        },
+        {
             "Id": 90010210,
             "Name": "Kozue Birthday 2023",
             "Text": "Happy 17th Birthday to Dear Kozue!",
@@ -12256,6 +12292,12 @@
             "Name": "[Bloom, The Dream Believers]藤島 慈",
             "Text": "これでお別れ？ \nううん、ずっとずっと一緒でしょ♡\nみんなに一生、藤島 慈を刻みつけてやるんだから☆",
             "RequirementText": "「4th Live Dream ～Bloom, The Dream Believers～ 102期卒業公演記念パック！」を購入"
+        },
+        {
+            "Id": 92000053,
+            "Name": "Live『5th Live Tour ～4Pair Power Spread!!!!～』みらくらぱーく！ presents Heart Stage",
+            "Text": "cross Bloom Days Extra ～Fes×ReC：LIVE～\n2025.10.4-5 in 東京・国立代々木競技場　第一体育館",
+            "RequirementText": "5th Live Tour ～4Pair Power Spread!!!!～ みらくらぱーく！ presents Heart Stage cross Bloom Days Extra ～Fes×ReC：LIVE～ 開催日にログイン"
         },
         {
             "Id": 93001001,

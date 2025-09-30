@@ -1,5 +1,18 @@
 [
   {
+    "raw": "DOLLCHESTRAに所属するメンバーと日野下花帆、大沢瑠璃乃のアピール値が180％上昇／クールタイムが3秒増加するが、全てのスキルカードの消費APが8減少し、ボルテージの獲得量が1600％増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "DOLLCHESTRA所属成员以及日野下花帆、大泽瑠璃乃的魅力值上升180％／冷却时间增加3秒，但所有技能卡片的消费AP减少8，Voltage的获得量增加1600％。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "DOLLCHESTRAに所属するメンバーのアピール値が150％上昇",
     "translation": {
       "zh-CN": {
@@ -56,6 +69,19 @@
     "translation": {
       "zh-CN": {
         "text": "Edel Note所属成员的魅力值上升200％",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "みらくらぱーく！に所属するメンバーと日野下花帆、村野さやかのアピール値が180％上昇／メンタルの最大値が編成している瑠璃乃のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Mira-Cra Park!所属成员以及日野下花帆、村野沙耶香的魅力值上升180％／Mental的最大值变为编成中瑠璃乃卡片数量×100，但所有技能的消费AP减少2，冷却时间减少2秒。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
@@ -468,6 +494,19 @@
     }
   },
   {
+    "raw": "スリーズブーケに所属するメンバーと村野さやか、大沢瑠璃乃のアピール値が180％上昇／全てのスキルカードの消費APが1増加するが、APの獲得量が10％増加し、クールタイムが3秒減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Cerise Bouquet所属成员以及村野沙耶香、大泽瑠璃乃的魅力值上升180％／所有技能卡片的消费AP增加1，但AP的获得量增加10％，冷却时间减少3秒。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "スリーズブーケに所属するメンバーのアピール値が150％上昇",
     "translation": {
       "zh-CN": {
@@ -524,6 +563,45 @@
     "translation": {
       "zh-CN": {
         "text": "塞拉斯的魅力值上升400％",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "三連華【想造】",
+    "translation": {
+      "zh-CN": {
+        "text": "三连华【想造】",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "三連華【眺望】",
+    "translation": {
+      "zh-CN": {
+        "text": "三连华【眺望】",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "三連華【醒悟】",
+    "translation": {
+      "zh-CN": {
+        "text": "三连华【醒悟】",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {

@@ -388,5 +388,18 @@
         "author": "claude-sonnet-4-20250514"
       }
     }
+  },
+  {
+    "raw": "105期第7シーズン",
+    "translation": {
+      "zh-CN": {
+        "text": "105期第7季度",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
   }
 ]

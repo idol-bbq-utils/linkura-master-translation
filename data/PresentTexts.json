@@ -5304,6 +5304,19 @@
     }
   },
   {
+    "raw": "5th Live Tour ～4Pair Power Spread!!!!～ みらくらぱーく！ presents Heart Stage 開催記念プレゼントです。",
+    "translation": {
+      "zh-CN": {
+        "text": "5th Live Tour ～4Pair Power Spread!!!!～ みらくらぱーく！ presents Heart Stage 举办纪念礼品。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "BLACK COLLECTION by ZOZOTOWN コラボ記念！ログインボーナス 1日目のプレゼントです！",
     "translation": {
       "en": {
@@ -14356,6 +14369,45 @@
     "translation": {
       "zh-CN": {
         "text": "购买「星星魔法变公主！？公主小铃包」获得的道具。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "「最果てに花を咲かせる女神＊三連華想造パック」を購入して獲得したアイテムです。",
+    "translation": {
+      "zh-CN": {
+        "text": "通过购买「在最远端绽放花朵的女神＊三连华想造礼包」获得的道具。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "「最果てに花を咲かせる女神＊三連華眺望パック」を購入して獲得したアイテムです。",
+    "translation": {
+      "zh-CN": {
+        "text": "通过购买「在最远端绽放花朵的女神＊三连华眺望礼包」获得的道具。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "「最果てに花を咲かせる女神＊三連華醒悟パック」を購入して獲得したアイテムです。",
+    "translation": {
+      "zh-CN": {
+        "text": "通过购买「在最远端绽放花朵的女神＊三连华醒悟礼包」获得的道具。",
         "author": "claude-sonnet-4-20250514"
       },
       "en": {
