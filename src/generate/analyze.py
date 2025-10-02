@@ -74,7 +74,7 @@ def write_translation_progress(readme_file: Path, total: int, translated: int, l
     """
     # Generate new badge URL
     sheilds_locale = locale.replace('-', '--')
-    badge_url = f"![translation {locale}](https://img.shields.io/badge/translation_{sheilds_locale}-{translated}%2F{total}-blue)"
+    badge_url = f"![translation {locale}](https://img.shields.io/badge/translation_{sheilds_locale}-{translated/total*100:.1f}%25%7C{translated}%2F{total}-blue)"
 
     try:
         with open(readme_file, 'r', encoding='utf-8') as f:
