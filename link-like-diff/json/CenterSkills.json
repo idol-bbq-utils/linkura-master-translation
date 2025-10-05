@@ -39416,6 +39416,76 @@
             "Description": "【ライブ開始時に発動】APを$12$回復"
         },
         {
+            "Id": 10335270011,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$116pt$獲得"
+        },
+        {
+            "Id": 10335270021,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$127pt$獲得"
+        },
+        {
+            "Id": 10335270031,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$139pt$獲得"
+        },
+        {
+            "Id": 10335270041,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$151pt$獲得"
+        },
+        {
+            "Id": 10335270051,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$162pt$獲得"
+        },
+        {
+            "Id": 10335270061,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$174pt$獲得"
+        },
+        {
+            "Id": 10335270071,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$186pt$獲得"
+        },
+        {
+            "Id": 10335270081,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$197pt$獲得"
+        },
+        {
+            "Id": 10335270091,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$209pt$獲得"
+        },
+        {
+            "Id": 10335270101,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$232pt$獲得"
+        },
+        {
+            "Id": 10335270111,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$255pt$獲得"
+        },
+        {
+            "Id": 10335270121,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$279pt$獲得"
+        },
+        {
+            "Id": 10335270131,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$302pt$獲得"
+        },
+        {
+            "Id": 10335270141,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$348pt$獲得"
+        },
+        {
             "Id": 10335280011,
             "CenterSkillName": "APゲイン",
             "Description": "【ライブ開始時に発動】APを$4$回復／最大値の$100%$分のメンタルを減少（この効果ではメンタルが0にならない）"
@@ -43056,6 +43126,76 @@
             "Description": "【ライブ開始時に発動】APを$10$回復"
         },
         {
+            "Id": 10415190011,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$4$回復"
+        },
+        {
+            "Id": 10415190021,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$4$回復"
+        },
+        {
+            "Id": 10415190031,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$4$回復"
+        },
+        {
+            "Id": 10415190041,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$5$回復"
+        },
+        {
+            "Id": 10415190051,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$5$回復"
+        },
+        {
+            "Id": 10415190061,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$6$回復"
+        },
+        {
+            "Id": 10415190071,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$6$回復"
+        },
+        {
+            "Id": 10415190081,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$6$回復"
+        },
+        {
+            "Id": 10415190091,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$7$回復"
+        },
+        {
+            "Id": 10415190101,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$8$回復"
+        },
+        {
+            "Id": 10415190111,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$8$回復"
+        },
+        {
+            "Id": 10415190121,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$9$回復"
+        },
+        {
+            "Id": 10415190131,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$10$回復"
+        },
+        {
+            "Id": 10415190141,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$12$回復"
+        },
+        {
             "Id": 10418010011,
             "CenterSkillName": "メンタル減少",
             "Description": "【ライブ開始時に発動】最大値の$30%$分のメンタルを減少（この効果ではメンタルが0にならない）"
@@ -45994,6 +46134,76 @@
             "Id": 10425160141,
             "CenterSkillName": "ボルテージゲイン",
             "Description": "【FEVER開始時に発動】ボルテージPt.を$348pt$獲得"
+        },
+        {
+            "Id": 10425170011,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【ライブ開始時に発動】ボルテージPt.を$116pt$獲得"
+        },
+        {
+            "Id": 10425170021,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【ライブ開始時に発動】ボルテージPt.を$127pt$獲得"
+        },
+        {
+            "Id": 10425170031,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【ライブ開始時に発動】ボルテージPt.を$139pt$獲得"
+        },
+        {
+            "Id": 10425170041,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【ライブ開始時に発動】ボルテージPt.を$151pt$獲得"
+        },
+        {
+            "Id": 10425170051,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【ライブ開始時に発動】ボルテージPt.を$162pt$獲得"
+        },
+        {
+            "Id": 10425170061,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【ライブ開始時に発動】ボルテージPt.を$174pt$獲得"
+        },
+        {
+            "Id": 10425170071,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【ライブ開始時に発動】ボルテージPt.を$186pt$獲得"
+        },
+        {
+            "Id": 10425170081,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【ライブ開始時に発動】ボルテージPt.を$197pt$獲得"
+        },
+        {
+            "Id": 10425170091,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【ライブ開始時に発動】ボルテージPt.を$209pt$獲得"
+        },
+        {
+            "Id": 10425170101,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【ライブ開始時に発動】ボルテージPt.を$232pt$獲得"
+        },
+        {
+            "Id": 10425170111,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【ライブ開始時に発動】ボルテージPt.を$255pt$獲得"
+        },
+        {
+            "Id": 10425170121,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【ライブ開始時に発動】ボルテージPt.を$279pt$獲得"
+        },
+        {
+            "Id": 10425170131,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【ライブ開始時に発動】ボルテージPt.を$302pt$獲得"
+        },
+        {
+            "Id": 10425170141,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【ライブ開始時に発動】ボルテージPt.を$348pt$獲得"
         },
         {
             "Id": 10428010011,

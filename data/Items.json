@@ -4368,6 +4368,45 @@
     }
   },
   {
+    "raw": "[一生に夢が咲くように]大沢 瑠璃乃 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[一生中梦想绽放]大泽瑠璃乃 解放Pt.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "[So Dreams May Bloom in a Lifetime] Rurino Osawa Liberation Pt.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[一生に夢が咲くように]徒町 小鈴 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[一生中梦想绽放]徒町小铃 解放Pt.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "[So Dreams May Bloom in a Lifetime] Kosuzu Kachimachi Liberation Pt.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[一生に夢が咲くように]百生 吟子 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[一生中梦想绽放]百生吟子 解放Pt.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "[So Dreams May Bloom in a Lifetime] Ginko Momose Liberation Pt.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "[世界中を夢中に]大沢 瑠璃乃 解放Pt.",
     "translation": {
       "zh-CN": {

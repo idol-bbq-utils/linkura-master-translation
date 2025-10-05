@@ -1004,6 +1004,54 @@
         {
             "Id": 1052604,
             "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1053101,
+            "Description": "AUTUMN LIMITED"
+        },
+        {
+            "Id": 1053102,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1053103,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1053104,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1053201,
+            "Description": "AUTUMN LIMITED"
+        },
+        {
+            "Id": 1053202,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1053203,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1053204,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1053301,
+            "Description": "AUTUMN LIMITED"
+        },
+        {
+            "Id": 1053302,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1053303,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1053304,
+            "Description": "レアリティ：DR"
         }
     ]
 }

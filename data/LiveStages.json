@@ -221,6 +221,19 @@
     }
   },
   {
+    "raw": "スキルを20回使用するたび、デッキの全てのDOLLCHESTRAの消費APをステージ中常に-1し、ステージ開始時、メイン効果がリシャッフルであるデッキの全てのカードの消費APをステージ中常に+3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "每使用20次技能，场上本卡组所有DOLLCHESTRA的消费AP持续-1，且在关卡开始时，主效果为重新洗牌的本卡组所有卡片的消费AP在关卡中持续+3。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Every 20 skill uses, permanently reduce the AP cost of all DOLLCHESTRA cards in the deck by 1 for the duration of the stage, and at the start of the stage, permanently increase the AP cost of all cards in the deck whose main effect is reshuffle by 3 for the duration of the stage.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "スキルを20回使用するたび、デッキの全てのDOLLCHESTRAの消費APをステージ中常に-1する。",
     "translation": {
       "zh-CN": {
@@ -229,6 +242,32 @@
       },
       "en": {
         "text": "Each time skills are used 20 times, all DOLLCHESTRA cards in deck have AP cost permanently -1 during stage.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "スキルを20回使用するたび、デッキの全てのEdel Noteの消費APをステージ中常に-1し、また山札が切れるたび、APが5減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "每使用20次技能，场上本卡组所有Edel Note的消费AP持续-1，此外每当牌组用尽时，AP减少5。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Every 20 skill uses, permanently reduce the AP cost of all Edel Note cards in the deck by 1 for the duration of the stage, and each time the draw pile is exhausted, reduce AP by 5.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "スキルを20回使用するたび、デッキの全てのスリーズブーケの消費APをステージ中常に-1し、スキルを10回使用するたび、メンタルを最大値の20%減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "每使用20次技能，场上本卡组所有Cerise Bouquet的消费AP持续-1，每使用10次技能，Mental减少最大值的20%。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Every 20 skill uses, permanently reduce the AP cost of all Cerise Bouquet cards in the deck by 1 for the duration of the stage, and every 10 skill uses, reduce Mental by 20% of its maximum value.",
         "author": "claude-sonnet-4-20250514"
       }
     }

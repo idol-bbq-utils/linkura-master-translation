@@ -897,6 +897,19 @@
     }
   },
   {
+    "raw": "メイン効果がハート上限変動のスキルの消費APを+3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "主要效果为心心上限变动的技能的消费AP+3。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Increases the AP cost of skills whose main effect is Heart limit fluctuation by +3.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "メイン効果がハート上限変動のスキルの消費APを-3する。",
     "translation": {
       "zh-CN": {

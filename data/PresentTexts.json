@@ -5759,6 +5759,19 @@
     }
   },
   {
+    "raw": "CD『ニャオシグニャル』シリアルコード特典です。",
+    "translation": {
+      "zh-CN": {
+        "text": "CD『ニャオシグニャル』序列号特典。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "This is a serial code bonus from the CD 『ニャオシグニャル』.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "CD『ハナムスビ / バアドケージ / ジョーショーキリュー』シリアルコード特典です。",
     "translation": {
       "zh-CN": {
@@ -5897,6 +5910,19 @@
       },
       "en": {
         "text": "CD 『月夜見海月』 serial code bonus.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "CD『片翼のトリバガ』シリアルコード特典です。",
+    "translation": {
+      "zh-CN": {
+        "text": "CD『片翼のトリバガ』序列号特典。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "This is a serial code bonus from the CD 『片翼のトリバガ』.",
         "author": "claude-sonnet-4-20250514"
       }
     }

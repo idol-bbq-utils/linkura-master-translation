@@ -15847,6 +15847,19 @@
     }
   },
   {
+    "raw": "CD『ニャオシグニャル』購入特典",
+    "translation": {
+      "zh-CN": {
+        "text": "CD『ニャオシグニャル』购买特典",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "CD 『ニャオシグニャル』 Purchase Bonus",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "CD『ハナムスビ / バアドケージ / ジョーショーキリュー』購入特典",
     "translation": {
       "zh-CN": {
@@ -15972,6 +15985,19 @@
       },
       "en": {
         "text": "CD 『月夜見海月』 Purchase Bonus",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "CD『片翼のトリバガ』購入特典",
+    "translation": {
+      "zh-CN": {
+        "text": "CD『片翼のトリバガ』购买特典",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "CD 『片翼のトリバガ』 Purchase Bonus",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -16666,6 +16692,19 @@
     }
   },
   {
+    "raw": "Jacket『ニャオシグニャル』",
+    "translation": {
+      "zh-CN": {
+        "text": "Jacket『ニャオシグニャル』",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Jacket 『ニャオシグニャル』",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "Jacket『ハナムスビ / バアドケージ / ジョーショーキリュー』",
     "translation": {
       "zh-CN": {
@@ -16791,6 +16830,19 @@
       },
       "en": {
         "text": "Jacket『月夜見海月』",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Jacket『片翼のトリバガ』",
+    "translation": {
+      "zh-CN": {
+        "text": "Jacket『片翼のトリバガ』",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Jacket 『片翼のトリバガ』",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -61074,6 +61126,123 @@
     }
   },
   {
+    "raw": "[一生に夢が咲くように]大沢 瑠璃乃",
+    "translation": {
+      "zh-CN": {
+        "text": "[一生に夢が咲くように]大泽 瑠璃乃",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "[So That Dreams May Bloom in Life] Rurino Osawa",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[一生に夢が咲くように]大沢 瑠璃乃 を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[一生に夢が咲くように]大泽 瑠璃乃 4次解放完成纪念贴纸",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Commemorative sticker for unlocking [So That Dreams May Bloom in Life] Rurino Osawa 4 times",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[一生に夢が咲くように]大沢 瑠璃乃 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[一生に夢が咲くように]大泽 瑠璃乃 解放完成",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "[So That Dreams May Bloom in Life] Rurino Osawa Unlock Complete",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[一生に夢が咲くように]徒町 小鈴",
+    "translation": {
+      "zh-CN": {
+        "text": "[一生に夢が咲くように]徒町 小铃",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "[So That Dreams May Bloom in Life] Kosuzu Kachimachi",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[一生に夢が咲くように]徒町 小鈴 を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[一生に夢が咲くように]徒町 小铃 4次解放完成纪念贴纸",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Commemorative sticker for unlocking [So That Dreams May Bloom in Life] Kosuzu Kachimachi 4 times",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[一生に夢が咲くように]徒町 小鈴 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[一生に夢が咲くように]徒町 小铃 解放完成",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "[So That Dreams May Bloom in Life] Kosuzu Kachimachi Unlock Complete",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[一生に夢が咲くように]百生 吟子",
+    "translation": {
+      "zh-CN": {
+        "text": "[一生に夢が咲くように]百生 吟子",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "[So That Dreams May Bloom in Life] Ginko Momose",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[一生に夢が咲くように]百生 吟子 を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[一生に夢が咲くように]百生 吟子 4次解放完成纪念贴纸",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Commemorative sticker for unlocking [So That Dreams May Bloom in Life] Ginko Momose 4 times",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[一生に夢が咲くように]百生 吟子 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[一生に夢が咲くように]百生 吟子 解放完成",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "[So That Dreams May Bloom in Life] Ginko Momose Unlock Complete",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "[世界中を夢中に]大沢 瑠璃乃",
     "translation": {
       "zh-CN": {
@@ -74927,6 +75096,45 @@
       },
       "en": {
         "text": "Reached Mastery Lv.30 for『ヴィラン』",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "『一生に夢が咲くように』のマスタリーLv.を30にした記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "『一生に夢が咲くように』熟练度Lv.达到30纪念贴纸",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Commemorative sticker for reaching Mastery Lv. 30 in 『一生に夢が咲くように』",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "『一生に夢が咲くように』マエストロ",
+    "translation": {
+      "zh-CN": {
+        "text": "『一生に夢が咲くように』大师",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "『一生に夢が咲くように』 Maestro",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "『一生に夢が咲くように』マスタリーLv.30到達",
+    "translation": {
+      "zh-CN": {
+        "text": "『一生に夢が咲くように』熟练度Lv.30达成",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "『一生に夢が咲くように』 Mastery Lv. 30 Achieved",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -94349,6 +94557,19 @@
       },
       "en": {
         "text": "Heart-Pounding! School Information Session Mari TOP300",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ニャンてったって みんな⼈間じゃん？\nそれこそ⼤事なのは夢中⼒",
+    "translation": {
+      "zh-CN": {
+        "text": "喵的说 大家都是人类吧？\n正因如此重要的是专注力",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "No matter what, everyone's human, right?\nWhat really matters is the power of passion",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -114551,6 +114772,19 @@
       },
       "en": {
         "text": "Interdimensional Festival THE IDOLM@STER★♥Love Live! Song Battle commemoration title",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "白と黒、どちら？\n幸と不幸 左右合わせて 生き甲斐",
+    "translation": {
+      "zh-CN": {
+        "text": "白与黑，选哪个？\n幸与不幸 左右合一 生存意义",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "White or black, which one?\nFortune and misfortune, left and right combined, that's what makes life worth living",
         "author": "claude-sonnet-4-20250514"
       }
     }

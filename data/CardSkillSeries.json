@@ -663,6 +663,19 @@
     }
   },
   {
+    "raw": "《一生に夢が咲くように》",
+    "translation": {
+      "zh-CN": {
+        "text": "《一生に夢が咲くように》",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "《一生に夢が咲くように》",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "《可惜夜花火》",
     "translation": {
       "en": {
@@ -1542,6 +1555,19 @@
       },
       "en": {
         "text": "Early Draw: 3/AP Reduce",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "アーリーボルテックスプロテクト",
+    "translation": {
+      "zh-CN": {
+        "text": "Early Vortex Protect",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Early Vortex Protect",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -3497,6 +3523,19 @@
     }
   },
   {
+    "raw": "クロスアニマ",
+    "translation": {
+      "zh-CN": {
+        "text": "Cross Anima",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Cross Anima",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "クローズ",
     "translation": {
       "zh-CN": {
@@ -4337,6 +4376,149 @@
       },
       "zh-CN": {
         "text": "Summer Magic Hour",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サモン：さやか",
+    "translation": {
+      "zh-CN": {
+        "text": "召唤：沙耶香",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Summon: Sayaka",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サモン：セラス",
+    "translation": {
+      "zh-CN": {
+        "text": "召唤：塞拉斯",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Summon: Ceras",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サモン：吟子",
+    "translation": {
+      "zh-CN": {
+        "text": "召唤：吟子",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Summon: Ginko",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サモン：姫芽",
+    "translation": {
+      "zh-CN": {
+        "text": "召唤：姬芽",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Summon: Hime",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サモン：小鈴",
+    "translation": {
+      "zh-CN": {
+        "text": "召唤：小铃",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Summon: Kosuzu",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サモン：慈",
+    "translation": {
+      "zh-CN": {
+        "text": "召唤：慈",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Summon: Megumi",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サモン：梢",
+    "translation": {
+      "zh-CN": {
+        "text": "召唤：梢",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Summon: Kozue",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サモン：泉",
+    "translation": {
+      "zh-CN": {
+        "text": "召唤：泉",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Summon: Izumi",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サモン：瑠璃乃",
+    "translation": {
+      "zh-CN": {
+        "text": "召唤：瑠璃乃",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Summon: Rurino",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サモン：綴理",
+    "translation": {
+      "zh-CN": {
+        "text": "召唤：缀理",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Summon: Tsuzuri",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サモン：花帆",
+    "translation": {
+      "zh-CN": {
+        "text": "召唤：花帆",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Summon: Kaho",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -5200,6 +5382,19 @@
     }
   },
   {
+    "raw": "チアフルブーステッドハート",
+    "translation": {
+      "zh-CN": {
+        "text": "Cheerful Boosted Heart",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Cheerful Boosted Heart",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "チアフルブースト",
     "translation": {
       "zh-CN": {
@@ -5278,6 +5473,19 @@
     }
   },
   {
+    "raw": "チアフルリカバーバイブス",
+    "translation": {
+      "zh-CN": {
+        "text": "Cheerful Recover Vibes",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Cheerful Recover Vibes",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "チアフルリカバープロテクト",
     "translation": {
       "zh-CN": {
@@ -5312,6 +5520,19 @@
       },
       "zh-CN": {
         "text": "Cheerful Regain Extend",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "チアフルワイドエクステンド",
+    "translation": {
+      "zh-CN": {
+        "text": "Cheerful Wide Extend",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Cheerful Wide Extend",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -6599,6 +6820,19 @@
       },
       "en": {
         "text": "Dress《Rainbow Chiffon》",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ドレス《一生に夢が咲くように》",
+    "translation": {
+      "zh-CN": {
+        "text": "服装《一生に夢が咲くように》",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Dress 《一生に夢が咲くように》",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -8367,6 +8601,19 @@
       },
       "en": {
         "text": "Fascination",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ファーストシードリング",
+    "translation": {
+      "zh-CN": {
+        "text": "First Seed Ring",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "First Seed Ring",
         "author": "claude-sonnet-4-20250514"
       }
     }
