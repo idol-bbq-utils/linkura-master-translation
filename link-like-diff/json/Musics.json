@@ -1364,6 +1364,13 @@
             "ReleaseConditionText": "初めから習得"
         },
         {
+            "Id": 405117,
+            "Title": "乙女詞華集",
+            "TitleFurigana": "おとめあんそろじー",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
             "Id": 405301,
             "Title": "虹色Passions!",
             "TitleFurigana": "にじいろぱっしょんず",
@@ -1388,6 +1395,13 @@
             "Id": 405304,
             "Title": "Shocking Party",
             "TitleFurigana": "しょっきんぐぱーてぃー",
+            "Description": "LLカバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 405305,
+            "Title": "僕らは今のなかで",
+            "TitleFurigana": "ぼくらはいまのなかで",
             "Description": "LLカバー",
             "ReleaseConditionText": "ミュージックPt. を使用して習得"
         }

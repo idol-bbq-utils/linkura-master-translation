@@ -676,6 +676,19 @@
     }
   },
   {
+    "raw": "《乙女詞華集》",
+    "translation": {
+      "en": {
+        "text": "《乙女詞華集》",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "《乙女诗华集》",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "《可惜夜花火》",
     "translation": {
       "en": {
@@ -2626,6 +2639,19 @@
     }
   },
   {
+    "raw": "エフェメラル",
+    "translation": {
+      "en": {
+        "text": "Ephemeral",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "短暂",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "エンジェリックブライト",
     "translation": {
       "en": {
@@ -2686,6 +2712,19 @@
       },
       "en": {
         "text": "Empathy",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "オトメライター",
+    "translation": {
+      "en": {
+        "text": "Otome Writer",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "少女作家",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -3492,6 +3531,19 @@
       },
       "en": {
         "text": "Calm Protect",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ガールズポエトリー",
+    "translation": {
+      "en": {
+        "text": "Girls Poetry",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "少女诗歌",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -5044,6 +5096,19 @@
     }
   },
   {
+    "raw": "スリーズアンソロジー",
+    "translation": {
+      "en": {
+        "text": "Cerise Anthology",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Cerise Bouquet选集",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "スーシェン",
     "translation": {
       "en": {
@@ -5130,6 +5195,19 @@
       },
       "zh-CN": {
         "text": "闪光烟花",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "センチメンタルリリック",
+    "translation": {
+      "en": {
+        "text": "Sentimental Lyric",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "感伤抒情",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -6833,6 +6911,19 @@
       },
       "en": {
         "text": "Dress 《一生に夢が咲くように》",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ドレス《乙女詞華集》",
+    "translation": {
+      "en": {
+        "text": "Dress《乙女詞華集》",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "服装《乙女诗华集》",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -8931,6 +9022,19 @@
     }
   },
   {
+    "raw": "フラワリングリリック",
+    "translation": {
+      "en": {
+        "text": "Flowering Lyric",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "花开抒情",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "フラワーイグニッション",
     "translation": {
       "en": {
@@ -9641,6 +9745,19 @@
       },
       "en": {
         "text": "Popping",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "マニュスクリプト",
+    "translation": {
+      "en": {
+        "text": "Manuscript",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "手稿",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -10686,6 +10803,19 @@
     }
   },
   {
+    "raw": "リライトページ",
+    "translation": {
+      "en": {
+        "text": "Rewrite Page",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "重写页面",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "レイディアントアトラクション",
     "translation": {
       "en": {
@@ -10863,6 +10993,19 @@
       },
       "en": {
         "text": "Worldwide Attraction",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "仮",
+    "translation": {
+      "en": {
+        "text": "Temporary",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "暂",
         "author": "claude-sonnet-4-20250514"
       }
     }

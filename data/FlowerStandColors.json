@@ -3,12 +3,12 @@
     "raw": "水玉",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "水珠",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
-        "text": "",
-        "author": ""
+        "text": "Polka Dot",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -16,12 +16,12 @@
     "raw": "赤",
     "translation": {
       "zh-CN": {
-        "text": "",
-        "author": ""
+        "text": "红色",
+        "author": "claude-sonnet-4-20250514"
       },
       "en": {
-        "text": "",
-        "author": ""
+        "text": "Red",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   }

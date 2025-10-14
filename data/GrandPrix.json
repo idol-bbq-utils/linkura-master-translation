@@ -429,6 +429,19 @@
     }
   },
   {
+    "raw": "Live Grand Prix 105期3rdTerm 第2回 個人戦",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix Season 105 3rd Term Round 2 Individual Battle",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 第105期第3赛季 第2回 个人战",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "Live Grand Prix 105期OpeningTerm 個人戦",
     "translation": {
       "zh-CN": {

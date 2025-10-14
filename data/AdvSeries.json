@@ -273,6 +273,19 @@
     }
   },
   {
+    "raw": "幕間『これまで→ここから』",
+    "translation": {
+      "zh-CN": {
+        "text": "幕间『至今为止→从这里开始』",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Interlude 'From Here On → From Now'",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "撫子祭でのライブを４人で行う代わりに梢の出し\nた条件。それは因縁の楽曲を演目に加えることだ\nった。ライブ成功を目指し特訓を始めるが……。",
     "translation": {
       "zh-CN": {

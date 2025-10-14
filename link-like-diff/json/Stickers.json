@@ -1368,6 +1368,12 @@
             "RequirementText": "[想造の地平から]日野下 花帆 解放完了"
         },
         {
+            "Id": 10315341,
+            "Name": "[乙女詞華集]日野下 花帆",
+            "Text": "[乙女詞華集]日野下 花帆 を4回解放した記念のステッカー",
+            "RequirementText": "[乙女詞華集]日野下 花帆 解放完了"
+        },
+        {
             "Id": 10318011,
             "Name": "[Prism Echo]日野下 花帆",
             "Text": "[Prism Echo]日野下 花帆を4回解放した記念のステッカー",
@@ -2322,6 +2328,12 @@
             "RequirementText": "[一生に夢が咲くように]百生 吟子 解放完了"
         },
         {
+            "Id": 10415201,
+            "Name": "[乙女詞華集]百生 吟子",
+            "Text": "[乙女詞華集]百生 吟子 を4回解放した記念のステッカー",
+            "RequirementText": "[乙女詞華集]百生 吟子 解放完了"
+        },
+        {
             "Id": 10418011,
             "Name": "[Ether Aria]百生 吟子",
             "Text": "[Ether Aria]百生 吟子 を4回解放した記念のステッカー",
@@ -2818,6 +2830,12 @@
             "Name": "[魔法少女リズミックハート３]セラス 柳田 リリエンフェルト",
             "Text": "[魔法少女リズミックハート３]セラス 柳田 リリエンフェルト を4回解放した記念のステッカー",
             "RequirementText": "[魔法少女リズミックハート３]セラス 柳田 リリエンフェルト 解放完了"
+        },
+        {
+            "Id": 10524031,
+            "Name": "[四蓮琴之雀]セラス 柳田 リリエンフェルト",
+            "Text": "[四蓮琴之雀]セラス 柳田 リリエンフェルト を4回解放した記念のステッカー",
+            "RequirementText": "[四蓮琴之雀]セラス 柳田 リリエンフェルト 解放完了"
         },
         {
             "Id": 10525011,
@@ -9798,6 +9816,132 @@
             "RequirementText": "Live Grand Prix 105期3rdTerm 第1回 個人戦に参加"
         },
         {
+            "Id": 20350701,
+            "Name": "Live Grand Prix 105期3rdTerm 第2回 個人戦 1位",
+            "Text": "Live Grand Prix 105期3rdTerm 第2回 個人戦 1位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第2回 個人戦 1位 入賞"
+        },
+        {
+            "Id": 20350702,
+            "Name": "Live Grand Prix 105期3rdTerm 第2回 個人戦 2位",
+            "Text": "Live Grand Prix 105期3rdTerm 第2回 個人戦 2位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第2回 個人戦 2位 入賞"
+        },
+        {
+            "Id": 20350703,
+            "Name": "Live Grand Prix 105期3rdTerm 第2回 個人戦 3位",
+            "Text": "Live Grand Prix 105期3rdTerm 第2回 個人戦 3位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第2回 個人戦 3位 入賞"
+        },
+        {
+            "Id": 20350704,
+            "Name": "Live Grand Prix 105期3rdTerm 第2回 個人戦 4位",
+            "Text": "Live Grand Prix 105期3rdTerm 第2回 個人戦 4位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第2回 個人戦 4位 入賞"
+        },
+        {
+            "Id": 20350705,
+            "Name": "Live Grand Prix 105期3rdTerm 第2回 個人戦 5位",
+            "Text": "Live Grand Prix 105期3rdTerm 第2回 個人戦 5位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第2回 個人戦 5位 入賞"
+        },
+        {
+            "Id": 20350706,
+            "Name": "Live Grand Prix 105期3rdTerm 第2回 個人戦 6位",
+            "Text": "Live Grand Prix 105期3rdTerm 第2回 個人戦 6位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第2回 個人戦 6位 入賞"
+        },
+        {
+            "Id": 20350707,
+            "Name": "Live Grand Prix 105期3rdTerm 第2回 個人戦 7位",
+            "Text": "Live Grand Prix 105期3rdTerm 第2回 個人戦 7位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第2回 個人戦 7位 入賞"
+        },
+        {
+            "Id": 20350708,
+            "Name": "Live Grand Prix 105期3rdTerm 第2回 個人戦 8位",
+            "Text": "Live Grand Prix 105期3rdTerm 第2回 個人戦 8位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第2回 個人戦 8位 入賞"
+        },
+        {
+            "Id": 20350709,
+            "Name": "Live Grand Prix 105期3rdTerm 第2回 個人戦 9位",
+            "Text": "Live Grand Prix 105期3rdTerm 第2回 個人戦 9位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第2回 個人戦 9位 入賞"
+        },
+        {
+            "Id": 20350710,
+            "Name": "Live Grand Prix 105期3rdTerm 第2回 個人戦 10位",
+            "Text": "Live Grand Prix 105期3rdTerm 第2回 個人戦 10位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第2回 個人戦 10位 入賞"
+        },
+        {
+            "Id": 20350711,
+            "Name": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP100位",
+            "Text": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP100位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP100位 入賞"
+        },
+        {
+            "Id": 20350712,
+            "Name": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP200位",
+            "Text": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP200位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP200位 入賞"
+        },
+        {
+            "Id": 20350713,
+            "Name": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP500位",
+            "Text": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP500位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP500位 入賞"
+        },
+        {
+            "Id": 20350714,
+            "Name": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP1000位",
+            "Text": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP1000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP1000位 入賞"
+        },
+        {
+            "Id": 20350715,
+            "Name": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP2000位",
+            "Text": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP2000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP2000位 入賞"
+        },
+        {
+            "Id": 20350716,
+            "Name": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP3000位",
+            "Text": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP3000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP3000位 入賞"
+        },
+        {
+            "Id": 20350717,
+            "Name": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP5000位",
+            "Text": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP5000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP5000位 入賞"
+        },
+        {
+            "Id": 20350718,
+            "Name": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP7000位",
+            "Text": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP7000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP7000位 入賞"
+        },
+        {
+            "Id": 20350719,
+            "Name": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP10000位",
+            "Text": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP10000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP10000位 入賞"
+        },
+        {
+            "Id": 20350720,
+            "Name": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP15000位",
+            "Text": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP15000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第2回 個人戦 TOP15000位 入賞"
+        },
+        {
+            "Id": 20350721,
+            "Name": "Live Grand Prix 105期3rdTerm 第2回 個人戦 参加",
+            "Text": "Live Grand Prix 105期3rdTerm 第2回 個人戦 参加賞のステッカー",
+            "RequirementText": "Live Grand Prix 105期3rdTerm 第2回 個人戦に参加"
+        },
+        {
             "Id": 40103101,
             "Name": "『Dream Believers（4人Ver.）』マエストロ",
             "Text": "『Dream Believers（4人Ver.）』のマスタリーLv.を30にした記念のステッカー",
@@ -10962,6 +11106,12 @@
             "RequirementText": "『一生に夢が咲くように』マスタリーLv.30到達"
         },
         {
+            "Id": 40405117,
+            "Name": "『乙女詞華集』マエストロ",
+            "Text": "『乙女詞華集』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『乙女詞華集』マスタリーLv.30到達"
+        },
+        {
             "Id": 40405301,
             "Name": "『虹色Passions!』マエストロ",
             "Text": "『虹色Passions!』のマスタリーLv.を30にした記念のステッカー",
@@ -10984,6 +11134,12 @@
             "Name": "『Shocking Party』マエストロ",
             "Text": "『Shocking Party』のマスタリーLv.を30にした記念のステッカー",
             "RequirementText": "『Shocking Party』マスタリーLv.30到達"
+        },
+        {
+            "Id": 40405305,
+            "Name": "『僕らは今のなかで』マエストロ",
+            "Text": "『僕らは今のなかで』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『僕らは今のなかで』マスタリーLv.30到達"
         },
         {
             "Id": 90000001,

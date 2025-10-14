@@ -12233,6 +12233,292 @@
     }
   },
   {
+    "raw": "Live Grand Prix 105期3rdTerm 第2回 個人戦 10001位～15000位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "This is a prize for ranking 10001-15000 in Live Grand Prix 105th Period 3rd Term 2nd Individual Battle.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期3rdTerm 第2回 个人战 10001位～15000位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期3rdTerm 第2回 個人戦 1001位～2000位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "This is a prize for ranking 1001-2000 in Live Grand Prix 105th Period 3rd Term 2nd Individual Battle.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期3rdTerm 第2回 个人战 1001位～2000位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期3rdTerm 第2回 個人戦 101位～200位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "This is a prize for ranking 101-200 in Live Grand Prix 105th Period 3rd Term 2nd Individual Battle.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期3rdTerm 第2回 个人战 101位～200位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期3rdTerm 第2回 個人戦 10位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "This is a prize for ranking 10th place in Live Grand Prix 105th Period 3rd Term 2nd Individual Battle.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期3rdTerm 第2回 个人战 第10位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期3rdTerm 第2回 個人戦 11位～100位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "This is a prize for ranking 11-100 in Live Grand Prix 105th Period 3rd Term 2nd Individual Battle.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期3rdTerm 第2回 个人战 11位～100位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期3rdTerm 第2回 個人戦 15001位～のプライズです。",
+    "translation": {
+      "en": {
+        "text": "This is a prize for ranking 15001+ in Live Grand Prix 105th Period 3rd Term 2nd Individual Battle.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期3rdTerm 第2回 个人战 15001位～的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期3rdTerm 第2回 個人戦 1位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "This is a prize for ranking 1st place in Live Grand Prix 105th Period 3rd Term 2nd Individual Battle.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期3rdTerm 第2回 个人战 第1位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期3rdTerm 第2回 個人戦 1位～200位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "This is a prize for ranking 1-200 in Live Grand Prix 105th Period 3rd Term 2nd Individual Battle.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期3rdTerm 第2回 个人战 1位～200位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期3rdTerm 第2回 個人戦 2001位～3000位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "This is a prize for ranking 2001-3000 in Live Grand Prix 105th Period 3rd Term 2nd Individual Battle.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期3rdTerm 第2回 个人战 2001位～3000位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期3rdTerm 第2回 個人戦 201位～500位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "This is a prize for ranking 201-500 in Live Grand Prix 105th Period 3rd Term 2nd Individual Battle.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期3rdTerm 第2回 个人战 201位～500位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期3rdTerm 第2回 個人戦 2位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "This is a prize for ranking 2nd place in Live Grand Prix 105th Period 3rd Term 2nd Individual Battle.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期3rdTerm 第2回 个人战 第2位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期3rdTerm 第2回 個人戦 3001位～5000位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "This is a prize for ranking 3001-5000 in Live Grand Prix 105th Period 3rd Term 2nd Individual Battle.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期3rdTerm 第2回 个人战 3001位～5000位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期3rdTerm 第2回 個人戦 3位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "This is a prize for ranking 3rd place in Live Grand Prix 105th Period 3rd Term 2nd Individual Battle.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期3rdTerm 第2回 个人战 第3位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期3rdTerm 第2回 個人戦 4位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "This is a prize for ranking 4th place in Live Grand Prix 105th Period 3rd Term 2nd Individual Battle.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期3rdTerm 第2回 个人战 第4位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期3rdTerm 第2回 個人戦 5001位～7000位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "This is a prize for ranking 5001-7000 in Live Grand Prix 105th Period 3rd Term 2nd Individual Battle.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期3rdTerm 第2回 个人战 5001位～7000位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期3rdTerm 第2回 個人戦 501位～1000位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "This is a prize for ranking 501-1000 in Live Grand Prix 105th Period 3rd Term 2nd Individual Battle.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期3rdTerm 第2回 个人战 501位～1000位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期3rdTerm 第2回 個人戦 5位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "This is a prize for ranking 5th place in Live Grand Prix 105th Period 3rd Term 2nd Individual Battle.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期3rdTerm 第2回 个人战 第5位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期3rdTerm 第2回 個人戦 6位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "This is a prize for ranking 6th place in Live Grand Prix 105th Period 3rd Term 2nd Individual Battle.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期3rdTerm 第2回 个人战 第6位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期3rdTerm 第2回 個人戦 7001位～10000位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "This is a prize for ranking 7001-10000 in Live Grand Prix 105th Period 3rd Term 2nd Individual Battle.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期3rdTerm 第2回 个人战 7001位～10000位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期3rdTerm 第2回 個人戦 7位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "This is a prize for ranking 7th place in Live Grand Prix 105th Period 3rd Term 2nd Battle.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期3rdTerm 第2回 个人战 第7位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期3rdTerm 第2回 個人戦 8位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "This is a prize for ranking 8th place in Live Grand Prix 105th Period 3rd Term 2nd Individual Battle.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期3rdTerm 第2回 个人战 第8位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期3rdTerm 第2回 個人戦 9位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "This is a prize for ranking 9th place in Live Grand Prix 105th Period 3rd Term 2nd Individual Battle.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期3rdTerm 第2回 个人战 第9位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "Live Grand Prix 105期OpeningTerm 個人戦 10001位～15000位のプライズです。",
     "translation": {
       "zh-CN": {
@@ -14438,6 +14724,32 @@
       },
       "en": {
         "text": "This is an item acquired by purchasing the 「Goddess Who Blooms Flowers at the End of the World＊Triple Flower Awakening Pack」.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "「月2回限定スクショウトレーニングパック」を購入して獲得したアイテムです。",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「月2回限定学园偶像练习包」获得的道具。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "This item was obtained by purchasing the \"Monthly Limited School Idol Training Pack (2x/month)\".",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "「月2回限定スクステトレーニングパック」を購入して獲得したアイテムです。",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「月2回限定学园偶像舞台练习包」获得的道具。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "This item was obtained by purchasing the \"Monthly Limited School Star Training Pack (2x/month)\".",
         "author": "claude-sonnet-4-20250514"
       }
     }

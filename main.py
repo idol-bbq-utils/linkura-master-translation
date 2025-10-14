@@ -30,6 +30,15 @@ def command_gentodo(args):
         print(f"Error executing gentodo: {e}")
         return 1
 
+translation_exclude_files = [
+    "CardDatas.json",
+    "DownloadImages.json",
+    "MusicLearningQuestSeries.json",
+    "MusicLearningQuestStages.json",
+    "Musics.json",
+    "RhythmGameHelpImages.json",
+]
+
 def command_translate(args):
     """
     Translation tool, providing basic large model API translation interface
@@ -39,7 +48,17 @@ def command_translate(args):
     if args.file:
         client = claude.setup_client(os.environ["ANTHROPIC_API_KEY"], os.environ["ANTHROPIC_BASE_URL"])
         limit = args.limit if hasattr(args, 'limit') and args.limit else None
-        translate_file(client, Path(args.file), i18n_map.get(args.locale, I18nLanguage.ZH_CN), limit=limit)
+        # if file is directory
+        if Path(args.file).is_dir():
+            for file in Path(args.file).glob("*.json"):
+                # exclude some files
+                if file.name in translation_exclude_files:
+                    print(f"Skipping excluded file: {file}")
+                    continue
+                print(f"Translating file: {file}")
+                translate_file(client, file, i18n_map.get(args.locale, I18nLanguage.ZH_CN), limit=limit)
+        else:
+            translate_file(client, Path(args.file), i18n_map.get(args.locale, I18nLanguage.ZH_CN), limit=limit)
     return 0
 
 def command_generate(args):

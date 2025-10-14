@@ -5187,6 +5187,19 @@
     }
   },
   {
+    "raw": "このスキルを16回使用したとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。さらにメンタル100%でドローしたとき、2回の間ハート上限増加効果を+32%する。",
+    "translation": {
+      "en": {
+        "text": "When this skill is used 16 times, add 1 type of Manuscript card (1 card total) to the deck. Additionally, when drawn at 100% Mental, increase heart limit enhancement effect by +32% for 2 times.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "使用16次技能后，将1个种类的（共计1张）Manuscript Card加入牌库。并且Mental为100%时抽到时，接下来2次心心上限增加效果+32%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "このスキルを2回使用すると、デッキから除外される。",
     "translation": {
       "zh-CN": {
@@ -5247,6 +5260,19 @@
       },
       "en": {
         "text": "Until this skill is used 3 times, when the skill is used, it returns to the deck. When this skill is used 3 times, the skill effect value increases and adds 1 type of Torikago Card (3 cards total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このスキルを4回使用したとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。さらにメンタル100%でドローしたとき、このセクション中、手札の上限枚数を4枚増加し、デッキ内のマニュスクリプトカードのスキルの消費をAP-8する。",
+    "translation": {
+      "en": {
+        "text": "When this skill is used 4 times, add 1 type of Manuscript card (1 card total) to the deck. Additionally, when drawn at 100% Mental, increase hand limit by 4 cards during this section and reduce AP cost of Manuscript card skills in deck by -8.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "使用4次技能后，将1个种类的（共计1张）Manuscript Card加入牌库。并且Mental为100%时抽到时，本小节中，手牌上限+4，卡组中Manuscript Card的技能消费AP-8。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -5512,6 +5538,19 @@
     }
   },
   {
+    "raw": "このスキルを使用すると、デッキから除外される。さらにメンタル100%でドローしたとき、次に使用するハート上限増加効果を+48%する。",
+    "translation": {
+      "en": {
+        "text": "When this skill is used, it is removed from the deck. Additionally, when drawn at 100% Mental, increase the next heart limit enhancement effect by +48%.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "使用此技能后，从卡组中移除。并且Mental为100%时抽到时，下次使用的心心上限增加效果+48%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "このスキルを使用すると、デッキから除外される。さらに手札にある状態でセクションが変わるたび、APを7回復し、手札を全て捨てて、デッキから手札上限までスキルを引く。",
     "translation": {
       "zh-CN": {
@@ -5585,6 +5624,19 @@
       },
       "en": {
         "text": "Each time this skill is used, the skill effect value increases up to 5 times.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このスキルを使用する度にスキル効果値が増加する。さらに手札にある状態でハートを100000個回収したとき、このセクション中、ビートハートの出現個数を+4、ビートハート192回分のスキルハートを獲得し、手札をシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Skill effect value increases each time this skill is used. Additionally, when 100,000 hearts are collected while in hand, during this section, increase Beat Heart spawn count by +4, gain Skill Hearts equivalent to 192 Beat Hearts, and shuffle hand.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "每次使用此技能时，技能效果值增加。并且在手牌中回收100000个心心时，本小节中，节奏心心的出现数量+4，获得192倍跳心的技能心心，洗混手牌。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -8892,6 +8944,19 @@
     }
   },
   {
+    "raw": "このステージ中、ハート上限を$+100$し、獲得するLOVEを$+199.7%$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+99.8%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+399.4%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase heart limit by $+100$ and increase LOVE gained by $+199.7%$. Additionally, when Mental is at 100%, increase the next heart limit enhancement effect by $+99.8%$ and the next Manuscript/Cerise Anthology card's Love Attract effect by $+399.4%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，心心上限$+100$，获得LOVE$+199.7%$。并且Mental为100%时，下次使用的心心上限增加效果$+99.8%$，下次使用Manuscript/Cerise Anthology Card的LOVE+效果$+399.4%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、ハート上限を$+105$し、メンタルが100%のとき、3回の間ラブアトラクト効果を$+497.3%$、ビートハート$497回分$のスキルハートを獲得する。さらにメンタルを最大値の8％減少させる。",
     "translation": {
       "zh-CN": {
@@ -8900,6 +8965,19 @@
       },
       "en": {
         "text": "For this stage, increase heart limit by $+105$, and when Mental is at 100%, gain Love Attract effect $+497.3%$ and Skill Hearts equivalent to $497 Beat Hearts$ for 3 times. Additionally, reduce Mental by 8% of maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ハート上限を$+108$し、獲得するLOVEを$+215%$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+107.5%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+430.1%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase heart limit by $+108$ and increase LOVE gained by $+215%$. Additionally, when Mental is at 100%, increase the next heart limit enhancement effect by $+107.5%$ and the next Manuscript/Cerise Anthology card's Love Attract effect by $+430.1%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，心心上限$+108$，获得LOVE$+215%$。并且Mental为100%时，下次使用的心心上限增加效果$+107.5%$，下次使用Manuscript/Cerise Anthology Card的LOVE+效果$+430.1%$。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -8978,6 +9056,19 @@
       },
       "en": {
         "text": "For this stage, increase heart limit by $+113$, and when Mental is at 100%, gain Love Attract effect $+532.8%$ and Skill Hearts equivalent to $533 Beat Hearts$ for 3 times. Additionally, reduce Mental by 8% of maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ハート上限を$+116$し、獲得するLOVEを$+230.4%$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+115.2%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+460.8%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase heart limit by $+116$ and increase LOVE gained by $+230.4%$. Additionally, when Mental is at 100%, increase the next heart limit enhancement effect by $+115.2%$ and the next Manuscript/Cerise Anthology card's Love Attract effect by $+460.8%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，心心上限$+116$，获得LOVE$+230.4%$。并且Mental为100%时，下次使用的心心上限增加效果$+115.2%$，下次使用Manuscript/Cerise Anthology Card的LOVE+效果$+460.8%$。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -9139,6 +9230,19 @@
     }
   },
   {
+    "raw": "このステージ中、ハート上限を$+123$し、獲得するLOVEを$+245.8%$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+122.9%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+491.5%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase heart limit by $+123$ and increase LOVE gained by $+245.8%$. Additionally, when Mental is at 100%, increase the next heart limit enhancement effect by $+122.9%$ and the next Manuscript/Cerise Anthology card's Love Attract effect by $+491.5%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，心心上限$+123$，获得LOVE$+245.8%$。并且Mental为100%时，下次使用的心心上限增加效果$+122.9%$，下次使用Manuscript/Cerise Anthology Card的LOVE+效果$+491.5%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、ハート上限を$+128$し、メンタルが100%のとき、3回の間ラブアトラクト効果を$+603.8%$、ビートハート$604回分$のスキルハートを獲得する。さらにメンタルを最大値の8％減少させる。",
     "translation": {
       "zh-CN": {
@@ -9295,6 +9399,19 @@
     }
   },
   {
+    "raw": "このステージ中、ハート上限を$+131$し、獲得するLOVEを$+261.1%$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+130.6%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+522.2%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase heart limit by $+131$ and increase LOVE gained by $+261.1%$. Additionally, when Mental is at 100%, increase the next heart limit enhancement effect by $+130.6%$ and the next Manuscript/Cerise Anthology card's Love Attract effect by $+522.2%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，心心上限$+131$，获得LOVE$+261.1%$。并且Mental为100%时，下次使用的心心上限增加效果$+130.6%$，下次使用Manuscript/Cerise Anthology Card的LOVE+效果$+522.2%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、ハート上限を$+135$し、メンタルが100%のとき、3回の間ラブアトラクト効果を$+639.4%$、ビートハート$639回分$のスキルハートを獲得する。さらにメンタルを最大値の8％減少させる。",
     "translation": {
       "zh-CN": {
@@ -9303,6 +9420,19 @@
       },
       "en": {
         "text": "For this stage, increase heart limit by $+135$, and when Mental is at 100%, gain Love Attract effect $+639.4%$ and Skill Hearts equivalent to $639 Beat Hearts$ for 3 times. Additionally, reduce Mental by 8% of maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ハート上限を$+139$し、獲得するLOVEを$+276.5%$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+138.2%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+553%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase heart limit by $+139$ and increase LOVE gained by $+276.5%$. Additionally, when Mental is at 100%, increase the next heart limit enhancement effect by $+138.2%$ and the next Manuscript/Cerise Anthology card's Love Attract effect by $+553%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，心心上限$+139$，获得LOVE$+276.5%$。并且Mental为100%时，下次使用的心心上限增加效果$+138.2%$，下次使用Manuscript/Cerise Anthology Card的LOVE+效果$+553%$。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -9542,6 +9672,19 @@
     }
   },
   {
+    "raw": "このステージ中、ハート上限を$+154$し、獲得するLOVEを$+307.2%$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+153.6%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+614.4%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase heart limit by $+154$ and increase LOVE gained by $+307.2%$. Additionally, when Mental is at 100%, increase the next heart limit enhancement effect by $+153.6%$ and the next Manuscript/Cerise Anthology card's Love Attract effect by $+614.4%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，心心上限$+154$，获得LOVE$+307.2%$。并且Mental为100%时，下次使用的心心上限增加效果$+153.6%$，下次使用Manuscript/Cerise Anthology Card的LOVE+效果$+614.4%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、ハート上限を$+158$し、メンタルが100%のとき、3回の間ラブアトラクト効果を$+745.9%$、ビートハート$746回分$のスキルハートを獲得する。さらにメンタルを最大値の8％減少させる。",
     "translation": {
       "zh-CN": {
@@ -9698,6 +9841,19 @@
     }
   },
   {
+    "raw": "このステージ中、ハート上限を$+162$し、獲得するLOVEを$+322.6%$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+161.3%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+645.1%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase heart limit by $+162$ and increase LOVE gained by $+322.6%$. Additionally, when Mental is at 100%, increase the next heart limit enhancement effect by $+161.3%$ and the next Manuscript/Cerise Anthology card's Love Attract effect by $+645.1%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，心心上限$+162$，获得LOVE$+322.6%$。并且Mental为100%时，下次使用的心心上限增加效果$+161.3%$，下次使用Manuscript/Cerise Anthology Card的LOVE+效果$+645.1%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、ハート上限を$+165$し、メンタルが100%のとき、3回の間ラブアトラクト効果を$+781.4%$、ビートハート$781回分$のスキルハートを獲得する。さらにメンタルを最大値の8％減少させる。",
     "translation": {
       "zh-CN": {
@@ -9706,6 +9862,19 @@
       },
       "en": {
         "text": "For this stage, increase heart limit by $+165$, and when Mental is at 100%, gain Love Attract effect $+781.4%$ and Skill Hearts equivalent to $781 Beat Hearts$ for 3 times. Additionally, reduce Mental by 8% of maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ハート上限を$+169$し、獲得するLOVEを$+337.9%$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+169%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+675.8%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase heart limit by $+169$ and increase LOVE gained by $+337.9%$. Additionally, when Mental is at 100%, increase the next heart limit enhancement effect by $+169%$ and the next Manuscript/Cerise Anthology card's Love Attract effect by $+675.8%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，心心上限$+169$，获得LOVE$+337.9%$。并且Mental为100%时，下次使用的心心上限增加效果$+169%$，下次使用Manuscript/Cerise Anthology Card的LOVE+效果$+675.8%$。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -9849,6 +10018,19 @@
       },
       "en": {
         "text": "For this stage, increase heart limit by $+173$, and when Mental is at 100%, gain Love Attract effect $+817%$ and Skill Hearts equivalent to $817 Beat Hearts$ for 3 times. Additionally, reduce Mental by 8% of maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ハート上限を$+177$し、獲得するLOVEを$+353.3%$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+176.6%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+706.6%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase heart limit by $+177$ and increase LOVE gained by $+353.3%$. Additionally, when Mental is at 100%, increase the next heart limit enhancement effect by $+176.6%$ and the next Manuscript/Cerise Anthology card's Love Attract effect by $+706.6%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，心心上限$+177$，获得LOVE$+353.3%$。并且Mental为100%时，下次使用的心心上限增加效果$+176.6%$，下次使用Manuscript/Cerise Anthology Card的LOVE+效果$+706.6%$。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -10109,6 +10291,19 @@
       },
       "en": {
         "text": "During this stage, heart limit $+19$. Additionally, when mood is either Happy or Mellow at 75 or above, heart limit $+101$ during this stage.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ハート上限を$+192$し、獲得するLOVEを$+384%$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+192%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+768%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase heart limit by $+192$ and increase LOVE gained by $+384%$. Additionally, when Mental is at 100%, increase the next heart limit enhancement effect by $+192%$ and the next Manuscript/Cerise Anthology card's Love Attract effect by $+768%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，心心上限$+192$，获得LOVE$+384%$。并且Mental为100%时，下次使用的心心上限增加效果$+192%$，下次使用Manuscript/Cerise Anthology Card的LOVE+效果$+768%$。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -11219,6 +11414,19 @@
     }
   },
   {
+    "raw": "このステージ中、ハート上限を$+77$し、獲得するLOVEを$+153.6%$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+76.8%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+307.2%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase heart limit by $+77$ and increase LOVE gained by $+153.6%$. Additionally, when Mental is at 100%, increase the next heart limit enhancement effect by $+76.8%$ and the next Manuscript/Cerise Anthology card's Love Attract effect by $+307.2%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，心心上限$+77$，获得LOVE$+153.6%$。并且Mental为100%时，下次使用的心心上限增加效果$+76.8%$，下次使用Manuscript/Cerise Anthology Card的LOVE+效果$+307.2%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、ハート上限を$+8$し、ビートハート$80回分$のスキルハートを獲得する。さらにこのセクション中、手札の上限枚数を1枚増加する。",
     "translation": {
       "zh-CN": {
@@ -11266,6 +11474,19 @@
       },
       "en": {
         "text": "During this stage, increase heart limit by $+83$, and when Mental is at 100%, gain $+390.7%$ Love Attract effect and Skill Hearts equivalent to $391 Beat Hearts$ for 3 times. Additionally, reduce Mental by 8% of its maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ハート上限を$+85$し、獲得するLOVEを$+169%$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+84.5%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+337.9%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase heart limit by $+85$ and increase LOVE gained by $+169%$. Additionally, when Mental is at 100%, increase the next heart limit enhancement effect by $+84.5%$ and the next Manuscript/Cerise Anthology card's Love Attract effect by $+337.9%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，心心上限$+85$，获得LOVE$+169%$。并且Mental为100%时，下次使用的心心上限增加效果$+84.5%$，下次使用Manuscript/Cerise Anthology Card的LOVE+效果$+337.9%$。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -11331,6 +11552,19 @@
       },
       "en": {
         "text": "During this stage, increase heart limit by $+90$, and when Mental is at 100%, gain $+426.2%$ Love Attract effect and Skill Hearts equivalent to $426 Beat Hearts$ for 3 times. Additionally, reduce Mental by 8% of its maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ハート上限を$+92$し、獲得するLOVEを$+184.3%$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+92.2%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+368.6%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase heart limit by $+92$ and increase LOVE gained by $+184.3%$. Additionally, when Mental is at 100%, increase the next heart limit enhancement effect by $+92.2%$ and the next Manuscript/Cerise Anthology card's Love Attract effect by $+368.6%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，心心上限$+92$，获得LOVE$+184.3%$。并且Mental为100%时，下次使用的心心上限增加效果$+92.2%$，下次使用Manuscript/Cerise Anthology Card的LOVE+效果$+368.6%$。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -12137,6 +12371,370 @@
       },
       "en": {
         "text": "During this stage, Voltage gain effects are increased by $+9.5%$.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+192%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Skill Heart acquisition from Manuscript/Cerise Anthology card usage effects by $+192%$. Additionally, when deck size is 32 cards or more, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card获得技能心心时，其数量$+192%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+211.2%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Skill Heart acquisition from Manuscript/Cerise Anthology card usage effects by $+211.2%$. Additionally, when deck size is 32 cards or more, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card获得技能心心时，其数量$+211.2%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+230.4%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Skill Heart acquisition from Manuscript/Cerise Anthology card usage effects by $+230.4%$. Additionally, when deck size is 32 cards or more, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card获得技能心心时，其数量$+230.4%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+249.6%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Skill Heart acquisition from Manuscript/Cerise Anthology card usage effects by $+249.6%$. Additionally, when deck size is 32 cards or more, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card获得技能心心时，其数量$+249.6%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+268.8%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Skill Heart acquisition from Manuscript/Cerise Anthology card usage effects by $+268.8%$. Additionally, when deck size is 32 cards or more, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card获得技能心心时，其数量$+268.8%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+288%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Skill Heart acquisition from Manuscript/Cerise Anthology card usage effects by $+288%$. Additionally, when deck size is 32 cards or more, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card获得技能心心时，其数量$+288%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+307.2%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Skill Heart acquisition from Manuscript/Cerise Anthology card effects by $+307.2%$. Additionally, when deck size is 32 or more cards, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card获得技能心心时，其数量$+307.2%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+326.4%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Skill Heart acquisition from Manuscript/Cerise Anthology card effects by $+326.4%$. Additionally, when deck size is 32 or more cards, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card获得技能心心时，其数量$+326.4%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+345.6%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Skill Heart acquisition from Manuscript/Cerise Anthology card effects by $+345.6%$. Additionally, when deck size is 32 or more cards, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card获得技能心心时，其数量$+345.6%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+384%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Skill Heart acquisition from Manuscript/Cerise Anthology card effects by $+384%$. Additionally, when deck size is 32 or more cards, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card获得技能心心时，其数量$+384%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+403.2%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Skill Heart acquisition from Manuscript/Cerise Anthology card effects by $+403.2%$. Additionally, when deck size is 32 or more cards, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card获得技能心心时，其数量$+403.2%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+422.4%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Skill Heart acquisition from Manuscript/Cerise Anthology card effects by $+422.4%$. Additionally, when deck size is 32 or more cards, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card获得技能心心时，其数量$+422.4%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+441.6%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Skill Heart acquisition from Manuscript/Cerise Anthology card effects by $+441.6%$. Additionally, when deck size is 32 or more cards, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card获得技能心心时，其数量$+441.6%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+480%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Skill Heart acquisition from Manuscript/Cerise Anthology card effects by $+480%$. Additionally, when deck size is 32 or more cards, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card获得技能心心时，其数量$+480%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+107.5%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Love Attract effects from Manuscript/Cerise Anthology card usage by $+107.5%$. Additionally, when deck size is 32 or more cards, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card的LOVE+效果$+107.5%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+115.2%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Love Attract effects from Manuscript/Cerise Anthology card usage by $+115.2%$. Additionally, when deck size is 32 or more cards, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card的LOVE+效果$+115.2%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+122.9%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Love Attract effects from Manuscript/Cerise Anthology card usage by $+122.9%$. Additionally, when deck size is 32 or more cards, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card的LOVE+效果$+122.9%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+130.6%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Love Attract effects from Manuscript/Cerise Anthology card usage by $+130.6%$. Additionally, when deck size is 32 or more cards, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card的LOVE+效果$+130.6%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+138.2%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Love Attract effects from Manuscript/Cerise Anthology card usage by $+138.2%$. Additionally, when deck size is 32 or more cards, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card的LOVE+效果$+138.2%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+153.6%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Love Attract effects from Manuscript/Cerise Anthology card usage by $+153.6%$. Additionally, when deck size is 32 or more cards, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card的LOVE+效果$+153.6%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+161.3%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Love Attract effects from Manuscript/Cerise Anthology card usage by $+161.3%$. Additionally, when deck size is 32 or more cards, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card的LOVE+效果$+161.3%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+169%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Love Attract effects from Manuscript/Cerise Anthology card usage by $+169%$. Additionally, when deck size is 32 or more cards, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card的LOVE+效果$+169%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+176.6%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Love Attract effects from Manuscript/Cerise Anthology card usage by $+176.6%$. Additionally, when deck size is 32 or more cards, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card的LOVE+效果$+176.6%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+192%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Love Attract effects from Manuscript/Cerise Anthology card usage by $+192%$. Additionally, when deck size is 32 or more cards, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card的LOVE+效果$+192%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+76.8%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Love Attract effects from Manuscript/Cerise Anthology card usage by $+76.8%$. Additionally, when deck size is 32 or more cards, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card的LOVE+效果$+76.8%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+84.5%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Love Attract effects from Manuscript/Cerise Anthology card usage by $+84.5%$. Additionally, when deck size is 32 or more cards, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card的LOVE+效果$+84.5%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+92.2%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Love Attract effects from Manuscript/Cerise Anthology card usage by $+92.2%$. Additionally, when deck size is 32 or more cards, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card的LOVE+效果$+92.2%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、マニュスクリプト/スリーズアンソロジーカードの使用によるラブアトラクト効果を$+99.8%$する。さらにデッキ枚数が32枚以上のとき、マニュスクリプトカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Love Attract effects from Manuscript/Cerise Anthology card usage by $+99.8%$. Additionally, when deck size is 32 or more cards, add 1 type of Manuscript card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使用Manuscript/Cerise Anthology Card的LOVE+效果$+99.8%$。并且卡组卡牌数在32以上时，将1个种类的（共计1张）Manuscript Card加入牌库。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -51649,6 +52247,19 @@
     }
   },
   {
+    "raw": "ドレス《乙女詞華集》を2種類(合計4枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "Add 2 types of Dress《乙女詞華集》cards (4 cards total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "将2个种类的（共计4张）Dress《乙女詞華集》加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ドレスカード《16th Birthday》を1種類(合計1枚)山札に追加する。",
     "translation": {
       "zh-CN": {
@@ -54223,6 +54834,19 @@
     }
   },
   {
+    "raw": "ビートハート$100回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+100$し、獲得するLOVEを$+998.4%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $100 Beat Hearts$. Additionally, during this stage, increase Heart limit by $+100$ and increase LOVE gained by $+998.4%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$100倍$跳心的技能心心。并且本场Live中，心心上限$+100$，获得LOVE$+998.4%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$101回分$のスキルハートを獲得する。さらにメンタルが50%以下のとき、このステージ中、ハート上限を$+350$し、メンタルが0%以下のとき、このステージ中、獲得するLOVEを$+896%$する。",
     "translation": {
       "zh-CN": {
@@ -54275,6 +54899,19 @@
     }
   },
   {
+    "raw": "ビートハート$1075回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+1075$し、獲得するLOVEを$+10752%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $1075$ Beat Hearts. Additionally, during this stage, increase heart limit by $+1075$ and increase LOVE gained by $+10752%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$1075倍$跳心的技能心心。并且本场Live中，心心上限$+1075$，获得LOVE$+10752%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$107回分$のスキルハートを獲得、このセクション中、獲得するLOVEを$+1066.6%$、ボルテージPt.を$+107$し、このステージ中、ハート上限を$+107$する。さらにメンタルを最大値の22％減少させ、姫芽の《イグニッションモード》を解除する。",
     "translation": {
       "zh-CN": {
@@ -54283,6 +54920,19 @@
       },
       "en": {
         "text": "Gain Skill Hearts equal to $107 beat hearts$, increase LOVE gained by $+1066.6%$, gain $+107$ Voltage Pt., and increase heart limit by $+107$ for this stage. Additionally, reduce Mental by 22% of max value and cancel Hime's 《Ignition Mode》.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$108回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+108$し、獲得するLOVEを$+1075.2%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $108$ Beat Hearts. Additionally, during this stage, increase heart limit by $+108$ and increase LOVE gained by $+1075.2%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$108倍$跳心的技能心心。并且本场Live中，心心上限$+108$，获得LOVE$+1075.2%$。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -55055,6 +55705,19 @@
     }
   },
   {
+    "raw": "ビートハート$1152回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+1152$し、獲得するLOVEを$+11520%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $1152$ Beat Hearts. Additionally, during this stage, increase heart limit by $+1152$ and increase LOVE gained by $+11520%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$1152倍$跳心的技能心心。并且本场Live中，心心上限$+1152$，获得LOVE$+11520%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$116回分$のスキルハートを獲得、このセクション中、獲得するLOVEを$+1155.4%$、ボルテージPt.を$+116$し、このステージ中、ハート上限を$+116$する。さらにメンタルを最大値の22％減少させ、姫芽の《イグニッションモード》を解除する。",
     "translation": {
       "zh-CN": {
@@ -55063,6 +55726,19 @@
       },
       "en": {
         "text": "Gain Skill Heart equivalent to $116$ Beat Hearts, increase LOVE gained by $+1155.4%$ during this section, gain $+116$ Voltage Pt., and increase Heart limit by $+116$ during this stage. Additionally, reduce Mental by 22% of maximum value and cancel Hime's 《Ignition Mode》.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$116回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+116$し、獲得するLOVEを$+1152%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $116$ Beat Hearts. Additionally, during this stage, increase heart limit by $+116$ and increase LOVE gained by $+1152%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$116倍$跳心的技能心心。并且本场Live中，心心上限$+116$，获得LOVE$+1152%$。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -55965,6 +56641,32 @@
     }
   },
   {
+    "raw": "ビートハート$1229回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+1229$し、獲得するLOVEを$+12288%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $1229$ Beat Hearts. Additionally, during this stage, increase heart limit by $+1229$ and increase LOVE gained by $+12288%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$1229倍$跳心的技能心心。并且本场Live中，心心上限$+1229$，获得LOVE$+12288%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$123回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+123$し、獲得するLOVEを$+1228.8%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $123$ Beat Hearts. Additionally, during this stage, increase heart limit by $+123$ and increase LOVE gained by $+1228.8%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$123倍$跳心的技能心心。并且本场Live中，心心上限$+123$，获得LOVE$+1228.8%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$125回分$のスキルハートを獲得、このセクション中、獲得するLOVEを$+1244.3%$、ボルテージPt.を$+125$し、このステージ中、ハート上限を$+125$する。さらにメンタルを最大値の22％減少させ、姫芽の《イグニッションモード》を解除する。",
     "translation": {
       "zh-CN": {
@@ -56706,6 +57408,32 @@
     }
   },
   {
+    "raw": "ビートハート$1306回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+1306$し、獲得するLOVEを$+13056%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $1306$ Beat Hearts. Additionally, during this stage, increase heart limit by $+1306$ and increase LOVE gained by $+13056%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$1306倍$跳心的技能心心。并且本场Live中，心心上限$+1306$，获得LOVE$+13056%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$131回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+131$し、獲得するLOVEを$+1305.6%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $131$ Beat Hearts. Additionally, during this stage, increase heart limit by $+131$ and increase LOVE gained by $+1305.6%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$131倍$跳心的技能心心。并且本场Live中，心心上限$+131$，获得LOVE$+1305.6%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$132回分$のスキルハートを獲得、手札をシャッフル、このセクション中、手札の上限枚数を3枚増加し、ムードがハッピー、メロウいずれかのとき、ムード値を$+6$する。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、獲得するLOVEを$+453.2%$し、ハート上限を$+132$する。",
     "translation": {
       "zh-CN": {
@@ -56818,6 +57546,32 @@
       },
       "en": {
         "text": "Gain Skill Hearts equal to $136$ Beat Hearts. Additionally, when Mental is 0 and Mood is Mellow 100, gain $+204$ Voltage Pt., increase LOVE gained by $+3400%$ during this section, and increase Heart limit by $+680$.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$1382回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+1382$し、獲得するLOVEを$+13824%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $1382$ Beat Hearts. Additionally, during this stage, increase heart limit by $+1382$ and increase LOVE gained by $+13824%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$1382倍$跳心的技能心心。并且本场Live中，心心上限$+1382$，获得LOVE$+13824%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$139回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+139$し、獲得するLOVEを$+1382.4%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $139$ Beat Hearts. Additionally, during this stage, increase heart limit by $+139$ and increase LOVE gained by $+1382.4%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$139倍$跳心的技能心心。并且本场Live中，心心上限$+139$，获得LOVE$+1382.4%$。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -58006,6 +58760,45 @@
     }
   },
   {
+    "raw": "ビートハート$1536回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+1536$し、獲得するLOVEを$+15360%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $1536$ Beat Hearts. Additionally, during this stage, increase heart limit by $+1536$ and increase LOVE gained by $+15360%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$1536倍$跳心的技能心心。并且本场Live中，心心上限$+1536$，获得LOVE$+15360%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$154回分$のスキルハートを獲得し、このステージ中、ハート上限を$+77$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+76.8%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+307.2%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $154$ Beat Hearts and increase heart limit by $+77$ during this stage. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+76.8%$ and increase the Skill Heart gain from the next Manuscript/Cerise Anthology card usage by $+307.2%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$154倍$跳心的技能心心，本场Live中，心心上限$+77$。并且Mental为100%时，下次使用的心心上限增加效果$+76.8%$，下次使用Manuscript/Cerise Anthology Card时，获得技能心心的数量$+307.2%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$154回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+154$し、獲得するLOVEを$+1536%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $154$ Beat Hearts. Additionally, during this stage, increase heart limit by $+154$ and increase LOVE gained by $+1536%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$154倍$跳心的技能心心。并且本场Live中，心心上限$+154$，获得LOVE$+1536%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$156回分$のスキルハートを獲得、手札をシャッフル、このセクション中、手札の上限枚数を3枚増加し、ムードがハッピー、メロウいずれかのとき、ムード値を$+7$する。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、獲得するLOVEを$+535.6%$し、ハート上限を$+156$する。",
     "translation": {
       "zh-CN": {
@@ -58474,6 +59267,32 @@
     }
   },
   {
+    "raw": "ビートハート$1613回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+1613$し、獲得するLOVEを$+16128%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $1613$ Beat Hearts. Additionally, during this stage, increase heart limit by $+1613$ and increase LOVE gained by $+16128%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$1613倍$跳心的技能心心。并且本场Live中，心心上限$+1613$，获得LOVE$+16128%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$162回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+162$し、獲得するLOVEを$+1612.8%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $162$ Beat Hearts. Additionally, during this stage, increase heart limit by $+162$ and increase LOVE gained by $+1612.8%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$162倍$跳心的技能心心。并且本场Live中，心心上限$+162$，获得LOVE$+1612.8%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$168回分$のスキルハートを獲得、手札をシャッフル、このセクション中、手札の上限枚数を3枚増加し、ムードがハッピー、メロウいずれかのとき、ムード値を$+8$する。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、獲得するLOVEを$+576.8%$し、ハート上限を$+168$する。",
     "translation": {
       "zh-CN": {
@@ -58521,6 +59340,45 @@
       },
       "en": {
         "text": "Gain Skill Hearts equivalent to $168$ Beat Hearts. Additionally, when Mental is 0 and mood is Mellow 100, increase Voltage Pt. by $+252$, increase LOVE gained by $+4200%$ during this section, and increase Heart limit by $+840$.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$1690回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+1690$し、獲得するLOVEを$+16896%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $1690$ Beat Hearts. Additionally, during this stage, increase heart limit by $+1690$ and increase LOVE gained by $+16896%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$1690倍$跳心的技能心心。并且本场Live中，心心上限$+1690$，获得LOVE$+16896%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$169回分$のスキルハートを獲得し、このステージ中、ハート上限を$+85$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+84.5%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+337.9%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $169$ Beat Hearts and increase heart limit by $+85$ during this stage. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+84.5%$ and increase the Skill Heart gain from the next Manuscript/Cerise Anthology card usage by $+337.9%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$169倍$跳心的技能心心，本场Live中，心心上限$+85$。并且Mental为100%时，下次使用的心心上限增加效果$+84.5%$，下次使用Manuscript/Cerise Anthology Card时，获得技能心心的数量$+337.9%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$169回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+169$し、獲得するLOVEを$+1689.6%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $169$ Beat Hearts. Additionally, during this stage, increase heart limit by $+169$ and increase LOVE gained by $+1689.6%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$169倍$跳心的技能心心。并且本场Live中，心心上限$+169$，获得LOVE$+1689.6%$。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -58825,6 +59683,19 @@
     }
   },
   {
+    "raw": "ビートハート$1766回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+1766$し、獲得するLOVEを$+17664%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $1766$ Beat Hearts. Additionally, during this stage, increase heart limit by $+1766$ and increase LOVE gained by $+17664%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$1766倍$跳心的技能心心。并且本场Live中，心心上限$+1766$，获得LOVE$+17664%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$176回分$のスキルハートを獲得する。さらにメンタルが0かつムードがメロウ100のとき、ボルテージPt.を$+264$、このセクション中、獲得するLOVEを$+4400%$し、ハート上限を$+880$する。",
     "translation": {
       "zh-CN": {
@@ -58833,6 +59704,19 @@
       },
       "en": {
         "text": "Gain Skill Hearts equal to $176$ Beat Hearts. Additionally, when Mental is at 0 and Mood is at Mellow 100, gain $+264$ Voltage Pt., increase LOVE gained by $+4400%$ during this section, and increase Heart limit by $+880$.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$177回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+177$し、獲得するLOVEを$+1766.4%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $177$ Beat Hearts. Additionally, during this stage, increase heart limit by $+177$ and increase LOVE gained by $+1766.4%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$177倍$跳心的技能心心。并且本场Live中，心心上限$+177$，获得LOVE$+1766.4%$。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -59119,6 +60003,19 @@
       },
       "en": {
         "text": "Gain Skill Hearts equal to $184$ Beat Hearts. Additionally, when Mental is at 0 and Mood is at Mellow 100, gain $+276$ Voltage Pt., increase LOVE gained by $+4600%$ during this section, and increase Heart limit by $+920$.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$185回分$のスキルハートを獲得し、このステージ中、ハート上限を$+92$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+92.2%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+368.6%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $185$ Beat Hearts and increase heart limit by $+92$ during this stage. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+92.2%$ and increase the Skill Heart gain from the next Manuscript/Cerise Anthology card usage by $+368.6%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$185倍$跳心的技能心心，本场Live中，心心上限$+92$。并且Mental为100%时，下次使用的心心上限增加效果$+92.2%$，下次使用Manuscript/Cerise Anthology Card时，获得技能心心的数量$+368.6%$。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -59488,6 +60385,19 @@
     }
   },
   {
+    "raw": "ビートハート$1920回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+1920$し、獲得するLOVEを$+19200%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $1920$ Beat Hearts. Additionally, during this stage, increase heart limit by $+1920$ and increase LOVE gained by $+19200%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$1920倍$跳心的技能心心。并且本场Live中，心心上限$+1920$，获得LOVE$+19200%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$192回分$のスキルハートを獲得、手札をシャッフル、このセクション中、手札の上限枚数を3枚増加し、ムードがハッピー、メロウいずれかのとき、ムード値を$+9$する。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、獲得するLOVEを$+659.2%$し、ハート上限を$+192$する。",
     "translation": {
       "zh-CN": {
@@ -59522,6 +60432,19 @@
       },
       "en": {
         "text": "Gain $192$ beat heart worth of Skill Hearts. Additionally, for this stage, increase AP recovery speed by $+19.2%$, increase Voltage Pt. by $+1920$, and recover Mental by $192%$ of maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$192回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+192$し、獲得するLOVEを$+1920%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $192$ Beat Hearts. Additionally, during this stage, increase heart limit by $+192$ and increase LOVE gained by $+1920%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$192倍$跳心的技能心心。并且本场Live中，心心上限$+192$，获得LOVE$+1920%$。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -59691,6 +60614,19 @@
       },
       "en": {
         "text": "Gain $200$ beat heart worth of Skill Hearts, gain $+1999.8%$ LOVE in this section, and recover 20 AP. Additionally, reduce Mental by 50% of maximum value, reduce Voltage Pt. by -600, and deactivate Hime's «Ignition Mode».",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$200回分$のスキルハートを獲得し、このステージ中、ハート上限を$+100$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+99.8%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+399.4%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $200$ Beat Hearts and increase heart limit by $+100$ during this stage. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+99.8%$ and increase the Skill Heart gain from the next Manuscript/Cerise Anthology card usage by $+399.4%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$200倍$跳心的技能心心，本场Live中，心心上限$+100$。并且Mental为100%时，下次使用的心心上限增加效果$+99.8%$，下次使用Manuscript/Cerise Anthology Card时，获得技能心心的数量$+399.4%$。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -60068,6 +61004,19 @@
       },
       "en": {
         "text": "Gain $216$ beat heart worth of Skill Hearts and recover $9$ AP. Additionally, when Voltage Lv. is 20 or above, increase Voltage gain effects by $+216%$ for 3 times, and when Mental is 100% or above, increase Mental recovery effects by $+216%$ for 3 times.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$216回分$のスキルハートを獲得し、このステージ中、ハート上限を$+108$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+107.5%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+430.1%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $216$ Beat Hearts and increase the heart limit by $+108$ during this stage. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+107.5%$ and increase the Skill Heart acquisition from the next Manuscript/Cerise Anthology card use by $+430.1%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$216倍$跳心的技能心心，本场Live中，心心上限$+108$。并且Mental为100%时，下次使用的心心上限增加效果$+107.5%$，下次使用Manuscript/Cerise Anthology卡牌获得技能心心时，其数量$+430.1%$。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -60515,6 +61464,19 @@
     }
   },
   {
+    "raw": "ビートハート$231回分$のスキルハートを獲得し、このステージ中、ハート上限を$+116$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+115.2%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+460.8%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $231$ Beat Hearts and increase the heart limit by $+116$ during this stage. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+115.2%$ and increase the Skill Heart acquisition from the next Manuscript/Cerise Anthology card use by $+460.8%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$231倍$跳心的技能心心，本场Live中，心心上限$+116$。并且Mental为100%时，下次使用的心心上限增加效果$+115.2%$，下次使用Manuscript/Cerise Anthology卡牌获得技能心心时，其数量$+460.8%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$232回分$のスキルハートを獲得する。さらにデッキ枚数が30枚以上、ボルテージLv.が10以上かつメンタルが100%以上のときこのステージ中、獲得するLOVEを$+2900%$する。",
     "translation": {
       "zh-CN": {
@@ -60783,6 +61745,19 @@
       },
       "en": {
         "text": "Gain Skill Hearts equivalent to $240$ Beat Hearts. Additionally, increase AP recovery speed by $+24%$, Voltage Pt. by $+2400$, and recover Mental by $240%$ of maximum value during this stage.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$246回分$のスキルハートを獲得し、このステージ中、ハート上限を$+123$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+122.9%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+491.5%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $246$ Beat Hearts and increase the heart limit by $+123$ during this stage. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+122.9%$ and increase the Skill Heart acquisition from the next Manuscript/Cerise Anthology card use by $+491.5%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$246倍$跳心的技能心心，本场Live中，心心上限$+123$。并且Mental为100%时，下次使用的心心上限增加效果$+122.9%$，下次使用Manuscript/Cerise Anthology卡牌获得技能心心时，其数量$+491.5%$。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -61165,6 +62140,19 @@
     }
   },
   {
+    "raw": "ビートハート$262回分$のスキルハートを獲得し、このステージ中、ハート上限を$+131$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+130.6%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+522.2%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $262$ Beat Hearts and increase the heart limit by $+131$ during this stage. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+130.6%$ and increase the Skill Heart acquisition from the next Manuscript/Cerise Anthology card use by $+522.2%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$262倍$跳心的技能心心，本场Live中，心心上限$+131$。并且Mental为100%时，下次使用的心心上限增加效果$+130.6%$，下次使用Manuscript/Cerise Anthology卡牌获得技能心心时，其数量$+522.2%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$264回分$のスキルハートを獲得、手札をシャッフル、このセクション中、手札の上限枚数を3枚増加し、ムードがハッピー、メロウいずれかのとき、ムード値を$+12$する。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、獲得するLOVEを$+906.4%$し、ハート上限を$+264$する。",
     "translation": {
       "zh-CN": {
@@ -61368,6 +62356,19 @@
       },
       "en": {
         "text": "Gain Skill Hearts equivalent to $276$ Beat Hearts. Additionally, increase AP recovery speed by $+27.6%$, Voltage Pt. by $+2760$, and recover Mental by $276%$ of maximum value for this stage.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$277回分$のスキルハートを獲得し、このステージ中、ハート上限を$+139$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+138.2%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+553%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $277$ Beat Hearts and increase the heart limit by $+139$ during this stage. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+138.2%$ and increase the Skill Heart acquisition from the next Manuscript/Cerise Anthology card use by $+553%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$277倍$跳心的技能心心，本场Live中，心心上限$+139$。并且Mental为100%时，下次使用的心心上限增加效果$+138.2%$，下次使用Manuscript/Cerise Anthology卡牌获得技能心心时，其数量$+553%$。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -61958,6 +62959,19 @@
     }
   },
   {
+    "raw": "ビートハート$308回分$のスキルハートを獲得し、このステージ中、ハート上限を$+154$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+153.6%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+614.4%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $308$ Beat Hearts and increase the heart limit by $+154$ during this stage. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+153.6%$ and increase the Skill Heart acquisition from the next Manuscript/Cerise Anthology card use by $+614.4%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$308倍$跳心的技能心心，本场Live中，心心上限$+154$。并且Mental为100%时，下次使用的心心上限增加效果$+153.6%$，下次使用Manuscript/Cerise Anthology卡牌获得技能心心时，其数量$+614.4%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$30回分$のスキルハートを獲得、メンタルを最大値の25％減少させ、このセクション中、獲得するLOVEを$+74.1%$する。さらにメンタルが0のとき、このセクション中、獲得するLOVEを$+741%$する。",
     "translation": {
       "en": {
@@ -62083,6 +63097,19 @@
       },
       "en": {
         "text": "Gain Skill Heart equivalent to $31$ Beat Hearts. When Mental is 50% or higher, recover $87.12%$ of maximum Mental value, and when Mental is 100% or higher, gain additional Skill Heart equivalent to $84$ Beat Hearts.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$323回分$のスキルハートを獲得し、このステージ中、ハート上限を$+162$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+161.3%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+645.1%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $323$ Beat Hearts and increase the heart limit by $+162$ during this stage. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+161.3%$ and increase the Skill Heart acquisition from the next Manuscript/Cerise Anthology card use by $+645.1%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$323倍$跳心的技能心心，本场Live中，心心上限$+162$。并且Mental为100%时，下次使用的心心上限增加效果$+161.3%$，下次使用Manuscript/Cerise Anthology卡牌获得技能心心时，其数量$+645.1%$。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -62244,6 +63271,19 @@
     }
   },
   {
+    "raw": "ビートハート$339回分$のスキルハートを獲得し、このステージ中、ハート上限を$+169$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+169%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+675.8%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $339$ Beat Hearts and increase the heart limit by $+169$ during this stage. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+169%$ and increase the Skill Heart acquisition from the next Manuscript/Cerise Anthology card use by $+675.8%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$339倍$跳心的技能心心，本场Live中，心心上限$+169$。并且Mental为100%时，下次使用的心心上限增加效果$+169%$，下次使用Manuscript/Cerise Anthology卡牌获得技能心心时，其数量$+675.8%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$348回分$のスキルハートを獲得する。さらにデッキ枚数が30枚以上、ボルテージLv.が10以上かつメンタルが100%以上のときこのステージ中、獲得するLOVEを$+4350%$する。",
     "translation": {
       "zh-CN": {
@@ -62356,6 +63396,19 @@
       },
       "en": {
         "text": "Gain Skill Heart equivalent to $34$ Beat Hearts. When Mental is 50% or higher, recover $95.04%$ of maximum Mental value, and when Mental is 100% or higher, gain additional Skill Heart equivalent to $91$ Beat Hearts.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$354回分$のスキルハートを獲得し、このステージ中、ハート上限を$+177$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+176.6%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+706.6%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $354$ Beat Hearts and increase the heart limit by $+177$ during this stage. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+176.6%$ and increase the Skill Heart acquisition from the next Manuscript/Cerise Anthology card use by $+706.6%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$354倍$跳心的技能心心，本场Live中，心心上限$+177$。并且Mental为100%时，下次使用的心心上限增加效果$+176.6%$，下次使用Manuscript/Cerise Anthology卡牌获得技能心心时，其数量$+706.6%$。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -62564,6 +63617,19 @@
       },
       "zh-CN": {
         "text": "获得$37倍$跳心的技能心心。并且气氛在Mellow100时，本场Live中，心心上限$+442$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$384回分$のスキルハートを獲得し、このステージ中、ハート上限を$+192$する。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+192%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+768%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $384$ Beat Hearts and increase the heart limit by $+192$ during this stage. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+192%$ and increase the Skill Heart acquisition from the next Manuscript/Cerise Anthology card use by $+768%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$384倍$跳心的技能心心，本场Live中，心心上限$+192$。并且Mental为100%时，下次使用的心心上限增加效果$+192%$，下次使用Manuscript/Cerise Anthology卡牌获得技能心心时，其数量$+768%$。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -66612,6 +67678,32 @@
     }
   },
   {
+    "raw": "ビートハート$768回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+768$し、獲得するLOVEを$+7680%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $768$ Beat Hearts. Additionally, during this stage, increase the heart limit by $+768$ and increase LOVE gained by $+7680%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$768倍$跳心的技能心心。并且本场Live中，心心上限$+768$，获得LOVE$+7680%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$77回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+77$し、獲得するLOVEを$+768%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $77$ Beat Hearts. Additionally, during this stage, increase the heart limit by $+77$ and increase LOVE gained by $+768%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$77倍$跳心的技能心心。并且本场Live中，心心上限$+77$，获得LOVE$+768%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$799回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+799$する。",
     "translation": {
       "zh-CN": {
@@ -67860,6 +68952,19 @@
     }
   },
   {
+    "raw": "ビートハート$845回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+845$し、獲得するLOVEを$+8448%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $845$ Beat Hearts. Additionally, during this stage, increase the heart limit by $+845$ and increase LOVE gained by $+8448%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$845倍$跳心的技能心心。并且本场Live中，心心上限$+845$，获得LOVE$+8448%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$84回分$のスキルハートを獲得する。さらにメンタルが50%以下のとき、このステージ中、ハート上限を$+294$し、メンタルが0%以下のとき、このステージ中、獲得するLOVEを$+752.6%$する。",
     "translation": {
       "zh-CN": {
@@ -67881,6 +68986,19 @@
       },
       "en": {
         "text": "Gain Skill Hearts equivalent to $857$ Beat Hearts, increase LOVE gained by $+8568%$ during this section, gain $+86$ Voltage Pt., and recover $8.58%$ of maximum Mental. Additionally, set AP to 0.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$85回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+85$し、獲得するLOVEを$+844.8%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $85$ Beat Hearts. Additionally, during this stage, increase the heart limit by $+85$ and increase LOVE gained by $+844.8%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$85倍$跳心的技能心心。并且本场Live中，心心上限$+85$，获得LOVE$+844.8%$。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -69095,6 +70213,32 @@
     }
   },
   {
+    "raw": "ビートハート$922回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+922$し、獲得するLOVEを$+9216%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $922$ Beat Hearts. Additionally, during this stage, increase the heart limit by $+922$ and increase LOVE gained by $+9216%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$922倍$跳心的技能心心。并且本场Live中，心心上限$+922$，获得LOVE$+9216%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$92回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+92$し、獲得するLOVEを$+921.6%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $92$ Beat Hearts. Additionally, during this stage, increase the heart limit by $+92$ and increase LOVE gained by $+921.6%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$92倍$跳心的技能心心。并且本场Live中，心心上限$+92$，获得LOVE$+921.6%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$92回分$のスキルハートを獲得する。さらにメンタルが50%以下のとき、このステージ中、ハート上限を$+322$し、メンタルが0%以下のとき、このステージ中、獲得するLOVEを$+824.3%$する。",
     "translation": {
       "zh-CN": {
@@ -69168,6 +70312,19 @@
       },
       "en": {
         "text": "Gain Skill Heart equivalent to $98$ Beat Hearts, LOVE gained this section increases by $+977.7%$, Voltage Pt. increases by $+98$, and Heart limit increases by $+98$ this stage. Additionally, lose 22% of maximum Mental and deactivate Hime's 《Ignition Mode》.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$998回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+998$し、獲得するLOVEを$+9984%$する。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $998$ Beat Hearts. Additionally, during this stage, increase the heart limit by $+998$ and increase LOVE gained by $+9984%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "获得$998倍$跳心的技能心心。并且本场Live中，心心上限$+998$，获得LOVE$+9984%$。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -95394,6 +96551,19 @@
     }
   },
   {
+    "raw": "仮",
+    "translation": {
+      "en": {
+        "text": "Temporary",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "临时",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "使用するたび、手札のこのスキルの消費AP+1(最大+9)",
     "translation": {
       "zh-CN": {
@@ -112710,6 +113880,188 @@
     }
   },
   {
+    "raw": "手札を山札リセットシャッフルし、メンタルを最大値の$10.24%$回復させる。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+30.7%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+204.8%$、ラブアトラクト効果を$+71.7%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset shuffle hand into deck and recover Mental by $10.24%$ of maximum value. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+30.7%$, increase the Skill Heart acquisition from the next Manuscript/Cerise Anthology card use by $+204.8%$, and increase Love Attract effect by $+71.7%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "弃置所有手牌，将弃牌区的所有卡牌洗入牌库，然后抽取和弃置数量等量的卡牌，恢复最大mental值的$10.24%$。并且Mental为100%时，下次使用的心心上限增加效果$+30.7%$，下次使用Manuscript/Cerise Anthology卡牌获得技能心心时，其数量$+204.8%$，LOVE+效果$+71.7%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "手札を山札リセットシャッフルし、メンタルを最大値の$10.88%$回復させる。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+32.6%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+217.6%$、ラブアトラクト効果を$+76.2%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset shuffle hand into deck and recover Mental by $10.88%$ of maximum value. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+32.6%$, increase the Skill Heart acquisition from the next Manuscript/Cerise Anthology card use by $+217.6%$, and increase Love Attract effect by $+76.2%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "弃置所有手牌，将弃牌区的所有卡牌洗入牌库，然后抽取和弃置数量等量的卡牌，恢复最大mental值的$10.88%$。并且Mental为100%时，下次使用的心心上限增加效果$+32.6%$，下次使用Manuscript/Cerise Anthology卡牌获得技能心心时，其数量$+217.6%$，LOVE+效果$+76.2%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "手札を山札リセットシャッフルし、メンタルを最大値の$11.52%$回復させる。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+34.6%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+230.4%$、ラブアトラクト効果を$+80.6%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset shuffle hand into deck and recover Mental by $11.52%$ of maximum value. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+34.6%$, increase the Skill Heart acquisition from the next Manuscript/Cerise Anthology card use by $+230.4%$, and increase Love Attract effect by $+80.6%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "弃置所有手牌，将弃牌区的所有卡牌洗入牌库，然后抽取和弃置数量等量的卡牌，恢复最大mental值的$11.52%$。并且Mental为100%时，下次使用的心心上限增加效果$+34.6%$，下次使用Manuscript/Cerise Anthology卡牌获得技能心心时，其数量$+230.4%$，LOVE+效果$+80.6%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "手札を山札リセットシャッフルし、メンタルを最大値の$12.8%$回復させる。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+38.4%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+256%$、ラブアトラクト効果を$+89.6%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset shuffle hand into deck and recover Mental by $12.8%$ of maximum value. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+38.4%$, increase the Skill Heart acquisition from the next Manuscript/Cerise Anthology card use by $+256%$, and increase Love Attract effect by $+89.6%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "弃置所有手牌，将弃牌区的所有卡牌洗入牌库，然后抽取和弃置数量等量的卡牌，恢复最大mental值的$12.8%$。并且Mental为100%时，下次使用的心心上限增加效果$+38.4%$，下次使用Manuscript/Cerise Anthology卡牌获得技能心心时，其数量$+256%$，LOVE+效果$+89.6%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "手札を山札リセットシャッフルし、メンタルを最大値の$13.44%$回復させる。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+40.3%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+268.8%$、ラブアトラクト効果を$+94.1%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset shuffle hand into deck and recover Mental by $13.44%$ of maximum value. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+40.3%$, increase the Skill Heart acquisition from the next Manuscript/Cerise Anthology card use by $+268.8%$, and increase Love Attract effect by $+94.1%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "弃置所有手牌，将弃牌区的所有卡牌洗入牌库，然后抽取和弃置数量等量的卡牌，恢复最大mental值的$13.44%$。并且Mental为100%时，下次使用的心心上限增加效果$+40.3%$，下次使用Manuscript/Cerise Anthology卡牌获得技能心心时，其数量$+268.8%$，LOVE+效果$+94.1%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "手札を山札リセットシャッフルし、メンタルを最大値の$14.08%$回復させる。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+42.2%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+281.6%$、ラブアトラクト効果を$+98.6%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset shuffle hand into deck and recover Mental by $14.08%$ of maximum value. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+42.2%$, increase the Skill Heart acquisition from the next Manuscript/Cerise Anthology card use by $+281.6%$, and increase Love Attract effect by $+98.6%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "弃置所有手牌，将弃牌区的所有卡牌洗入牌库，然后抽取和弃置数量等量的卡牌，恢复最大mental值的$14.08%$。并且Mental为100%时，下次使用的心心上限增加效果$+42.2%$，下次使用Manuscript/Cerise Anthology卡牌获得技能心心时，其数量$+281.6%$，LOVE+效果$+98.6%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "手札を山札リセットシャッフルし、メンタルを最大値の$14.72%$回復させる。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+44.2%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+294.4%$、ラブアトラクト効果を$+103%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset shuffle your hand to the deck and restore Mental to $14.72%$ of maximum value. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+44.2%$, increase Skill Heart acquisition from the next Manuscript/Cerise Anthology card usage by $+294.4%$, and increase Love Attract effect by $+103%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "弃置所有手牌，将弃牌区的所有卡牌洗入牌库，然后抽取和弃置数量等量的卡牌，恢复最大mental值的$14.72%$。并且Mental为100%时，下次使用的心心上限增加效果$+44.2%$，下次使用Manuscript/Cerise Anthology Card的获得技能心心时，其数量$+294.4%$，LOVE+效果$+103%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "手札を山札リセットシャッフルし、メンタルを最大値の$16%$回復させる。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+48%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+320%$、ラブアトラクト効果を$+112%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset shuffle your hand to the deck and restore Mental to $16%$ of maximum value. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+48%$, increase Skill Heart acquisition from the next Manuscript/Cerise Anthology card usage by $+320%$, and increase Love Attract effect by $+112%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "弃置所有手牌，将弃牌区的所有卡牌洗入牌库，然后抽取和弃置数量等量的卡牌，恢复最大mental值的$16%$。并且Mental为100%时，下次使用的心心上限增加效果$+48%$，下次使用Manuscript/Cerise Anthology Card的获得技能心心时，其数量$+320%$，LOVE+效果$+112%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "手札を山札リセットシャッフルし、メンタルを最大値の$6.4%$回復させる。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+19.2%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+128%$、ラブアトラクト効果を$+44.8%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset shuffle your hand to the deck and restore Mental to $6.4%$ of maximum value. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+19.2%$, increase Skill Heart acquisition from the next Manuscript/Cerise Anthology card usage by $+128%$, and increase Love Attract effect by $+44.8%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "弃置所有手牌，将弃牌区的所有卡牌洗入牌库，然后抽取和弃置数量等量的卡牌，恢复最大mental值的$6.4%$。并且Mental为100%时，下次使用的心心上限增加效果$+19.2%$，下次使用Manuscript/Cerise Anthology Card的获得技能心心时，其数量$+128%$，LOVE+效果$+44.8%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "手札を山札リセットシャッフルし、メンタルを最大値の$7.04%$回復させる。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+21.1%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+140.8%$、ラブアトラクト効果を$+49.3%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset shuffle your hand to the deck and restore Mental to $7.04%$ of maximum value. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+21.1%$, increase Skill Heart acquisition from the next Manuscript/Cerise Anthology card usage by $+140.8%$, and increase Love Attract effect by $+49.3%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "弃置所有手牌，将弃牌区的所有卡牌洗入牌库，然后抽取和弃置数量等量的卡牌，恢复最大mental值的$7.04%$。并且Mental为100%时，下次使用的心心上限增加效果$+21.1%$，下次使用Manuscript/Cerise Anthology Card的获得技能心心时，其数量$+140.8%$，LOVE+效果$+49.3%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "手札を山札リセットシャッフルし、メンタルを最大値の$7.68%$回復させる。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+23%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+153.6%$、ラブアトラクト効果を$+53.8%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset shuffle your hand to the deck and restore Mental to $7.68%$ of maximum value. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+23%$, increase Skill Heart acquisition from the next Manuscript/Cerise Anthology card usage by $+153.6%$, and increase Love Attract effect by $+53.8%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "弃置所有手牌，将弃牌区的所有卡牌洗入牌库，然后抽取和弃置数量等量的卡牌，恢复最大mental值的$7.68%$。并且Mental为100%时，下次使用的心心上限增加效果$+23%$，下次使用Manuscript/Cerise Anthology Card的获得技能心心时，其数量$+153.6%$，LOVE+效果$+53.8%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "手札を山札リセットシャッフルし、メンタルを最大値の$8.32%$回復させる。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+25%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+166.4%$、ラブアトラクト効果を$+58.2%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset shuffle your hand to the deck and restore Mental to $8.32%$ of maximum value. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+25%$, increase Skill Heart acquisition from the next Manuscript/Cerise Anthology card usage by $+166.4%$, and increase Love Attract effect by $+58.2%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "弃置所有手牌，将弃牌区的所有卡牌洗入牌库，然后抽取和弃置数量等量的卡牌，恢复最大mental值的$8.32%$。并且Mental为100%时，下次使用的心心上限增加效果$+25%$，下次使用Manuscript/Cerise Anthology Card的获得技能心心时，其数量$+166.4%$，LOVE+效果$+58.2%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "手札を山札リセットシャッフルし、メンタルを最大値の$8.96%$回復させる。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+26.9%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+179.2%$、ラブアトラクト効果を$+62.7%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset shuffle your hand to the deck and restore Mental to $8.96%$ of maximum value. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+26.9%$, increase Skill Heart acquisition from the next Manuscript/Cerise Anthology card usage by $+179.2%$, and increase Love Attract effect by $+62.7%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "弃置所有手牌，将弃牌区的所有卡牌洗入牌库，然后抽取和弃置数量等量的卡牌，恢复最大mental值的$8.96%$。并且Mental为100%时，下次使用的心心上限增加效果$+26.9%$，下次使用Manuscript/Cerise Anthology Card的获得技能心心时，其数量$+179.2%$，LOVE+效果$+62.7%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "手札を山札リセットシャッフルし、メンタルを最大値の$9.6%$回復させる。さらにメンタルが100%のとき、次に使用するハート上限増加効果を$+28.8%$、次のマニュスクリプト/スリーズアンソロジーカードの使用によるスキルハート獲得効果による獲得数を$+192%$、ラブアトラクト効果を$+67.2%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset shuffle your hand to the deck and restore Mental to $9.6%$ of maximum value. Additionally, when Mental is at 100%, increase the next heart limit increase effect by $+28.8%$, increase Skill Heart acquisition from the next Manuscript/Cerise Anthology card usage by $+192%$, and increase Love Attract effect by $+67.2%$.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "弃置所有手牌，将弃牌区的所有卡牌洗入牌库，然后抽取和弃置数量等量的卡牌，恢复最大mental值的$9.6%$。并且Mental为100%时，下次使用的心心上限增加效果$+28.8%$，下次使用Manuscript/Cerise Anthology Card的获得技能心心时，其数量$+192%$，LOVE+效果$+67.2%$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "手札を山札リセットシャッフルする。この時さやかのカードをドローする確率大幅アップ。再使用にクールタイムが発生する。",
     "translation": {
       "zh-CN": {
@@ -119517,6 +120869,19 @@
       },
       "en": {
         "text": "Each time Kaho Hinoshita, Sayaka Murano, or Rurino Osawa's skill is used, reduce the AP cost of this skill in hand by 2.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "花帆、吟子以外のメンバーのスキル使用時にドローされない。このスキルを使用する度にスキル効果値が増加、消費APが減少する。さらにこのスキルを48回使用したとき、デッキから除外され、スリーズアンソロジーカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "No draw occurs when members other than Kaho and Ginko use skills. Each time this skill is used, the skill effect value increases and AP cost decreases. Additionally, when this skill is used 48 times, it is removed from the deck and 1 type of Cerise Anthology card (1 card total) is added to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "花帆、吟子以外成员使用技能时不会被抽到。每次使用此技能时技能效果值增加，消费AP减少。并且使用此技能48次时，从卡组中移除，将1个种类的（共计1张）Cerise Anthology Card加入牌库。",
         "author": "claude-sonnet-4-20250514"
       }
     }

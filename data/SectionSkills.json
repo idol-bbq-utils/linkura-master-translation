@@ -455,6 +455,32 @@
     }
   },
   {
+    "raw": "DOLLCHESTRAの消費APを-20する。",
+    "translation": {
+      "en": {
+        "text": "Reduces DOLLCHESTRA's AP consumption by 20.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "DOLLCHESTRA的消费AP-20。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Edel Noteの消費APを-20する。",
+    "translation": {
+      "en": {
+        "text": "Reduces Edel Note's AP consumption by 20.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Edel Note的消费AP-20。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "さやか、小鈴の消費APを-3する。",
     "translation": {
       "en": {
@@ -507,6 +533,19 @@
     }
   },
   {
+    "raw": "みらくらぱーく！の消費APを-20する。",
+    "translation": {
+      "en": {
+        "text": "Reduces Mira-Cra Park!'s AP consumption by 20.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Mira-Cra Park!的消费AP-20。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "スキルハート獲得数を+100%する。",
     "translation": {
       "zh-CN": {
@@ -541,6 +580,19 @@
       },
       "en": {
         "text": "Increase Skill Heart acquisition by +50%.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "スリーズブーケの消費APを-20する。",
+    "translation": {
+      "en": {
+        "text": "Reduces Cerise Bouquet's AP consumption by 20.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Cerise Bouquet的消费AP-20。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -606,6 +658,19 @@
       },
       "en": {
         "text": "Increase Voltage Pt. by 50%.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージの上昇速度を+1000%する。",
+    "translation": {
+      "en": {
+        "text": "Increases Voltage rise speed by +1000%.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Voltage的上升速度+1000%。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -1014,6 +1079,19 @@
     }
   },
   {
+    "raw": "メイン効果がメンタルプロテクトのスキルの消費APを+4する。",
+    "translation": {
+      "en": {
+        "text": "Increases AP consumption by +4 for skills with Mental Protect as main effect.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "主效果为Mental护盾的技能消费AP+4。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "メイン効果がメンタルプロテクトのスキルの消費APを-5する。",
     "translation": {
       "zh-CN": {
@@ -1022,6 +1100,19 @@
       },
       "en": {
         "text": "Reduce AP cost of skills with Mental Protect as main effect by -5.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メイン効果がリシャッフルのスキルの消費APを+4する。",
+    "translation": {
+      "en": {
+        "text": "Increases AP consumption by +4 for skills with Reshuffle as main effect.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "主效果为重新洗牌的技能消费AP+4。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -1269,6 +1360,19 @@
       },
       "en": {
         "text": "Toggle Hime's 《Ignition Mode》 state.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "姫芽の消費APを-20する。",
+    "translation": {
+      "en": {
+        "text": "Reduces Himeme's AP consumption by 20.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "姬芽的消费AP-20。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -1776,6 +1880,19 @@
       },
       "zh-CN": {
         "text": "瑠璃乃、姬芽的消耗AP-3。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "瑠璃乃の消費APを-20する。",
+    "translation": {
+      "en": {
+        "text": "Reduces Rurino's AP consumption by 20.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "瑠璃乃的消费AP-20。",
         "author": "claude-sonnet-4-20250514"
       }
     }
