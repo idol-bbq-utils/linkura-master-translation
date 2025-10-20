@@ -34,7 +34,7 @@
 
 ## translation progress
 
-![translation zh-CN](https://img.shields.io/badge/translation_zh--CN-98.4%25%7C29764%2F30236-blue)
+![translation zh-CN](https://img.shields.io/badge/translation_zh--CN-98.4%25%7C29836%2F30307-blue)
 
-![translation en](https://img.shields.io/badge/translation_en-98.4%25%7C29764%2F30236-blue)
+![translation en](https://img.shields.io/badge/translation_en-98.4%25%7C29836%2F30307-blue)
 ---

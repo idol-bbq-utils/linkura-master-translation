@@ -13962,6 +13962,19 @@
     }
   },
   {
+    "raw": "「Ginko's 17th Birthday セレブレイトパック」を購入して獲得したアイテムです。",
+    "translation": {
+      "en": {
+        "text": "This item was obtained by purchasing the \"Ginko's 17th Birthday セレブレイトパック\".",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "购买「Ginko's 17th Birthday 庆祝包」获得的道具。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "「Hime's 16th Birthday セレブレイトパック」を購入して獲得したアイテムです。",
     "translation": {
       "zh-CN": {

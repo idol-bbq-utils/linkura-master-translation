@@ -468,6 +468,19 @@
     }
   },
   {
+    "raw": "第7話『わがまま色の存在証明』",
+    "translation": {
+      "en": {
+        "text": "Episode 7 『わがまま色の存在証明』",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "第7话『任性色彩的存在证明』",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "第7話『センパイとコウハイ』",
     "translation": {
       "zh-CN": {

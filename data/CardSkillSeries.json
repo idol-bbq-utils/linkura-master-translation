@@ -2041,6 +2041,19 @@
     }
   },
   {
+    "raw": "インスタンス＆ドロー：エクステンドハンド",
+    "translation": {
+      "en": {
+        "text": "Instance & Draw: Extend Hand",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Instance & Draw：Extend Hand",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "インスタンス＆ドロー：マルチブースト：ドレス",
     "translation": {
       "zh-CN": {
@@ -6357,6 +6370,19 @@
     }
   },
   {
+    "raw": "テトラバイブス",
+    "translation": {
+      "en": {
+        "text": "Tetra Vibes",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Tetra Vibes",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "デイタイムホット",
     "translation": {
       "en": {
@@ -7028,6 +7054,19 @@
       },
       "en": {
         "text": "Dress《Blue Storm Carp Streaming》",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ドレッサー",
+    "translation": {
+      "en": {
+        "text": "Dresser",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Dresser",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -8146,6 +8185,19 @@
       },
       "zh-CN": {
         "text": "Nanado Gob",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ナンファンジーホア",
+    "translation": {
+      "en": {
+        "text": "Nanfanjihua",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "南方之花",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -10759,6 +10811,19 @@
       },
       "en": {
         "text": "Remake Dress《華・麗・雅》",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "リャンシェン",
+    "translation": {
+      "en": {
+        "text": "Liangshen",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "靓声",
         "author": "claude-sonnet-4-20250514"
       }
     }

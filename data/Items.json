@@ -715,6 +715,19 @@
     }
   },
   {
+    "raw": "[17th Birthday]百生 吟子 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[17th Birthday]Ginko Momose Release Pt.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "[17th Birthday]百生吟子 解放Pt.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "[18th Birthday]乙宗 梢 解放Pt.",
     "translation": {
       "zh-CN": {

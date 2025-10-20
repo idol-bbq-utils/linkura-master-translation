@@ -52,6 +52,19 @@
     }
   },
   {
+    "raw": "102期活動記録 ～Shades of Stars～\n第4話『Reflection in the mirror』後編 読了証",
+    "translation": {
+      "en": {
+        "text": "102nd Class Activity Record ~Shades of Stars~\nChapter 4 『Reflection in the mirror』 Part 2 Certificate of Completion",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "102期活动记录 ～Shades of Stars～\n第4话『Reflection in the mirror』后编 读了证",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "102期活動記録 ～Shades of Stars～ 第1話『a falling star』を読了",
     "translation": {
       "zh-CN": {
@@ -86,6 +99,19 @@
       },
       "zh-CN": {
         "text": "102期活动记录 ～Shades of Stars～ 第3话『Reflection in the mirror』前篇 阅读完毕",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "102期活動記録 ～Shades of Stars～ 第4話『Reflection in the mirror』後編 を読了",
+    "translation": {
+      "en": {
+        "text": "Completed reading 102nd Class Activity Record ~Shades of Stars~ Chapter 4 『Reflection in the mirror』 Part 2",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "102期活动记录 ～Shades of Stars～ 第4话『Reflection in the mirror』后编 已读完",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -16375,6 +16401,19 @@
       },
       "en": {
         "text": "Happy 16th Birthday to Dear Ceras!\n「Ceras Yanagida Setchan-chan,\nI'm 16 years old!」",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Happy 17th Birthday to Dear Ginko!\n「17歳になりました。百生 吟子です。」",
+    "translation": {
+      "en": {
+        "text": "Happy 17th Birthday to Dear Ginko!\n「I have turned 17 years old. I am Ginko Momose.」",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Happy 17th Birthday to Dear Ginko!\n「我17岁了。百生 吟子是也。」",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -48542,6 +48581,45 @@
     }
   },
   {
+    "raw": "[17th Birthday]百生 吟子",
+    "translation": {
+      "en": {
+        "text": "[17th Birthday] Ginko Momose",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "[17th Birthday]百生 吟子",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[17th Birthday]百生 吟子 を4回解放した記念のステッカー",
+    "translation": {
+      "en": {
+        "text": "Commemorative sticker for unlocking [17th Birthday] Ginko Momose 4 times",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "[17th Birthday]百生 吟子 4次解放完成纪念贴纸",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[17th Birthday]百生 吟子 解放完了",
+    "translation": {
+      "en": {
+        "text": "[17th Birthday] Ginko Momose Unlock Complete",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "[17th Birthday]百生 吟子 解放完成",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "[18th Birthday]乙宗 梢",
     "translation": {
       "zh-CN": {
@@ -55141,6 +55219,19 @@
       },
       "en": {
         "text": "[Shades of Stars/mini]Megumi Fujishima",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[Shades of Stars]乙宗 梢",
+    "translation": {
+      "en": {
+        "text": "[Shades of Stars] Kozue Otomune",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "[Shades of Stars]乙宗 梢",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -69571,6 +69662,19 @@
       },
       "en": {
         "text": "Purchased \"Ginko's 16th Birthday Celebrate Pack\"",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "「Ginko's 17th Birthday セレブレイトパック」を購入",
+    "translation": {
+      "en": {
+        "text": "Purchased 「Ginko's 17th Birthday Celebrate Pack」",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "购买了「Ginko's 17th Birthday 庆祝包」",
         "author": "claude-sonnet-4-20250514"
       }
     }

@@ -2364,6 +2364,12 @@
             "RequirementText": "[16th Birthday]百生 吟子 解放完了"
         },
         {
+            "Id": 10419021,
+            "Name": "[17th Birthday]百生 吟子",
+            "Text": "[17th Birthday]百生 吟子 を4回解放した記念のステッカー",
+            "RequirementText": "[17th Birthday]百生 吟子 解放完了"
+        },
+        {
             "Id": 10423011,
             "Name": "[レインボーシフォン]徒町 小鈴",
             "Text": "[レインボーシフォン]徒町 小鈴 を4回解放した記念のステッカー",
@@ -11874,6 +11880,12 @@
             "RequirementText": "「Ginko's 16th Birthday セレブレイトパック」を購入"
         },
         {
+            "Id": 90010412,
+            "Name": "Ginko's 17th Birthday",
+            "Text": "Happy 17th Birthday to Dear Ginko!\n「17歳になりました。百生 吟子です。」",
+            "RequirementText": "「Ginko's 17th Birthday セレブレイトパック」を購入"
+        },
+        {
             "Id": 90010421,
             "Name": "Kosuzu's 16th Birthday",
             "Text": "Happy 16th Birthday to Dear Kosuzu! 「徒町、15回目の誕生日を迎えましたー！　……あ、16です16！」",
@@ -12952,6 +12964,12 @@
             "Name": "[Shades of Stars/mini]乙宗 梢",
             "Text": "102期活動記録 ～Shades of Stars～\n第3話『Reflection in the mirror』前編 読了証",
             "RequirementText": "102期活動記録 ～Shades of Stars～ 第3話『Reflection in the mirror』前編 を読了"
+        },
+        {
+            "Id": 95000004,
+            "Name": "[Shades of Stars]乙宗 梢",
+            "Text": "102期活動記録 ～Shades of Stars～\n第4話『Reflection in the mirror』後編 読了証",
+            "RequirementText": "102期活動記録 ～Shades of Stars～ 第4話『Reflection in the mirror』後編 を読了"
         },
         {
             "Id": 99000001,

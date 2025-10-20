@@ -78,6 +78,19 @@
     }
   },
   {
+    "raw": "それぞれの卒業後について蓮ノ三連華が思いを巡\nらせる中、さやかは小鈴を独り立ちさせるべく、\n「お世話」封印を掲げたのだが……!?",
+    "translation": {
+      "en": {
+        "text": "As the three members of Hasu no Sankaren contemplate their\npost-graduation futures, Sayaka declares a ban on \"taking\ncare\" of Kosuzu to help her become independent...!?",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "莲之三连华各自思考着毕业后的未来时，沙耶香为了让小铃能够独立，提出了「照顾」封印……!?",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "イベントでの花帆と梢の渾身のパフォーマンスに\n興奮するさやかだったが、その隣でステージを見\nていた綴理の様子はどこか変で……？",
     "translation": {
       "zh-CN": {
@@ -840,6 +853,19 @@
       },
       "en": {
         "text": "Episode 7: 'Link to the FRIENDS!'",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "第7話『わがまま色の存在証明』",
+    "translation": {
+      "en": {
+        "text": "Episode 7: 'Proof of Selfish Existence'",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "第7话『任性色彩的存在证明』",
         "author": "claude-sonnet-4-20250514"
       }
     }

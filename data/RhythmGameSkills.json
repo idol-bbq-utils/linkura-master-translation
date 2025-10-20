@@ -38220,6 +38220,162 @@
     }
   },
   {
+    "raw": "メンタルが最大値の10％以上の時、最大値の$30%$分のメンタルを減少（この効果ではメンタルが0にならない）／メンタルが最大値の10％以下の時、APを$10$回復／メンタルが最大値の10％以下の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is 10% or more of maximum value, decrease Mental by $30%$ of maximum value (this effect cannot reduce Mental to 0) / When Mental is 10% or less of maximum value, recover $10$ AP / When Mental is 10% or less of maximum value, exclude this card",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值10%以上时，减少最大值$30%$的Mental（此效果不会让Mental变为0）／Mental为最大值10%以下时，AP回复$10$／Mental为最大值10%以下时，移除此卡",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以上の時、最大値の$30%$分のメンタルを減少（この効果ではメンタルが0にならない）／メンタルが最大値の10％以下の時、APを$11$回復／メンタルが最大値の10％以下の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is 10% or more of maximum value, decrease Mental by $30%$ of maximum value (this effect cannot reduce Mental to 0) / When Mental is 10% or less of maximum value, recover $11$ AP / When Mental is 10% or less of maximum value, exclude this card",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值10%以上时，减少最大值$30%$的Mental（此效果不会让Mental变为0）／Mental为最大值10%以下时，AP回复$11$／Mental为最大值10%以下时，移除此卡",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以上の時、最大値の$30%$分のメンタルを減少（この効果ではメンタルが0にならない）／メンタルが最大値の10％以下の時、APを$12$回復／メンタルが最大値の10％以下の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is 10% or more of maximum value, decrease Mental by $30%$ of maximum value (this effect cannot reduce Mental to 0) / When Mental is 10% or less of maximum value, recover $12$ AP / When Mental is 10% or less of maximum value, exclude this card",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值10%以上时，减少最大值$30%$的Mental（此效果不会让Mental变为0）／Mental为最大值10%以下时，AP回复$12$／Mental为最大值10%以下时，移除此卡",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以上の時、最大値の$30%$分のメンタルを減少（この効果ではメンタルが0にならない）／メンタルが最大値の10％以下の時、APを$13$回復／メンタルが最大値の10％以下の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is 10% or more of maximum value, decrease Mental by $30%$ of maximum value (this effect cannot reduce Mental to 0) / When Mental is 10% or less of maximum value, recover $13$ AP / When Mental is 10% or less of maximum value, exclude this card",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值10%以上时，减少最大值$30%$的Mental（此效果不会让Mental变为0）／Mental为最大值10%以下时，AP回复$13$／Mental为最大值10%以下时，移除此卡",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以上の時、最大値の$30%$分のメンタルを減少（この効果ではメンタルが0にならない）／メンタルが最大値の10％以下の時、APを$14$回復／メンタルが最大値の10％以下の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is 10% or more of maximum value, decrease Mental by $30%$ of maximum value (this effect cannot reduce Mental to 0) / When Mental is 10% or less of maximum value, recover $14$ AP / When Mental is 10% or less of maximum value, exclude this card",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值10%以上时，减少最大值$30%$的Mental（此效果不会让Mental变为0）／Mental为最大值10%以下时，AP回复$14$／Mental为最大值10%以下时，移除此卡",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以上の時、最大値の$30%$分のメンタルを減少（この効果ではメンタルが0にならない）／メンタルが最大値の10％以下の時、APを$16$回復／メンタルが最大値の10％以下の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is 10% or more of maximum value, decrease Mental by $30%$ of maximum value (this effect cannot reduce Mental to 0) / When Mental is 10% or less of maximum value, recover $16$ AP / When Mental is 10% or less of maximum value, exclude this card",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值10%以上时，减少最大值$30%$的Mental（此效果不会让Mental变为0）／Mental为最大值10%以下时，AP回复$16$／Mental为最大值10%以下时，移除此卡",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以上の時、最大値の$30%$分のメンタルを減少（この効果ではメンタルが0にならない）／メンタルが最大値の10％以下の時、APを$17$回復／メンタルが最大値の10％以下の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is 10% or more of maximum value, decrease Mental by $30%$ of maximum value (this effect cannot reduce Mental to 0) / When Mental is 10% or less of maximum value, recover $17$ AP / When Mental is 10% or less of maximum value, exclude this card",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值10%以上时，减少最大值$30%$的Mental（此效果不会让Mental变为0）／Mental为最大值10%以下时，AP回复$17$／Mental为最大值10%以下时，移除此卡",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以上の時、最大値の$30%$分のメンタルを減少（この効果ではメンタルが0にならない）／メンタルが最大値の10％以下の時、APを$20$回復／メンタルが最大値の10％以下の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is 10% or more of maximum value, decrease Mental by $30%$ of maximum value (this effect cannot reduce Mental to 0) / When Mental is 10% or less of maximum value, recover $20$ AP / When Mental is 10% or less of maximum value, exclude this card",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值10%以上时，减少最大值$30%$的Mental（此效果不会让Mental变为0）／Mental为最大值10%以下时，AP回复$20$／Mental为最大值10%以下时，移除此卡",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以上の時、最大値の$30%$分のメンタルを減少（この効果ではメンタルが0にならない）／メンタルが最大値の10％以下の時、APを$6$回復／メンタルが最大値の10％以下の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is 10% or more of maximum value, decrease Mental by $30%$ of maximum value (this effect cannot reduce Mental to 0) / When Mental is 10% or less of maximum value, recover $6$ AP / When Mental is 10% or less of maximum value, exclude this card",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值10%以上时，减少最大值$30%$的Mental（此效果不会让Mental变为0）／Mental为最大值10%以下时，AP回复$6$／Mental为最大值10%以下时，移除此卡",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以上の時、最大値の$30%$分のメンタルを減少（この効果ではメンタルが0にならない）／メンタルが最大値の10％以下の時、APを$7$回復／メンタルが最大値の10％以下の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is 10% or more of maximum value, decrease Mental by $30%$ of maximum value (this effect cannot reduce Mental to 0) / When Mental is 10% or less of maximum value, recover $7$ AP / When Mental is 10% or less of maximum value, exclude this card",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值10%以上时，减少最大值$30%$的Mental（此效果不会让Mental变为0）／Mental为最大值10%以下时，AP回复$7$／Mental为最大值10%以下时，移除此卡",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以上の時、最大値の$30%$分のメンタルを減少（この効果ではメンタルが0にならない）／メンタルが最大値の10％以下の時、APを$8$回復／メンタルが最大値の10％以下の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is 10% or more of maximum value, decrease Mental by $30%$ of maximum value (this effect cannot reduce Mental to 0) / When Mental is 10% or less of maximum value, recover $8$ AP / When Mental is 10% or less of maximum value, exclude this card",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值10%以上时，减少最大值$30%$的Mental（此效果不会让Mental变为0）／Mental为最大值10%以下时，AP回复$8$／Mental为最大值10%以下时，移除此卡",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以上の時、最大値の$30%$分のメンタルを減少（この効果ではメンタルが0にならない）／メンタルが最大値の10％以下の時、APを$9$回復／メンタルが最大値の10％以下の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is 10% or more of maximum value, decrease Mental by $30%$ of maximum value (this effect cannot reduce Mental to 0) / When Mental is 10% or less of maximum value, recover $9$ AP / When Mental is 10% or less of maximum value, exclude this card",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值10%以上时，减少最大值$30%$的Mental（此效果不会让Mental变为0）／Mental为最大值10%以下时，AP回复$9$／Mental为最大值10%以下时，移除此卡",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$101.25%$上昇／メンタルが最大値の10％以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$101.25%$上昇／メンタルが最大値の10％以下の時、APを10回復／最大値の$50%$分のメンタルを減少（この効果ではメンタルが0にならない）",
     "translation": {
       "zh-CN": {
@@ -40230,6 +40386,19 @@
       },
       "en": {
         "text": "Mental Damage",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルダメージ&APゲイン",
+    "translation": {
+      "en": {
+        "text": "Mental Damage & AP Gain",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Mental伤害&AP获得",
         "author": "claude-sonnet-4-20250514"
       }
     }
