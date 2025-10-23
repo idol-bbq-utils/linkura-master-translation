@@ -390,6 +390,19 @@
     }
   },
   {
+    "raw": "スキルを3回使用するたび、ボルテージを+10000し、APが5減少する。",
+    "translation": {
+      "en": {
+        "text": "Every time you use a skill 3 times, gain +10000 Voltage and lose 5 AP.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "每使用3次技能，Voltage+10000，AP减少5。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "スキルを3回使用するたび、ボルテージを-60する。",
     "translation": {
       "zh-CN": {
@@ -897,6 +910,19 @@
     }
   },
   {
+    "raw": "ステージ開始時、メイン効果がハートキャプチャであるデッキの全てのカードの消費APをステージ中常に-3し、また山札が切れるたび、APが5減少する。",
+    "translation": {
+      "en": {
+        "text": "At the start of the stage, permanently reduce the AP cost of all cards in the deck whose main effect is Heart Capture by -3 throughout the stage, and every time the deck runs out, lose 5 AP.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "舞台开始时，主效果为心心捕获的卡组中所有卡片的消费AP在舞台中持续-3，此外每次牌组用尽时，AP减少5。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ステージ開始時、メイン効果がハート上限変動であるデッキの全てのカードの消費APをステージ中常に+3し、スキルを3回使用するたび、デッキの全ての瑠璃乃、姫芽の消費APを-3する。",
     "translation": {
       "zh-CN": {
@@ -1087,6 +1113,19 @@
       },
       "en": {
         "text": "Each time a skill whose main effect is mental recovery is used, recover 3 AP",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メイン効果がメンタル回復のスキルを使用するたび、APを5回復し、スキルを3回使用するたび、APが5減少する。",
+    "translation": {
+      "en": {
+        "text": "Every time you use a skill whose main effect is Mental recovery, recover 5 AP, and every time you use skills 3 times, lose 5 AP.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "每次使用主效果为Mental回复的技能时，AP回复5，每使用3次技能，AP减少5。",
         "author": "claude-sonnet-4-20250514"
       }
     }

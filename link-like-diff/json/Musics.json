@@ -1371,6 +1371,13 @@
             "ReleaseConditionText": "初めから習得"
         },
         {
+            "Id": 405118,
+            "Title": "バイタルサイン",
+            "TitleFurigana": "ばいたるさいん",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
             "Id": 405301,
             "Title": "虹色Passions!",
             "TitleFurigana": "にじいろぱっしょんず",

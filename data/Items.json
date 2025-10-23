@@ -3926,6 +3926,32 @@
     }
   },
   {
+    "raw": "[バイタルサイン]大沢 瑠璃乃 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[Vital Sign] Rurino Osawa Liberation Pt.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "[生命体征]大泽 瑠璃乃 解放Pt.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[バイタルサイン]安養寺 姫芽 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[Vital Sign] Hime Anyoji Liberation Pt.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "[生命体征]安养寺 姬芽 解放Pt.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "[ファンファーレ！！！]大沢 瑠璃乃 解放Pt.",
     "translation": {
       "zh-CN": {
@@ -4740,6 +4766,19 @@
       },
       "zh-CN": {
         "text": "[四蓮琴之雀]塞拉斯 柳田 利林费尔德 解放Pt.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[四蓮琴之龍]桂城 泉 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[Four Lotus Koto Dragon] Izumi Katsuragi Liberation Pt.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "[四莲琴之龙]桂城 泉 解放Pt.",
         "author": "claude-sonnet-4-20250514"
       }
     }

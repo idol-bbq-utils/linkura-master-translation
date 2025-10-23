@@ -598,6 +598,19 @@
     }
   },
   {
+    "raw": "QQボックス",
+    "translation": {
+      "en": {
+        "text": "QQ Box",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "QQ盒子",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "S.I.コンダクター",
     "translation": {
       "zh-CN": {
@@ -775,6 +788,19 @@
       },
       "zh-CN": {
         "text": "Mira-Cra 圈",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "みらくらメディスン",
+    "translation": {
+      "en": {
+        "text": "Mira-Cra Medicine",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "奇迹药剂",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -2244,6 +2270,19 @@
       },
       "en": {
         "text": "Invocation",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "イーシェン",
+    "translation": {
+      "en": {
+        "text": "Yi Shen",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "易神",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -5109,6 +5148,19 @@
     }
   },
   {
+    "raw": "スティミュレーション",
+    "translation": {
+      "en": {
+        "text": "Stimulation",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "刺激",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "スリーズアンソロジー",
     "translation": {
       "en": {
@@ -6344,6 +6396,19 @@
     }
   },
   {
+    "raw": "テトライミテーション",
+    "translation": {
+      "en": {
+        "text": "Tetra Imitation",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "四重模仿",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "テトラゲイン",
     "translation": {
       "en": {
@@ -6625,6 +6690,19 @@
       },
       "zh-CN": {
         "text": "Triplet Wide",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "トンファンジーホア",
+    "translation": {
+      "en": {
+        "text": "Tong Fang Zi Hua",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "东方之花",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -8749,6 +8827,19 @@
     }
   },
   {
+    "raw": "ファーストエイド",
+    "translation": {
+      "en": {
+        "text": "First Aid",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "急救",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "ファーストシードリング",
     "translation": {
       "zh-CN": {
@@ -10291,6 +10382,19 @@
       },
       "zh-CN": {
         "text": "Retake Wide",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "リバイタリゼーション",
+    "translation": {
+      "en": {
+        "text": "Revitalization",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "复活",
         "author": "claude-sonnet-4-20250514"
       }
     }

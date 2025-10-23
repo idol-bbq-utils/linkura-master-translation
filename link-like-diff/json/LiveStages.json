@@ -1992,6 +1992,78 @@
             "StageSkillDescription": "スキルを5回使用するたび、デッキの全てのDOLLCHESTRAの消費APを-2し、また山札が切れるたび、APが5減少する。"
         },
         {
+            "Id": 704551,
+            "Name": "教室",
+            "Description": "いつもの教室",
+            "StageSkillDescription": "スキルを3回使用するたび、ボルテージを+10000し、APが5減少する。"
+        },
+        {
+            "Id": 704552,
+            "Name": "体育館",
+            "Description": "学校の体育館",
+            "StageSkillDescription": "スキルを3回使用するたび、ボルテージを+10000し、APが5減少する。"
+        },
+        {
+            "Id": 704553,
+            "Name": "講堂",
+            "Description": "静かな講堂",
+            "StageSkillDescription": "スキルを3回使用するたび、ボルテージを+10000し、APが5減少する。"
+        },
+        {
+            "Id": 704554,
+            "Name": "特設ステージ",
+            "Description": "華やかな特設ステージ",
+            "StageSkillDescription": "スキルを3回使用するたび、ボルテージを+10000し、APが5減少する。"
+        },
+        {
+            "Id": 704561,
+            "Name": "教室",
+            "Description": "いつもの教室",
+            "StageSkillDescription": "ステージ開始時、メイン効果がハートキャプチャであるデッキの全てのカードの消費APをステージ中常に-3し、また山札が切れるたび、APが5減少する。"
+        },
+        {
+            "Id": 704562,
+            "Name": "体育館",
+            "Description": "学校の体育館",
+            "StageSkillDescription": "ステージ開始時、メイン効果がハートキャプチャであるデッキの全てのカードの消費APをステージ中常に-3し、また山札が切れるたび、APが5減少する。"
+        },
+        {
+            "Id": 704563,
+            "Name": "講堂",
+            "Description": "静かな講堂",
+            "StageSkillDescription": "ステージ開始時、メイン効果がハートキャプチャであるデッキの全てのカードの消費APをステージ中常に-3し、また山札が切れるたび、APが5減少する。"
+        },
+        {
+            "Id": 704564,
+            "Name": "特設ステージ",
+            "Description": "華やかな特設ステージ",
+            "StageSkillDescription": "ステージ開始時、メイン効果がハートキャプチャであるデッキの全てのカードの消費APをステージ中常に-3し、また山札が切れるたび、APが5減少する。"
+        },
+        {
+            "Id": 704571,
+            "Name": "教室",
+            "Description": "いつもの教室",
+            "StageSkillDescription": "メイン効果がメンタル回復のスキルを使用するたび、APを5回復し、スキルを3回使用するたび、APが5減少する。"
+        },
+        {
+            "Id": 704572,
+            "Name": "体育館",
+            "Description": "学校の体育館",
+            "StageSkillDescription": "メイン効果がメンタル回復のスキルを使用するたび、APを5回復し、スキルを3回使用するたび、APが5減少する。"
+        },
+        {
+            "Id": 704573,
+            "Name": "講堂",
+            "Description": "静かな講堂",
+            "StageSkillDescription": "メイン効果がメンタル回復のスキルを使用するたび、APを5回復し、スキルを3回使用するたび、APが5減少する。"
+        },
+        {
+            "Id": 704574,
+            "Name": "特設ステージ",
+            "Description": "華やかな特設ステージ",
+            "StageSkillDescription": "メイン効果がメンタル回復のスキルを使用するたび、APを5回復し、スキルを3回使用するたび、APが5減少する。"
+        },
+        {
             "Id": 803011,
             "Name": "教室",
             "Description": "いつもの教室",

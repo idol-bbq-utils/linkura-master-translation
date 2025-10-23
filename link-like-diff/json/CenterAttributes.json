@@ -5336,6 +5336,21 @@
             "Description": "みらくらぱーく！に所属するメンバーと日野下花帆、村野さやかのアピール値が180％上昇／メンタルの最大値が編成している瑠璃乃のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。"
         },
         {
+            "Id": 20335291,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
+            "Id": 20335292,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
+            "Id": 20335293,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
             "Id": 20338011,
             "CenterAttributeName": "アピールアップ（みらくらぱーく！）&APレデュース&CTレデュース",
             "Description": "みらくらぱーく！に所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少"
@@ -6756,6 +6771,21 @@
             "Description": "みらくらぱーく！に所属するメンバーのアピール値が200％上昇"
         },
         {
+            "Id": 20435181,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
+            "Id": 20435182,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
+            "Id": 20435183,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
             "Id": 20438011,
             "CenterAttributeName": "アピールアップ（みらくらぱーく！）&APレデュース&CTレデュース",
             "Description": "みらくらぱーく！に所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少"
@@ -6894,6 +6924,21 @@
             "Id": 20514023,
             "CenterAttributeName": "アピールアップ（Edel Note）",
             "Description": "Edel Noteに所属するメンバーのアピール値が150％上昇"
+        },
+        {
+            "Id": 20514031,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が60％上昇"
+        },
+        {
+            "Id": 20514032,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が60％上昇"
+        },
+        {
+            "Id": 20514033,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が60％上昇"
         },
         {
             "Id": 20515011,

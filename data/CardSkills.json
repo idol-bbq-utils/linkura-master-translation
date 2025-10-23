@@ -13494,6 +13494,32 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$10%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+399.6%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ボルテージゲイン効果を$+266.4%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルリカバー効果を$+133.2%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify Mental damage equal to $10%$ of the maximum Mental value. Additionally, when Mental is 99% or higher, increase Skill Heart acquisition effects by $+399.6%$ for 9 times and reduce Mental by a fixed 33% of the maximum value; when Mental is 66% or higher, increase Voltage Gain effects by $+266.4%$ for 9 times and reduce Mental by a fixed 22% of the maximum value; when Mental is 33% or higher, shuffle the hand, increase Mental Recovery effects by $+133.2%$ for 9 times and reduce Mental by a fixed 11% of the maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$10%$的mental消耗。并且Mental在99%以上时，接下来9次获得技能心心时，其数量$+399.6%$，失去最大mental值的33%，Mental在66%以上时，接下来9次获得Vo Pt.效果$+266.4%$，失去最大mental值的22%，Mental在33%以上时，洗切手牌，接下来9次Mental回复效果$+133.2%$，失去最大mental值的11%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$10%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+399.6%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ラブアトラクト効果を$+266.4%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルプロテクト効果を$+133.2%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify Mental damage equal to $10%$ of the maximum Mental value. Additionally, when Mental is 99% or higher, increase Skill Heart acquisition effects by $+399.6%$ for 9 times and reduce Mental by a fixed 33% of the maximum value; when Mental is 66% or higher, increase Love Attract effects by $+266.4%$ for 9 times and reduce Mental by a fixed 22% of the maximum value; when Mental is 33% or higher, shuffle the hand, increase Mental Protect effects by $+133.2%$ for 9 times and reduce Mental by a fixed 11% of the maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$10%$的mental消耗。并且Mental在99%以上时，接下来9次获得技能心心时，其数量$+399.6%$，失去最大mental值的33%，Mental在66%以上时，接下来9次LOVE+效果$+266.4%$，失去最大mental值的22%，Mental在33%以上时，洗切手牌，接下来9次防止mental消耗效果$+133.2%$，失去最大mental值的11%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$10.08%$分のメンタルダメージを無効にする。さらにビートハート$10回分$のスキルハートを9回獲得する。",
     "translation": {
       "zh-CN": {
@@ -13663,6 +13689,32 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$11%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+439.6%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ボルテージゲイン効果を$+293%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルリカバー効果を$+146.5%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify Mental damage equal to $11%$ of the maximum Mental value. Additionally, when Mental is 99% or higher, increase Skill Heart acquisition effects by $+439.6%$ for 9 times and reduce Mental by a fixed 33% of the maximum value; when Mental is 66% or higher, increase Voltage Gain effects by $+293%$ for 9 times and reduce Mental by a fixed 22% of the maximum value; when Mental is 33% or higher, shuffle the hand, increase Mental Recovery effects by $+146.5%$ for 9 times and reduce Mental by a fixed 11% of the maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$11%$的mental消耗。并且Mental在99%以上时，接下来9次获得技能心心时，其数量$+439.6%$，失去最大mental值的33%，Mental在66%以上时，接下来9次获得Vo Pt.效果$+293%$，失去最大mental值的22%，Mental在33%以上时，洗切手牌，接下来9次Mental回复效果$+146.5%$，失去最大mental值的11%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$11%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+439.6%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ラブアトラクト効果を$+293%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルプロテクト効果を$+146.5%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify Mental damage equal to $11%$ of the maximum Mental value. Additionally, when Mental is 99% or higher, increase Skill Heart acquisition effects by $+439.6%$ for 9 times and reduce Mental by a fixed 33% of the maximum value; when Mental is 66% or higher, increase Love Attract effects by $+293%$ for 9 times and reduce Mental by a fixed 22% of the maximum value; when Mental is 33% or higher, shuffle the hand, increase Mental Protect effects by $+146.5%$ for 9 times and reduce Mental by a fixed 11% of the maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$11%$的mental消耗。并且Mental在99%以上时，接下来9次获得技能心心时，其数量$+439.6%$，失去最大mental值的33%，Mental在66%以上时，接下来9次LOVE+效果$+293%$，失去最大mental值的22%，Mental在33%以上时，洗切手牌，接下来9次防止mental消耗效果$+146.5%$，失去最大mental值的11%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$11.2%$分のメンタルダメージを無効にする。さらにこのステージ中、獲得するLOVEを$+5.6%$する。",
     "translation": {
       "zh-CN": {
@@ -13806,6 +13858,32 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$12%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+479.5%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ボルテージゲイン効果を$+319.7%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルリカバー効果を$+159.8%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify Mental damage equal to $12%$ of the maximum Mental value. Additionally, when Mental is 99% or higher, increase Skill Heart acquisition effects by $+479.5%$ for 9 times and reduce Mental by a fixed 33% of the maximum value; when Mental is 66% or higher, increase Voltage Gain effects by $+319.7%$ for 9 times and reduce Mental by a fixed 22% of the maximum value; when Mental is 33% or higher, shuffle the hand, increase Mental Recovery effects by $+159.8%$ for 9 times and reduce Mental by a fixed 11% of the maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$12%$的mental消耗。并且Mental在99%以上时，接下来9次获得技能心心时，其数量$+479.5%$，失去最大mental值的33%，Mental在66%以上时，接下来9次获得Vo Pt.效果$+319.7%$，失去最大mental值的22%，Mental在33%以上时，洗切手牌，接下来9次Mental回复效果$+159.8%$，失去最大mental值的11%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$12%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+479.5%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ラブアトラクト効果を$+319.7%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルプロテクト効果を$+159.8%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify Mental damage equal to $12%$ of the maximum Mental value. Additionally, when Mental is 99% or higher, increase Skill Heart acquisition effects by $+479.5%$ for 9 times and reduce Mental by a fixed 33% of the maximum value; when Mental is 66% or higher, increase Love Attract effects by $+319.7%$ for 9 times and reduce Mental by a fixed 22% of the maximum value; when Mental is 33% or higher, shuffle the hand, increase Mental Protect effects by $+159.8%$ for 9 times and reduce Mental by a fixed 11% of the maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$12%$的mental消耗。并且Mental在99%以上时，接下来9次获得技能心心时，其数量$+479.5%$，失去最大mental值的33%，Mental在66%以上时，接下来9次LOVE+效果$+319.7%$，失去最大mental值的22%，Mental在33%以上时，洗切手牌，接下来9次防止mental消耗效果$+159.8%$，失去最大mental值的11%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$12.24%$分のメンタルダメージを無効にする。さらに、このステージ中、獲得するLOVEを$+5.8%$する。",
     "translation": {
       "zh-CN": {
@@ -13892,6 +13970,32 @@
       },
       "en": {
         "text": "During this stage, nullify Mental damage equivalent to $13%$ of maximum Mental. Additionally, recover 9 AP.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$13%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+519.5%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ボルテージゲイン効果を$+346.3%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルリカバー効果を$+173.2%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify Mental damage equal to $13%$ of the maximum Mental value. Additionally, when Mental is 99% or higher, increase Skill Heart acquisition effects by $+519.5%$ for 9 times and reduce Mental by a fixed 33% of the maximum value; when Mental is 66% or higher, increase Voltage Gain effects by $+346.3%$ for 9 times and reduce Mental by a fixed 22% of the maximum value; when Mental is 33% or higher, shuffle the hand, increase Mental Recovery effects by $+173.2%$ for 9 times and reduce Mental by a fixed 11% of the maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$13%$的mental消耗。并且Mental在99%以上时，接下来9次获得技能心心时，其数量$+519.5%$，失去最大mental值的33%，Mental在66%以上时，接下来9次获得Vo Pt.效果$+346.3%$，失去最大mental值的22%，Mental在33%以上时，洗切手牌，接下来9次Mental回复效果$+173.2%$，失去最大mental值的11%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$13%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+519.5%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ラブアトラクト効果を$+346.3%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルプロテクト効果を$+173.2%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify Mental damage equal to $13%$ of the maximum Mental value. Additionally, when Mental is 99% or higher, increase Skill Heart acquisition effects by $+519.5%$ for 9 times and reduce Mental by a fixed 33% of the maximum value; when Mental is 66% or higher, increase Love Attract effects by $+346.3%$ for 9 times and reduce Mental by a fixed 22% of the maximum value; when Mental is 33% or higher, shuffle the hand, increase Mental Protect effects by $+173.2%$ for 9 times and reduce Mental by a fixed 11% of the maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$13%$的mental消耗。并且Mental在99%以上时，接下来9次获得技能心心时，其数量$+519.5%$，失去最大mental值的33%，Mental在66%以上时，接下来9次LOVE+效果$+346.3%$，失去最大mental值的22%，Mental在33%以上时，洗切手牌，接下来9次防止mental消耗效果$+173.2%$，失去最大mental值的11%。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -14014,6 +14118,32 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$14%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+559.4%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ボルテージゲイン効果を$+373%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルリカバー効果を$+186.5%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify Mental damage equal to $14%$ of the maximum Mental value. Additionally, when Mental is 99% or higher, increase Skill Heart acquisition effects by $+559.4%$ for 9 times and reduce Mental by a fixed 33% of the maximum value; when Mental is 66% or higher, increase Voltage Gain effects by $+373%$ for 9 times and reduce Mental by a fixed 22% of the maximum value; when Mental is 33% or higher, shuffle the hand, increase Mental Recovery effects by $+186.5%$ for 9 times and reduce Mental by a fixed 11% of the maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$14%$的mental消耗。并且Mental在99%以上时，接下来9次获得技能心心时，其数量$+559.4%$，失去最大mental值的33%，Mental在66%以上时，接下来9次获得Vo Pt.效果$+373%$，失去最大mental值的22%，Mental在33%以上时，洗切手牌，接下来9次Mental回复效果$+186.5%$，失去最大mental值的11%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$14%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+559.4%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ラブアトラクト効果を$+373%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルプロテクト効果を$+186.5%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify Mental damage equal to $14%$ of the maximum Mental value. Additionally, when Mental is 99% or higher, increase Skill Heart acquisition effects by $+559.4%$ for 9 times and reduce Mental by a fixed 33% of the maximum value; when Mental is 66% or higher, increase Love Attract effects by $+373%$ for 9 times and reduce Mental by a fixed 22% of the maximum value; when Mental is 33% or higher, shuffle the hand, increase Mental Protect effects by $+186.5%$ for 9 times and reduce Mental by a fixed 11% of the maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$14%$的mental消耗。并且Mental在99%以上时，接下来9次获得技能心心时，其数量$+559.4%$，失去最大mental值的33%，Mental在66%以上时，接下来9次LOVE+效果$+373%$，失去最大mental值的22%，Mental在33%以上时，洗切手牌，接下来9次防止mental消耗效果$+186.5%$，失去最大mental值的11%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$14.28%$分のメンタルダメージを無効にする。さらに、このステージ中、獲得するLOVEを$+6.7%$する。",
     "translation": {
       "zh-CN": {
@@ -14105,6 +14235,32 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$15%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+599.4%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ボルテージゲイン効果を$+399.6%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルリカバー効果を$+199.8%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify Mental damage equal to $15%$ of the maximum Mental value. Additionally, when Mental is 99% or higher, increase Skill Heart acquisition effects by $+599.4%$ for 9 times and reduce Mental by a fixed 33% of the maximum value; when Mental is 66% or higher, increase Voltage Gain effects by $+399.6%$ for 9 times and reduce Mental by a fixed 22% of the maximum value; when Mental is 33% or higher, shuffle the hand, increase Mental Recovery effects by $+199.8%$ for 9 times and reduce Mental by a fixed 11% of the maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$15%$的mental消耗。并且Mental在99%以上时，接下来9次获得技能心心时，其数量$+599.4%$，失去最大mental值的33%，Mental在66%以上时，接下来9次获得Vo Pt.效果$+399.6%$，失去最大mental值的22%，Mental在33%以上时，洗切手牌，接下来9次Mental回复效果$+199.8%$，失去最大mental值的11%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$15%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+599.4%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ラブアトラクト効果を$+399.6%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルプロテクト効果を$+199.8%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify Mental damage equal to $15%$ of the maximum Mental value. Additionally, when Mental is 99% or higher, increase Skill Heart acquisition effects by $+599.4%$ for 9 times and reduce Mental by a fixed 33% of the maximum value; when Mental is 66% or higher, increase Love Attract effects by $+399.6%$ for 9 times and reduce Mental by a fixed 22% of the maximum value; when Mental is 33% or higher, shuffle the hand, increase Mental Protect effects by $+199.8%$ for 9 times and reduce Mental by a fixed 11% of the maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$15%$的mental消耗。并且Mental在99%以上时，接下来9次获得技能心心时，其数量$+599.4%$，失去最大mental值的33%，Mental在66%以上时，接下来9次LOVE+效果$+399.6%$，失去最大mental值的22%，Mental在33%以上时，洗切手牌，接下来9次防止mental消耗效果$+199.8%$，失去最大mental值的11%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$15.12%$分のメンタルダメージを無効にする。さらにビートハート$14回分$のスキルハートを9回獲得する。",
     "translation": {
       "zh-CN": {
@@ -14165,6 +14321,32 @@
       },
       "en": {
         "text": "During this stage, nullify Mental damage equivalent to $16%$ of maximum Mental. Additionally, during this stage, increase LOVE gained by $+8%$.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$16%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+639.4%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ボルテージゲイン効果を$+426.2%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルリカバー効果を$+213.1%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify Mental damage equal to $16%$ of the maximum Mental value. Additionally, when Mental is 99% or higher, increase Skill Heart acquisition effects by $+639.4%$ for 9 times and reduce Mental by a fixed 33% of the maximum value; when Mental is 66% or higher, increase Voltage Gain effects by $+426.2%$ for 9 times and reduce Mental by a fixed 22% of the maximum value; when Mental is 33% or higher, shuffle the hand, increase Mental Recovery effects by $+213.1%$ for 9 times and reduce Mental by a fixed 11% of the maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$16%$的mental消耗。并且Mental在99%以上时，接下来9次获得技能心心时，其数量$+639.4%$，失去最大mental值的33%，Mental在66%以上时，接下来9次获得Vo Pt.效果$+426.2%$，失去最大mental值的22%，Mental在33%以上时，洗切手牌，接下来9次Mental回复效果$+213.1%$，失去最大mental值的11%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$16%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+639.4%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ラブアトラクト効果を$+426.2%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルプロテクト効果を$+213.1%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify Mental damage equal to $16%$ of the maximum Mental value. Additionally, when Mental is 99% or higher, increase Skill Heart acquisition effects by $+639.4%$ for 9 times and reduce Mental by a fixed 33% of the maximum value; when Mental is 66% or higher, increase Love Attract effects by $+426.2%$ for 9 times and reduce Mental by a fixed 22% of the maximum value; when Mental is 33% or higher, shuffle the hand, increase Mental Protect effects by $+213.1%$ for 9 times and reduce Mental by a fixed 11% of the maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$16%$的mental消耗。并且Mental在99%以上时，接下来9次获得技能心心时，其数量$+639.4%$，失去最大mental值的33%，Mental在66%以上时，接下来9次LOVE+效果$+426.2%$，失去最大mental值的22%，Mental在33%以上时，洗切手牌，接下来9次防止mental消耗效果$+213.1%$，失去最大mental值的11%。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -14235,6 +14417,32 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$17%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+679.3%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ボルテージゲイン効果を$+452.9%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルリカバー効果を$+226.4%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify Mental damage equal to $17%$ of the maximum Mental value. Additionally, when Mental is 99% or higher, increase Skill Heart acquisition effects by $+679.3%$ for 9 times and reduce Mental by a fixed 33% of the maximum value; when Mental is 66% or higher, increase Voltage Gain effects by $+452.9%$ for 9 times and reduce Mental by a fixed 22% of the maximum value; when Mental is 33% or higher, shuffle the hand, increase Mental Recovery effects by $+226.4%$ for 9 times and reduce Mental by a fixed 11% of the maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$17%$的mental消耗。并且Mental在99%以上时，接下来9次获得技能心心时，其数量$+679.3%$，失去最大mental值的33%，Mental在66%以上时，接下来9次获得Vo Pt.效果$+452.9%$，失去最大mental值的22%，Mental在33%以上时，洗切手牌，接下来9次Mental回复效果$+226.4%$，失去最大mental值的11%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$17%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+679.3%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ラブアトラクト効果を$+452.9%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルプロテクト効果を$+226.4%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify Mental damage equal to $17%$ of the maximum Mental value. Additionally, when Mental is 99% or higher, increase Skill Heart acquisition effects by $+679.3%$ for 9 times and reduce Mental by a fixed 33% of the maximum value; when Mental is 66% or higher, increase Love Attract effects by $+452.9%$ for 9 times and reduce Mental by a fixed 22% of the maximum value; when Mental is 33% or higher, shuffle the hand, increase Mental Protect effects by $+226.4%$ for 9 times and reduce Mental by a fixed 11% of the maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$17%$的mental消耗。并且Mental在99%以上时，接下来9次获得技能心心时，其数量$+679.3%$，失去最大mental值的33%，Mental在66%以上时，接下来9次LOVE+效果$+452.9%$，失去最大mental值的22%，Mental在33%以上时，洗切手牌，接下来9次防止mental消耗效果$+226.4%$，失去最大mental值的11%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$17.6%$分のメンタルダメージを無効にする。さらにこのステージ中、獲得するLOVEを$+8.8%$する。",
     "translation": {
       "zh-CN": {
@@ -14269,6 +14477,32 @@
       },
       "en": {
         "text": "During this stage, nullify Mental damage equivalent to $18%$ of maximum Mental. Additionally, when deck has 30 or more cards, recover 3 AP. When deck has 33 or more cards, gain Skill Hearts equivalent to $270$ beat hearts.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$18%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+719.3%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ボルテージゲイン効果を$+479.5%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルリカバー効果を$+239.8%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify Mental damage equal to $18%$ of the maximum Mental value. Additionally, when Mental is 99% or higher, increase Skill Heart acquisition effects by $+719.3%$ for 9 times and reduce Mental by a fixed 33% of the maximum value; when Mental is 66% or higher, increase Voltage Gain effects by $+479.5%$ for 9 times and reduce Mental by a fixed 22% of the maximum value; when Mental is 33% or higher, shuffle the hand, increase Mental Recovery effects by $+239.8%$ for 9 times and reduce Mental by a fixed 11% of the maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$18%$的mental消耗。并且Mental在99%以上时，接下来9次获得技能心心时，其数量$+719.3%$，失去最大mental值的33%，Mental在66%以上时，接下来9次获得Vo Pt.效果$+479.5%$，失去最大mental值的22%，Mental在33%以上时，洗切手牌，接下来9次Mental回复效果$+239.8%$，失去最大mental值的11%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$18%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+719.3%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ラブアトラクト効果を$+479.5%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルプロテクト効果を$+239.8%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify Mental damage equal to $18%$ of the maximum Mental value. Additionally, when Mental is 99% or higher, increase Skill Heart acquisition effects by $+719.3%$ for 9 times and reduce Mental by a fixed 33% of the maximum value; when Mental is 66% or higher, increase Love Attract effects by $+479.5%$ for 9 times and reduce Mental by a fixed 22% of the maximum value; when Mental is 33% or higher, shuffle the hand, increase Mental Protect effects by $+239.8%$ for 9 times and reduce Mental by a fixed 11% of the maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$18%$的mental消耗。并且Mental在99%以上时，接下来9次获得技能心心时，其数量$+719.3%$，失去最大mental值的33%，Mental在66%以上时，接下来9次LOVE+效果$+479.5%$，失去最大mental值的22%，Mental在33%以上时，洗切手牌，接下来9次防止mental消耗效果$+239.8%$，失去最大mental值的11%。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -14521,6 +14755,32 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$20%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+799.2%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ボルテージゲイン効果を$+532.8%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルリカバー効果を$+266.4%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify Mental damage equal to $20%$ of the maximum Mental value. Additionally, when Mental is 99% or higher, increase Skill Heart acquisition effects by $+799.2%$ for 9 times and reduce Mental by a fixed 33% of the maximum value; when Mental is 66% or higher, increase Voltage Gain effects by $+532.8%$ for 9 times and reduce Mental by a fixed 22% of the maximum value; when Mental is 33% or higher, shuffle the hand, increase Mental Recovery effects by $+266.4%$ for 9 times and reduce Mental by a fixed 11% of the maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$20%$的mental消耗。并且Mental在99%以上时，接下来9次获得技能心心时，其数量$+799.2%$，失去最大mental值的33%，Mental在66%以上时，接下来9次获得Vo Pt.效果$+532.8%$，失去最大mental值的22%，Mental在33%以上时，洗切手牌，接下来9次Mental回复效果$+266.4%$，失去最大mental值的11%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$20%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+799.2%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ラブアトラクト効果を$+532.8%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルプロテクト効果を$+266.4%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify Mental damage equal to $20%$ of the maximum Mental value. Additionally, when Mental is 99% or higher, increase Skill Heart acquisition effects by $+799.2%$ for 9 times and reduce Mental by a fixed 33% of the maximum value; when Mental is 66% or higher, increase Love Attract effects by $+532.8%$ for 9 times and reduce Mental by a fixed 22% of the maximum value; when Mental is 33% or higher, shuffle the hand, increase Mental Protect effects by $+266.4%$ for 9 times and reduce Mental by a fixed 11% of the maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$20%$的mental消耗。并且Mental在99%以上时，接下来9次获得技能心心时，其数量$+799.2%$，失去最大mental值的33%，Mental在66%以上时，接下来9次LOVE+效果$+532.8%$，失去最大mental值的22%，Mental在33%以上时，洗切手牌，接下来9次防止mental消耗效果$+266.4%$，失去最大mental值的11%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$20.4%$分のメンタルダメージを無効にする。さらにデッキ枚数が30枚以上のとき、APを3回復し、デッキ枚数が33枚以上のとき、ビートハート$306回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -14560,6 +14820,32 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$21%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+839.2%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ボルテージゲイン効果を$+559.4%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルリカバー効果を$+279.7%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify Mental damage equal to $21%$ of the maximum Mental value. Additionally, when Mental is 99% or higher, increase Skill Heart acquisition effects by $+839.2%$ for 9 times and reduce Mental by a fixed 33% of the maximum value; when Mental is 66% or higher, increase Voltage Gain effects by $+559.4%$ for 9 times and reduce Mental by a fixed 22% of the maximum value; when Mental is 33% or higher, shuffle the hand, increase Mental Recovery effects by $+279.7%$ for 9 times and reduce Mental by a fixed 11% of the maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$21%$的mental消耗。并且Mental在99%以上时，接下来9次获得技能心心时，其数量$+839.2%$，失去最大mental值的33%，Mental在66%以上时，接下来9次获得Vo Pt.效果$+559.4%$，失去最大mental值的22%，Mental在33%以上时，洗切手牌，接下来9次Mental回复效果$+279.7%$，失去最大mental值的11%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$21%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+839.2%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ラブアトラクト効果を$+559.4%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルプロテクト効果を$+279.7%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify Mental damage equal to $21%$ of the maximum Mental value. Additionally, when Mental is 99% or higher, increase Skill Heart acquisition effects by $+839.2%$ for 9 times and reduce Mental by a fixed 33% of the maximum value; when Mental is 66% or higher, increase Love Attract effects by $+559.4%$ for 9 times and reduce Mental by a fixed 22% of the maximum value; when Mental is 33% or higher, shuffle the hand, increase Mental Protect effects by $+279.7%$ for 9 times and reduce Mental by a fixed 11% of the maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$21%$的mental消耗。并且Mental在99%以上时，接下来9次获得技能心心时，其数量$+839.2%$，失去最大mental值的33%，Mental在66%以上时，接下来9次LOVE+效果$+559.4%$，失去最大mental值的22%，Mental在33%以上时，洗切手牌，接下来9次防止mental消耗效果$+279.7%$，失去最大mental值的11%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$21.6%$分のメンタルダメージを無効にする。さらにデッキ枚数が30枚以上のとき、APを3回復し、デッキ枚数が33枚以上のとき、ビートハート$324回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -14573,6 +14859,32 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$22%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+879.1%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ボルテージゲイン効果を$+586.1%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルリカバー効果を$+293%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify Mental damage equal to $22%$ of the maximum Mental value. Additionally, when Mental is 99% or higher, increase Skill Heart acquisition effects by $+879.1%$ for 9 times and reduce Mental by a fixed 33% of the maximum value; when Mental is 66% or higher, increase Voltage Gain effects by $+586.1%$ for 9 times and reduce Mental by a fixed 22% of the maximum value; when Mental is 33% or higher, shuffle the hand, increase Mental Recovery effects by $+293%$ for 9 times and reduce Mental by a fixed 11% of the maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$22%$的mental消耗。并且Mental在99%以上时，接下来9次获得技能心心时，其数量$+879.1%$，失去最大mental值的33%，Mental在66%以上时，接下来9次获得Vo Pt.效果$+586.1%$，失去最大mental值的22%，Mental在33%以上时，洗切手牌，接下来9次Mental回复效果$+293%$，失去最大mental值的11%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$22%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+879.1%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ラブアトラクト効果を$+586.1%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルプロテクト効果を$+293%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify Mental damage equal to $22%$ of the maximum Mental value. Additionally, when Mental is 99% or higher, increase Skill Heart acquisition effects by $+879.1%$ for 9 times and reduce Mental by a fixed 33% of the maximum value; when Mental is 66% or higher, increase Love Attract effects by $+586.1%$ for 9 times and reduce Mental by a fixed 22% of the maximum value; when Mental is 33% or higher, shuffle the hand, increase Mental Protect effects by $+293%$ for 9 times and reduce Mental by a fixed 11% of the maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$22%$的mental消耗。并且Mental在99%以上时，接下来9次获得技能心心时，其数量$+879.1%$，失去最大mental值的33%，Mental在66%以上时，接下来9次LOVE+效果$+586.1%$，失去最大mental值的22%，Mental在33%以上时，洗切手牌，接下来9次防止mental消耗效果$+293%$，失去最大mental值的11%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$22.4%$分のメンタルダメージを無効にする。",
     "translation": {
       "zh-CN": {
@@ -14581,6 +14893,32 @@
       },
       "en": {
         "text": "During this stage, negate Mental damage equal to $22.4%$ of max Mental.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$23%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+919.1%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ボルテージゲイン効果を$+612.7%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルリカバー効果を$+306.4%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullifies Mental damage equivalent to $23%$ of Mental's maximum value. Additionally, when Mental is 99% or above, increases Skill Heart acquisition effects by $+919.1%$ for 9 times and reduces Mental by a fixed 33% of maximum value; when Mental is 66% or above, increases Voltage Gain effects by $+612.7%$ for 9 times and reduces Mental by a fixed 22% of maximum value; when Mental is 33% or above, shuffles hand, increases Mental Recovery effects by $+306.4%$ for 9 times and reduces Mental by a fixed 11% of maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$23%$的mental消耗。并且Mental为99%以上时，接下来9次获得技能心心时，其数量$+919.1%$，失去最大mental值的33%，Mental为66%以上时，接下来9次获得Vo Pt.效果$+612.7%$，失去最大mental值的22%，Mental为33%以上时，洗牌手牌，接下来9次Mental回复效果$+306.4%$，失去最大mental值的11%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$23%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+919.1%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ラブアトラクト効果を$+612.7%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルプロテクト効果を$+306.4%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullifies Mental damage equivalent to $23%$ of Mental's maximum value. Additionally, when Mental is 99% or above, increases Skill Heart acquisition effects by $+919.1%$ for 9 times and reduces Mental by a fixed 33% of maximum value; when Mental is 66% or above, increases Love Attract effects by $+612.7%$ for 9 times and reduces Mental by a fixed 22% of maximum value; when Mental is 33% or above, shuffles hand, increases Mental Protect effects by $+306.4%$ for 9 times and reduces Mental by a fixed 11% of maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$23%$的mental消耗。并且Mental为99%以上时，接下来9次获得技能心心时，其数量$+919.1%$，失去最大mental值的33%，Mental为66%以上时，接下来9次LOVE+效果$+612.7%$，失去最大mental值的22%，Mental为33%以上时，洗牌手牌，接下来9次防止mental消耗效果$+306.4%$，失去最大mental值的11%。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -14607,6 +14945,32 @@
       },
       "en": {
         "text": "During this stage, negate Mental damage equal to $24%$ of max Mental. Also when deck has 30 or more cards, recover 3 AP, and when deck has 33 or more cards, gain Skill Hearts worth $360$ Beat Hearts.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$25%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+999%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ボルテージゲイン効果を$+666%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルリカバー効果を$+333%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullifies Mental damage equivalent to $25%$ of Mental's maximum value. Additionally, when Mental is 99% or above, increases Skill Heart acquisition effects by $+999%$ for 9 times and reduces Mental by a fixed 33% of maximum value; when Mental is 66% or above, increases Voltage Gain effects by $+666%$ for 9 times and reduces Mental by a fixed 22% of maximum value; when Mental is 33% or above, shuffles hand, increases Mental Recovery effects by $+333%$ for 9 times and reduces Mental by a fixed 11% of maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$25%$的mental消耗。并且Mental为99%以上时，接下来9次获得技能心心时，其数量$+999%$，失去最大mental值的33%，Mental为66%以上时，接下来9次获得Vo Pt.效果$+666%$，失去最大mental值的22%，Mental为33%以上时，洗牌手牌，接下来9次Mental回复效果$+333%$，失去最大mental值的11%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$25%$分のメンタルダメージを無効にする。さらにメンタルが99%以上のとき、9回の間スキルハート獲得効果による獲得数を$+999%$し、メンタルを最大値の33％固定で減少、メンタルが66％以上のとき、9回の間ラブアトラクト効果を$+666%$し、メンタルを最大値の22％固定で減少、メンタルが33%以上のとき、手札をシャッフル、9回の間メンタルプロテクト効果を$+333%$し、メンタルを最大値の11％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullifies Mental damage equivalent to $25%$ of Mental's maximum value. Additionally, when Mental is 99% or above, increases Skill Heart acquisition effects by $+999%$ for 9 times and reduces Mental by a fixed 33% of maximum value; when Mental is 66% or above, increases Love Attract effects by $+666%$ for 9 times and reduces Mental by a fixed 22% of maximum value; when Mental is 33% or above, shuffles hand, increases Mental Protect effects by $+333%$ for 9 times and reduces Mental by a fixed 11% of maximum value.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$25%$的mental消耗。并且Mental为99%以上时，接下来9次获得技能心心时，其数量$+999%$，失去最大mental值的33%，Mental为66%以上时，接下来9次LOVE+效果$+666%$，失去最大mental值的22%，Mental为33%以上时，洗牌手牌，接下来9次防止mental消耗效果$+333%$，失去最大mental值的11%。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -38722,6 +39086,370 @@
       },
       "en": {
         "text": "During this section, Mental becomes infinite. When Mental recovery effects or Mental protect effects are activated, gain Skill Hearts and recover 0~20 AP. The higher the effect value of the activated effect and Special Appeal Lv, the greater the effect value increase. The fewer deck cards than 18, the more the effect value decreases. Additionally, during this section, Skill Heart acquisition effects gain $+33%$ more.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+133.2%$、メンタルプロテクト効果を$+133.2%$し、このセクション中、AP回復速度を-9%する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increases Mental Recovery effects by $+133.2%$ and Mental Protect effects by $+133.2%$, and reduces AP recovery speed by -9%.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+133.2%$，防止mental消耗效果$+133.2%$，本小节中，AP回复速度-9%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+133.2%$、メンタルプロテクト効果を$+133.2%$し、このセクション中、手札の上限枚数を1枚減少する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increases Mental Recovery effects by $+133.2%$ and Mental Protect effects by $+133.2%$, and reduces hand size limit by 1 card.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+133.2%$，防止mental消耗效果$+133.2%$，本小节中，手牌上限-1。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+146.5%$、メンタルプロテクト効果を$+146.5%$し、このセクション中、AP回復速度を-9%する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increases Mental Recovery effects by $+146.5%$ and Mental Protect effects by $+146.5%$, and reduces AP recovery speed by -9%.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+146.5%$，防止mental消耗效果$+146.5%$，本小节中，AP回复速度-9%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+146.5%$、メンタルプロテクト効果を$+146.5%$し、このセクション中、手札の上限枚数を1枚減少する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increases Mental Recovery effects by $+146.5%$ and Mental Protect effects by $+146.5%$, and reduces hand size limit by 1 card.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+146.5%$，防止mental消耗效果$+146.5%$，本小节中，手牌上限-1。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+159.8%$、メンタルプロテクト効果を$+159.8%$し、このセクション中、AP回復速度を-9%する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increases Mental Recovery effects by $+159.8%$ and Mental Protect effects by $+159.8%$, and reduces AP recovery speed by -9%.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+159.8%$，防止mental消耗效果$+159.8%$，本小节中，AP回复速度-9%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+159.8%$、メンタルプロテクト効果を$+159.8%$し、このセクション中、手札の上限枚数を1枚減少する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increases Mental Recovery effects by $+159.8%$ and Mental Protect effects by $+159.8%$, and reduces hand size limit by 1 card.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+159.8%$，防止mental消耗效果$+159.8%$，本小节中，手牌上限-1。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+173.2%$、メンタルプロテクト効果を$+173.2%$し、このセクション中、AP回復速度を-9%する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increases Mental Recovery effects by $+173.2%$ and Mental Protect effects by $+173.2%$, and reduces AP recovery speed by -9%.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+173.2%$，防止mental消耗效果$+173.2%$，本小节中，AP回复速度-9%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+173.2%$、メンタルプロテクト効果を$+173.2%$し、このセクション中、手札の上限枚数を1枚減少する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increases Mental Recovery effects by $+173.2%$ and Mental Protect effects by $+173.2%$, and reduces hand size limit by 1 card.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+173.2%$，防止mental消耗效果$+173.2%$，本小节中，手牌上限-1。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+186.5%$、メンタルプロテクト効果を$+186.5%$し、このセクション中、AP回復速度を-9%する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increases Mental Recovery effects by $+186.5%$ and Mental Protect effects by $+186.5%$, and reduces AP recovery speed by -9%.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+186.5%$，防止mental消耗效果$+186.5%$，本小节中，AP回复速度-9%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+186.5%$、メンタルプロテクト効果を$+186.5%$し、このセクション中、手札の上限枚数を1枚減少する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increases Mental Recovery effects by $+186.5%$ and Mental Protect effects by $+186.5%$, and reduces hand size limit by 1 card.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+186.5%$，防止mental消耗效果$+186.5%$，本小节中，手牌上限-1。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+199.8%$、メンタルプロテクト効果を$+199.8%$し、このセクション中、AP回復速度を-9%する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increases Mental Recovery effects by $+199.8%$ and Mental Protect effects by $+199.8%$, and reduces AP recovery speed by -9%.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+199.8%$，防止mental消耗效果$+199.8%$，本小节中，AP回复速度-9%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+199.8%$、メンタルプロテクト効果を$+199.8%$し、このセクション中、手札の上限枚数を1枚減少する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increases Mental Recovery effects by $+199.8%$ and Mental Protect effects by $+199.8%$, and reduces hand size limit by 1 card.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+199.8%$，防止mental消耗效果$+199.8%$，本小节中，手牌上限-1。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+213.1%$、メンタルプロテクト効果を$+213.1%$し、このセクション中、AP回復速度を-9%する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increases Mental Recovery effects by $+213.1%$ and Mental Protect effects by $+213.1%$, and reduces AP recovery speed by -9%.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+213.1%$，防止mental消耗效果$+213.1%$，本小节中，AP回复速度-9%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+213.1%$、メンタルプロテクト効果を$+213.1%$し、このセクション中、手札の上限枚数を1枚減少する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increases Mental Recovery effects by $+213.1%$ and Mental Protect effects by $+213.1%$, and reduces hand size limit by 1 card.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+213.1%$，防止mental消耗效果$+213.1%$，本小节中，手牌上限-1。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+226.4%$、メンタルプロテクト効果を$+226.4%$し、このセクション中、AP回復速度を-9%する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increases Mental Recovery effects by $+226.4%$ and Mental Protect effects by $+226.4%$, and reduces AP recovery speed by -9%.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+226.4%$，防止mental消耗效果$+226.4%$，本小节中，AP回复速度-9%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+226.4%$、メンタルプロテクト効果を$+226.4%$し、このセクション中、手札の上限枚数を1枚減少する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increases Mental Recovery effects by $+226.4%$ and Mental Protect effects by $+226.4%$, and reduces hand size limit by 1 card.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+226.4%$，防止mental消耗效果$+226.4%$，本小节中，手牌上限-1。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+239.8%$、メンタルプロテクト効果を$+239.8%$し、このセクション中、AP回復速度を-9%する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increases Mental Recovery effects by $+239.8%$ and Mental Protect effects by $+239.8%$, and reduces AP recovery speed by -9%.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+239.8%$，防止mental消耗效果$+239.8%$，本小节中，AP回复速度-9%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+239.8%$、メンタルプロテクト効果を$+239.8%$し、このセクション中、手札の上限枚数を1枚減少する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increases Mental Recovery effects by $+239.8%$ and Mental Protect effects by $+239.8%$, and reduces hand size limit by 1 card.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+239.8%$，防止mental消耗效果$+239.8%$，本小节中，手牌上限-1。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+266.4%$、メンタルプロテクト効果を$+266.4%$し、このセクション中、AP回復速度を-9%する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increases Mental Recovery effects by $+266.4%$ and Mental Protect effects by $+266.4%$, and reduces AP recovery speed by -9%.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+266.4%$，防止mental消耗效果$+266.4%$，本小节中，AP回复速度-9%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+266.4%$、メンタルプロテクト効果を$+266.4%$し、このセクション中、手札の上限枚数を1枚減少する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increases Mental Recovery effects by $+266.4%$ and Mental Protect effects by $+266.4%$, and reduces hand size limit by 1 card.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+266.4%$，防止mental消耗效果$+266.4%$，本小节中，手牌上限-1。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+279.7%$、メンタルプロテクト効果を$+279.7%$し、このセクション中、AP回復速度を-9%する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mental recovery effects by $+279.7%$ and Mental protect effects by $+279.7%$, and decrease AP recovery speed by -9% during this section.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+279.7%$，防止mental消耗效果$+279.7%$，本小节中，AP回复速度-9%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+279.7%$、メンタルプロテクト効果を$+279.7%$し、このセクション中、手札の上限枚数を1枚減少する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mental recovery effects by $+279.7%$ and Mental protect effects by $+279.7%$, and reduce the maximum number of cards in hand by 1 during this section.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+279.7%$，防止mental消耗效果$+279.7%$，本小节中，手牌上限-1。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+293%$、メンタルプロテクト効果を$+293%$し、このセクション中、AP回復速度を-9%する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mental recovery effects by $+293%$ and Mental protect effects by $+293%$, and decrease AP recovery speed by -9% during this section.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+293%$，防止mental消耗效果$+293%$，本小节中，AP回复速度-9%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+293%$、メンタルプロテクト効果を$+293%$し、このセクション中、手札の上限枚数を1枚減少する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mental recovery effects by $+293%$ and Mental protect effects by $+293%$, and reduce the maximum number of cards in hand by 1 during this section.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+293%$，防止mental消耗效果$+293%$，本小节中，手牌上限-1。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+306.4%$、メンタルプロテクト効果を$+306.4%$し、このセクション中、AP回復速度を-9%する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mental recovery effects by $+306.4%$ and Mental protect effects by $+306.4%$, and decrease AP recovery speed by -9% during this section.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+306.4%$，防止mental消耗效果$+306.4%$，本小节中，AP回复速度-9%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+306.4%$、メンタルプロテクト効果を$+306.4%$し、このセクション中、手札の上限枚数を1枚減少する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mental recovery effects by $+306.4%$ and Mental protect effects by $+306.4%$, and reduce the maximum number of cards in hand by 1 during this section.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+306.4%$，防止mental消耗效果$+306.4%$，本小节中，手牌上限-1。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+333%$、メンタルプロテクト効果を$+333%$し、このセクション中、AP回復速度を-9%する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mental recovery effects by $+333%$ and Mental protect effects by $+333%$, and decrease AP recovery speed by -9% during this section.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+333%$，防止mental消耗效果$+333%$，本小节中，AP回复速度-9%。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルリカバー効果を$+333%$、メンタルプロテクト効果を$+333%$し、このセクション中、手札の上限枚数を1枚減少する。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mental recovery effects by $+333%$ and Mental protect effects by $+333%$, and reduce the maximum number of cards in hand by 1 during this section.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental回复效果$+333%$，防止mental消耗效果$+333%$，本小节中，手牌上限-1。",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -72202,6 +72930,253 @@
     }
   },
   {
+    "raw": "フィーバーを除く1セクション目でドローされる確率が大幅に増加し、それ以外のセクションのときドローされない。さらにフィーバーを除く1セクション目でドローした時、4回の間ハート上限増加効果を+40%し、ムードがハッピー、メロウいずれかのとき、このセクション中、ムード値を+44する。",
+    "translation": {
+      "en": {
+        "text": "Greatly increases the probability of being drawn in the 1st section excluding fever, and will not be drawn in other sections. Furthermore, when drawn in the 1st section excluding fever, increase heart limit increase effects by +40% for 4 times, and when mood is either Happy or Mellow, increase mood value by +44 during this section.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "在除FEVER小节的第1小节中抽到的概率大幅提升，在其它小节中时不会被抽到。并且在除FEVER小节的第1小节中抽到时，接下来4次心心上限增加效果+40%，气氛在Happy、Mellow其中之一时，本小节中，气氛值+44。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "フィーバーを除く1セクション目のとき、カードがステージにセットされ、ハート上限増加効果を吸収する。ハート上限増加効果を400個分吸収したとき、このステージ中、ハート上限を$+1024$し、捨札に移動する。それ以外のセクションのとき、カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、デッキ内のセラスのスキルの消費APを-4し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "During the 1st section excluding fever, the card is set on the stage and absorbs heart limit increase effects. When 400 heart limit increase effects are absorbed, increase heart limit by $+1024$ during this stage and move to discard pile. During other sections, the card is set on the stage and absorbs AP recovery effects. When 4 AP recovery effects are absorbed, reduce Ceras's skill AP consumption in the deck by -4 and move to discard pile.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "在除FEVER小节的第1小节中时，将卡牌放置在场上，吸收心心上限增加效果。吸收400个心心上限增加效果时，本场Live中，心心上限$+1024$，移动至弃牌堆。在其它小节中时，将卡牌放置在场上，吸收AP回复效果。吸收4个AP回复效果时，卡组中塞拉斯的技能消费AP-4，移动至弃牌堆。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "フィーバーを除く1セクション目のとき、カードがステージにセットされ、ハート上限増加効果を吸収する。ハート上限増加効果を400個分吸収したとき、このステージ中、ハート上限を$+1088$し、捨札に移動する。それ以外のセクションのとき、カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、デッキ内のセラスのスキルの消費APを-4し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "During the 1st section excluding fever, the card is set on the stage and absorbs heart limit increase effects. When 400 heart limit increase effects are absorbed, increase heart limit by $+1088$ during this stage and move to discard pile. During other sections, the card is set on the stage and absorbs AP recovery effects. When 4 AP recovery effects are absorbed, reduce Ceras's skill AP consumption in the deck by -4 and move to discard pile.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "在除FEVER小节的第1小节中时，将卡牌放置在场上，吸收心心上限增加效果。吸收400个心心上限增加效果时，本场Live中，心心上限$+1088$，移动至弃牌堆。在其它小节中时，将卡牌放置在场上，吸收AP回复效果。吸收4个AP回复效果时，卡组中塞拉斯的技能消费AP-4，移动至弃牌堆。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "フィーバーを除く1セクション目のとき、カードがステージにセットされ、ハート上限増加効果を吸収する。ハート上限増加効果を400個分吸収したとき、このステージ中、ハート上限を$+1152$し、捨札に移動する。それ以外のセクションのとき、カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、デッキ内のセラスのスキルの消費APを-4し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "During the 1st section excluding fever, the card is set on the stage and absorbs heart limit increase effects. When 400 heart limit increase effects are absorbed, increase heart limit by $+1152$ during this stage and move to discard pile. During other sections, the card is set on the stage and absorbs AP recovery effects. When 4 AP recovery effects are absorbed, reduce Ceras's skill AP consumption in the deck by -4 and move to discard pile.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "在除FEVER小节的第1小节中时，将卡牌放置在场上，吸收心心上限增加效果。吸收400个心心上限增加效果时，本场Live中，心心上限$+1152$，移动至弃牌堆。在其它小节中时，将卡牌放置在场上，吸收AP回复效果。吸收4个AP回复效果时，卡组中塞拉斯的技能消费AP-4，移动至弃牌堆。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "フィーバーを除く1セクション目のとき、カードがステージにセットされ、ハート上限増加効果を吸収する。ハート上限増加効果を400個分吸収したとき、このステージ中、ハート上限を$+1280$し、捨札に移動する。それ以外のセクションのとき、カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、デッキ内のセラスのスキルの消費APを-4し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "During the 1st section excluding fever, the card is set on the stage and absorbs heart limit increase effects. When 400 heart limit increase effects are absorbed, increase heart limit by $+1280$ during this stage and move to discard pile. During other sections, the card is set on the stage and absorbs AP recovery effects. When 4 AP recovery effects are absorbed, reduce Ceras's skill AP consumption in the deck by -4 and move to discard pile.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "在除FEVER小节的第1小节中时，将卡牌放置在场上，吸收心心上限增加效果。吸收400个心心上限增加效果时，本场Live中，心心上限$+1280$，移动至弃牌堆。在其它小节中时，将卡牌放置在场上，吸收AP回复效果。吸收4个AP回复效果时，卡组中塞拉斯的技能消费AP-4，移动至弃牌堆。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "フィーバーを除く1セクション目のとき、カードがステージにセットされ、ハート上限増加効果を吸収する。ハート上限増加効果を400個分吸収したとき、このステージ中、ハート上限を$+1344$し、捨札に移動する。それ以外のセクションのとき、カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、デッキ内のセラスのスキルの消費APを-4し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "During the 1st section excluding fever, the card is set on the stage and absorbs heart limit increase effects. When 400 heart limit increase effects are absorbed, increase heart limit by $+1344$ during this stage and move to discard pile. During other sections, the card is set on the stage and absorbs AP recovery effects. When 4 AP recovery effects are absorbed, reduce Ceras's skill AP consumption in the deck by -4 and move to discard pile.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "在除FEVER小节的第1小节中时，将卡牌放置在场上，吸收心心上限增加效果。吸收400个心心上限增加效果时，本场Live中，心心上限$+1344$，移动至弃牌堆。在其它小节中时，将卡牌放置在场上，吸收AP回复效果。吸收4个AP回复效果时，卡组中塞拉斯的技能消费AP-4，移动至弃牌堆。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "フィーバーを除く1セクション目のとき、カードがステージにセットされ、ハート上限増加効果を吸収する。ハート上限増加効果を400個分吸収したとき、このステージ中、ハート上限を$+1408$し、捨札に移動する。それ以外のセクションのとき、カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、デッキ内のセラスのスキルの消費APを-4し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "During the 1st section excluding fever, the card is set on the stage and absorbs heart limit increase effects. When 400 heart limit increase effects are absorbed, increase heart limit by $+1408$ during this stage and move to discard pile. During other sections, the card is set on the stage and absorbs AP recovery effects. When 4 AP recovery effects are absorbed, reduce Ceras's skill AP consumption in the deck by -4 and move to discard pile.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "在除FEVER小节的第1小节中时，将卡牌放置在场上，吸收心心上限增加效果。吸收400个心心上限增加效果时，本场Live中，心心上限$+1408$，移动至弃牌堆。在其它小节中时，将卡牌放置在场上，吸收AP回复效果。吸收4个AP回复效果时，卡组中塞拉斯的技能消费AP-4，移动至弃牌堆。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "フィーバーを除く1セクション目のとき、カードがステージにセットされ、ハート上限増加効果を吸収する。ハート上限増加効果を400個分吸収したとき、このステージ中、ハート上限を$+1472$し、捨札に移動する。それ以外のセクションのとき、カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、デッキ内のセラスのスキルの消費APを-4し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "During the 1st section excluding fever, the card is set on the stage and absorbs heart limit increase effects. When 400 heart limit increase effects are absorbed, increase heart limit by $+1472$ during this stage and move to discard pile. During other sections, the card is set on the stage and absorbs AP recovery effects. When 4 AP recovery effects are absorbed, reduce Ceras's skill AP consumption in the deck by -4 and move to discard pile.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "在除FEVER小节的第1小节中时，将卡牌放置在场上，吸收心心上限增加效果。吸收400个心心上限增加效果时，本场Live中，心心上限$+1472$，移动至弃牌堆。在其它小节中时，将卡牌放置在场上，吸收AP回复效果。吸收4个AP回复效果时，卡组中塞拉斯的技能消费AP-4，移动至弃牌堆。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "フィーバーを除く1セクション目のとき、カードがステージにセットされ、ハート上限増加効果を吸収する。ハート上限増加効果を400個分吸収したとき、このステージ中、ハート上限を$+1600$し、捨札に移動する。それ以外のセクションのとき、カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、デッキ内のセラスのスキルの消費APを-4し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "During the 1st section excluding fever, the card is set on the stage and absorbs heart limit increase effects. When 400 heart limit increase effects are absorbed, increase heart limit by $+1600$ during this stage and move to discard pile. During other sections, the card is set on the stage and absorbs AP recovery effects. When 4 AP recovery effects are absorbed, reduce Ceras's skill AP consumption in the deck by -4 and move to discard pile.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "在除FEVER小节的第1小节中时，将卡牌放置在场上，吸收心心上限增加效果。吸收400个心心上限增加效果时，本场Live中，心心上限$+1600$，移动至弃牌堆。在其它小节中时，将卡牌放置在场上，吸收AP回复效果。吸收4个AP回复效果时，卡组中塞拉斯的技能消费AP-4，移动至弃牌堆。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "フィーバーを除く1セクション目のとき、カードがステージにセットされ、ハート上限増加効果を吸収する。ハート上限増加効果を400個分吸収したとき、このステージ中、ハート上限を$+640$し、捨札に移動する。それ以外のセクションのとき、カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、デッキ内のセラスのスキルの消費APを-4し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "During the 1st section excluding fever, the card is set on the stage and absorbs heart limit increase effects. When 400 heart limit increase effects are absorbed, increase heart limit by $+640$ during this stage and move to discard pile. During other sections, the card is set on the stage and absorbs AP recovery effects. When 4 AP recovery effects are absorbed, reduce Ceras's skill AP consumption in the deck by -4 and move to discard pile.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "在除FEVER小节的第1小节中时，将卡牌放置在场上，吸收心心上限增加效果。吸收400个心心上限增加效果时，本场Live中，心心上限$+640$，移动至弃牌堆。在其它小节中时，将卡牌放置在场上，吸收AP回复效果。吸收4个AP回复效果时，卡组中塞拉斯的技能消费AP-4，移动至弃牌堆。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "フィーバーを除く1セクション目のとき、カードがステージにセットされ、ハート上限増加効果を吸収する。ハート上限増加効果を400個分吸収したとき、このステージ中、ハート上限を$+704$し、捨札に移動する。それ以外のセクションのとき、カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、デッキ内のセラスのスキルの消費APを-4し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "During the 1st section excluding fever, the card is set on the stage and absorbs heart limit increase effects. When 400 heart limit increase effects are absorbed, increase heart limit by $+704$ during this stage and move to discard pile. During other sections, the card is set on the stage and absorbs AP recovery effects. When 4 AP recovery effects are absorbed, reduce Ceras's skill AP consumption in the deck by -4 and move to discard pile.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "在除FEVER小节的第1小节中时，将卡牌放置在场上，吸收心心上限增加效果。吸收400个心心上限增加效果时，本场Live中，心心上限$+704$，移动至弃牌堆。在其它小节中时，将卡牌放置在场上，吸收AP回复效果。吸收4个AP回复效果时，卡组中塞拉斯的技能消费AP-4，移动至弃牌堆。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "フィーバーを除く1セクション目のとき、カードがステージにセットされ、ハート上限増加効果を吸収する。ハート上限増加効果を400個分吸収したとき、このステージ中、ハート上限を$+768$し、捨札に移動する。それ以外のセクションのとき、カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、デッキ内のセラスのスキルの消費APを-4し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "During the 1st section excluding fever, the card is set on the stage and absorbs heart limit increase effects. When 400 heart limit increase effects are absorbed, increase heart limit by $+768$ during this stage and move to discard pile. During other sections, the card is set on the stage and absorbs AP recovery effects. When 4 AP recovery effects are absorbed, reduce Ceras's skill AP consumption in the deck by -4 and move to discard pile.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "在除FEVER小节的第1小节中时，将卡牌放置在场上，吸收心心上限增加效果。吸收400个心心上限增加效果时，本场Live中，心心上限$+768$，移动至弃牌堆。在其它小节中时，将卡牌放置在场上，吸收AP回复效果。吸收4个AP回复效果时，卡组中塞拉斯的技能消费AP-4，移动至弃牌堆。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "フィーバーを除く1セクション目のとき、カードがステージにセットされ、ハート上限増加効果を吸収する。ハート上限増加効果を400個分吸収したとき、このステージ中、ハート上限を$+832$し、捨札に移動する。それ以外のセクションのとき、カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、デッキ内のセラスのスキルの消費APを-4し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "During the 1st section excluding fever, the card is set on the stage and absorbs heart limit increase effects. When 400 heart limit increase effects are absorbed, increase heart limit by $+832$ during this stage and move to discard pile. During other sections, the card is set on the stage and absorbs AP recovery effects. When 4 AP recovery effects are absorbed, reduce Ceras's skill AP consumption in the deck by -4 and move to discard pile.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "在除FEVER小节的第1小节中时，将卡牌放置在场上，吸收心心上限增加效果。吸收400个心心上限增加效果时，本场Live中，心心上限$+832$，移动至弃牌堆。在其它小节中时，将卡牌放置在场上，吸收AP回复效果。吸收4个AP回复效果时，卡组中塞拉斯的技能消费AP-4，移动至弃牌堆。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "フィーバーを除く1セクション目のとき、カードがステージにセットされ、ハート上限増加効果を吸収する。ハート上限増加効果を400個分吸収したとき、このステージ中、ハート上限を$+896$し、捨札に移動する。それ以外のセクションのとき、カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、デッキ内のセラスのスキルの消費APを-4し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "During the 1st section excluding fever, the card is set on the stage and absorbs heart limit increase effects. When 400 heart limit increase effects are absorbed, increase heart limit by $+896$ during this stage and move to discard pile. During other sections, the card is set on the stage and absorbs AP recovery effects. When 4 AP recovery effects are absorbed, reduce Ceras's skill AP consumption in the deck by -4 and move to discard pile.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "在除FEVER小节的第1小节中时，将卡牌放置在场上，吸收心心上限增加效果。吸收400个心心上限增加效果时，本场Live中，心心上限$+896$，移动至弃牌堆。在其它小节中时，将卡牌放置在场上，吸收AP回复效果。吸收4个AP回复效果时，卡组中塞拉斯的技能消费AP-4，移动至弃牌堆。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "フィーバーを除く1セクション目のとき、カードがステージにセットされ、ハート上限増加効果を吸収する。ハート上限増加効果を400個分吸収したとき、このステージ中、ハート上限を$+960$し、捨札に移動する。それ以外のセクションのとき、カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、デッキ内のセラスのスキルの消費APを-4し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "During the 1st section excluding fever, the card is set on the stage and absorbs heart limit increase effects. When 400 heart limit increase effects are absorbed, increase heart limit by $+960$ during this stage and move to discard pile. During other sections, the card is set on the stage and absorbs AP recovery effects. When 4 AP recovery effects are absorbed, reduce Ceras's skill AP consumption in the deck by -4 and move to discard pile.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "在除FEVER小节的第1小节中时，将卡牌放置在场上，吸收心心上限增加效果。吸收400个心心上限增加效果时，本场Live中，心心上限$+960$，移动至弃牌堆。在其它小节中时，将卡牌放置在场上，吸收AP回复效果。吸收4个AP回复效果时，卡组中塞拉斯的技能消费AP-4，移动至弃牌堆。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "フィーバーを除く1セクション目のとき、手札を山札リセットシャッフルし、このセクション中、手札の上限枚数を4枚増加、APを$1$回復する。",
+    "translation": {
+      "en": {
+        "text": "During the 1st section excluding fever, shuffle the hand with deck reset, increase the maximum number of cards in hand by 4 and recover $1$ AP during this section.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "在除FEVER小节的第1小节中时，弃置所有手牌，将弃牌区的所有卡牌洗入牌库，然后抽取等量的卡牌，本小节中，手牌上限+4，AP回复$1$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "フィーバーを除く1セクション目のとき、手札を山札リセットシャッフルし、このセクション中、手札の上限枚数を4枚増加、APを$2$回復する。",
+    "translation": {
+      "en": {
+        "text": "During the 1st section excluding Fever, reset shuffle your hand into the deck, increase hand size limit by 4 cards during this section, and recover $2$ AP.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "在除FEVER小节的第1小节中时，弃置所有手牌，将弃牌区的所有卡牌洗入牌库，然后抽取和弃置数量等量的卡牌，本小节中，手牌上限+4，AP回复$2$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "フィーバーを除く1セクション目のとき、手札を山札リセットシャッフルし、このセクション中、手札の上限枚数を4枚増加、APを$3$回復する。",
+    "translation": {
+      "en": {
+        "text": "During the 1st section excluding Fever, reset shuffle your hand into the deck, increase hand size limit by 4 cards during this section, and recover $3$ AP.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "在除FEVER小节的第1小节中时，弃置所有手牌，将弃牌区的所有卡牌洗入牌库，然后抽取和弃置数量等量的卡牌，本小节中，手牌上限+4，AP回复$3$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "フィーバーを除く1セクション目のとき、手札を山札リセットシャッフルし、このセクション中、手札の上限枚数を4枚増加、APを$4$回復する。",
+    "translation": {
+      "en": {
+        "text": "During the 1st section excluding Fever, reset shuffle your hand into the deck, increase hand size limit by 4 cards during this section, and recover $4$ AP.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "在除FEVER小节的第1小节中时，弃置所有手牌，将弃牌区的所有卡牌洗入牌库，然后抽取和弃置数量等量的卡牌，本小节中，手牌上限+4，AP回复$4$。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "フィーバーを除く2〜3セクション目でドローされる確率が大幅に増加し、それ以外のセクションのときドローされない。さらにフィーバーを除く2〜3セクション目でドローした時、ビートハート5回分のスキルハートを獲得、このセクション中、AP回復速度を+22%し、フィーバーを除く2〜3セクション目で手札にある状態でハートを550個回収したとき、ビートハート72回分のスキルハートを獲得、次に使用するボルテージゲイン効果を+55%する。",
     "translation": {
       "zh-CN": {
@@ -87997,6 +88972,45 @@
     }
   },
   {
+    "raw": "メンタル100%以上で手札にある間、このスキルの消費APを-6し、AP回復速度を+40%する。さらにメンタル99%以下でこのスキルを使用したとき、QQボックスカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "While in hand with Mental at 100% or above, reduce this skill's AP cost by 6 and increase AP recovery speed by +40%. Additionally, when using this skill with Mental at 99% or below, add 1 type of QQ Box card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Mental在100%以上时在手牌中时，此技能消费AP-6，AP回复速度+40%。并且Mental在99%以下使用此技能时，将1个种类的（共计1张）QQ Box Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタル100%以上で手札にある間、このスキルの消費APを-6し、手札の上限枚数を4枚増加する。さらにメンタル99%以下でこのスキルを使用したとき、QQボックスカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "While in hand with Mental at 100% or above, reduce this skill's AP cost by 6 and increase hand size limit by 4 cards. Additionally, when using this skill with Mental at 99% or below, add 1 type of QQ Box card (1 card total) to the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Mental在100%以上时在手牌中时，此技能消费AP-6，手牌上限+4。并且Mental在99%以下使用此技能时，将1个种类的（共计1张）QQ Box Card加入牌库。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタル99%以下で手札にある間、このスキルの消費APを-8する。さらにこのスキルを使用すると、デッキから除外される。",
+    "translation": {
+      "en": {
+        "text": "While in hand with Mental at 99% or below, reduce this skill's AP cost by 8. Additionally, when this skill is used, it is removed from the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "Mental在99%以下时在手牌中时，此技能消费AP-8。并且使用此技能后，从卡组中移除。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "メンタルが100%以上のとき、ビートハート$1020回分$のスキルハートを獲得、このセクション中、獲得するLOVEを$+10200%$、AP回復速度を$+10.2%$、ボルテージPt.を$+102$する。さらにメンタルを最大値の99％減少させ、手札の全てのスキルの消費AP$-3$。",
     "translation": {
       "zh-CN": {
@@ -89695,6 +90709,19 @@
       },
       "en": {
         "text": "Recover Mental by $10.92%$ of maximum value. Additionally, gain $+11$ Voltage Pt.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$100%$回復させ、このステージ中、メンタルの最大値の$100%$分のメンタルダメージを無効にする。さらに手札を山札リセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Recover Mental to $100%$ of its maximum value, and during this stage, nullify Mental damage equal to $100%$ of Mental's maximum value. Additionally, reset shuffle your hand into the deck.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$100%$，本场Live中，防止最大mental值的$100%$的mental消耗。并且弃置所有手牌，将弃牌区的所有卡牌洗入牌库，然后抽取和弃置数量等量的卡牌。",
         "author": "claude-sonnet-4-20250514"
       }
     }

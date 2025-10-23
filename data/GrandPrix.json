@@ -221,6 +221,19 @@
     }
   },
   {
+    "raw": "105期3rdTerm 第2回 サークル対抗戦",
+    "translation": {
+      "en": {
+        "text": "Class 105 3rd Term 2nd Circle Competition",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "105期3rdTerm 第2回 社团对抗战",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "105期OpeningTerm サークル対抗戦",
     "translation": {
       "zh-CN": {

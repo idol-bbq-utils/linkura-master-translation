@@ -4732,6 +4732,292 @@
     }
   },
   {
+    "raw": "105期3rdTerm 第2回 サークル対抗戦 1001位～1500位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "Prize for ranks 1001-1500 in the 105th Term 3rd Term 2nd Circle Competition.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "105期3rdTerm 第2回 社团对抗战 1001位～1500位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "105期3rdTerm 第2回 サークル対抗戦 101位～200位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "Prize for ranks 101-200 in the 105th Term 3rd Term 2nd Circle Competition.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "105期3rdTerm 第2回 社团对抗战 101位～200位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "105期3rdTerm 第2回 サークル対抗戦 10位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "Prize for 10th place in the 105th Term 3rd Term 2nd Circle Competition.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "105期3rdTerm 第2回 社团对抗战 第10位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "105期3rdTerm 第2回 サークル対抗戦 11位～30位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "Prize for ranks 11-30 in the 105th Term 3rd Term 2nd Circle Competition.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "105期3rdTerm 第2回 社团对抗战 11位～30位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "105期3rdTerm 第2回 サークル対抗戦 1501位～2000位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "Prize for ranks 1501-2000 in the 105th Term 3rd Term 2nd Circle Competition.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "105期3rdTerm 第2回 社团对抗战 1501位～2000位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "105期3rdTerm 第2回 サークル対抗戦 1501位～5000位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "Prize for ranks 1501-5000 in the 105th Term 3rd Term 2nd Circle Competition.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "105期3rdTerm 第2回 社团对抗战 1501位～5000位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "105期3rdTerm 第2回 サークル対抗戦 1位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "Prize for 1st place in the 105th Term 3rd Term 2nd Circle Competition.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "105期3rdTerm 第2回 社团对抗战 第1位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "105期3rdTerm 第2回 サークル対抗戦 1位～10位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "Prize for ranks 1-10 in the 105th Term 3rd Term 2nd Circle Competition.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "105期3rdTerm 第2回 社团对抗战 1位～10位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "105期3rdTerm 第2回 サークル対抗戦 2001位～のプライズです。",
+    "translation": {
+      "en": {
+        "text": "Prize for ranks 2001 and below in the 105th Term 3rd Term 2nd Circle Competition.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "105期3rdTerm 第2回 社团对抗战 2001位～的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "105期3rdTerm 第2回 サークル対抗戦 201位～300位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "Prize for ranks 201-300 in the 105th Term 3rd Term 2nd Circle Competition.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "105期3rdTerm 第2回 社团对抗战 201位～300位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "105期3rdTerm 第2回 サークル対抗戦 2位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "Prize for 2nd place in the 105th Term 3rd Term 2nd Circle Competition.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "105期3rdTerm 第2回 社团对抗战 第2位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "105期3rdTerm 第2回 サークル対抗戦 301位～500位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "Prize for ranks 301-500 in the 105th Term 3rd Term 2nd Circle Competition.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "105期3rdTerm 第2回 社团对抗战 301位～500位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "105期3rdTerm 第2回 サークル対抗戦 31位～100位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "Prize for ranks 31-100 in the 105th Term 3rd Term 2nd Circle Competition.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "105期3rdTerm 第2回 社团对抗战 31位～100位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "105期3rdTerm 第2回 サークル対抗戦 3位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "Prize for 3rd place in the 105th Term 3rd Term 2nd Circle Competition.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "105期3rdTerm 第2回 社团对抗战 第3位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "105期3rdTerm 第2回 サークル対抗戦 4位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "Prize for 4th place in the 105th Term 3rd Term 2nd Circle Competition.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "105期3rdTerm 第2回 社团对抗战 第4位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "105期3rdTerm 第2回 サークル対抗戦 5001位～のプライズです。",
+    "translation": {
+      "en": {
+        "text": "Prize for ranks 5001 and below in the 105th Term 3rd Term 2nd Circle Competition.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "105期3rdTerm 第2回 社团对抗战 5001位～的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "105期3rdTerm 第2回 サークル対抗戦 501位～1000位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "Prize for ranks 501-1000 in the 105th Term 3rd Term 2nd Circle Competition.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "105期3rdTerm 第2回 社团对抗战 501位～1000位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "105期3rdTerm 第2回 サークル対抗戦 5位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "Prize for 5th place in the 105th Term 3rd Term 2nd Circle Competition.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "105期3rdTerm 第2回 社团对抗战 第5位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "105期3rdTerm 第2回 サークル対抗戦 6位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "Prize for 6th place in the 105th Term 3rd Term 2nd Circle Competition.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "105期3rdTerm 第2回 社团对抗战 第6位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "105期3rdTerm 第2回 サークル対抗戦 7位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "Prize for 7th place in the 105th Term 3rd Term 2nd Circle Competition.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "105期3rdTerm 第2回 社团对抗战 第7位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "105期3rdTerm 第2回 サークル対抗戦 8位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "Prize for 8th place in the 105th Term 3rd Term 2nd Circle Competition.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "105期3rdTerm 第2回 社团对抗战 第8位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "105期3rdTerm 第2回 サークル対抗戦 9位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "Prize for 9th place in the 105th Term 3rd Term 2nd Circle Competition.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "zh-CN": {
+        "text": "105期3rdTerm 第2回 社团对抗战 第9位的奖励。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
     "raw": "105期OpeningTerm サークル対抗戦 1001位～1500位のプライズです。",
     "translation": {
       "zh-CN": {

@@ -1157,6 +1157,19 @@
     }
   },
   {
+    "raw": "『バイタルサイン』",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "『パラレルダンサー』",
     "translation": {
       "zh-CN": {
@@ -2789,6 +2802,19 @@
         "author": ""
       },
       "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "バイタルサイン",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
         "text": "",
         "author": ""
       }
