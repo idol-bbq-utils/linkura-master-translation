@@ -52,6 +52,32 @@
     }
   },
   {
+    "raw": "105期 Special Term/Road to Bloom",
+    "translation": {
+      "en": {
+        "text": "105th Term Special Term/Road to Bloom",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "105期 Special Term/Road to Bloom",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "105期 Special Term/Road to BloomではTerm Grade Pt.は集計されません",
+    "translation": {
+      "en": {
+        "text": "Term Grade Pt. will not be counted in the 105th Term Special Term/Road to Bloom",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "105期 Special Term/Road to Bloom中不会累计Term Grade Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "105期 Special TermではTerm Grade Pt.は集計されません",
     "translation": {
       "zh-CN": {

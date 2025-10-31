@@ -14742,6 +14742,58 @@
     }
   },
   {
+    "raw": "「ハロウィンフェア♪Trick ＆ Cute♡DOLLCHESTRAパック」を購入して獲得したアイテムです。",
+    "translation": {
+      "en": {
+        "text": "This item was obtained by purchasing the \"Halloween Fair♪Trick & Cute♡DOLLCHESTRA Pack\".",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "购买「万圣节活动♪Trick ＆ Cute♡DOLLCHESTRA礼包」后获得的道具。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "「ハロウィンフェア♪Trick ＆ Cute♡Edel Noteパック」を購入して獲得したアイテムです。",
+    "translation": {
+      "en": {
+        "text": "This item was obtained by purchasing the \"Halloween Fair♪Trick & Cute♡Edel Note Pack\".",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "购买「万圣节活动♪Trick ＆ Cute♡Edel Note礼包」后获得的道具。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "「ハロウィンフェア♪Trick ＆ Cute♡みらくらぱーく！パック」を購入して獲得したアイテムです。",
+    "translation": {
+      "en": {
+        "text": "This item was obtained by purchasing the \"Halloween Fair♪Trick & Cute♡Mira-Cra Park! Pack\".",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "购买「万圣节活动♪Trick ＆ Cute♡Mira-Cra Park!礼包」后获得的道具。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "「ハロウィンフェア♪Trick ＆ Cute♡スリーズブーケパック」を購入して獲得したアイテムです。",
+    "translation": {
+      "en": {
+        "text": "This item was obtained by purchasing the \"Halloween Fair♪Trick & Cute♡Cerise Bouquet Pack\".",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "购买「万圣节活动♪Trick ＆ Cute♡Cerise Bouquet礼包」后获得的道具。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "「ユニット甲子園サポーターズパック」を購入して獲得したアイテムです。",
     "translation": {
       "zh-CN": {
@@ -16246,6 +16298,58 @@
       "en": {
         "text": "This is a present obtained from Daily Missions.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ハロウィンフェア♪Trick ＆ Cute♡ログインキャンペーン 1日目のプレゼントです！",
+    "translation": {
+      "en": {
+        "text": "This is a Day 1 present from the Halloween Fair♪Trick & Cute♡ Login Campaign!",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "万圣节活动♪Trick ＆ Cute♡登录活动 第1天的礼物！",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ハロウィンフェア♪Trick ＆ Cute♡ログインキャンペーン 2日目のプレゼントです！",
+    "translation": {
+      "en": {
+        "text": "This is a Day 2 present from the Halloween Fair♪Trick & Cute♡ Login Campaign!",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "万圣节活动♪Trick ＆ Cute♡登录活动 第2天的礼物！",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ハロウィンフェア♪Trick ＆ Cute♡ログインキャンペーン 3日目のプレゼントです！",
+    "translation": {
+      "en": {
+        "text": "This is a Day 3 present from the Halloween Fair♪Trick & Cute♡ Login Campaign!",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "万圣节活动♪Trick ＆ Cute♡登录活动 第3天的礼物！",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ハロウィンフェア♪Trick ＆ Cute♡ログインキャンペーン 4日目のプレゼントです！",
+    "translation": {
+      "en": {
+        "text": "This is a Day 4 present from the Halloween Fair♪Trick & Cute♡ Login Campaign!",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "万圣节活动♪Trick ＆ Cute♡登录活动 第4天的礼物！",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

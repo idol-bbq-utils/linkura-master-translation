@@ -4386,6 +4386,24 @@
             "StageSkillDescription": "スキルを20回使用するたび、デッキの全てのDOLLCHESTRAの消費APをステージ中常に-1し、ステージ開始時、メイン効果がリシャッフルであるデッキの全てのカードの消費APをステージ中常に+3する。"
         },
         {
+            "Id": 1041501,
+            "Name": "中庭特設ステージ",
+            "Description": "中庭特設ステージ",
+            "StageSkillDescription": "メイン効果がトークンカード追加のスキルを使用するたび、ボルテージを+10000し、スキルを20回使用するたび、メイン効果がリシャッフルであるデッキの全てのカードの消費APをステージ中常に+1する。"
+        },
+        {
+            "Id": 1041502,
+            "Name": "プール",
+            "Description": "プール",
+            "StageSkillDescription": "ステージ開始時、デッキの全てのカードの消費APをステージ中常に-2し、また山札が切れるたび、APが5減少する。"
+        },
+        {
+            "Id": 1041503,
+            "Name": "コンサートホール",
+            "Description": "コンサートホール",
+            "StageSkillDescription": "スキルを3回使用するたび、ボルテージを+5000し、山札が切れるたび、ボルテージを-2000する。"
+        },
+        {
             "Id": 531031101,
             "Name": "教室",
             "Description": "教室",
@@ -5514,6 +5532,60 @@
             "StageSkillDescription": ""
         },
         {
+            "Id": 531053401,
+            "Name": "教室",
+            "Description": "教室",
+            "StageSkillDescription": ""
+        },
+        {
+            "Id": 531053402,
+            "Name": "体育館",
+            "Description": "体育館",
+            "StageSkillDescription": ""
+        },
+        {
+            "Id": 531053403,
+            "Name": "中庭特設ステージ",
+            "Description": "中庭特設ステージ",
+            "StageSkillDescription": ""
+        },
+        {
+            "Id": 531053404,
+            "Name": "屋上特設ステージ",
+            "Description": "屋上特設ステージ",
+            "StageSkillDescription": ""
+        },
+        {
+            "Id": 531053405,
+            "Name": "教室",
+            "Description": "教室",
+            "StageSkillDescription": ""
+        },
+        {
+            "Id": 531053501,
+            "Name": "屋上特設ステージ",
+            "Description": "屋上特設ステージ",
+            "StageSkillDescription": ""
+        },
+        {
+            "Id": 531053502,
+            "Name": "野外ステージ",
+            "Description": "野外ステージ",
+            "StageSkillDescription": ""
+        },
+        {
+            "Id": 531053503,
+            "Name": "路上",
+            "Description": "路上",
+            "StageSkillDescription": ""
+        },
+        {
+            "Id": 531053504,
+            "Name": "スタジアム",
+            "Description": "スタジアム",
+            "StageSkillDescription": ""
+        },
+        {
             "Id": 571031101,
             "Name": "中庭特設ステージ",
             "Description": "中庭特設ステージ",
@@ -5901,6 +5973,18 @@
             "Id": 571053301,
             "Name": "スタジアム",
             "Description": "スタジアム",
+            "StageSkillDescription": ""
+        },
+        {
+            "Id": 571053401,
+            "Name": "テーマパーク",
+            "Description": "テーマパーク",
+            "StageSkillDescription": ""
+        },
+        {
+            "Id": 571053501,
+            "Name": "ホール",
+            "Description": "ホール",
             "StageSkillDescription": ""
         }
     ]

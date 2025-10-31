@@ -57837,6 +57837,123 @@
     }
   },
   {
+    "raw": "[はじまりの羽音]安養寺 姫芽",
+    "translation": {
+      "en": {
+        "text": "[The First Flap of Wings] Hime Anyoji",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[起始之羽音]安养寺姬芽",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[はじまりの羽音]安養寺 姫芽 を4回解放した記念のステッカー",
+    "translation": {
+      "en": {
+        "text": "A commemorative sticker for unlocking [The First Flap of Wings] Hime Anyoji 4 times",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[起始之羽音]安养寺姬芽 4次解放纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[はじまりの羽音]安養寺 姫芽 解放完了",
+    "translation": {
+      "en": {
+        "text": "[The First Flap of Wings] Hime Anyoji Unlock Complete",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[起始之羽音]安养寺姬芽 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[はじまりの羽音]徒町 小鈴",
+    "translation": {
+      "en": {
+        "text": "[The First Flap of Wings] Kosuzu Kachimachi",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[起始之羽音]徒町小铃",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[はじまりの羽音]徒町 小鈴 を4回解放した記念のステッカー",
+    "translation": {
+      "en": {
+        "text": "A commemorative sticker for unlocking [The First Flap of Wings] Kosuzu Kachimachi 4 times",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[起始之羽音]徒町小铃 4次解放纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[はじまりの羽音]徒町 小鈴 解放完了",
+    "translation": {
+      "en": {
+        "text": "[The First Flap of Wings] Kosuzu Kachimachi Unlock Complete",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[起始之羽音]徒町小铃 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[はじまりの羽音]村野 さやか",
+    "translation": {
+      "en": {
+        "text": "[The First Flap of Wings] Sayaka Murano",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[起始之羽音]村野沙耶香",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[はじまりの羽音]村野 さやか を4回解放した記念のステッカー",
+    "translation": {
+      "en": {
+        "text": "A commemorative sticker for unlocking [The First Flap of Wings] Sayaka Murano 4 times",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[起始之羽音]村野沙耶香 4次解放纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[はじまりの羽音]村野 さやか 解放完了",
+    "translation": {
+      "en": {
+        "text": "[The First Flap of Wings] Sayaka Murano Unlock Complete",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[起始之羽音]村野沙耶香 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[ぺきんだっく]夕霧 綴理",
     "translation": {
       "zh-CN": {
@@ -61291,6 +61408,110 @@
       "en": {
         "text": "[Hanamusubi] Ginko Momose unlock completed",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[ハロウィンフェア/Trick ＆ Cute]セラス 柳田 リリエンフェルト",
+    "translation": {
+      "en": {
+        "text": "[Halloween Fair/Trick & Cute] Ceras Yanagida Lilienfeld",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[万圣节嘉年华/Trick ＆ Cute]塞拉斯 柳田 利林费尔德",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[ハロウィンフェア/Trick ＆ Cute]大沢 瑠璃乃",
+    "translation": {
+      "en": {
+        "text": "[Halloween Fair/Trick & Cute] Rurino Osawa",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[万圣节嘉年华/Trick ＆ Cute]大泽瑠璃乃",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[ハロウィンフェア/Trick ＆ Cute]安養寺 姫芽",
+    "translation": {
+      "en": {
+        "text": "[Halloween Fair/Trick & Cute] Hime Anyoji",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[万圣节嘉年华/Trick ＆ Cute]安养寺姬芽",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[ハロウィンフェア/Trick ＆ Cute]徒町 小鈴",
+    "translation": {
+      "en": {
+        "text": "[Halloween Fair/Trick & Cute] Kosuzu Kachimachi",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[万圣节嘉年华/Trick ＆ Cute]徒町小铃",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[ハロウィンフェア/Trick ＆ Cute]日野下 花帆",
+    "translation": {
+      "en": {
+        "text": "[Halloween Fair/Trick & Cute] Kaho Hinoshita",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[万圣节嘉年华/Trick ＆ Cute]日野下花帆",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[ハロウィンフェア/Trick ＆ Cute]村野 さやか",
+    "translation": {
+      "en": {
+        "text": "[Halloween Fair/Trick & Cute] Sayaka Murano",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[万圣节嘉年华/Trick ＆ Cute]村野沙耶香",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[ハロウィンフェア/Trick ＆ Cute]桂城 泉",
+    "translation": {
+      "en": {
+        "text": "[Halloween Fair/Trick & Cute] Izumi Katsuragi",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[万圣节嘉年华/Trick ＆ Cute]桂城泉",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[ハロウィンフェア/Trick ＆ Cute]百生 吟子",
+    "translation": {
+      "en": {
+        "text": "[Halloween Fair/Trick & Cute] Ginko Momose",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[万圣节嘉年华/Trick ＆ Cute]百生吟子",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -71097,6 +71318,58 @@
     }
   },
   {
+    "raw": "「ハロウィンフェア♪Trick ＆ Cute♡DOLLCHESTRAパック」を購入",
+    "translation": {
+      "en": {
+        "text": "Purchased 「Halloween Fair♪Trick & Cute♡DOLLCHESTRA Pack」",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "购买了「万圣节嘉年华♪Trick ＆ Cute♡DOLLCHESTRA套组」",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "「ハロウィンフェア♪Trick ＆ Cute♡Edel Noteパック」を購入",
+    "translation": {
+      "en": {
+        "text": "Purchased 「Halloween Fair♪Trick & Cute♡Edel Note Pack」",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "购买了「万圣节嘉年华♪Trick ＆ Cute♡Edel Note套组」",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "「ハロウィンフェア♪Trick ＆ Cute♡みらくらぱーく！パック」を購入",
+    "translation": {
+      "en": {
+        "text": "Purchased 「Halloween Fair♪Trick & Cute♡Mira-Cra Park! Pack」",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "购买了「万圣节嘉年华♪Trick ＆ Cute♡Mira-Cra Park!套组」",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "「ハロウィンフェア♪Trick ＆ Cute♡スリーズブーケパック」を購入",
+    "translation": {
+      "en": {
+        "text": "Purchased 「Halloween Fair♪Trick & Cute♡Cerise Bouquet Pack」",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "购买了「万圣节嘉年华♪Trick ＆ Cute♡Cerise Bouquet套组」",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "「ラブライブ！TVアニメ放送10周年記念　LoveLive! Special Talk Session」開催を記念した特別な称号",
     "translation": {
       "zh-CN": {
@@ -74772,6 +75045,45 @@
       "en": {
         "text": "『とーひょー☆スター！』Mastery Lv. 30 reached",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "『はじまりの羽音』のマスタリーLv.を30にした記念のステッカー",
+    "translation": {
+      "en": {
+        "text": "A commemorative sticker for reaching Mastery Lv. 30 for 『はじまりの羽音』",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "『はじまりの羽音』精通等级达到30的纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "『はじまりの羽音』マエストロ",
+    "translation": {
+      "en": {
+        "text": "『はじまりの羽音』 Maestro",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "『はじまりの羽音』大师",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "『はじまりの羽音』マスタリーLv.30到達",
+    "translation": {
+      "en": {
+        "text": "『はじまりの羽音』 Mastery Lv. 30 Reached",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "『はじまりの羽音』精通等级30达成",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -96703,6 +97015,19 @@
       "en": {
         "text": "Halloween 2019",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ハロウィンフェア 開催記念！",
+    "translation": {
+      "en": {
+        "text": "Halloween Fair Commemoration!",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "万圣节活动 举办纪念！",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

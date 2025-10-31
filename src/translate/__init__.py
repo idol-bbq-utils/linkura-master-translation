@@ -82,7 +82,11 @@ def translate_file(api_client: anthropic.Anthropic, file: Path, target_language:
 {texts_array_str}
 
 ## Output Format:
-Return ONLY a JSON array of translated texts in the same order as the original array. Do not include any explanatory text. Do not return markdown code format, just json string
+Return ONLY a JSON array of translated texts in the same order as the original array.
+Do not include any explanatory text!!!
+Do not return markdown code format!!!
+Do not return markdown code like ```json...```
+just return json string
 Example format: ["translated text 1", "translated text 2", ...]
 """
         
@@ -92,7 +96,7 @@ Example format: ["translated text 1", "translated text 2", ...]
         # print("=" * 50)
         
         # Call translation API
-        model_id = "claude-sonnet-4-20250514"
+        model_id = "claude-sonnet-4-5-20250929"
         message = api_client.messages.create(
             model=model_id,
             max_tokens=4000,
@@ -101,6 +105,9 @@ Example format: ["translated text 1", "translated text 2", ...]
             ]
         )
         response = message.content[0].text
+        # remove markdown code block if exists
+        if response.startswith("```") and response.endswith("```"):
+            response = "\n".join(response.split("\n")[1:-1])
         
         try:
             # Parse JSON response to get translated texts array

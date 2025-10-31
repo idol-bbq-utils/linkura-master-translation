@@ -4471,6 +4471,21 @@
             "Description": "DOLLCHESTRAに所属するメンバーと日野下花帆、大沢瑠璃乃のアピール値が180％上昇／クールタイムが3秒増加するが、全てのスキルカードの消費APが8減少し、ボルテージの獲得量が1600％増加する。"
         },
         {
+            "Id": 20325311,
+            "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
+            "Description": "DOLLCHESTRAに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20325312,
+            "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
+            "Description": "DOLLCHESTRAに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20325313,
+            "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
+            "Description": "DOLLCHESTRAに所属するメンバーのアピール値が200％上昇"
+        },
+        {
             "Id": 20328011,
             "CenterAttributeName": "アピールアップ（DOLLCHESTRA）&APレデュース&CTレデュース",
             "Description": "DOLLCHESTRAに所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少"
@@ -6326,6 +6341,21 @@
             "Description": "全メンバーのアピール値が72％上昇"
         },
         {
+            "Id": 20425181,
+            "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
+            "Description": "DOLLCHESTRAに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20425182,
+            "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
+            "Description": "DOLLCHESTRAに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20425183,
+            "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
+            "Description": "DOLLCHESTRAに所属するメンバーのアピール値が200％上昇"
+        },
+        {
             "Id": 20428011,
             "CenterAttributeName": "アピールアップ（DOLLCHESTRA）&APレデュース&CTレデュース",
             "Description": "DOLLCHESTRAに所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少"
@@ -6784,6 +6814,21 @@
             "Id": 20435183,
             "CenterAttributeName": "アピールアップ",
             "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
+            "Id": 20435191,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が72％上昇"
+        },
+        {
+            "Id": 20435192,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が72％上昇"
+        },
+        {
+            "Id": 20435193,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が72％上昇"
         },
         {
             "Id": 20438011,

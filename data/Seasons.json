@@ -401,5 +401,18 @@
         "author": "claude-sonnet-4-20250514"
       }
     }
+  },
+  {
+    "raw": "105期第8シーズン",
+    "translation": {
+      "en": {
+        "text": "105th Class Season 8",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "105期第8赛季",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
   }
 ]

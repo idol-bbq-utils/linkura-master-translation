@@ -468,6 +468,19 @@
     }
   },
   {
+    "raw": "ハロウィンフェア♪Trick ＆ Cute♡ログインキャンペーン",
+    "translation": {
+      "en": {
+        "text": "Halloween Fair♪Trick & Cute♡ Login Campaign",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "万圣节活动♪Trick ＆ Cute♡登录活动",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ライブグランプリ応援ログインボーナス（仮）",
     "translation": {
       "zh-CN": {

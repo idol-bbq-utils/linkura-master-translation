@@ -2249,6 +2249,19 @@
     }
   },
   {
+    "raw": "インヘリットウイング",
+    "translation": {
+      "en": {
+        "text": "Inherit Wing",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Inherit Wing",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "インモータル",
     "translation": {
       "zh-CN": {
@@ -2284,6 +2297,45 @@
       "zh-CN": {
         "text": "易神",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ウイングビートアトラクション",
+    "translation": {
+      "en": {
+        "text": "Wing Beat Attraction",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Wing Beat Attraction",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ウイングビートチャレンジャー",
+    "translation": {
+      "en": {
+        "text": "Wing Beat Challenger",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Wing Beat Challenger",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ウイングビートメンター",
+    "translation": {
+      "en": {
+        "text": "Wing Beat Mentor",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Wing Beat Mentor",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -5239,6 +5291,19 @@
     }
   },
   {
+    "raw": "セルフィッシュフェザー",
+    "translation": {
+      "en": {
+        "text": "Selfish Feather",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Selfish Feather",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "セレブレイション",
     "translation": {
       "zh-CN": {
@@ -5274,6 +5339,19 @@
       "zh-CN": {
         "text": "感伤抒情",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ソアラ",
+    "translation": {
+      "en": {
+        "text": "Soarer",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Soarer",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -5404,6 +5482,19 @@
       "zh-CN": {
         "text": "Double Punch",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ダンシングボルテージ",
+    "translation": {
+      "en": {
+        "text": "Dancing Voltage",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Dancing Voltage",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -5586,6 +5677,19 @@
       "en": {
         "text": "Cheerful Voltage",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "チアフルボルテージブースト",
+    "translation": {
+      "en": {
+        "text": "Cheerful Voltage Boost",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Cheerful Voltage Boost",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -9204,6 +9308,19 @@
     }
   },
   {
+    "raw": "フリーダムウイング",
+    "translation": {
+      "en": {
+        "text": "Freedom Wing",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Freedom Wing",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "フルネスエクステハート",
     "translation": {
       "zh-CN": {
@@ -10214,6 +10331,19 @@
       "en": {
         "text": "Recover Attraction",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "リカバーウイング",
+    "translation": {
+      "en": {
+        "text": "Recover Wing",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Recover Wing",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

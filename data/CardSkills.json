@@ -7150,6 +7150,188 @@
     }
   },
   {
+    "raw": "このステージ中、AP回復速度を-9999%する。さらにこのステージ中、ボルテージPt.が1秒ごとに$4000$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, reduce AP recovery speed by -9999%. Additionally, during this stage, Voltage Pt. increases by $4000$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-9999%。并且本场Live中，Vo Pt.每秒增加$4000$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-9999%する。さらにこのステージ中、ボルテージPt.が1秒ごとに$4400$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, reduce AP recovery speed by -9999%. Additionally, during this stage, Voltage Pt. increases by $4400$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-9999%。并且本场Live中，Vo Pt.每秒增加$4400$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-9999%する。さらにこのステージ中、ボルテージPt.が1秒ごとに$4800$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, reduce AP recovery speed by -9999%. Additionally, during this stage, Voltage Pt. increases by $4800$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-9999%。并且本场Live中，Vo Pt.每秒增加$4800$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-9999%する。さらにこのステージ中、ボルテージPt.が1秒ごとに$5200$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, reduce AP recovery speed by -9999%. Additionally, during this stage, Voltage Pt. increases by $5200$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-9999%。并且本场Live中，Vo Pt.每秒增加$5200$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-9999%する。さらにこのステージ中、ボルテージPt.が1秒ごとに$5600$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, reduce AP recovery speed by -9999%. Additionally, during this stage, Voltage Pt. increases by $5600$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-9999%。并且本场Live中，Vo Pt.每秒增加$5600$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-9999%する。さらにこのステージ中、ボルテージPt.が1秒ごとに$6000$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, reduce AP recovery speed by -9999%. Additionally, during this stage, Voltage Pt. increases by $6000$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-9999%。并且本场Live中，Vo Pt.每秒增加$6000$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-9999%する。さらにこのステージ中、ボルテージPt.が1秒ごとに$6400$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, reduce AP recovery speed by -9999%. Additionally, during this stage, Voltage Pt. increases by $6400$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-9999%。并且本场Live中，Vo Pt.每秒增加$6400$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-9999%する。さらにこのステージ中、ボルテージPt.が1秒ごとに$6800$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, reduce AP recovery speed by -9999%. Additionally, during this stage, Voltage Pt. increases by $6800$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-9999%。并且本场Live中，Vo Pt.每秒增加$6800$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-9999%する。さらにこのステージ中、ボルテージPt.が1秒ごとに$7200$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, reduce AP recovery speed by -9999%. Additionally, during this stage, Voltage Pt. increases by $7200$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-9999%。并且本场Live中，Vo Pt.每秒增加$7200$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-9999%する。さらにこのステージ中、ボルテージPt.が1秒ごとに$8000$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, reduce AP recovery speed by -9999%. Additionally, during this stage, Voltage Pt. increases by $8000$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-9999%。并且本场Live中，Vo Pt.每秒增加$8000$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-9999%する。さらにこのステージ中、ボルテージPt.が1秒ごとに$8400$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, reduce AP recovery speed by -9999%. Additionally, during this stage, Voltage Pt. increases by $8400$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-9999%。并且本场Live中，Vo Pt.每秒增加$8400$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-9999%する。さらにこのステージ中、ボルテージPt.が1秒ごとに$8800$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, reduce AP recovery speed by -9999%. Additionally, during this stage, Voltage Pt. increases by $8800$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-9999%。并且本场Live中，Vo Pt.每秒增加$8800$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-9999%する。さらにこのステージ中、ボルテージPt.が1秒ごとに$9200$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, reduce AP recovery speed by -9999%. Additionally, during this stage, Voltage Pt. increases by $9200$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-9999%。并且本场Live中，Vo Pt.每秒增加$9200$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-9999%する。さらにこのステージ中、ボルテージPt.が1秒ごとに$9999$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, reduce AP recovery speed by -9999%. Additionally, during this stage, Voltage Pt. increases by $9999$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-9999%。并且本场Live中，Vo Pt.每秒增加$9999$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、AP回復速度を-9999%する。さらにこのステージ中、メンタルが1秒ごとに最大値の$40%$回復する。",
     "translation": {
       "zh-CN": {
@@ -35659,6 +35841,32 @@
     }
   },
   {
+    "raw": "このセクション中、ボルテージLv.を無限にし、ボルテージPt.獲得効果発動時、このセクション中、獲得するLOVEを増加、APを0〜20回復する。発動した効果の効果値とスペシャルアピールのLvが高いほど効果値が増加、デッキ枚数が18枚より少ないほど効果値が減少する。",
+    "translation": {
+      "en": {
+        "text": "During this section, set Voltage Lv. to infinite, and when Voltage Pt. gain effects activate, increase LOVE gained during this section and recover 0-20 AP. The effect value increases with the effect value of the activated effect and the higher the Special Appeal Lv., and decreases the fewer deck cards there are below 18.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Vo Lv.变为无限，发动获得Vo Pt.的效果时，本小节中获得LOVE增加，AP回复0〜20。发动的效果值与Special Appeal的Lv越高，效果值越高，卡组卡牌数少于18张时，卡牌数越少，效果值相应减少。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージLv.を無限にし、ボルテージPt.獲得効果発動時、スキルハートを獲得、APを0〜20回復する。発動した効果の効果値とスペシャルアピールのLvが高いほど効果値が増加、デッキ枚数が18枚より少ないほど効果値が減少する。",
+    "translation": {
+      "en": {
+        "text": "During this section, set Voltage Lv. to infinite, and when Voltage Pt. gain effects activate, gain Skill Hearts and recover 0-20 AP. The effect value increases with the effect value of the activated effect and the higher the Special Appeal Lv., and decreases the fewer deck cards there are below 18.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Vo Lv.变为无限，发动获得Vo Pt.的效果时，获得技能心心，AP回复0〜20。发动的效果值与Special Appeal的Lv越高，效果值越高，卡组卡牌数少于18张时，卡牌数越少，效果值相应减少。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムードがハッピーのときメロウ方向に、メロウのときハッピー方向に$+12$する。",
     "translation": {
       "zh-CN": {
@@ -50349,6 +50557,188 @@
     }
   },
   {
+    "raw": "それぞれ33回の間スキルハート獲得効果による獲得数を$+133.2%$、ラブアトラクト効果を$+133.2%$、ハート上限増加効果を$+133.2%$する。",
+    "translation": {
+      "en": {
+        "text": "For 33 times each, increase Skill Heart gain from acquisition effects by $+133.2%$, Love Attract effects by $+133.2%$, and Heart limit increase effects by $+133.2%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "分别接下来33次获得技能心心时，其数量$+133.2%$，LOVE+效果$+133.2%$，心心上限增加效果$+133.2%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ33回の間スキルハート獲得効果による獲得数を$+146.5%$、ラブアトラクト効果を$+146.5%$、ハート上限増加効果を$+146.5%$する。",
+    "translation": {
+      "en": {
+        "text": "For 33 times each, increase Skill Heart gain from acquisition effects by $+146.5%$, Love Attract effects by $+146.5%$, and Heart limit increase effects by $+146.5%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "分别接下来33次获得技能心心时，其数量$+146.5%$，LOVE+效果$+146.5%$，心心上限增加效果$+146.5%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ33回の間スキルハート獲得効果による獲得数を$+159.8%$、ラブアトラクト効果を$+159.8%$、ハート上限増加効果を$+159.8%$する。",
+    "translation": {
+      "en": {
+        "text": "For 33 times each, increase Skill Heart gain from acquisition effects by $+159.8%$, Love Attract effects by $+159.8%$, and Heart limit increase effects by $+159.8%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "分别接下来33次获得技能心心时，其数量$+159.8%$，LOVE+效果$+159.8%$，心心上限增加效果$+159.8%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ33回の間スキルハート獲得効果による獲得数を$+173.2%$、ラブアトラクト効果を$+173.2%$、ハート上限増加効果を$+173.2%$する。",
+    "translation": {
+      "en": {
+        "text": "For 33 times each, increase Skill Heart gain from acquisition effects by $+173.2%$, Love Attract effects by $+173.2%$, and Heart limit increase effects by $+173.2%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "分别接下来33次获得技能心心时，其数量$+173.2%$，LOVE+效果$+173.2%$，心心上限增加效果$+173.2%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ33回の間スキルハート獲得効果による獲得数を$+186.5%$、ラブアトラクト効果を$+186.5%$、ハート上限増加効果を$+186.5%$する。",
+    "translation": {
+      "en": {
+        "text": "For 33 times each, increase Skill Heart gain from acquisition effects by $+186.5%$, Love Attract effects by $+186.5%$, and Heart limit increase effects by $+186.5%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "分别接下来33次获得技能心心时，其数量$+186.5%$，LOVE+效果$+186.5%$，心心上限增加效果$+186.5%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ33回の間スキルハート獲得効果による獲得数を$+199.8%$、ラブアトラクト効果を$+199.8%$、ハート上限増加効果を$+199.8%$する。",
+    "translation": {
+      "en": {
+        "text": "For 33 times each, increase Skill Heart gain from acquisition effects by $+199.8%$, Love Attract effects by $+199.8%$, and Heart limit increase effects by $+199.8%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "分别接下来33次获得技能心心时，其数量$+199.8%$，LOVE+效果$+199.8%$，心心上限增加效果$+199.8%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ33回の間スキルハート獲得効果による獲得数を$+213.1%$、ラブアトラクト効果を$+213.1%$、ハート上限増加効果を$+213.1%$する。",
+    "translation": {
+      "en": {
+        "text": "For 33 times each, increase Skill Heart gain from acquisition effects by $+213.1%$, Love Attract effects by $+213.1%$, and Heart limit increase effects by $+213.1%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "分别接下来33次获得技能心心时，其数量$+213.1%$，LOVE+效果$+213.1%$，心心上限增加效果$+213.1%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ33回の間スキルハート獲得効果による獲得数を$+226.4%$、ラブアトラクト効果を$+226.4%$、ハート上限増加効果を$+226.4%$する。",
+    "translation": {
+      "en": {
+        "text": "For 33 times each, increase Skill Heart gain from acquisition effects by $+226.4%$, Love Attract effects by $+226.4%$, and Heart limit increase effects by $+226.4%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "分别接下来33次获得技能心心时，其数量$+226.4%$，LOVE+效果$+226.4%$，心心上限增加效果$+226.4%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ33回の間スキルハート獲得効果による獲得数を$+239.8%$、ラブアトラクト効果を$+239.8%$、ハート上限増加効果を$+239.8%$する。",
+    "translation": {
+      "en": {
+        "text": "For 33 times each, increase Skill Heart acquisition amount by $+239.8%$, Love Attract effect by $+239.8%$, and Heart limit increase effect by $+239.8%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "接下来分别33次获得技能心心时，其数量$+239.8%$，LOVE+效果$+239.8%$，心心上限增加效果$+239.8%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ33回の間スキルハート獲得効果による獲得数を$+266.4%$、ラブアトラクト効果を$+266.4%$、ハート上限増加効果を$+266.4%$する。",
+    "translation": {
+      "en": {
+        "text": "For 33 times each, increase Skill Heart acquisition amount by $+266.4%$, Love Attract effect by $+266.4%$, and Heart limit increase effect by $+266.4%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "接下来分别33次获得技能心心时，其数量$+266.4%$，LOVE+效果$+266.4%$，心心上限增加效果$+266.4%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ33回の間スキルハート獲得効果による獲得数を$+279.7%$、ラブアトラクト効果を$+279.7%$、ハート上限増加効果を$+279.7%$する。",
+    "translation": {
+      "en": {
+        "text": "For 33 times each, increase Skill Heart acquisition amount by $+279.7%$, Love Attract effect by $+279.7%$, and Heart limit increase effect by $+279.7%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "接下来分别33次获得技能心心时，其数量$+279.7%$，LOVE+效果$+279.7%$，心心上限增加效果$+279.7%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ33回の間スキルハート獲得効果による獲得数を$+293%$、ラブアトラクト効果を$+293%$、ハート上限増加効果を$+293%$する。",
+    "translation": {
+      "en": {
+        "text": "For 33 times each, increase Skill Heart acquisition amount by $+293%$, Love Attract effect by $+293%$, and Heart limit increase effect by $+293%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "接下来分别33次获得技能心心时，其数量$+293%$，LOVE+效果$+293%$，心心上限增加效果$+293%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ33回の間スキルハート獲得効果による獲得数を$+306.4%$、ラブアトラクト効果を$+306.4%$、ハート上限増加効果を$+306.4%$する。",
+    "translation": {
+      "en": {
+        "text": "For 33 times each, increase Skill Heart acquisition amount by $+306.4%$, Love Attract effect by $+306.4%$, and Heart limit increase effect by $+306.4%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "接下来分别33次获得技能心心时，其数量$+306.4%$，LOVE+效果$+306.4%$，心心上限增加效果$+306.4%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ33回の間スキルハート獲得効果による獲得数を$+333%$、ラブアトラクト効果を$+333%$、ハート上限増加効果を$+333%$する。",
+    "translation": {
+      "en": {
+        "text": "For 33 times each, increase Skill Heart acquisition amount by $+333%$, Love Attract effect by $+333%$, and Heart limit increase effect by $+333%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "接下来分别33次获得技能心心时，其数量$+333%$，LOVE+效果$+333%$，心心上限增加效果$+333%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "それぞれ3回の間スキルハート獲得効果による獲得数を$+24%$、ラブアトラクト効果を$+8%$する。さらにこのセクション中、ハート数の上限を$+8$する。",
     "translation": {
       "zh-CN": {
@@ -55480,6 +55870,19 @@
       "en": {
         "text": "When drawn, decrease Mental by 10% of max value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ドローした時、メンタルを最大値の30%回復させ、このステージ中、メンタルの最大値の$10%$分のメンタルダメージを無効にする。メンタルが100%以上で、手札にある状態でハートを2000個回収したとき、ビートハート80回分のスキルハートを獲得、ハートを20000個回収したとき、8回の間スキルハート獲得効果による獲得数を+300%、ハートを200000個回収したとき、ビートハート800回分のスキルハートを獲得する。さらにこのスキルを使用すると、デッキから除外される。",
+    "translation": {
+      "en": {
+        "text": "When drawn, restore Mental by 30% of max value, and during this stage, negate Mental damage equal to $10%$ of Mental max value. When Mental is at 100% or above and while in hand, when 2000 Hearts are collected, gain Skill Hearts equal to 80 Beat Hearts; when 20000 Hearts are collected, for 8 times increase Skill Heart acquisition amount by +300%; when 200000 Hearts are collected, gain Skill Hearts equal to 800 Beat Hearts. Furthermore, when this skill is used, it is removed from the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "抽到时，恢复最大mental值的30%，本场Live中，防止最大mental值$10%$的mental消耗。Mental在100%以上，在手牌中回收2000个心心时，获得80倍跳心的技能心心，回收20000个心心时，接下来8次获得技能心心时，其数量+300%，回收200000个心心时，获得800倍跳心的技能心心。并且使用此技能后，从卡组中移除。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -89011,6 +89414,188 @@
     }
   },
   {
+    "raw": "メンタルが100%以上のとき、8回の間ボルテージゲイン効果を$+34%$する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 100% or above, increase Voltage Gain effect by $+34%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental在100%以上时，接下来8次获得Vo Pt.效果$+34%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが100%以上のとき、8回の間ボルテージゲイン効果を$+37.4%$する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 100% or above, increase Voltage Gain effect by $+37.4%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental在100%以上时，接下来8次获得Vo Pt.效果$+37.4%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが100%以上のとき、8回の間ボルテージゲイン効果を$+40.8%$する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 100% or above, increase Voltage Gain effect by $+40.8%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental在100%以上时，接下来8次获得Vo Pt.效果$+40.8%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが100%以上のとき、8回の間ボルテージゲイン効果を$+44.2%$する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 100% or above, increase Voltage Gain effect by $+44.2%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental在100%以上时，接下来8次获得Vo Pt.效果$+44.2%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが100%以上のとき、8回の間ボルテージゲイン効果を$+47.6%$する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 100% or above, increase Voltage Gain effect by $+47.6%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental在100%以上时，接下来8次获得Vo Pt.效果$+47.6%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが100%以上のとき、8回の間ボルテージゲイン効果を$+51%$する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 100% or above, increase Voltage Gain effect by $+51%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental在100%以上时，接下来8次获得Vo Pt.效果$+51%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが100%以上のとき、8回の間ボルテージゲイン効果を$+54.4%$する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 100% or above, increase Voltage Gain effect by $+54.4%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental在100%以上时，接下来8次获得Vo Pt.效果$+54.4%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが100%以上のとき、8回の間ボルテージゲイン効果を$+57.8%$する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 100% or above, increase Voltage Gain effect by $+57.8%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental在100%以上时，接下来8次获得Vo Pt.效果$+57.8%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが100%以上のとき、8回の間ボルテージゲイン効果を$+61.2%$する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 100% or above, increase Voltage Gain effect by $+61.2%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental在100%以上时，接下来8次获得Vo Pt.效果$+61.2%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが100%以上のとき、8回の間ボルテージゲイン効果を$+68%$する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 100% or above, increase Voltage Gain effect by $+68%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental在100%以上时，接下来8次获得Vo Pt.效果$+68%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが100%以上のとき、8回の間ボルテージゲイン効果を$+71.4%$する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 100% or above, increase Voltage Gain effect by $+71.4%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental在100%以上时，接下来8次获得Vo Pt.效果$+71.4%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが100%以上のとき、8回の間ボルテージゲイン効果を$+74.8%$する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 100% or above, increase Voltage Gain effect by $+74.8%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental在100%以上时，接下来8次获得Vo Pt.效果$+74.8%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが100%以上のとき、8回の間ボルテージゲイン効果を$+78.2%$する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 100% or above, increase Voltage Gain effect by $+78.2%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental在100%以上时，接下来8次获得Vo Pt.效果$+78.2%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが100%以上のとき、8回の間ボルテージゲイン効果を$+85%$する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 100% or above, increase Voltage Gain effect by $+85%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental在100%以上时，接下来8次获得Vo Pt.效果$+85%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルが100%以上のとき、ビートハート$1020回分$のスキルハートを獲得、このセクション中、獲得するLOVEを$+10200%$、AP回復速度を$+10.2%$、ボルテージPt.を$+102$する。さらにメンタルを最大値の99％減少させ、手札の全てのスキルの消費AP$-3$。",
     "translation": {
       "zh-CN": {
@@ -90909,6 +91494,58 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$100.8%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$252回分$のスキルハートを獲得、それぞれ3回の間さやかが使用するラブアトラクト効果を$+672%$、ボルテージゲイン効果を$+252%$、デッキ内のさやかのスキルの消費APを-8し、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $100.8%$ of max value. Furthermore, when Mental is at 100% or above, shuffle hand, gain Skill Hearts equal to $252 Beat Hearts$, for 3 times each increase Love Attract effect used by Sayaka by $+672%$ and Voltage Gain effect by $+252%$, reduce AP cost of Sayaka's skills in deck by -8, and decrease Mental by a fixed 99% of max value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$100.8%$。并且Mental在100%以上时，洗牌，获得$252倍$跳心的技能心心，接下来分别3次沙耶香使用的LOVE+效果$+672%$，获得Vo Pt.效果$+252%$，卡组中沙耶香的技能消费AP-8，失去最大mental值的固定99%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$100.8%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$252回分$のスキルハートを獲得し、このステージ中、メンタルの最大値の$46.2%$分のメンタルダメージを無効にする。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $100.8%$ of max value. Furthermore, when Mental is at 100% or above, shuffle hand, gain Skill Hearts equal to $252 Beat Hearts$, and during this stage, negate Mental damage equal to $46.2%$ of Mental max value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$100.8%$。并且Mental在100%以上时，洗牌，获得$252倍$跳心的技能心心，本场Live中，防止最大mental值$46.2%$的mental消耗。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$105.6%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$264回分$のスキルハートを獲得、それぞれ3回の間さやかが使用するラブアトラクト効果を$+704%$、ボルテージゲイン効果を$+264%$、デッキ内のさやかのスキルの消費APを-8し、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $105.6%$ of max value. Furthermore, when Mental is at 100% or above, shuffle hand, gain Skill Hearts equal to $264 Beat Hearts$, for 3 times each increase Love Attract effect used by Sayaka by $+704%$ and Voltage Gain effect by $+264%$, reduce AP cost of Sayaka's skills in deck by -8, and decrease Mental by a fixed 99% of max value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$105.6%$。并且Mental在100%以上时，洗牌，获得$264倍$跳心的技能心心，接下来分别3次沙耶香使用的LOVE+效果$+704%$，获得Vo Pt.效果$+264%$，卡组中沙耶香的技能消费AP-8，失去最大mental值的固定99%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$105.6%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$264回分$のスキルハートを獲得し、このステージ中、メンタルの最大値の$48.4%$分のメンタルダメージを無効にする。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $105.6%$ of max value. Additionally, when Mental is at 100% or above, shuffle your hand, gain Skill Hearts equal to $264$ Beat Hearts, and during this stage, negate Mental damage equal to $48.4%$ of max Mental value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$105.6%$。并且Mental在100%以上时，洗混手牌，获得$264倍$跳心的技能心心，本场Live中，防止最大mental值$48.4%$的mental消耗。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$11%$回復させる。",
     "translation": {
       "zh-CN": {
@@ -91321,6 +91958,32 @@
       "en": {
         "text": "Recovers $11.96%$ of max Mental. Additionally, gains $+12$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$110.4%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$276回分$のスキルハートを獲得、それぞれ3回の間さやかが使用するラブアトラクト効果を$+736%$、ボルテージゲイン効果を$+276%$、デッキ内のさやかのスキルの消費APを-8し、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $110.4%$ of max value. Additionally, when Mental is at 100% or above, shuffle your hand, gain Skill Hearts equal to $276$ Beat Hearts, for 3 times each increase Love Attract effect used by Sayaka by $+736%$, Voltage Gain effect by $+276%$, reduce AP cost of Sayaka's skills in deck by -8, and reduce Mental to fixed 99% of max value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$110.4%$。并且Mental在100%以上时，洗混手牌，获得$276倍$跳心的技能心心，沙耶香分别接下来3次使用的LOVE+效果$+736%$，获得Vo Pt.效果$+276%$，卡组中沙耶香的技能消费AP-8，失去最大mental值的99%（固定值）。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$110.4%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$276回分$のスキルハートを獲得し、このステージ中、メンタルの最大値の$50.6%$分のメンタルダメージを無効にする。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $110.4%$ of max value. Additionally, when Mental is at 100% or above, shuffle your hand, gain Skill Hearts equal to $276$ Beat Hearts, and during this stage, negate Mental damage equal to $50.6%$ of max Mental value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$110.4%$。并且Mental在100%以上时，洗混手牌，获得$276倍$跳心的技能心心，本场Live中，防止最大mental值$50.6%$的mental消耗。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -91780,6 +92443,45 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$120%$回復させる。さらにメンタルが100%以上のとき、ビートハート$1200回分$のスキルハートを獲得、このセクション中、獲得するLOVEを$+3200%$、ボルテージPt.を$+320$、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $120%$ of max value. Additionally, when Mental is at 100% or above, gain Skill Hearts equal to $1200$ Beat Hearts, during this section increase LOVE gained by $+3200%$, Voltage Pt. by $+320$, prevent Mental Down even when Mental reaches 0, and reduce Mental to fixed 99% of max value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$120%$。并且Mental在100%以上时，获得$1200倍$跳心的技能心心，本小节中，获得LOVE$+3200%$，Vo Pt.$+320$，mental值达到0也不会进入Mental Down状态，失去最大mental值的99%（固定值）。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$120%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$300回分$のスキルハートを獲得、それぞれ3回の間さやかが使用するラブアトラクト効果を$+800%$、ボルテージゲイン効果を$+300%$、デッキ内のさやかのスキルの消費APを-8し、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $120%$ of max value. Additionally, when Mental is at 100% or above, shuffle your hand, gain Skill Hearts equal to $300$ Beat Hearts, for 3 times each increase Love Attract effect used by Sayaka by $+800%$, Voltage Gain effect by $+300%$, reduce AP cost of Sayaka's skills in deck by -8, and reduce Mental to fixed 99% of max value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$120%$。并且Mental在100%以上时，洗混手牌，获得$300倍$跳心的技能心心，沙耶香分别接下来3次使用的LOVE+效果$+800%$，获得Vo Pt.效果$+300%$，卡组中沙耶香的技能消费AP-8，失去最大mental值的99%（固定值）。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$120%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$300回分$のスキルハートを獲得し、このステージ中、メンタルの最大値の$55%$分のメンタルダメージを無効にする。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $120%$ of max value. Additionally, when Mental is at 100% or above, shuffle your hand, gain Skill Hearts equal to $300$ Beat Hearts, and during this stage, negate Mental damage equal to $55%$ of max Mental value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$120%$。并且Mental在100%以上时，洗混手牌，获得$300倍$跳心的技能心心，本场Live中，防止最大mental值$55%$的mental消耗。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$13%$回復させる。",
     "translation": {
       "zh-CN": {
@@ -92131,6 +92833,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$132%$回復させる。さらにメンタルが100%以上のとき、ビートハート$1320回分$のスキルハートを獲得、このセクション中、獲得するLOVEを$+3520%$、ボルテージPt.を$+352$、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $132%$ of max value. Additionally, when Mental is at 100% or above, gain Skill Hearts equal to $1320$ Beat Hearts, during this section increase LOVE gained by $+3520%$, Voltage Pt. by $+352$, prevent Mental Down even when Mental reaches 0, and reduce Mental to fixed 99% of max value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$132%$。并且Mental在100%以上时，获得$1320倍$跳心的技能心心，本小节中，获得LOVE$+3520%$，Vo Pt.$+352$，mental值达到0也不会进入Mental Down状态，失去最大mental值的99%（固定值）。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$14%$回復させる。",
     "translation": {
       "zh-CN": {
@@ -92443,6 +93158,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$144%$回復させる。さらにメンタルが100%以上のとき、ビートハート$1440回分$のスキルハートを獲得、このセクション中、獲得するLOVEを$+3840%$、ボルテージPt.を$+384$、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $144%$ of max value. Additionally, when Mental is at 100% or above, gain Skill Hearts equal to $1440$ Beat Hearts, during this section increase LOVE gained by $+3840%$, Voltage Pt. by $+384$, prevent Mental Down even when Mental reaches 0, and reduce Mental to fixed 99% of max value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$144%$。并且Mental在100%以上时，获得$1440倍$跳心的技能心心，本小节中，获得LOVE$+3840%$，Vo Pt.$+384$，mental值达到0也不会进入Mental Down状态，失去最大mental值的99%（固定值）。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$15%$回復させる。",
     "translation": {
       "zh-CN": {
@@ -92634,6 +93362,19 @@
       "en": {
         "text": "Restore Mental by $15.84%$ of maximum value. Additionally, when Mental is 100% or higher, gain Skill Heart equivalent to $20$ Beat Hearts.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$156%$回復させる。さらにメンタルが100%以上のとき、ビートハート$1560回分$のスキルハートを獲得、このセクション中、獲得するLOVEを$+4160%$、ボルテージPt.を$+416$、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $156%$ of max value. Additionally, when Mental is at 100% or above, gain Skill Hearts equal to $1560$ Beat Hearts, during this section increase LOVE gained by $+4160%$, Voltage Pt. by $+416$, prevent Mental Down even when Mental reaches 0, and reduce Mental to fixed 99% of max value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$156%$。并且Mental在100%以上时，获得$1560倍$跳心的技能心心，本小节中，获得LOVE$+4160%$，Vo Pt.$+416$，mental值达到0也不会进入Mental Down状态，失去最大mental值的99%（固定值）。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -92998,6 +93739,19 @@
       "en": {
         "text": "Recover $16.8%$ of max Mental and gain $+17$ Voltage Pt. Additionally, when Mental is 100% or above, or when Voltage Lv. is 10 or above, Hime enters 《Ignition Mode》.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$168%$回復させる。さらにメンタルが100%以上のとき、ビートハート$1680回分$のスキルハートを獲得、このセクション中、獲得するLOVEを$+4480%$、ボルテージPt.を$+448$、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $168%$ of max value. Additionally, when Mental is at 100% or above, gain Skill Hearts equal to $1680$ Beat Hearts, during this section increase LOVE gained by $+4480%$, Voltage Pt. by $+448$, prevent Mental Down even when Mental reaches 0, and reduce Mental to fixed 99% of max value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$168%$。并且Mental在100%以上时，获得$1680倍$跳心的技能心心，本小节中，获得LOVE$+4480%$，Vo Pt.$+448$，mental值达到0也不会进入Mental Down状态，失去最大mental值的99%（固定值）。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -93457,6 +94211,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$180%$回復させる。さらにメンタルが100%以上のとき、ビートハート$1800回分$のスキルハートを獲得、このセクション中、獲得するLOVEを$+4800%$、ボルテージPt.を$+480$、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $180%$ of max value. Additionally, when Mental is at 100% or above, gain Skill Hearts equal to $1800$ Beat Hearts, during this section increase LOVE gained by $+4800%$, Voltage Pt. by $+480$, prevent Mental Down even when Mental reaches 0, and reduce Mental to fixed 99% of max value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$180%$。并且Mental在100%以上时，获得$1800倍$跳心的技能心心，本小节中，获得LOVE$+4800%$，Vo Pt.$+480$，mental值达到0也不会进入Mental Down状态，失去最大mental值的99%（固定值）。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$19.2%$回復させ、ビートハート$5回分$のスキルハートを獲得する。さらにデッキ枚数が30枚以上のとき、次に慈が使用するラブアトラクト効果を$+1008%$する。",
     "translation": {
       "zh-CN": {
@@ -93557,6 +94324,19 @@
       "en": {
         "text": "Recover $19.72%$ of max Mental. Additionally, gain Skill Hearts equivalent to $5$ Beat Hearts.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$192%$回復させる。さらにメンタルが100%以上のとき、ビートハート$1920回分$のスキルハートを獲得、このセクション中、獲得するLOVEを$+5120%$、ボルテージPt.を$+512$、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $192%$ of max value. Additionally, when Mental is at 100% or above, gain Skill Hearts equal to $1920$ Beat Hearts, during this section increase LOVE gained by $+5120%$, Voltage Pt. by $+512$, prevent Mental Down even when Mental reaches 0, and reduce Mental to fixed 99% of max value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$192%$。并且Mental在100%以上时，获得$1920倍$跳心的技能心心，本小节中，获得LOVE$+5120%$，Vo Pt.$+512$，mental值达到0也不会进入Mental Down状态，失去最大mental值的99%（固定值）。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -93977,6 +94757,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$204%$回復させる。さらにメンタルが100%以上のとき、ビートハート$2040回分$のスキルハートを獲得、このセクション中、獲得するLOVEを$+5440%$、ボルテージPt.を$+544$、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $204%$ of max value. Additionally, when Mental is at 100% or above, gain Skill Hearts equal to $2040$ Beat Hearts, during this section increase LOVE gained by $+5440%$, Voltage Pt. by $+544$, prevent Mental Down even when Mental reaches 0, and reduce Mental to fixed 99% of max value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$204%$。并且Mental在100%以上时，获得$2040倍$跳心的技能心心，本小节中，获得LOVE$+5440%$，Vo Pt.$+544$，mental值达到0也不会进入Mental Down状态，失去最大mental值的99%（固定值）。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$21%$回復させる。",
     "translation": {
       "zh-CN": {
@@ -94116,6 +94909,19 @@
       "en": {
         "text": "Recover Mental by $21.84%$ of maximum value. Additionally, when Mental is 75% or higher, recover 2 AP.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$216%$回復させる。さらにメンタルが100%以上のとき、ビートハート$2160回分$のスキルハートを獲得、このセクション中、獲得するLOVEを$+5760%$、ボルテージPt.を$+576$、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $216%$ of max value. Additionally, when Mental is at 100% or above, gain Skill Hearts equal to $2160$ Beat Hearts, during this section increase LOVE gained by $+5760%$, Voltage Pt. by $+576$, prevent Mental Down even when Mental reaches 0, and reduce Mental to fixed 99% of max value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$216%$。并且Mental在100%以上时，获得$2160倍$跳心的技能心心，本小节中，获得LOVE$+5760%$，Vo Pt.$+576$，mental值达到0也不会进入Mental Down状态，失去最大mental值的99%（固定值）。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -94432,6 +95238,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$240%$回復させる。さらにメンタルが100%以上のとき、ビートハート$2400回分$のスキルハートを獲得、このセクション中、獲得するLOVEを$+6400%$、ボルテージPt.を$+640$、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $240%$ of max value. Additionally, when Mental is at 100% or above, gain Skill Hearts equal to $2400$ Beat Hearts, during this section increase LOVE gained by $+6400%$, Voltage Pt. by $+640$, prevent Mental Down even when Mental reaches 0, and reduce Mental to fixed 99% of max value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$240%$。并且Mental在100%以上时，获得$2400倍$跳心的技能心心，本小节中，获得LOVE$+6400%$，Vo Pt.$+640$，mental值达到0也不会进入Mental Down状态，失去最大mental值的99%（固定值）。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$25%$回復させる。",
     "translation": {
       "zh-CN": {
@@ -94562,6 +95381,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$252%$回復させる。さらにメンタルが100%以上のとき、ビートハート$2520回分$のスキルハートを獲得、このセクション中、獲得するLOVEを$+6720%$、ボルテージPt.を$+672$、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $252%$ of max value. Additionally, when Mental is at 100% or above, gain Skill Hearts equal to $2520$ Beat Hearts, during this section increase LOVE gained by $+6720%$, Voltage Pt. by $+672$, prevent Mental Down even when Mental reaches 0, and reduce Mental to fixed 99% of max value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$252%$。并且Mental在100%以上时，获得$2520倍$跳心的技能心心，本小节中，获得LOVE$+6720%$，Vo Pt.$+672$，mental值达到0也不会进入Mental Down状态，失去最大mental值的99%（固定值）。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$26.4%$回復させる。",
     "translation": {
       "zh-CN": {
@@ -94666,6 +95498,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$264%$回復させる。さらにメンタルが100%以上のとき、ビートハート$2640回分$のスキルハートを獲得、このセクション中、獲得するLOVEを$+7040%$、ボルテージPt.を$+704$、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $264%$ of max value. Additionally, when Mental is at 100% or above, gain Skill Hearts equal to $2640$ Beat Hearts, during this section increase LOVE gained by $+7040%$, Voltage Pt. by $+704$, prevent Mental Down even when Mental reaches 0, and reduce Mental to fixed 99% of max value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$264%$。并且Mental在100%以上时，获得$2640倍$跳心的技能心心，本小节中，获得LOVE$+7040%$，Vo Pt.$+704$，mental值达到0也不会进入Mental Down状态，失去最大mental值的99%（固定值）。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$27.2%$回復させ、ビートハート$7回分$のスキルハートを獲得する。さらにデッキ枚数が30枚以上のとき、次に慈が使用するラブアトラクト効果を$+1428%$する。",
     "translation": {
       "zh-CN": {
@@ -94701,6 +95546,19 @@
       "en": {
         "text": "Restore Mental by $27.6%$ of max value. Additionally, when Mental is 75% or higher, increase LOVE gained by $+5.5%$ during this stage.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$276%$回復させる。さらにメンタルが100%以上のとき、ビートハート$2760回分$のスキルハートを獲得、このセクション中、獲得するLOVEを$+7360%$、ボルテージPt.を$+736$、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $276%$ of max value. Additionally, when Mental is at 100% or above, gain Skill Hearts equal to $2760$ Beat Hearts, during this section increase LOVE gained by $+7360%$, Voltage Pt. by $+736$, prevent Mental Down even when Mental reaches 0, and reduce Mental to fixed 99% of max value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$276%$。并且Mental在100%以上时，获得$2760倍$跳心的技能心心，本小节中，获得LOVE$+7360%$，Vo Pt.$+736$，mental值达到0也不会进入Mental Down状态，失去最大mental值的99%（固定值）。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -95039,6 +95897,19 @@
       "en": {
         "text": "Restore Mental by $30.72%$ of maximum value. Additionally, gain Skill Heart equivalent to $8$ beat hearts and increase LOVE gained by $+7.2%$ for this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$300%$回復させる。さらにメンタルが100%以上のとき、ビートハート$3000回分$のスキルハートを獲得、このセクション中、獲得するLOVEを$+8000%$、ボルテージPt.を$+800$、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $300%$ of max value. Additionally, when Mental is at 100% or above, gain Skill Hearts equal to $3000$ Beat Hearts, during this section increase LOVE gained by $+8000%$, Voltage Pt. by $+800$, prevent Mental Down even when Mental reaches 0, and reduce Mental to fixed 99% of max value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$300%$。并且Mental在100%以上时，获得$3000倍$跳心的技能心心，本小节中，获得LOVE$+8000%$，Vo Pt.$+800$，mental值达到0也不会进入Mental Down状态，失去最大mental值的99%（固定值）。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -95771,6 +96642,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$48%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$120回分$のスキルハートを獲得、それぞれ3回の間さやかが使用するラブアトラクト効果を$+320%$、ボルテージゲイン効果を$+120%$、デッキ内のさやかのスキルの消費APを-8し、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $48%$ of max value. Additionally, when Mental is at 100% or above, shuffle your hand, gain Skill Hearts equal to $120$ Beat Hearts, for 3 times each increase Love Attract effect used by Sayaka by $+320%$, Voltage Gain effect by $+120%$, reduce AP cost of Sayaka's skills in deck by -8, and reduce Mental to fixed 99% of max value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$48%$。并且Mental在100%以上时，洗混手牌，获得$120倍$跳心的技能心心，沙耶香分别接下来3次使用的LOVE+效果$+320%$，获得Vo Pt.效果$+120%$，卡组中沙耶香的技能消费AP-8，失去最大mental值的99%（固定值）。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$48%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$120回分$のスキルハートを獲得し、このステージ中、メンタルの最大値の$22%$分のメンタルダメージを無効にする。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $48%$ of max value. Additionally, when Mental is at 100% or above, shuffle your hand, gain Skill Hearts equal to $120$ Beat Hearts, and during this stage, negate Mental damage equal to $22%$ of max Mental value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$48%$。并且Mental在100%以上时，洗混手牌，获得$120倍$跳心的技能心心，本场Live中，防止最大mental值$22%$的mental消耗。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$49.28%$回復させる。さらにメンタルが100%のとき、このセクション中、ビートハートの出現個数を$+4$する。",
     "translation": {
       "zh-CN": {
@@ -96122,6 +97019,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$52.8%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$132回分$のスキルハートを獲得、それぞれ3回の間さやかが使用するラブアトラクト効果を$+352%$、ボルテージゲイン効果を$+132%$、デッキ内のさやかのスキルの消費APを-8し、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $52.8%$ of max value. Additionally, when Mental is at 100% or above, shuffle your hand, gain Skill Hearts equal to $132$ Beat Hearts, for 3 times each increase Love Attract effect used by Sayaka by $+352%$, Voltage Gain effect by $+132%$, reduce AP cost of Sayaka's skills in deck by -8, and reduce Mental to fixed 99% of max value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$52.8%$。并且Mental在100%以上时，洗混手牌，获得$132倍$跳心的技能心心，沙耶香分别接下来3次使用的LOVE+效果$+352%$，获得Vo Pt.效果$+132%$，卡组中沙耶香的技能消费AP-8，失去最大mental值的99%（固定值）。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$52.8%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$132回分$のスキルハートを獲得し、このステージ中、メンタルの最大値の$24.2%$分のメンタルダメージを無効にする。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $52.8%$ of max value. Additionally, when Mental is at 100% or above, shuffle your hand, gain Skill Hearts equal to $132$ Beat Hearts, and during this stage, negate Mental damage equal to $24.2%$ of max Mental value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$52.8%$。并且Mental在100%以上时，洗混手牌，获得$132倍$跳心的技能心心，本场Live中，防止最大mental值$24.2%$的mental消耗。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$55.2%$回復させる。",
     "translation": {
       "zh-CN": {
@@ -96144,6 +97067,32 @@
       "en": {
         "text": "Recover Mental by $56.32%$ of maximum value. Additionally, when Mental is at 100%, increase Beat Heart appearance count by $+5$ during this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$57.6%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$144回分$のスキルハートを獲得、それぞれ3回の間さやかが使用するラブアトラクト効果を$+384%$、ボルテージゲイン効果を$+144%$、デッキ内のさやかのスキルの消費APを-8し、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by $57.6%$ of max value. Additionally, when Mental is at 100% or above, shuffle your hand, gain Skill Hearts equal to $144$ Beat Hearts, for 3 times each increase Love Attract effect used by Sayaka by $+384%$, Voltage Gain effect by $+144%$, reduce AP cost of Sayaka's skills in deck by -8, and reduce Mental to fixed 99% of max value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$57.6%$。并且Mental在100%以上时，洗混手牌，获得$144倍$跳心的技能心心，沙耶香分别接下来3次使用的LOVE+效果$+384%$，获得Vo Pt.效果$+144%$，卡组中沙耶香的技能消费AP-8，失去最大mental值的99%（固定值）。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$57.6%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$144回分$のスキルハートを獲得し、このステージ中、メンタルの最大値の$26.4%$分のメンタルダメージを無効にする。",
+    "translation": {
+      "en": {
+        "text": "Restores Mental by $57.6%$ of maximum value. Additionally, when Mental is at 100% or above, shuffle your hand, gain Skill Hearts equivalent to $144 beats$, and nullify Mental damage equal to $26.4%$ of maximum Mental value for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$57.6%$。并且Mental在100%以上时，洗手牌，获得$144倍$跳心的技能心心，本场Live中，防止最大mental值$26.4%$的mental消耗。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -96538,6 +97487,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$62.4%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$156回分$のスキルハートを獲得、それぞれ3回の間さやかが使用するラブアトラクト効果を$+416%$、ボルテージゲイン効果を$+156%$、デッキ内のさやかのスキルの消費APを-8し、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restores Mental by $62.4%$ of maximum value. Additionally, when Mental is at 100% or above, shuffle your hand, gain Skill Hearts equivalent to $156 beats$, increase Love Attract effects used by Sayaka by $+416%$ for 3 times each, increase Voltage Gain effects by $+156%$, reduce AP cost of Sayaka's skills in deck by -8, and decrease Mental by a fixed 99% of maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$62.4%$。并且Mental在100%以上时，洗手牌，获得$156倍$跳心的技能心心，沙耶香接下来分别3次使用的LOVE+效果$+416%$，获得Vo Pt.效果$+156%$，卡组中沙耶香的技能消费AP-8，失去最大mental值的99%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$62.4%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$156回分$のスキルハートを獲得し、このステージ中、メンタルの最大値の$28.6%$分のメンタルダメージを無効にする。",
+    "translation": {
+      "en": {
+        "text": "Restores Mental by $62.4%$ of maximum value. Additionally, when Mental is at 100% or above, shuffle your hand, gain Skill Hearts equivalent to $156 beats$, and nullify Mental damage equal to $28.6%$ of maximum Mental value for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$62.4%$。并且Mental在100%以上时，洗手牌，获得$156倍$跳心的技能心心，本场Live中，防止最大mental值$28.6%$的mental消耗。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$63.36%$回復させる。さらにメンタルが100%のとき、このセクション中、ビートハートの出現個数を$+5$する。",
     "translation": {
       "zh-CN": {
@@ -96547,6 +97522,32 @@
       "en": {
         "text": "Recover Mental by $63.36%$ of maximum value. Additionally, when Mental is at 100%, increase Beat Heart appearance count by $+5$ during this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$67.2%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$168回分$のスキルハートを獲得、それぞれ3回の間さやかが使用するラブアトラクト効果を$+448%$、ボルテージゲイン効果を$+168%$、デッキ内のさやかのスキルの消費APを-8し、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restores Mental by $67.2%$ of maximum value. Additionally, when Mental is at 100% or above, shuffle your hand, gain Skill Hearts equivalent to $168 beats$, increase Love Attract effects used by Sayaka by $+448%$ for 3 times each, increase Voltage Gain effects by $+168%$, reduce AP cost of Sayaka's skills in deck by -8, and decrease Mental by a fixed 99% of maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$67.2%$。并且Mental在100%以上时，洗手牌，获得$168倍$跳心的技能心心，沙耶香接下来分别3次使用的LOVE+效果$+448%$，获得Vo Pt.效果$+168%$，卡组中沙耶香的技能消费AP-8，失去最大mental值的99%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$67.2%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$168回分$のスキルハートを獲得し、このステージ中、メンタルの最大値の$30.8%$分のメンタルダメージを無効にする。",
+    "translation": {
+      "en": {
+        "text": "Restores Mental by $67.2%$ of maximum value. Additionally, when Mental is at 100% or above, shuffle your hand, gain Skill Hearts equivalent to $168 beats$, and nullify Mental damage equal to $30.8%$ of maximum Mental value for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$67.2%$。并且Mental在100%以上时，洗手牌，获得$168倍$跳心的技能心心，本场Live中，防止最大mental值$30.8%$的mental消耗。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -97045,6 +98046,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$72%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$180回分$のスキルハートを獲得、それぞれ3回の間さやかが使用するラブアトラクト効果を$+480%$、ボルテージゲイン効果を$+180%$、デッキ内のさやかのスキルの消費APを-8し、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restores Mental by $72%$ of maximum value. Additionally, when Mental is at 100% or above, shuffle your hand, gain Skill Hearts equivalent to $180 beats$, increase Love Attract effects used by Sayaka by $+480%$ for 3 times each, increase Voltage Gain effects by $+180%$, reduce AP cost of Sayaka's skills in deck by -8, and decrease Mental by a fixed 99% of maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$72%$。并且Mental在100%以上时，洗手牌，获得$180倍$跳心的技能心心，沙耶香接下来分别3次使用的LOVE+效果$+480%$，获得Vo Pt.效果$+180%$，卡组中沙耶香的技能消费AP-8，失去最大mental值的99%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$72%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$180回分$のスキルハートを獲得し、このステージ中、メンタルの最大値の$33%$分のメンタルダメージを無効にする。",
+    "translation": {
+      "en": {
+        "text": "Restores Mental by $72%$ of maximum value. Additionally, when Mental is at 100% or above, shuffle your hand, gain Skill Hearts equivalent to $180 beats$, and nullify Mental damage equal to $33%$ of maximum Mental value for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$72%$。并且Mental在100%以上时，洗手牌，获得$180倍$跳心的技能心心，本场Live中，防止最大mental值$33%$的mental消耗。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$73.92%$回復させる。さらにメンタルが100%のとき、このセクション中、ビートハートの出現個数を$+6$する。",
     "translation": {
       "zh-CN": {
@@ -97054,6 +98081,32 @@
       "en": {
         "text": "Restores Mental by $73.92%$ of maximum value. Additionally, when Mental is at 100%, increases the number of Beat Hearts that appear by $+6$ during this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$76.8%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$192回分$のスキルハートを獲得、それぞれ3回の間さやかが使用するラブアトラクト効果を$+512%$、ボルテージゲイン効果を$+192%$、デッキ内のさやかのスキルの消費APを-8し、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restores Mental by $76.8%$ of maximum value. Additionally, when Mental is at 100% or above, shuffle your hand, gain Skill Hearts equivalent to $192 beats$, increase Love Attract effects used by Sayaka by $+512%$ for 3 times each, increase Voltage Gain effects by $+192%$, reduce AP cost of Sayaka's skills in deck by -8, and decrease Mental by a fixed 99% of maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$76.8%$。并且Mental在100%以上时，洗手牌，获得$192倍$跳心的技能心心，沙耶香接下来分别3次使用的LOVE+效果$+512%$，获得Vo Pt.效果$+192%$，卡组中沙耶香的技能消费AP-8，失去最大mental值的99%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$76.8%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$192回分$のスキルハートを獲得し、このステージ中、メンタルの最大値の$35.2%$分のメンタルダメージを無効にする。",
+    "translation": {
+      "en": {
+        "text": "Restores Mental by $76.8%$ of maximum value. Additionally, when Mental is at 100% or above, shuffle your hand, gain Skill Hearts equivalent to $192 beats$, and nullify Mental damage equal to $35.2%$ of maximum Mental value for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$76.8%$。并且Mental在100%以上时，洗手牌，获得$192倍$跳心的技能心心，本场Live中，防止最大mental值$35.2%$的mental消耗。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -97656,6 +98709,58 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$81.6%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$204回分$のスキルハートを獲得、それぞれ3回の間さやかが使用するラブアトラクト効果を$+544%$、ボルテージゲイン効果を$+204%$、デッキ内のさやかのスキルの消費APを-8し、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restores Mental by $81.6%$ of maximum value. Additionally, when Mental is at 100% or above, shuffle your hand, gain Skill Hearts equivalent to $204 beats$, increase Love Attract effects used by Sayaka by $+544%$ for 3 times each, increase Voltage Gain effects by $+204%$, reduce AP cost of Sayaka's skills in deck by -8, and decrease Mental by a fixed 99% of maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$81.6%$。并且Mental在100%以上时，洗手牌，获得$204倍$跳心的技能心心，沙耶香接下来分别3次使用的LOVE+效果$+544%$，获得Vo Pt.效果$+204%$，卡组中沙耶香的技能消费AP-8，失去最大mental值的99%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$81.6%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$204回分$のスキルハートを獲得し、このステージ中、メンタルの最大値の$37.4%$分のメンタルダメージを無効にする。",
+    "translation": {
+      "en": {
+        "text": "Restores Mental by $81.6%$ of maximum value. Additionally, when Mental is at 100% or above, shuffle your hand, gain Skill Hearts equivalent to $204 beats$, and nullify Mental damage equal to $37.4%$ of maximum Mental value for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$81.6%$。并且Mental在100%以上时，洗手牌，获得$204倍$跳心的技能心心，本场Live中，防止最大mental值$37.4%$的mental消耗。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$86.4%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$216回分$のスキルハートを獲得、それぞれ3回の間さやかが使用するラブアトラクト効果を$+576%$、ボルテージゲイン効果を$+216%$、デッキ内のさやかのスキルの消費APを-8し、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restores Mental by $86.4%$ of maximum value. Additionally, when Mental is at 100% or above, shuffle your hand, gain Skill Hearts equivalent to $216 beats$, increase Love Attract effects used by Sayaka by $+576%$ for 3 times each, increase Voltage Gain effects by $+216%$, reduce AP cost of Sayaka's skills in deck by -8, and decrease Mental by a fixed 99% of maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$86.4%$。并且Mental在100%以上时，洗手牌，获得$216倍$跳心的技能心心，沙耶香接下来分别3次使用的LOVE+效果$+576%$，获得Vo Pt.效果$+216%$，卡组中沙耶香的技能消费AP-8，失去最大mental值的99%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$86.4%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$216回分$のスキルハートを獲得し、このステージ中、メンタルの最大値の$39.6%$分のメンタルダメージを無効にする。",
+    "translation": {
+      "en": {
+        "text": "Restores Mental by $86.4%$ of maximum value. Additionally, when Mental is at 100% or above, shuffle your hand, gain Skill Hearts equivalent to $216 beats$, and nullify Mental damage equal to $39.6%$ of maximum Mental value for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$86.4%$。并且Mental在100%以上时，洗手牌，获得$216倍$跳心的技能心心，本场Live中，防止最大mental值$39.6%$的mental消耗。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$88%$回復させる。さらにメンタルが100%のとき、このセクション中、ビートハートの出現個数を$+8$する。",
     "translation": {
       "zh-CN": {
@@ -98016,6 +99121,32 @@
       "en": {
         "text": "Restore Mental by $9.68%$ of max value. Additionally, when Mental is 100% or higher, prevent Mental damage equal to $13.2%$ of max Mental value during this stage.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$96%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$240回分$のスキルハートを獲得、それぞれ3回の間さやかが使用するラブアトラクト効果を$+640%$、ボルテージゲイン効果を$+240%$、デッキ内のさやかのスキルの消費APを-8し、メンタルを最大値の99％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Restores Mental by $96%$ of maximum value. Additionally, when Mental is at 100% or above, shuffle your hand, gain Skill Hearts equivalent to $240 beats$, increase Love Attract effects used by Sayaka by $+640%$ for 3 times each, increase Voltage Gain effects by $+240%$, reduce AP cost of Sayaka's skills in deck by -8, and decrease Mental by a fixed 99% of maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$96%$。并且Mental在100%以上时，洗手牌，获得$240倍$跳心的技能心心，沙耶香接下来分别3次使用的LOVE+效果$+640%$，获得Vo Pt.效果$+240%$，卡组中沙耶香的技能消费AP-8，失去最大mental值的99%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$96%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$240回分$のスキルハートを獲得し、このステージ中、メンタルの最大値の$44%$分のメンタルダメージを無効にする。",
+    "translation": {
+      "en": {
+        "text": "Restores Mental by $96%$ of maximum value. Additionally, when Mental is at 100% or above, shuffle your hand, gain Skill Hearts equivalent to $240 beats$, and nullify Mental damage equal to $44%$ of maximum Mental value for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大mental值的$96%$。并且Mental在100%以上时，洗手牌，获得$240倍$跳心的技能心心，本场Live中，防止最大mental值$44%$的mental消耗。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -102345,6 +103476,19 @@
       "en": {
         "text": "Shuffles hand and increases Voltage Pt. by $+98$. Additionally, when Mental is at 100%, gains Skill Hearts equivalent to $462$ Beat Hearts.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルする。さらにこのセクション中、AP回復速度を$+80%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand. Additionally, increase AP recovery speed by $+80%$ for this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "重置洗手牌。并且本小节中，AP回复速度$+80%$。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -121910,6 +123054,45 @@
       "en": {
         "text": "Skill AP cost reduction based on current Voltage Lv. (maximum -5)",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "現在の残りメンタルが多いほどスキルの消費APダウン(最大-10)。さらにドローしたとき、3回の間メンタルリカバー効果を+32%する。",
+    "translation": {
+      "en": {
+        "text": "Reduces skill AP cost based on current remaining Mental (up to -10). Additionally, when drawing, increase Mental Recovery effects by +32% for 3 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "当前剩余Mental越多，技能消费AP越低(最大-10)。并且抽到时，接下来3次Mental回复效果+32%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "現在の残りメンタルが多いほどスキルの消費APダウン(最大-10)。さらにメンタルが100%以上の時にドローすると、このセクション中、ビートハートの出現個数を+1する。",
+    "translation": {
+      "en": {
+        "text": "Reduces skill AP cost based on current remaining Mental (up to -10). Additionally, when drawing while Mental is at 100% or above, increase the number of Beat Hearts that appear by +1 for this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "当前剩余Mental越多，技能消费AP越低(最大-10)。并且Mental在100%以上时抽到时，本小节中，节奏心心的出现数量+1。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "現在の残りメンタルが多いほどスキルの消費APダウン(最大-20)。さらにスキル使用時3回まで、セルフィッシュフェザーカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "Reduces skill AP cost based on current remaining Mental (up to -20). Additionally, when using a skill, add 1 type of Selfish Feather card (1 card total) to the deck up to 3 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "当前剩余Mental越多，技能消费AP越低(最大-20)。并且使用技能时前3次，将1个种类的（共计1张）Selfish Feather Card加入牌库。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

@@ -10062,6 +10062,19 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】最大値の$20%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "en": {
+        "text": "[Activates at FEVER start] Reduces Mental by $20%$ of max value (Mental cannot reach 0 from this effect)",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】减少最大值$20%$的Mental（此效果不会使Mental变为0）",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】最大値の$20%$分のメンタルを減少（この効果ではメンタルが0にならない）／合計アピール値の$163.12%$のスコアを獲得",
     "translation": {
       "zh-CN": {
@@ -10114,6 +10127,19 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】最大値の$25%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "en": {
+        "text": "[Activates at FEVER start] Reduces Mental by $25%$ of max value (Mental cannot reach 0 from this effect)",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】减少最大值$25%$的Mental（此效果不会使Mental变为0）",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】最大値の$25%$分のメンタルを減少（この効果ではメンタルが0にならない）／合計アピール値の$217.5%$のスコアを獲得",
     "translation": {
       "zh-CN": {
@@ -10136,6 +10162,19 @@
       "en": {
         "text": "【Activated at FEVER start】Decrease Mental equal to $25%$ of max value (this effect will not reduce Mental to 0) / Gain score equal to $239.25%$ of total Appeal value",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】最大値の$30%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "en": {
+        "text": "[Activates at FEVER start] Reduces Mental by $30%$ of max value (Mental cannot reach 0 from this effect)",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】减少最大值$30%$的Mental（此效果不会使Mental变为0）",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -10166,6 +10205,32 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】最大値の$35%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "en": {
+        "text": "[Activates at FEVER start] Reduces Mental by $35%$ of max value (Mental cannot reach 0 from this effect)",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】减少最大值$35%$的Mental（此效果不会使Mental变为0）",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】最大値の$40%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "en": {
+        "text": "[Activates at FEVER start] Reduces Mental by $40%$ of max value (Mental cannot reach 0 from this effect)",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】减少最大值$40%$的Mental（此效果不会使Mental变为0）",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】最大値の$40%$分のメンタルを減少（この効果ではメンタルが0にならない）／合計アピール値の$326.25%$のスコアを獲得",
     "translation": {
       "zh-CN": {
@@ -10175,6 +10240,19 @@
       "en": {
         "text": "【Activated at FEVER start】Decrease Mental equal to $40%$ of max value (this effect will not reduce Mental to 0) / Gain score equal to $326.25%$ of total Appeal value",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】最大値の$45%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "en": {
+        "text": "[Activates at FEVER start] Reduces Mental by $45%$ of max value (Mental cannot reach 0 from this effect)",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】减少最大值$45%$的Mental（此效果不会使Mental变为0）",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -10240,6 +10318,32 @@
       "en": {
         "text": "【Activated at FEVER start】Recover Mental equal to $5%$ of max value / Gain score equal to $84.08%$ of total Appeal value / When Mental is 50% or more of max value, gain score equal to $117.71%$ of total Appeal value",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】最大値の$50%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "en": {
+        "text": "[Activates at FEVER start] Reduces Mental by $50%$ of max value (Mental cannot reach 0 from this effect)",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】减少最大值$50%$的Mental（此效果不会使Mental变为0）",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】最大値の$60%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "en": {
+        "text": "[Activates at FEVER start] Reduces Mental by $60%$ of max value (Mental cannot reach 0 from this effect)",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】减少最大值$60%$的Mental（此效果不会使Mental变为0）",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

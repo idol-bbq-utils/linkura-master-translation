@@ -49,6 +49,11 @@
             "Id": 1005009,
             "Description": "・集計期間中に開催されるライブグランプリ",
             "TermTitle": "105期 3rd Term"
+        },
+        {
+            "Id": 1005010,
+            "Description": "105期 Special Term/Road to BloomではTerm Grade Pt.は集計されません",
+            "TermTitle": "105期 Special Term/Road to Bloom"
         }
     ]
 }

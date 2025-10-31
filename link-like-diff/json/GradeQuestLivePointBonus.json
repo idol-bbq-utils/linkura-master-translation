@@ -1052,6 +1052,38 @@
         {
             "Id": 1053304,
             "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1053401,
+            "Description": "AUTUMN LIMITED"
+        },
+        {
+            "Id": 1053402,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1053403,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1053404,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1053501,
+            "Description": "AUTUMN LIMITED"
+        },
+        {
+            "Id": 1053502,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1053503,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1053504,
+            "Description": "レアリティ：DR"
         }
     ]
 }

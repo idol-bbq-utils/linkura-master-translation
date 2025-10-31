@@ -2938,6 +2938,45 @@
     }
   },
   {
+    "raw": "[はじまりの羽音]安養寺 姫芽 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[The First Wingbeat] Hime Anyoji Release Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[起始的羽音]安养寺姬芽 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[はじまりの羽音]徒町 小鈴 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[The First Wingbeat] Kosuzu Kachimachi Release Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[起始的羽音]徒町小铃 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[はじまりの羽音]村野 さやか 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[The First Wingbeat] Sayaka Murano Release Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[起始的羽音]村野沙耶香 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[みらくりえーしょん/雅]安養寺 姫芽 解放Pt.",
     "translation": {
       "zh-CN": {

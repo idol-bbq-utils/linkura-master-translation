@@ -1092,6 +1092,19 @@
     }
   },
   {
+    "raw": "メイン効果がメンタルプロテクトのスキルの消費APを+5する。",
+    "translation": {
+      "en": {
+        "text": "Increases the AP cost of skills with Mental Protect as the main effect by +5.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "主效果为Mental保护的技能消耗AP+5。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メイン効果がメンタルプロテクトのスキルの消費APを-5する。",
     "translation": {
       "zh-CN": {

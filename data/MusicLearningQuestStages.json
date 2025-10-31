@@ -676,6 +676,19 @@
     }
   },
   {
+    "raw": "『はじまりの羽音』",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "『みらくりえーしょん』",
     "translation": {
       "zh-CN": {
@@ -2321,6 +2334,19 @@
         "author": ""
       },
       "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "はじまりの羽音",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
         "text": "",
         "author": ""
       }

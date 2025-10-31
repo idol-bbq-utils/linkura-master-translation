@@ -403,6 +403,19 @@
     }
   },
   {
+    "raw": "スキルを3回使用するたび、ボルテージを+5000し、山札が切れるたび、ボルテージを-2000する。",
+    "translation": {
+      "en": {
+        "text": "Each time you use a skill 3 times, increase Voltage by +5000, and each time the deck runs out, decrease Voltage by -2000.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "每使用3次技能，Voltage+5000，每次牌组用尽时，Voltage-2000。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "スキルを3回使用するたび、ボルテージを-60する。",
     "translation": {
       "zh-CN": {
@@ -884,6 +897,19 @@
     }
   },
   {
+    "raw": "ステージ開始時、デッキの全てのカードの消費APをステージ中常に-2し、また山札が切れるたび、APが5減少する。",
+    "translation": {
+      "en": {
+        "text": "At the start of the stage, permanently reduce the AP cost of all cards in the deck by -2 for the duration of the stage, and each time the deck runs out, AP decreases by 5.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "舞台开始时，卡组中所有卡牌的消耗AP在舞台中始终-2，并且每次牌组用尽时，AP减少5。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ステージ開始時、デッキの全てのカードの消費APをステージ中常に-2し、また山札が切れるたび、メンタルを最大値の25%減少する。",
     "translation": {
       "zh-CN": {
@@ -1049,6 +1075,19 @@
       "en": {
         "text": "Each time a skill whose main effect is token card addition is used, increase Voltage by +20000, and reduce Voltage by -2000 each time the deck runs out.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メイン効果がトークンカード追加のスキルを使用するたび、ボルテージを+10000し、スキルを20回使用するたび、メイン効果がリシャッフルであるデッキの全てのカードの消費APをステージ中常に+1する。",
+    "translation": {
+      "en": {
+        "text": "Each time you use a skill whose main effect is to add a token card, increase Voltage by +10000, and each time you use a skill 20 times, permanently increase the AP cost of all cards in the deck whose main effect is reshuffle by +1 for the duration of the stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "每次使用主效果为追加Token卡牌的技能时，Voltage+10000，每使用20次技能时，卡组中所有主效果为重洗的卡牌的消耗AP在舞台中始终+1。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
