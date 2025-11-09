@@ -3640,6 +3640,19 @@
     }
   },
   {
+    "raw": "ガランドTrash",
+    "translation": {
+      "en": {
+        "text": "Garand Trash",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "加兰德Trash",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "ガールズポエトリー",
     "translation": {
       "en": {
@@ -8203,6 +8216,19 @@
     }
   },
   {
+    "raw": "ドンビーシャイ",
+    "translation": {
+      "en": {
+        "text": "Donbee Shy",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "Don't be Shy",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "ナイトクイーン",
     "translation": {
       "en": {
@@ -11176,6 +11202,32 @@
       "en": {
         "text": "Late Draw: 4/AP Reduce",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ロマンハート",
+    "translation": {
+      "en": {
+        "text": "Roman Heart",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "浪漫之心",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "ロマンプロテクション",
+    "translation": {
+      "en": {
+        "text": "Roman Protection",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "浪漫防护",
+        "author": "deepseek-chat"
       }
     }
   },

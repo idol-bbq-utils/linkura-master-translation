@@ -2145,6 +2145,19 @@
     }
   },
   {
+    "raw": "[Poupée en Lotus]百生 吟子 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[Poupée en Lotus] Momose Ginko Liberation Pt.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "[Poupée en Lotus]百生 吟子 解放Pt.",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "[Prism Echo]乙宗 梢 解放Pt.",
     "translation": {
       "zh-CN": {
@@ -3389,6 +3402,32 @@
       "en": {
         "text": "[Aurora Sky] Megumi Fujishima Unlock Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[ガランドFlash]徒町 小鈴 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[Garland Flash] Kachimachi Kosuzu Liberation Pt.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "[Garland Flash]徒町 小铃 解放Pt.",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "[ガランドFlash]村野 さやか 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[Garland Flash] Murano Sayaka Liberation Pt.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "Garland Flash]村野 沙耶香 解放Pt.",
+        "author": "deepseek-chat"
       }
     }
   },

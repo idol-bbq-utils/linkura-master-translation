@@ -4486,6 +4486,21 @@
             "Description": "DOLLCHESTRAに所属するメンバーのアピール値が200％上昇"
         },
         {
+            "Id": 20325321,
+            "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
+            "Description": "DOLLCHESTRAに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20325322,
+            "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
+            "Description": "DOLLCHESTRAに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20325323,
+            "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
+            "Description": "DOLLCHESTRAに所属するメンバーのアピール値が200％上昇"
+        },
+        {
             "Id": 20328011,
             "CenterAttributeName": "アピールアップ（DOLLCHESTRA）&APレデュース&CTレデュース",
             "Description": "DOLLCHESTRAに所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少"
@@ -5576,6 +5591,21 @@
             "Description": "スリーズブーケに所属するメンバーのアピール値が150％上昇"
         },
         {
+            "Id": 20414041,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が54％上昇"
+        },
+        {
+            "Id": 20414042,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が54％上昇"
+        },
+        {
+            "Id": 20414043,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が54％上昇"
+        },
+        {
             "Id": 20415011,
             "CenterAttributeName": "アピールアップ",
             "Description": "全メンバーのアピール値が80％上昇"
@@ -6352,6 +6382,21 @@
         },
         {
             "Id": 20425183,
+            "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
+            "Description": "DOLLCHESTRAに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20425191,
+            "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
+            "Description": "DOLLCHESTRAに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20425192,
+            "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
+            "Description": "DOLLCHESTRAに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20425193,
             "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
             "Description": "DOLLCHESTRAに所属するメンバーのアピール値が200％上昇"
         },

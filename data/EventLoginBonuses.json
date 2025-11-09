@@ -221,6 +221,19 @@
     }
   },
   {
+    "raw": "5th Live Tour ～4Pair Power Spread!!!!～ DOLLCHESTRA presents Diamond Stage 開催記念プレゼント！",
+    "translation": {
+      "en": {
+        "text": "5th Live Tour ~4Pair Power Spread!!!!~ DOLLCHESTRA presents Diamond Stage Commemorative Gift!",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "5th Live Tour ～4Pair Power Spread!!!!～ DOLLCHESTRA presents Diamond Stage 举办纪念礼物！",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "5th Live Tour ～4Pair Power Spread!!!!～ みらくらぱーく！ presents Heart Stage 開催記念プレゼント！",
     "translation": {
       "zh-CN": {
@@ -286,6 +299,19 @@
     }
   },
   {
+    "raw": "GiGO×fanfancy+ ログインキャンペーン",
+    "translation": {
+      "en": {
+        "text": "GiGO × fanfancy+ Login Campaign",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "GiGO×fanfancy+ 登录活动",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "Grade Live オープン記念！育成応援ログインキャンペーン！",
     "translation": {
       "zh-CN": {
@@ -334,6 +360,19 @@
       "en": {
         "text": "Now or Never Link-Like! 1.5th Anniversary Memorial Login Bonus",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "POP UP SHOP ～チャイナコレクション～ 開催記念ログインキャンペーン",
+    "translation": {
+      "en": {
+        "text": "POP UP SHOP ~China Collection~ Commemorative Login Campaign",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "POP UP SHOP ～中华收藏～ 举办纪念登录活动",
+        "author": "deepseek-chat"
       }
     }
   },

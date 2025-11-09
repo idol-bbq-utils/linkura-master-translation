@@ -1385,6 +1385,27 @@
             "ReleaseConditionText": "初めから習得"
         },
         {
+            "Id": 405120,
+            "Title": "ガランドFlash",
+            "TitleFurigana": "がらんどふらっしゅ",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 405121,
+            "Title": "平成ギャルズ!!!!",
+            "TitleFurigana": "へいせいぎゃるず",
+            "Description": "シャッフルユニット",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 405122,
+            "Title": "ちょ、尊いLOVE",
+            "TitleFurigana": "ちょとうといらぶ",
+            "Description": "シャッフルユニット",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
             "Id": 405301,
             "Title": "虹色Passions!",
             "TitleFurigana": "にじいろぱっしょんず",

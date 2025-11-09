@@ -585,6 +585,32 @@
     }
   },
   {
+    "raw": "AP減少&スコア獲得量アップ&スコアアップ",
+    "translation": {
+      "en": {
+        "text": "AP Reduction & Score Acquisition Increase & Score Increase",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "AP减少&获得分数量提升&分数提升",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "AP減少&ボルテージ獲得量アップ&ボルテージゲイン",
+    "translation": {
+      "en": {
+        "text": "AP Reduction & Voltage Acquisition Increase & Voltage Gain",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "AP减少&获得Voltage量提升&获得Voltage",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "このカードのスキル発動回数が1回以下の時、APを$10$回復／このカードのスキル発動回数が2回以上の時、APを$20$減少／ボルテージLv.が10以上の時、このカードを除外する",
     "translation": {
       "en": {
@@ -2752,6 +2778,370 @@
       "en": {
         "text": "When this card's skill activation count is 4 or more, gain score equal to $482.11%$ of total appeal value / Gain score equal to $74.52%$ of total appeal value",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$173.25%$上昇／このカードのスキル発動回数が6回以上の時、合計アピール値の$420%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the score acquisition effect skill increases score acquisition by $173.25%$ for one turn / When this card's skill activation count is 6 or more, acquire a score equal to $420%$ of the total Appeal Value",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得分数效果技能获得的分数值单次提升$173.25%$／此卡技能发动6次以上时，获得总分值$420%$的分数",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$190.57%$上昇／このカードのスキル発動回数が6回以上の時、合計アピール値の$462%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the score acquisition effect skill increases score acquisition by $190.57%$ for one turn / When this card's skill activation count is 6 or more, acquire a score equal to $462%$ of the total Appeal Value",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得分数效果技能获得的分数值单次提升$190.57%$／此卡技能发动6次以上时，获得总分值$462%$的分数",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$207.9%$上昇／このカードのスキル発動回数が6回以上の時、合計アピール値の$504%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the score acquisition effect skill increases score acquisition by $207.9%$ for one turn / When this card's skill activation count is 6 or more, acquire a score equal to $504%$ of the total Appeal Value",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得分数效果技能获得的分数值单次提升$207.9%$／此卡技能发动6次以上时，获得总分值$504%$的分数",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$225.22%$上昇／このカードのスキル発動回数が6回以上の時、合計アピール値の$546%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the score acquisition effect skill increases score acquisition by $225.22%$ for one turn / When this card's skill activation count is 6 or more, acquire a score equal to $546%$ of the total Appeal Value",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得分数效果技能获得的分数值单次提升$225.22%$／此卡技能发动6次以上时，获得总分值$546%$的分数",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$242.55%$上昇／このカードのスキル発動回数が6回以上の時、合計アピール値の$588%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the score acquisition effect skill increases score acquisition by $242.55%$ for one turn / When this card's skill activation count is 6 or more, acquire a score equal to $588%$ of the total Appeal Value",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得分数效果技能获得的分数值单次提升$242.55%$／此卡技能发动6次以上时，获得总分值$588%$的分数",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$259.87%$上昇／このカードのスキル発動回数が6回以上の時、合計アピール値の$630%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the score acquisition effect skill increases score acquisition by $259.87%$ for one turn / When this card's skill activation count is 6 or more, acquire a score equal to $630%$ of the total Appeal Value",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得分数效果技能获得的分数值单次提升$259.87%$／此卡技能发动6次以上时，获得总分值$630%$的分数",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$277.2%$上昇／このカードのスキル発動回数が6回以上の時、合計アピール値の$672%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the score acquisition effect skill increases score acquisition by $277.2%$ for one turn / When this card's skill activation count is 6 or more, acquire a score equal to $672%$ of the total Appeal Value",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得分数效果技能获得的分数值单次提升$277.2%$／此卡技能发动6次以上时，获得总分值$672%$的分数",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$294.52%$上昇／このカードのスキル発動回数が6回以上の時、合計アピール値の$714%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the score acquisition effect skill increases score acquisition by $294.52%$ for one turn / When this card's skill activation count is 6 or more, acquire a score equal to $714%$ of the total Appeal Value",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得分数效果技能获得的分数值单次提升$294.52%$／此卡技能发动6次以上时，获得总分值$714%$的分数",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$311.85%$上昇／このカードのスキル発動回数が6回以上の時、合計アピール値の$756%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the score acquisition effect skill increases score acquisition by $311.85%$ for one turn / When this card's skill activation count is 6 or more, acquire a score equal to $756%$ of the total Appeal Value",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得分数效果技能获得的分数值单次提升$311.85%$／此卡技能发动6次以上时，获得总分值$756%$的分数",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$346.5%$上昇／このカードのスキル発動回数が6回以上の時、合計アピール値の$840%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the score acquisition effect skill increases score acquisition by $346.5%$ for one turn / When this card's skill activation count is 6 or more, acquire a score equal to $840%$ of the total Appeal Value",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得分数效果技能获得的分数值单次提升$346.5%$／此卡技能发动6次以上时，获得总分值$840%$的分数",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$381.15%$上昇／このカードのスキル発動回数が6回以上の時、合計アピール値の$924%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the score acquisition effect skill increases score acquisition by $381.15%$ for one turn / When this card's skill activation count is 6 or more, acquire a score equal to $924%$ of the total Appeal Value",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得分数效果技能获得的分数值单次提升$381.15%$／此卡技能发动6次以上时，获得总分值$924%$的分数",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$415.8%$上昇／このカードのスキル発動回数が6回以上の時、合計アピール値の$1008%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the score acquisition effect skill increases score acquisition by $415.8%$ for one turn / When this card's skill activation count is 6 or more, acquire a score equal to $1008%$ of the total Appeal Value",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得分数效果技能获得的分数值单次提升$415.8%$／此卡技能发动6次以上时，获得总分值$1008%$的分数",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$450.45%$上昇／このカードのスキル発動回数が6回以上の時、合計アピール値の$1092%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the score acquisition effect skill increases score acquisition by $450.45%$ for one turn / When this card's skill activation count is 6 or more, acquire a score equal to $1092%$ of the total Appeal Value",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得分数效果技能获得的分数值单次提升$450.45%$／此卡技能发动6次以上时，获得总分值$1092%$的分数",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$519.75%$上昇／このカードのスキル発動回数が6回以上の時、合計アピール値の$1260%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the score acquisition effect skill increases score acquisition by $519.75%$ for one turn / When this card's skill activation count is 6 or more, acquire a score equal to $1260%$ of the total Appeal Value",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得分数效果技能获得的分数值单次提升$519.75%$／此卡技能发动6次以上时，获得总分值$1260%$的分数",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$173.25%$上昇／このカードのスキル発動回数が6回以上の時、ボルテージPt.を$350pt$獲得／このカードのスキル発動回数が6回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the score acquisition effect skill increases score acquisition by $173.25%$ for one turn / When this card's skill activation count is 6 or more, acquire $350pt$ of Voltage Points / When this card's skill activation count is 6 or more, remove this card from play",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得Voltage效果技能的Voltage获得量单次提升$173.25%$／此卡技能发动6次以上时，获得Vo Pt.$350pt$／此卡技能发动6次以上时，移除此卡",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$190.57%$上昇／このカードのスキル発動回数が6回以上の時、ボルテージPt.を$385pt$獲得／このカードのスキル発動回数が6回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the voltage acquisition effect skill increases voltage acquisition by $190.57%$ for one turn / When this card's skill activation count is 6 or more, acquire $385pt$ of Voltage Points / When this card's skill activation count is 6 or more, remove this card from play",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得Voltage效果技能的Voltage获得量单次提升$190.57%$／此卡技能发动6次以上时，获得Vo Pt.$385pt$／此卡技能发动6次以上时，移除此卡",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$207.9%$上昇／このカードのスキル発動回数が6回以上の時、ボルテージPt.を$420pt$獲得／このカードのスキル発動回数が6回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the voltage acquisition effect skill increases voltage acquisition by $207.9%$ for one turn / When this card's skill activation count is 6 or more, acquire $420pt$ of Voltage Points / When this card's skill activation count is 6 or more, remove this card from play",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得Voltage效果技能的Voltage获得量单次提升$207.9%$／此卡技能发动6次以上时，获得Vo Pt.$420pt$／此卡技能发动6次以上时，移除此卡",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$225.22%$上昇／このカードのスキル発動回数が6回以上の時、ボルテージPt.を$455pt$獲得／このカードのスキル発動回数が6回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the voltage acquisition effect skill increases voltage acquisition by $225.22%$ for one turn / When this card's skill activation count is 6 or more, acquire $455pt$ of Voltage Points / When this card's skill activation count is 6 or more, remove this card from play",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得Voltage效果技能的Voltage获得量单次提升$225.22%$／此卡技能发动6次以上时，获得Vo Pt.$455pt$／此卡技能发动6次以上时，移除此卡",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$242.55%$上昇／このカードのスキル発動回数が6回以上の時、ボルテージPt.を$490pt$獲得／このカードのスキル発動回数が6回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the voltage acquisition effect skill increases voltage acquisition by $242.55%$ for one turn / When this card's skill activation count is 6 or more, acquire $490pt$ of Voltage Points / When this card's skill activation count is 6 or more, remove this card from play",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得Voltage效果技能的Voltage获得量单次提升$242.55%$／此卡技能发动6次以上时，获得Vo Pt.$490pt$／此卡技能发动6次以上时，移除此卡",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$259.87%$上昇／このカードのスキル発動回数が6回以上の時、ボルテージPt.を$525pt$獲得／このカードのスキル発動回数が6回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the voltage acquisition effect skill increases voltage acquisition by $259.87%$ for one turn / When this card's skill activation count is 6 or more, acquire $525pt$ of Voltage Points / When this card's skill activation count is 6 or more, remove this card from play",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得Voltage效果技能的Voltage获得量单次提升$259.87%$／此卡技能发动6次以上时，获得Vo Pt.$525pt$／此卡技能发动6次以上时，移除此卡",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$277.2%$上昇／このカードのスキル発動回数が6回以上の時、ボルテージPt.を$560pt$獲得／このカードのスキル発動回数が6回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the voltage acquisition effect skill increases voltage acquisition by $277.2%$ for one turn / When this card's skill activation count is 6 or more, acquire $560pt$ of Voltage Points / When this card's skill activation count is 6 or more, remove this card from play",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得Voltage效果技能的Voltage获得量单次提升$277.2%$／此卡技能发动6次以上时，获得Vo Pt.$560pt$／此卡技能发动6次以上时，移除此卡",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$294.52%$上昇／このカードのスキル発動回数が6回以上の時、ボルテージPt.を$595pt$獲得／このカードのスキル発動回数が6回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the voltage acquisition effect skill increases voltage acquisition by $294.52%$ for one turn / When this card's skill activation count is 6 or more, acquire $595pt$ of Voltage Points / When this card's skill activation count is 6 or more, remove this card from play",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得Voltage效果技能的Voltage获得量单次提升$294.52%$／此卡技能发动6次以上时，获得Vo Pt.$595pt$／此卡技能发动6次以上时，移除此卡",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$311.85%$上昇／このカードのスキル発動回数が6回以上の時、ボルテージPt.を$630pt$獲得／このカードのスキル発動回数が6回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the voltage acquisition effect skill increases voltage acquisition by $311.85%$ for one turn / When this card's skill activation count is 6 or more, acquire $630pt$ of Voltage Points / When this card's skill activation count is 6 or more, remove this card from play",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得Voltage效果技能的Voltage获得量单次提升$311.85%$／此卡技能发动6次以上时，获得Vo Pt.$630pt$／此卡技能发动6次以上时，移除此卡",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$346.5%$上昇／このカードのスキル発動回数が6回以上の時、ボルテージPt.を$700pt$獲得／このカードのスキル発動回数が6回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the voltage acquisition effect skill increases voltage acquisition by $346.5%$ for one turn / When this card's skill activation count is 6 or more, acquire $700pt$ of Voltage Points / When this card's skill activation count is 6 or more, remove this card from play",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得Voltage效果技能的Voltage获得量单次提升$346.5%$／此卡技能发动6次以上时，获得Vo Pt.$700pt$／此卡技能发动6次以上时，移除此卡",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$381.15%$上昇／このカードのスキル発動回数が6回以上の時、ボルテージPt.を$770pt$獲得／このカードのスキル発動回数が6回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the voltage acquisition effect skill increases voltage acquisition by $381.15%$ for one turn / When this card's skill activation count is 6 or more, acquire $770pt$ of Voltage Points / When this card's skill activation count is 6 or more, remove this card from play",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得Voltage效果技能的Voltage获得量单次提升$381.15%$／此卡技能发动6次以上时，获得Vo Pt.$770pt$／此卡技能发动6次以上时，移除此卡",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$415.8%$上昇／このカードのスキル発動回数が6回以上の時、ボルテージPt.を$840pt$獲得／このカードのスキル発動回数が6回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the voltage acquisition effect skill increases voltage acquisition by $415.8%$ for one turn / When this card's skill activation count is 6 or more, acquire $840pt$ of Voltage Points / When this card's skill activation count is 6 or more, remove this card from play",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得Voltage效果技能的Voltage获得量单次提升$415.8%$／此卡技能发动6次以上时，获得Vo Pt.$840pt$／此卡技能发动6次以上时，移除此卡",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$450.45%$上昇／このカードのスキル発動回数が6回以上の時、ボルテージPt.を$910pt$獲得／このカードのスキル発動回数が6回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the voltage acquisition effect skill increases voltage acquisition by $450.45%$ for one turn / When this card's skill activation count is 6 or more, acquire $910pt$ of Voltage Points / When this card's skill activation count is 6 or more, remove this card from play",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得Voltage效果技能的Voltage获得量单次提升$450.45%$／此卡技能发动6次以上时，获得Vo Pt.$910pt$／此卡技能发动6次以上时，移除此卡",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が5回以下の時、APを$10$減少／このカードのスキル発動回数が5回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$519.75%$上昇／このカードのスキル発動回数が6回以上の時、ボルテージPt.を$1050pt$獲得／このカードのスキル発動回数が6回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 5 or less, reduce AP by $10$ / When this card's skill activation count is 5 or less, the voltage acquisition effect skill increases voltage acquisition by $519.75%$ for one turn / When this card's skill activation count is 6 or more, acquire $1050pt$ of Voltage Points / When this card's skill activation count is 6 or more, remove this card from play",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动5次以下时，AP减少$10$／此卡技能发动5次以下时，获得Voltage效果技能的Voltage获得量单次提升$519.75%$／此卡技能发动6次以上时，获得Vo Pt.$1050pt$／此卡技能发动6次以上时，移除此卡",
+        "author": "deepseek-chat"
       }
     }
   },
@@ -39169,6 +39559,19 @@
     }
   },
   {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$117.45%$上昇／最大値の$5%$分のメンタルを回復",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $117.45%$ for one turn / Restore $5%$ of the maximum value to Mental",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$117.45%$／回复最大值的$5%$的Mental",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$118.12%$上昇／メンタルが最大値の10％以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$118.12%$上昇／メンタルが最大値の10％以下の時、APを10回復／最大値の$50%$分のメンタルを減少（この効果ではメンタルが0にならない）",
     "translation": {
       "zh-CN": {
@@ -39195,6 +39598,19 @@
     }
   },
   {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$129.19%$上昇／最大値の$5%$分のメンタルを回復",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $129.19%$ for one turn / Restore $5%$ of the maximum value to Mental",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$129.19%$／回复最大值的$5%$的Mental",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$135%$上昇／メンタルが最大値の10％以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$135%$上昇／メンタルが最大値の10％以下の時、APを10回復／最大値の$50%$分のメンタルを減少（この効果ではメンタルが0にならない）",
     "translation": {
       "zh-CN": {
@@ -39204,6 +39620,19 @@
       "en": {
         "text": "When Mental is 10% or below maximum value, score gain from score acquisition effect skills increases by $135%$ for 1 time / When Mental is 10% or below maximum value, voltage gain from voltage acquisition effect skills increases by $135%$ for 1 time / When Mental is 10% or below maximum value, recover 10 AP / Reduce Mental by $50%$ of maximum value (Mental cannot reach 0 with this effect)",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$140.94%$上昇／最大値の$5%$分のメンタルを回復",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $140.94%$ for one turn / Restore $5%$ of the maximum value to Mental",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$140.94%$／回复最大值的$5%$的Mental",
+        "author": "deepseek-chat"
       }
     }
   },
@@ -39234,6 +39663,32 @@
     }
   },
   {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$152.68%$上昇／最大値の$5%$分のメンタルを回復",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $152.68%$ for one turn / Restore $5%$ of the maximum value to Mental",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$152.68%$／回复最大值的$5%$的Mental",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$164.43%$上昇／最大値の$5%$分のメンタルを回復",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $164.43%$ for one turn / Restore $5%$ of the maximum value to Mental",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$164.43%$／回复最大值的$5%$的Mental",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$168.75%$上昇／メンタルが最大値の10％以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$168.75%$上昇／メンタルが最大値の10％以下の時、APを10回復／最大値の$50%$分のメンタルを減少（この効果ではメンタルが0にならない）",
     "translation": {
       "zh-CN": {
@@ -39243,6 +39698,19 @@
       "en": {
         "text": "When Mental is 10% or below maximum value, score gain from score acquisition effect skills increases by $168.75%$ for 1 time / When Mental is 10% or below maximum value, voltage gain from voltage acquisition effect skills increases by $168.75%$ for 1 time / When Mental is 10% or below maximum value, recover 10 AP / Reduce Mental by $50%$ of maximum value (Mental cannot reach 0 with this effect)",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$176.17%$上昇／最大値の$5%$分のメンタルを回復",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $176.17%$ for one turn / Restore $5%$ of the maximum value to Mental",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$176.17%$／回复最大值的$5%$的Mental",
+        "author": "deepseek-chat"
       }
     }
   },
@@ -39260,6 +39728,32 @@
     }
   },
   {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$187.92%$上昇／最大値の$5%$分のメンタルを回復",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $187.92%$ for one turn / Restore $5%$ of the maximum value to Mental",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$187.92%$／回复最大值的$5%$的Mental",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$199.66%$上昇／最大値の$5%$分のメンタルを回復",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $199.66%$ for one turn / Restore $5%$ of the maximum value to Mental",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$199.66%$／回复最大值的$5%$的Mental",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$202.5%$上昇／メンタルが最大値の10％以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$202.5%$上昇／メンタルが最大値の10％以下の時、APを10回復／最大値の$50%$分のメンタルを減少（この効果ではメンタルが0にならない）",
     "translation": {
       "zh-CN": {
@@ -39269,6 +39763,19 @@
       "en": {
         "text": "When Mental is 10% or below maximum value, score gain from score acquisition effect skills increases by $202.5%$ for 1 time / When Mental is 10% or below maximum value, voltage gain from voltage acquisition effect skills increases by $202.5%$ for 1 time / When Mental is 10% or below maximum value, recover 10 AP / Reduce Mental by $50%$ of maximum value (Mental cannot reach 0 with this effect)",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$211.41%$上昇／最大値の$5%$分のメンタルを回復",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $211.41%$ for one turn / Restore $5%$ of the maximum value to Mental",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$211.41%$／回复最大值的$5%$的Mental",
+        "author": "deepseek-chat"
       }
     }
   },
@@ -39286,6 +39793,19 @@
     }
   },
   {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$234.9%$上昇／最大値の$5%$分のメンタルを回復",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $234.9%$ for one turn / Restore $5%$ of the maximum value to Mental",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$234.9%$／回复最大值的$5%$的Mental",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$253.12%$上昇／メンタルが最大値の10％以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$253.12%$上昇／メンタルが最大値の10％以下の時、APを10回復／最大値の$50%$分のメンタルを減少（この効果ではメンタルが0にならない）",
     "translation": {
       "zh-CN": {
@@ -39299,6 +39819,32 @@
     }
   },
   {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$258.39%$上昇／最大値の$5%$分のメンタルを回復",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $258.39%$ for one turn / Restore $5%$ of the maximum value to Mental",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$258.39%$／回复最大值的$5%$的Mental",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$281.88%$上昇／最大値の$5%$分のメンタルを回復",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $281.88%$ for one turn / Restore $5%$ of the maximum value to Mental",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$281.88%$／回复最大值的$5%$的Mental",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$286.87%$上昇／最大値の$25%$分のメンタルを回復",
     "translation": {
       "en": {
@@ -39308,6 +39854,19 @@
       "zh-CN": {
         "text": "Mental在最大值10%以下时，获得分数效果技能获得的分数值单次提升$286.87%$／回复最大值$25%$的Mental",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$305.37%$上昇／最大値の$5%$分のメンタルを回復",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $305.37%$ for one turn / Restore $5%$ of the maximum value to Mental",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$305.37%$／回复最大值的$5%$的Mental",
+        "author": "deepseek-chat"
       }
     }
   },
@@ -39334,6 +39893,19 @@
       "zh-CN": {
         "text": "Mental在最大值10%以下时，获得分数效果技能获得的分数值单次提升$344.25%$／回复最大值$25%$的Mental",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$352.35%$上昇／最大値の$5%$分のメンタルを回復",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $352.35%$ for one turn / Restore $5%$ of the maximum value to Mental",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$352.35%$／回复最大值的$5%$的Mental",
+        "author": "deepseek-chat"
       }
     }
   },

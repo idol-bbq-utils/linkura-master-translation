@@ -1014,6 +1014,19 @@
     }
   },
   {
+    "raw": "メイン効果がボルテージ増加のスキルの消費APを+3する。",
+    "translation": {
+      "en": {
+        "text": "Main effect increases the AP consumed by skills with Voltage increase by +3.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "使主要效果为增加Voltage的技能的消耗AP+3。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "メイン効果がボルテージ増加のスキルの消費APを-1する。",
     "translation": {
       "zh-CN": {
@@ -1140,6 +1153,19 @@
       "en": {
         "text": "Reduce AP cost of skills with Reshuffle as main effect by -1.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メイン効果がリシャッフルのスキルの消費APを-3する。",
+    "translation": {
+      "en": {
+        "text": "Main effect decreases the AP consumed by skills with Rishuffle by -3.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "使主要效果为重洗技能的消耗AP-3。",
+        "author": "deepseek-chat"
       }
     }
   },

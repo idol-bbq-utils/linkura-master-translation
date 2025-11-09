@@ -289,6 +289,11 @@
             "Id": 805107,
             "Name": "Live Grand Prix 105期3rdTerm 第2回 個人戦",
             "Description": "Live Grand Prix 105期3rdTerm 第2回 個人戦"
+        },
+        {
+            "Id": 805108,
+            "Name": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦",
+            "Description": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦"
         }
     ]
 }

@@ -481,6 +481,19 @@
     }
   },
   {
+    "raw": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th Term Special / Road to Bloom Individual Competition",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 第105期特别赛季/Road to Bloom 个人战",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "Live Grand Prix サークル対抗戦 -Exhibition-",
     "translation": {
       "zh-CN": {

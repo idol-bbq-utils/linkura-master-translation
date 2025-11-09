@@ -65,6 +65,19 @@
     }
   },
   {
+    "raw": "さやか、小鈴のスキルを使用するたび、ビートハート200回分ハートを獲得し、また山札が切れるたび、メンタルを現在値の50%減少する。",
+    "translation": {
+      "en": {
+        "text": "Sayaka gains 200 Beat Hearts each time she uses Kozue's skill, and her Mental decreases by 50% of its current value whenever the deck runs out.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "沙耶香每使用小铃的技能时，获得200次节拍心心的心脏，且每当牌库用完时，Mental值减少当前值的50%。",
+        "author": "qwen-mt-turbo"
+      }
+    }
+  },
+  {
     "raw": "アリーナ",
     "translation": {
       "zh-CN": {
@@ -871,6 +884,19 @@
     }
   },
   {
+    "raw": "ステージ開始時、デッキの全てのカードの消費APをステージ中常に+2し、メイン効果がメンタル回復のスキルを使用するたび、APを5回復する。",
+    "translation": {
+      "en": {
+        "text": "At stage start, all cards in the deck have their AP cost increased by +2 throughout the stage, and the main effect restores 5 AP each time a Mental-recovery skill is used.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "Live开始时，使牌组中所有卡牌的消耗AP在本阶段始终增加2，并且当主要效果为恢复Mental值的技能被使用时，恢复5点AP。",
+        "author": "qwen-mt-turbo"
+      }
+    }
+  },
+  {
     "raw": "ステージ開始時、デッキの全てのカードの消費APをステージ中常に+5し、スキルを1回使用するたび、APを5回復し、メンタルを最大値の5%回復させる。",
     "translation": {
       "en": {
@@ -1413,6 +1439,19 @@
       "en": {
         "text": "Special Stage",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "瑠璃乃、さやか、小鈴、セラスのスキルを使用するたび、ボルテージを+2000し、スキルを10回使用するたび、ステージ中、APの回復速度を-5%する。",
+    "translation": {
+      "en": {
+        "text": "Rurino gains +2000 Voltage each time Sayaka, Kozue, Sera, or herself use their skills, and the AP recovery rate decreases by -5% per stage after every 10 skill uses.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "瑠璃乃、沙耶香、小铃和塞拉斯每使用一次技能时，Voltage提升2000点，且每使用技能10次时，在本阶段内将AP的恢复速度降低5%。",
+        "author": "qwen-mt-turbo"
       }
     }
   },

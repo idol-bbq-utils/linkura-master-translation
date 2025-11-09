@@ -5590,6 +5590,19 @@
     }
   },
   {
+    "raw": "5th Live Tour ～4Pair Power Spread!!!!～ DOLLCHESTRA presents Diamond Stage 開催記念プレゼントです。",
+    "translation": {
+      "en": {
+        "text": "5th Live Tour ~4Pair Power Spread!!!!~ DOLLCHESTRA presents Diamond Stage: A commemorative gift for the event.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "5th Live Tour ～4Pair Power Spread!!!!～ DOLLCHESTRA presents Diamond Stage 開催纪念礼物",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "5th Live Tour ～4Pair Power Spread!!!!～ みらくらぱーく！ presents Heart Stage 開催記念プレゼントです。",
     "translation": {
       "zh-CN": {
@@ -6405,6 +6418,58 @@
       "en": {
         "text": "GiGO Collaboration Cafe Love Live! Hasunosora Girls' High School School Idol Club Opening Commemoration Login Bonus Day 3 present!",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "GiGO×fanfancy+ ログインキャンペーン 1日目のプレゼントです！",
+    "translation": {
+      "en": {
+        "text": "GiGO × fanfancy+ Login Campaign: Day 1's Gift!",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "GiGO×fanfancy+ 登录活动第1天的礼物！",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "GiGO×fanfancy+ ログインキャンペーン 2日目のプレゼントです！",
+    "translation": {
+      "en": {
+        "text": "GiGO × fanfancy+ Login Campaign: Day 2's Gift!",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "GiGO×fanfancy+ 登录活动第2天的礼物！",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "GiGO×fanfancy+ ログインキャンペーン 3日目のプレゼントです！",
+    "translation": {
+      "en": {
+        "text": "GiGO × fanfancy+ Login Campaign: Day 3's Gift!",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "GiGO×fanfancy+ 登录活动第3天的礼物！",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "GiGO×fanfancy+ ログインキャンペーン 4日目のプレゼントです！",
+    "translation": {
+      "en": {
+        "text": "GiGO × fanfancy+ Login Campaign: Day 4's Gift!",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "GiGO×fanfancy+ 登录活动第4天的礼物！",
+        "author": "deepseek-chat"
       }
     }
   },
@@ -13520,6 +13585,58 @@
     }
   },
   {
+    "raw": "POP UP SHOP ～チャイナコレクション～ 開催記念ログインキャンペーン 1日目のプレゼントです！",
+    "translation": {
+      "en": {
+        "text": "POP UP SHOP ~China Collection~ Login Campaign: Day 1's Gift!",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "POP UP SHOP ～中华收藏～ 举办纪念登录活动第1天的礼物！",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "POP UP SHOP ～チャイナコレクション～ 開催記念ログインキャンペーン 2日目のプレゼントです！",
+    "translation": {
+      "en": {
+        "text": "POP UP SHOP ~China Collection~ Login Campaign: Day 2's Gift!",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "POP UP SHOP ～中华收藏～ 举办纪念登录活动第2天的礼物！",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "POP UP SHOP ～チャイナコレクション～ 開催記念ログインキャンペーン 3日目のプレゼントです！",
+    "translation": {
+      "en": {
+        "text": "POP UP SHOP ~China Collection~ Login Campaign: Day 3's Gift!",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "POP UP SHOP ～中华收藏～ 举办纪念登录活动第3天的礼物！",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "POP UP SHOP ～チャイナコレクション～ 開催記念ログインキャンペーン 4日目のプレゼントです！",
+    "translation": {
+      "en": {
+        "text": "POP UP SHOP ~China Collection~ Login Campaign: Day 4's Gift!",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "POP UP SHOP ～中华收藏～ 举办纪念登录活动第4天的礼物！",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "POP UP SHOP＊アイドゥーミー！＊ログインボーナス1日目のプレゼントです！",
     "translation": {
       "zh-CN": {
@@ -14235,6 +14352,58 @@
     }
   },
   {
+    "raw": "「GiGO×fanfancy+×DOLLCHESTRAパック」を購入して獲得したアイテムです。",
+    "translation": {
+      "en": {
+        "text": "Items obtained by purchasing the 'GiGO × fanfancy+ × DOLLCHESTRA Pack'.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "购买「GiGO×fanfancy+×DOLLCHESTRA组合包」获得的道具",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "「GiGO×fanfancy+×Edel Noteパック」を購入して獲得したアイテムです。",
+    "translation": {
+      "en": {
+        "text": "Items obtained by purchasing the 'GiGO × fanfancy+ × Edel Note Pack'.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "购买「GiGO×fanfancy+×Edel Note组合包」获得的道具",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "「GiGO×fanfancy+×みらくらぱーく！パック」を購入して獲得したアイテムです。",
+    "translation": {
+      "en": {
+        "text": "Items obtained by purchasing the 'GiGO × fanfancy+ × Mira-Cra Park! Pack'.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "购买「GiGO×fanfancy+×みらくらぱーく！组合包」获得的道具",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "「GiGO×fanfancy+×スリーズブーケパック」を購入して獲得したアイテムです。",
+    "translation": {
+      "en": {
+        "text": "Items obtained by purchasing the 'GiGO × fanfancy+ × Cerise Bouquet Pack'.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "购买「GiGO×fanfancy+×スリーズブーケ组合包」获得的道具",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "「Ginko's 16th Birthday セレブレイトパック」を購入して獲得したアイテムです。",
     "translation": {
       "zh-CN": {
@@ -14374,6 +14543,58 @@
       "en": {
         "text": "This is an item obtained by purchasing the \"Now or Never Link Live! Limited UR Select Set\".",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "「POP UP SHOP ～チャイナコレクション～ DOLLCHESTRAパック」を購入して獲得したアイテムです。",
+    "translation": {
+      "en": {
+        "text": "Items obtained by purchasing the 'POP UP SHOP ~China Collection~ DOLLCHESTRA Pack'.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "购买「POP UP SHOP ～中华收藏～ DOLLCHESTRA组合包」获得的道具",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "「POP UP SHOP ～チャイナコレクション～ Edel Noteパック」を購入して獲得したアイテムです。",
+    "translation": {
+      "en": {
+        "text": "Items obtained by purchasing the 'POP UP SHOP ~China Collection~ Edel Note Pack'.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "购买「POP UP SHOP ～中华收藏～ Edel Note组合包」获得的道具",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "「POP UP SHOP ～チャイナコレクション～ みらくらぱーく！パック」を購入して獲得したアイテムです。",
+    "translation": {
+      "en": {
+        "text": "Items obtained by purchasing the 'POP UP SHOP ~China Collection~ Mira-Cra Park! Pack'.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "购买「POP UP SHOP ～中华收藏～ みらくらぱーく！组合包」获得的道具",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "「POP UP SHOP ～チャイナコレクション～ スリーズブーケパック」を購入して獲得したアイテムです。",
+    "translation": {
+      "en": {
+        "text": "Items obtained by purchasing the 'POP UP SHOP ~China Collection~ Cerise Bouquet Pack'.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "购买「POP UP SHOP ～中华收藏～ スリーズブーケ组合包」获得的道具",
+        "author": "deepseek-chat"
       }
     }
   },

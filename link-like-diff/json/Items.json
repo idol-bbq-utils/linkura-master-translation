@@ -3708,6 +3708,12 @@
             "Description": "スタイル解放素材(村野 さやか)"
         },
         {
+            "Id": 4032532,
+            "Name": "[ガランドFlash]村野 さやか 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(村野 さやか)"
+        },
+        {
             "Id": 4032801,
             "Name": "[Prism Echo]村野 さやか 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
@@ -4110,6 +4116,12 @@
             "Description": "スタイル解放素材(百生 吟子)"
         },
         {
+            "Id": 4041404,
+            "Name": "[Poupée en Lotus]百生 吟子 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(百生 吟子)"
+        },
+        {
             "Id": 4041501,
             "Name": "[Dream Believers]百生 吟子 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
@@ -4406,6 +4418,12 @@
         {
             "Id": 4042518,
             "Name": "[はじまりの羽音]徒町 小鈴 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(徒町 小鈴)"
+        },
+        {
+            "Id": 4042519,
+            "Name": "[ガランドFlash]徒町 小鈴 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
             "Description": "スタイル解放素材(徒町 小鈴)"
         },

@@ -1788,6 +1788,12 @@
             "RequirementText": "[はじまりの羽音]村野 さやか 解放完了"
         },
         {
+            "Id": 10325321,
+            "Name": "[ガランドFlash]村野 さやか",
+            "Text": "[ガランドFlash]村野 さやか を4回解放した記念のステッカー",
+            "RequirementText": "[ガランドFlash]村野 さやか 解放完了"
+        },
+        {
             "Id": 10328011,
             "Name": "[Prism Echo]村野 さやか",
             "Text": "[Prism Echo]村野 さやかを4回解放した記念のステッカー",
@@ -2226,6 +2232,12 @@
             "RequirementText": "[Her-bath-rium]百生 吟子 解放完了"
         },
         {
+            "Id": 10414041,
+            "Name": "[Poupée en Lotus]百生 吟子",
+            "Text": "[Poupée en Lotus]百生 吟子 を4回解放した記念のステッカー",
+            "RequirementText": "[Poupée en Lotus]百生 吟子 解放完了"
+        },
+        {
             "Id": 10415011,
             "Name": "[Dream Believers]百生 吟子",
             "Text": "[Dream Believers]百生 吟子 を4回解放した記念のステッカー",
@@ -2536,6 +2548,12 @@
             "Name": "[はじまりの羽音]徒町 小鈴",
             "Text": "[はじまりの羽音]徒町 小鈴 を4回解放した記念のステッカー",
             "RequirementText": "[はじまりの羽音]徒町 小鈴 解放完了"
+        },
+        {
+            "Id": 10425191,
+            "Name": "[ガランドFlash]徒町 小鈴",
+            "Text": "[ガランドFlash]徒町 小鈴 を4回解放した記念のステッカー",
+            "RequirementText": "[ガランドFlash]徒町 小鈴 解放完了"
         },
         {
             "Id": 10428011,
@@ -10098,6 +10116,132 @@
             "RequirementText": "Live Grand Prix 105期3rdTerm 第2回 個人戦に参加"
         },
         {
+            "Id": 20350801,
+            "Name": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 1位",
+            "Text": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 1位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 1位 入賞"
+        },
+        {
+            "Id": 20350802,
+            "Name": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 2位",
+            "Text": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 2位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 2位 入賞"
+        },
+        {
+            "Id": 20350803,
+            "Name": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 3位",
+            "Text": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 3位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 3位 入賞"
+        },
+        {
+            "Id": 20350804,
+            "Name": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 4位",
+            "Text": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 4位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 4位 入賞"
+        },
+        {
+            "Id": 20350805,
+            "Name": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 5位",
+            "Text": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 5位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 5位 入賞"
+        },
+        {
+            "Id": 20350806,
+            "Name": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 6位",
+            "Text": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 6位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 6位 入賞"
+        },
+        {
+            "Id": 20350807,
+            "Name": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 7位",
+            "Text": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 7位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 7位 入賞"
+        },
+        {
+            "Id": 20350808,
+            "Name": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 8位",
+            "Text": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 8位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 8位 入賞"
+        },
+        {
+            "Id": 20350809,
+            "Name": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 9位",
+            "Text": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 9位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 9位 入賞"
+        },
+        {
+            "Id": 20350810,
+            "Name": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 10位",
+            "Text": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 10位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 10位 入賞"
+        },
+        {
+            "Id": 20350811,
+            "Name": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP100位",
+            "Text": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP100位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP100位 入賞"
+        },
+        {
+            "Id": 20350812,
+            "Name": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP200位",
+            "Text": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP200位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP200位 入賞"
+        },
+        {
+            "Id": 20350813,
+            "Name": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP500位",
+            "Text": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP500位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP500位 入賞"
+        },
+        {
+            "Id": 20350814,
+            "Name": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP1000位",
+            "Text": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP1000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP1000位 入賞"
+        },
+        {
+            "Id": 20350815,
+            "Name": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP2000位",
+            "Text": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP2000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP2000位 入賞"
+        },
+        {
+            "Id": 20350816,
+            "Name": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP3000位",
+            "Text": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP3000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP3000位 入賞"
+        },
+        {
+            "Id": 20350817,
+            "Name": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP5000位",
+            "Text": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP5000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP5000位 入賞"
+        },
+        {
+            "Id": 20350818,
+            "Name": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP7000位",
+            "Text": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP7000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP7000位 入賞"
+        },
+        {
+            "Id": 20350819,
+            "Name": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP10000位",
+            "Text": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP10000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP10000位 入賞"
+        },
+        {
+            "Id": 20350820,
+            "Name": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP15000位",
+            "Text": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP15000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 TOP15000位 入賞"
+        },
+        {
+            "Id": 20350821,
+            "Name": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 参加",
+            "Text": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦 参加賞のステッカー",
+            "RequirementText": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦に参加"
+        },
+        {
             "Id": 40103101,
             "Name": "『Dream Believers（4人Ver.）』マエストロ",
             "Text": "『Dream Believers（4人Ver.）』のマスタリーLv.を30にした記念のステッカー",
@@ -11280,6 +11424,24 @@
             "RequirementText": "『はじまりの羽音』マスタリーLv.30到達"
         },
         {
+            "Id": 40405120,
+            "Name": "『ガランドFlash』マエストロ",
+            "Text": "『ガランドFlash』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『ガランドFlash』マスタリーLv.30到達"
+        },
+        {
+            "Id": 40405121,
+            "Name": "『平成ギャルズ!!!!』マエストロ",
+            "Text": "『平成ギャルズ!!!!』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『平成ギャルズ!!!!』マスタリーLv.30到達"
+        },
+        {
+            "Id": 40405122,
+            "Name": "『ちょ、尊いLOVE』マエストロ",
+            "Text": "『ちょ、尊いLOVE』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『ちょ、尊いLOVE』マスタリーLv.30到達"
+        },
+        {
             "Id": 40405301,
             "Name": "『虹色Passions!』マエストロ",
             "Text": "『虹色Passions!』のマスタリーLv.を30にした記念のステッカー",
@@ -12000,6 +12162,102 @@
             "RequirementText": "「ハロウィンフェア♪Trick ＆ Cute♡Edel Noteパック」を購入"
         },
         {
+            "Id": 90000116,
+            "Name": "[チャイナコレクション]日野下 花帆",
+            "Text": "POP UP SHOP ～チャイナコレクション～ 開催記念！",
+            "RequirementText": "「POP UP SHOP ～チャイナコレクション～ スリーズブーケパック」を購入"
+        },
+        {
+            "Id": 90000117,
+            "Name": "[チャイナコレクション]村野 さやか",
+            "Text": "POP UP SHOP ～チャイナコレクション～ 開催記念！",
+            "RequirementText": "「POP UP SHOP ～チャイナコレクション～ DOLLCHESTRAパック」を購入"
+        },
+        {
+            "Id": 90000118,
+            "Name": "[チャイナコレクション]大沢 瑠璃乃",
+            "Text": "POP UP SHOP ～チャイナコレクション～ 開催記念！",
+            "RequirementText": "「POP UP SHOP ～チャイナコレクション～ みらくらぱーく！パック」を購入"
+        },
+        {
+            "Id": 90000119,
+            "Name": "[チャイナコレクション]百生 吟子",
+            "Text": "POP UP SHOP ～チャイナコレクション～ 開催記念！",
+            "RequirementText": "「POP UP SHOP ～チャイナコレクション～ スリーズブーケパック」を購入"
+        },
+        {
+            "Id": 90000120,
+            "Name": "[チャイナコレクション]徒町 小鈴",
+            "Text": "POP UP SHOP ～チャイナコレクション～ 開催記念！",
+            "RequirementText": "「POP UP SHOP ～チャイナコレクション～ DOLLCHESTRAパック」を購入"
+        },
+        {
+            "Id": 90000121,
+            "Name": "[チャイナコレクション]安養寺 姫芽",
+            "Text": "POP UP SHOP ～チャイナコレクション～ 開催記念！",
+            "RequirementText": "「POP UP SHOP ～チャイナコレクション～ みらくらぱーく！パック」を購入"
+        },
+        {
+            "Id": 90000122,
+            "Name": "[チャイナコレクション]セラス 柳田 リリエンフェルト",
+            "Text": "POP UP SHOP ～チャイナコレクション～ 開催記念！",
+            "RequirementText": "「POP UP SHOP ～チャイナコレクション～ Edel Noteパック」を購入"
+        },
+        {
+            "Id": 90000123,
+            "Name": "[チャイナコレクション]桂城 泉",
+            "Text": "POP UP SHOP ～チャイナコレクション～ 開催記念！",
+            "RequirementText": "「POP UP SHOP ～チャイナコレクション～ Edel Noteパック」を購入"
+        },
+        {
+            "Id": 90000124,
+            "Name": "[GiGO×fanfancy+]日野下 花帆",
+            "Text": "GiGO×fanfancy+キャンペーン 開催記念！",
+            "RequirementText": "「GiGO×fanfancy+×スリーズブーケパック」を購入"
+        },
+        {
+            "Id": 90000125,
+            "Name": "[GiGO×fanfancy+]村野 さやか",
+            "Text": "GiGO×fanfancy+キャンペーン 開催記念！",
+            "RequirementText": "「GiGO×fanfancy+×DOLLCHESTRAパック」を購入"
+        },
+        {
+            "Id": 90000126,
+            "Name": "[GiGO×fanfancy+]大沢 瑠璃乃",
+            "Text": "GiGO×fanfancy+キャンペーン 開催記念！",
+            "RequirementText": "「GiGO×fanfancy+×みらくらぱーく！パック」を購入"
+        },
+        {
+            "Id": 90000127,
+            "Name": "[GiGO×fanfancy+]百生 吟子",
+            "Text": "GiGO×fanfancy+キャンペーン 開催記念！",
+            "RequirementText": "「GiGO×fanfancy+×スリーズブーケパック」を購入"
+        },
+        {
+            "Id": 90000128,
+            "Name": "[GiGO×fanfancy+]徒町 小鈴",
+            "Text": "GiGO×fanfancy+キャンペーン 開催記念！",
+            "RequirementText": "「GiGO×fanfancy+×DOLLCHESTRAパック」を購入"
+        },
+        {
+            "Id": 90000129,
+            "Name": "[GiGO×fanfancy+]安養寺 姫芽",
+            "Text": "GiGO×fanfancy+キャンペーン 開催記念！",
+            "RequirementText": "「GiGO×fanfancy+×みらくらぱーく！パック」を購入"
+        },
+        {
+            "Id": 90000130,
+            "Name": "[GiGO×fanfancy+]セラス 柳田 リリエンフェルト",
+            "Text": "GiGO×fanfancy+キャンペーン 開催記念！",
+            "RequirementText": "「GiGO×fanfancy+×Edel Noteパック」を購入"
+        },
+        {
+            "Id": 90000131,
+            "Name": "[GiGO×fanfancy+]桂城 泉",
+            "Text": "GiGO×fanfancy+キャンペーン 開催記念！",
+            "RequirementText": "「GiGO×fanfancy+×Edel Noteパック」を購入"
+        },
+        {
             "Id": 90010210,
             "Name": "Kozue Birthday 2023",
             "Text": "Happy 17th Birthday to Dear Kozue!",
@@ -12714,6 +12972,12 @@
             "RequirementText": "5th Live Tour ～4Pair Power Spread!!!!～ みらくらぱーく！ presents Heart Stage cross Bloom Days Extra ～Fes×ReC：LIVE～ 開催日にログイン"
         },
         {
+            "Id": 92000054,
+            "Name": "Live『5th Live Tour ～4Pair Power Spread!!!!～』DOLLCHESTRA presents Diamond Stage",
+            "Text": "2025.11.8-9 in 愛知・Aichi Sky Expo（愛知県国際展示場）ホールA",
+            "RequirementText": "5th Live Tour ～4Pair Power Spread!!!!～ DOLLCHESTRA presents Diamond Stage 開催日にログイン"
+        },
+        {
             "Id": 93001001,
             "Name": "from スクフェス2 リズムアイコン",
             "Text": "リズムにあわせてタップ！",
@@ -13192,6 +13456,12 @@
             "Name": "[Shades of Stars]夕霧 綴理",
             "Text": "102期活動記録 ～Shades of Stars～\n第5話『Love with the world』読了証",
             "RequirementText": "102期活動記録 ～Shades of Stars～ 第5話『Love with the world』を読了"
+        },
+        {
+            "Id": 95000006,
+            "Name": "[Shades of Stars]藤島 慈",
+            "Text": "102期活動記録 ～Shades of Stars～\n第6話『On your mark』前編 読了証",
+            "RequirementText": "102期活動記録 ～Shades of Stars～ 第6話『On your mark』前編 を読了"
         },
         {
             "Id": 99000001,

@@ -520,6 +520,19 @@
     }
   },
   {
+    "raw": "第8話『今はまだ遥か幽かな光』",
+    "translation": {
+      "en": {
+        "text": "Episode 8: \"A Distant, Faint Light for Now\"",
+        "author": "deepseek-chat"
+      },
+      "zh-CN": {
+        "text": "第8话『此刻仍是遥远微光』",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "第9話『みらくる・ざ・ゆにばーす！』",
     "translation": {
       "zh-CN": {

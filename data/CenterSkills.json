@@ -13078,6 +13078,19 @@
     }
   },
   {
+    "raw": "【ライブ開始時に発動】最大値の$15%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "en": {
+        "text": "【Activated at the start of the live】Reduce mental by 15% of the maximum value (this effect prevents mental from reaching 0)",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "【Live开始时发动】减少最大值的$15%$Mental（此效果不会使Mental变为0）",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "【ライブ開始時に発動】最大値の$15%$分のメンタルを減少（この効果ではメンタルが0にならない）／APを$3$回復",
     "translation": {
       "zh-CN": {
@@ -13091,6 +13104,19 @@
     }
   },
   {
+    "raw": "【ライブ開始時に発動】最大値の$20%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "en": {
+        "text": "【Activated at the start of the live】Reduce mental by 20% of the maximum value (this effect prevents mental from reaching 0)",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "【Live开始时发动】减少最大值的$20%$Mental（此效果不会使Mental变为0）",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "【ライブ開始時に発動】最大値の$20%$分のメンタルを減少（この効果ではメンタルが0にならない）／APを$4$回復",
     "translation": {
       "zh-CN": {
@@ -13100,6 +13126,19 @@
       "en": {
         "text": "【Activate at Live Start】Reduce Mental by $20%$ of max value (this effect cannot reduce Mental to 0) / Recover $4$ AP",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【ライブ開始時に発動】最大値の$25%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "en": {
+        "text": "【Activated at the start of the live】Reduce mental by 25% of the maximum value (this effect prevents mental from reaching 0)",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "【Live开始时发动】减少最大值的$25%$Mental（此效果不会使Mental变为0）",
+        "author": "deepseek-chat"
       }
     }
   },

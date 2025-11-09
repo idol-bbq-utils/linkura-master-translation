@@ -13715,6 +13715,19 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$10.12%$分のメンタルダメージを無効にし、ボルテージPt.を$+184$、メンタルを最大値の$46%$回復させる。さらにメンタルが100%以上のとき、次に小鈴が使用するボルテージゲイン効果を$+920%$、デッキ内の小鈴のスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $10.12%$ of the maximum Mental value as Mental damage, increase Volts Pt. by $+184$, and restore Mental to $46%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, boost the next Volt Gain effect used by Kosuzu by $+920%$, reduce the AP cost of Kosuzu's skills in the deck by $-3$, and decrease Mental to a fixed $50%$ of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$10.12%$的mental消耗，Vo Pt.$+184$，恢复最大mental值的$46%$。并且Mental为100%以上时，下次小铃使用的获得Vo Pt.效果$+920%$，卡组中小铃的技能消费AP-3，失去最大mental值的50%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$10.2%$分のメンタルダメージを無効にする。さらに、このステージ中、獲得するLOVEを$+4.8%$する。",
     "translation": {
       "zh-CN": {
@@ -13867,6 +13880,19 @@
       "en": {
         "text": "During this stage, prevent Mental damage equal to $10.92%$ of the maximum Mental value. Additionally, gain Skill Hearts worth $10$ beat hearts 9 times.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$11%$分のメンタルダメージを無効にし、ボルテージPt.を$+200$、メンタルを最大値の$50%$回復させる。さらにメンタルが100%以上のとき、次に小鈴が使用するボルテージゲイン効果を$+1000%$、デッキ内の小鈴のスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $11%$ of the maximum Mental value as Mental damage, increase Volts Pt. by $+200$, and restore Mental to $50%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, boost the next Volt Gain effect used by Kosuzu by $+1000%$, reduce the AP cost of Kosuzu's skills in the deck by $-3$, and decrease Mental to a fixed $50%$ of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$11%$的mental消耗，Vo Pt.$+200$，恢复最大mental值的$50%$。并且Mental为100%以上时，下次小铃使用的获得Vo Pt.效果$+1000%$，卡组中小铃的技能消费AP-3，失去最大mental值的50%。",
+        "author": "deepseek-chat"
       }
     }
   },
@@ -15990,6 +16016,19 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$4.4%$分のメンタルダメージを無効にし、ボルテージPt.を$+80$、メンタルを最大値の$20%$回復させる。さらにメンタルが100%以上のとき、次に小鈴が使用するボルテージゲイン効果を$+400%$、デッキ内の小鈴のスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $4.4%$ of the maximum Mental value as Mental damage, increase Volts Pt. by $+80$, and restore Mental to $20%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, boost the next Volt Gain effect used by Kosuzu by $+400%$, reduce the AP cost of Kosuzu's skills in the deck by $-3$, and decrease Mental to a fixed $50%$ of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$4.4%$的mental消耗，Vo Pt.$+80$，恢复最大mental值的$20%$。并且Mental为100%以上时，下次小铃使用的获得Vo Pt.效果$+400%$，卡组中小铃的技能消费AP-3，失去最大mental值的50%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$4.4%$分のメンタルダメージを無効にする。さらにメンタルが75％以上のとき、このステージ中、獲得するLOVEを$+1.8%$する。",
     "translation": {
       "zh-CN": {
@@ -16250,6 +16289,19 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$4.84%$分のメンタルダメージを無効にし、ボルテージPt.を$+88$、メンタルを最大値の$22%$回復させる。さらにメンタルが100%以上のとき、次に小鈴が使用するボルテージゲイン効果を$+440%$、デッキ内の小鈴のスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $4.84%$ of the maximum Mental value as Mental damage, increase Volts Pt. by $+88$, and restore Mental to $22%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, boost the next Volt Gain effect used by Kosuzu by $+440%$, reduce the AP cost of Kosuzu's skills in the deck by $-3$, and decrease Mental to a fixed $50%$ of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$4.84%$的mental消耗，Vo Pt.$+88$，恢复最大mental值的$22%$。并且Mental为100%以上时，下次小铃使用的获得Vo Pt.效果$+440%$，卡组中小铃的技能消费AP-3，失去最大mental值的50%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$41.6%$分のメンタルダメージを無効にする。",
     "translation": {
       "zh-CN": {
@@ -16471,6 +16523,19 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$5.28%$分のメンタルダメージを無効にし、ボルテージPt.を$+96$、メンタルを最大値の$24%$回復させる。さらにメンタルが100%以上のとき、次に小鈴が使用するボルテージゲイン効果を$+480%$、デッキ内の小鈴のスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $5.28%$ of the maximum Mental value as Mental damage, increase Volts Pt. by $+96$, and restore Mental to $24%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, boost the next Volt Gain effect used by Kosuzu by $+480%$, reduce the AP cost of Kosuzu's skills in the deck by $-3$, and decrease Mental to a fixed $50%$ of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$5.28%$的mental消耗，Vo Pt.$+96$，恢复最大mental值的$24%$。并且Mental为100%以上时，下次小铃使用的获得Vo Pt.效果$+480%$，卡组中小铃的技能消费AP-3，失去最大mental值的50%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$5.28%$分のメンタルダメージを無効にする。",
     "translation": {
       "zh-CN": {
@@ -16649,6 +16714,19 @@
       "en": {
         "text": "During this stage, negate Mental damage equal to $5.6%$ of max Mental. Additionally, when Mental is 75% or above, increase LOVE gained during this stage by $+2.2%$.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$5.72%$分のメンタルダメージを無効にし、ボルテージPt.を$+104$、メンタルを最大値の$26%$回復させる。さらにメンタルが100%以上のとき、次に小鈴が使用するボルテージゲイン効果を$+520%$、デッキ内の小鈴のスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $5.72%$ of the maximum Mental value as Mental damage, increase Volts Pt. by $+104$, and restore Mental to $26%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, boost the next Volt Gain effect used by Kosuzu by $+520%$, reduce the AP cost of Kosuzu's skills in the deck by $-3$, and decrease Mental to a fixed $50%$ of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$5.72%$的mental消耗，Vo Pt.$+104$，恢复最大mental值的$26%$。并且Mental为100%以上时，下次小铃使用的获得Vo Pt.效果$+520%$，卡组中小铃的技能消费AP-3，失去最大mental值的50%。",
+        "author": "deepseek-chat"
       }
     }
   },
@@ -16913,6 +16991,19 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$6.16%$分のメンタルダメージを無効にし、ボルテージPt.を$+112$、メンタルを最大値の$28%$回復させる。さらにメンタルが100%以上のとき、次に小鈴が使用するボルテージゲイン効果を$+560%$、デッキ内の小鈴のスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $6.16%$ of the maximum Mental value as Mental damage, increase Volts Pt. by $+112$, and restore Mental to $28%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, boost the next Volt Gain effect used by Kosuzu by $+560%$, reduce the AP cost of Kosuzu's skills in the deck by $-3$, and decrease Mental to a fixed $50%$ of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$6.16%$的mental消耗，Vo Pt.$+112$，恢复最大mental值的$28%$。并且Mental为100%以上时，下次小铃使用的获得Vo Pt.效果$+560%$，卡组中小铃的技能消费AP-3，失去最大mental值的50%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$6.16%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+7%$する。",
     "translation": {
       "zh-CN": {
@@ -17091,6 +17182,19 @@
       "en": {
         "text": "During this stage, nullify Mental damage equivalent to $6.48%$ of maximum Mental. Additionally, when Voltage Lv. is 5 or below, nullify Mental damage equivalent to $7.92%$ of maximum Mental during this stage.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$6.6%$分のメンタルダメージを無効にし、ボルテージPt.を$+120$、メンタルを最大値の$30%$回復させる。さらにメンタルが100%以上のとき、次に小鈴が使用するボルテージゲイン効果を$+600%$、デッキ内の小鈴のスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $6.6%$ of the maximum Mental value as Mental damage, increase Volts Pt. by $+120$, and restore Mental to $30%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, boost the next Volt Gain effect used by Kosuzu by $+600%$, reduce the AP cost of Kosuzu's skills in the deck by $-3$, and decrease Mental to a fixed $50%$ of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$6.6%$的mental消耗，Vo Pt.$+120$，恢复最大mental值的$30%$。并且Mental为100%以上时，下次小铃使用的获得Vo Pt.效果$+600%$，卡组中小铃的技能消费AP-3，失去最大mental值的50%。",
+        "author": "deepseek-chat"
       }
     }
   },
@@ -17299,6 +17403,19 @@
       "en": {
         "text": "During this stage, nullify Mental damage equivalent to $7%$ of maximum Mental. Additionally, when Voltage Lv. is 10 or above, increase LOVE gained by $+45%$ during this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$7.04%$分のメンタルダメージを無効にし、ボルテージPt.を$+128$、メンタルを最大値の$32%$回復させる。さらにメンタルが100%以上のとき、次に小鈴が使用するボルテージゲイン効果を$+640%$、デッキ内の小鈴のスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $7.04%$ of the maximum Mental value as Mental damage, increase Volts Pt. by $+128$, and restore Mental to $32%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, boost the next Volt Gain effect used by Kosuzu by $+640%$, reduce the AP cost of Kosuzu's skills in the deck by $-3$, and decrease Mental to a fixed $50%$ of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$7.04%$的mental消耗，Vo Pt.$+128$，恢复最大mental值的$32%$。并且Mental为100%以上时，下次小铃使用的获得Vo Pt.效果$+640%$，卡组中小铃的技能消费AP-3，失去最大mental值的50%。",
+        "author": "deepseek-chat"
       }
     }
   },
@@ -17537,6 +17654,19 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$7.48%$分のメンタルダメージを無効にし、ボルテージPt.を$+136$、メンタルを最大値の$34%$回復させる。さらにメンタルが100%以上のとき、次に小鈴が使用するボルテージゲイン効果を$+680%$、デッキ内の小鈴のスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $7.48%$ of the maximum Mental value as Mental damage, increase Volts Pt. by $+136$, and restore Mental to $34%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, boost the next Volt Gain effect used by Kosuzu by $+680%$, reduce the AP cost of Kosuzu's skills in the deck by $-3$, and decrease Mental to a fixed $50%$ of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$7.48%$的mental消耗，Vo Pt.$+136$，恢复最大mental值的$34%$。并且Mental为100%以上时，下次小铃使用的获得Vo Pt.效果$+680%$，卡组中小铃的技能消费AP-3，失去最大mental值的50%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$7.48%$分のメンタルダメージを無効にする。さらに、このステージ中、獲得するLOVEを$+3.5%$する。",
     "translation": {
       "zh-CN": {
@@ -17611,6 +17741,19 @@
       "en": {
         "text": "During this stage, nullify Mental damage equal to $7.8%$ of maximum Mental. Additionally, when Mental is 30% or below, recover Mental by $7.8%$ of maximum value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$7.92%$分のメンタルダメージを無効にし、ボルテージPt.を$+144$、メンタルを最大値の$36%$回復させる。さらにメンタルが100%以上のとき、次に小鈴が使用するボルテージゲイン効果を$+720%$、デッキ内の小鈴のスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $7.92%$ of the maximum Mental value as Mental damage, increase Volts Pt. by $+144$, and restore Mental to $36%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, boost the next Volt Gain effect used by Kosuzu by $+720%$, reduce the AP cost of Kosuzu's skills in the deck by $-3$, and decrease Mental to a fixed $50%$ of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$7.92%$的mental消耗，Vo Pt.$+144$，恢复最大mental值的$36%$。并且Mental为100%以上时，下次小铃使用的获得Vo Pt.效果$+720%$，卡组中小铃的技能消费AP-3，失去最大mental值的50%。",
+        "author": "deepseek-chat"
       }
     }
   },
@@ -17862,6 +18005,19 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$8.8%$分のメンタルダメージを無効にし、ボルテージPt.を$+160$、メンタルを最大値の$40%$回復させる。さらにメンタルが100%以上のとき、次に小鈴が使用するボルテージゲイン効果を$+800%$、デッキ内の小鈴のスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $8.8%$ of the maximum Mental value as Mental damage, increase Volts Pt. by $+160$, and restore Mental to $40%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, boost the next Volt Gain effect used by Kosuzu by $+800%$, reduce the AP cost of Kosuzu's skills in the deck by $-3$, and decrease Mental to a fixed $50%$ of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$8.8%$的mental消耗，Vo Pt.$+160$，恢复最大mental值的$40%$。并且Mental为100%以上时，下次小铃使用的获得Vo Pt.效果$+800%$，卡组中小铃的技能消费AP-3，失去最大mental值的50%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$8.8%$分のメンタルダメージを無効にする。さらにこのステージ中、獲得するLOVEを$+4.4%$する。",
     "translation": {
       "zh-CN": {
@@ -17992,6 +18148,19 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$9.24%$分のメンタルダメージを無効にし、ボルテージPt.を$+168$、メンタルを最大値の$42%$回復させる。さらにメンタルが100%以上のとき、次に小鈴が使用するボルテージゲイン効果を$+840%$、デッキ内の小鈴のスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $9.24%$ of the maximum Mental value as Mental damage, increase Volts Pt. by $+168$, and restore Mental to $42%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, boost the next Volt Gain effect used by Kosuzu by $+840%$, reduce the AP cost of Kosuzu's skills in the deck by $-3$, and decrease Mental to a fixed $50%$ of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$9.24%$的mental消耗，Vo Pt.$+168$，恢复最大mental值的$42%$。并且Mental为100%以上时，下次小铃使用的获得Vo Pt.效果$+840%$，卡组中小铃的技能消费AP-3，失去最大mental值的50%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$9.24%$分のメンタルダメージを無効にする。さらにビートハート$9回分$のスキルハートを9回獲得する。",
     "translation": {
       "zh-CN": {
@@ -18079,6 +18248,19 @@
       "en": {
         "text": "During this stage, nullify Mental damage equal to $9.6%$ of maximum Mental. Additionally, when Mental is 30% or below, recover Mental by $9.6%$ of maximum value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$9.68%$分のメンタルダメージを無効にし、ボルテージPt.を$+176$、メンタルを最大値の$44%$回復させる。さらにメンタルが100%以上のとき、次に小鈴が使用するボルテージゲイン効果を$+880%$、デッキ内の小鈴のスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $9.68%$ of the maximum Mental value as Mental damage, increase Volts Pt. by $+176$, and restore Mental to $44%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, boost the next Volt Gain effect used by Kosuzu by $+880%$, reduce the AP cost of Kosuzu's skills in the deck by $-3$, and decrease Mental to a fixed $50%$ of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "本场Live中，防止最大mental值$9.68%$的mental消耗，Vo Pt.$+176$，恢复最大mental值的$44%$。并且Mental为100%以上时，下次小铃使用的获得Vo Pt.效果$+880%$，卡组中小铃的技能消费AP-3，失去最大mental值的50%。",
+        "author": "deepseek-chat"
       }
     }
   },
@@ -57499,6 +57681,19 @@
     }
   },
   {
+    "raw": "ビートハート$11回分$のスキルハートを獲得し、ボルテージPt.を$+200$、メンタルを最大値の$50%$回復させる。さらにメンタルが100%以上のとき、次にさやかが使用するボルテージゲイン効果を$+1000%$、デッキ内のさやかのスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Gain $11 Skill Hearts of Beat Heart, increase Volts Pt. by $+200$, and restore Mental to $50%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, boost the next Volt Gain effect used by Sayaka by $+1000%$, reduce the AP cost of Sayaka's skills in the deck by $-3$, and decrease Mental to a fixed $50%$ of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "获得$11倍$跳心的技能心心，Vo Pt.$+200$，恢复最大mental值的$50%$。并且Mental为100%以上时，下次沙耶香使用的获得Vo Pt.效果$+1000%$，卡组中沙耶香的技能消费AP-3，失去最大mental值的50%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$11回分$のスキルハートを獲得し、ボルテージPt.を$+44$する。さらにデッキ枚数が25枚以上のとき、このステージ中、獲得するLOVEを$+33%$する。",
     "translation": {
       "zh-CN": {
@@ -66183,6 +66378,32 @@
     }
   },
   {
+    "raw": "ビートハート$4回分$のスキルハートを獲得し、ボルテージPt.を$+80$、メンタルを最大値の$20%$回復させる。さらにメンタルが100%以上のとき、次にさやかが使用するボルテージゲイン効果を$+400%$、デッキ内のさやかのスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Gain $4 Skill Hearts of Beat Heart, increase Volts Pt. by $+80$, and restore Mental to $20%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, boost the next Volt Gain effect used by Sayaka by $+400%$, reduce the AP cost of Sayaka's skills in the deck by $-3$, and decrease Mental to a fixed $50%$ of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "获得$4倍$跳心的技能心心，Vo Pt.$+80$，恢复最大mental值的$20%$。并且Mental为100%以上时，下次沙耶香使用的获得Vo Pt.效果$+400%$，卡组中沙耶香的技能消费AP-3，失去最大mental值的50%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$4回分$のスキルハートを獲得し、ボルテージPt.を$+88$、メンタルを最大値の$22%$回復させる。さらにメンタルが100%以上のとき、次にさやかが使用するボルテージゲイン効果を$+440%$、デッキ内のさやかのスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Gain $4 Skill Hearts of Beat Heart, increase Volts Pt. by $+88$, and restore Mental to $22%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, boost the next Volt Gain effect used by Sayaka by $+440%$, reduce the AP cost of Sayaka's skills in the deck by $-3$, and decrease Mental to a fixed $50%$ of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "获得$4倍$跳心的技能心心，Vo Pt.$+88$，恢复最大mental值的$22%$。并且Mental为100%以上时，下次沙耶香使用的获得Vo Pt.效果$+440%$，卡组中沙耶香的技能消费AP-3，失去最大mental值的50%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$4回分$のスキルハートを獲得し、メンタルを最大値の15％減少させる。さらにメンタルが5%以下のとき、ビートハート$10回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -67141,6 +67362,32 @@
       "zh-CN": {
         "text": "获得$5倍$跳心的技能心心，本小节中，获得LOVE$+6.2%$。并且气氛在Happy、Mellow其中之一100时，下次使用的LOVE+效果$+88.4%$。",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$5回分$のスキルハートを獲得し、ボルテージPt.を$+104$、メンタルを最大値の$26%$回復させる。さらにメンタルが100%以上のとき、次にさやかが使用するボルテージゲイン効果を$+520%$、デッキ内のさやかのスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Gain $5 Skill Hearts of Beat Heart, increase Volts Pt. by $+104$, and restore Mental to $26%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, boost the next Volt Gain effect used by Sayaka by $+520%$, reduce the AP cost of Sayaka's skills in the deck by $-3$, and decrease Mental to a fixed $50%$ of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "获得$5倍$跳心的技能心心，Vo Pt.$+104$，恢复最大mental值的$26%$。并且Mental为100%以上时，下次沙耶香使用的获得Vo Pt.效果$+520%$，卡组中沙耶香的技能消费AP-3，失去最大mental值的50%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$5回分$のスキルハートを獲得し、ボルテージPt.を$+96$、メンタルを最大値の$24%$回復させる。さらにメンタルが100%以上のとき、次にさやかが使用するボルテージゲイン効果を$+480%$、デッキ内のさやかのスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Gain $5 Skill Hearts of Beat Heart, increase Volts Pt. by $+96$, and restore Mental to $24%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, boost the next Volt Gain effect used by Sayaka by $+480%$, reduce the AP cost of Sayaka's skills in the deck by $-3$, and decrease Mental to a fixed $50%$ of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "获得$5倍$跳心的技能心心，Vo Pt.$+96$，恢复最大mental值的$24%$。并且Mental为100%以上时，下次沙耶香使用的获得Vo Pt.效果$+480%$，卡组中沙耶香的技能消费AP-3，失去最大mental值的50%。",
+        "author": "deepseek-chat"
       }
     }
   },
@@ -68259,6 +68506,45 @@
       "zh-CN": {
         "text": "获得$6倍$跳心的技能心心，本小节中，获得LOVE$+7.7%$。并且气氛在Happy、Mellow其中之一100时，下次使用的LOVE+效果$+108.8%$。",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$6回分$のスキルハートを獲得し、ボルテージPt.を$+112$、メンタルを最大値の$28%$回復させる。さらにメンタルが100%以上のとき、次にさやかが使用するボルテージゲイン効果を$+560%$、デッキ内のさやかのスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Gain $6 Skill Hearts of Beat Heart, increase Volts Pt. by $+112$, and restore Mental to $28%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, boost the next Volt Gain effect used by Sayaka by $+560%$, reduce the AP cost of Sayaka's skills in the deck by $-3$, and decrease Mental to a fixed $50%$ of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "获得$6倍$跳心的技能心心，Vo Pt.$+112$，恢复最大mental值的$28%$。并且Mental为100%以上时，下次沙耶香使用的获得Vo Pt.效果$+560%$，卡组中沙耶香的技能消费AP-3，失去最大mental值的50%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$6回分$のスキルハートを獲得し、ボルテージPt.を$+120$、メンタルを最大値の$30%$回復させる。さらにメンタルが100%以上のとき、次にさやかが使用するボルテージゲイン効果を$+600%$、デッキ内のさやかのスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Gain $6 Skill Hearts of Beat Heart, increase Volts Pt. by $+120$, and restore Mental to $30%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, boost the next Volt Gain effect used by Sayaka by $+600%$, reduce the AP cost of Sayaka's skills in the deck by $-3$, and decrease Mental to a fixed $50%$ of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "获得$6倍$跳心的技能心心，Vo Pt.$+120$，恢复最大mental值的$30%$。并且Mental为100%以上时，下次沙耶香使用的获得Vo Pt.效果$+600%$，卡组中沙耶香的技能消费AP-3，失去最大mental值的50%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$6回分$のスキルハートを獲得し、ボルテージPt.を$+128$、メンタルを最大値の$32%$回復させる。さらにメンタルが100%以上のとき、次にさやかが使用するボルテージゲイン効果を$+640%$、デッキ内のさやかのスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Gain $6 Skill Hearts of Beat Heart, increase Volts Pt. by $+128$, and restore Mental to $32%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, boost the next Volt Gain effect used by Sayaka by $+640%$, reduce the AP cost of Sayaka's skills in the deck by $-3$, and decrease Mental to a fixed $50%$ of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "获得$6倍$跳心的技能心心，Vo Pt.$+128$，恢复最大mental值的$32%$。并且Mental为100%以上时，下次沙耶香使用的获得Vo Pt.效果$+640%$，卡组中沙耶香的技能消费AP-3，失去最大mental值的50%。",
+        "author": "deepseek-chat"
       }
     }
   },
@@ -69468,6 +69754,32 @@
       "en": {
         "text": "Gain Skill Heart equivalent to $7$ Beat Hearts and increase LOVE gained by $+8.6%$ for this section. When Mental is 50% or above, gain additional Skill Heart equivalent to $2$ Beat Hearts, when Mental is 75% or above, gain additional Skill Heart equivalent to $4$ Beat Hearts, and when Mental is 100% or above, gain additional Skill Heart equivalent to $11$ Beat Hearts.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$7回分$のスキルハートを獲得し、ボルテージPt.を$+136$、メンタルを最大値の$34%$回復させる。さらにメンタルが100%以上のとき、次にさやかが使用するボルテージゲイン効果を$+680%$、デッキ内のさやかのスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Gain $7 Skill Hearts of Beat Heart, increase Volts Pt. by $+136$, and restore Mental to $34%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, boost the next Volt Gain effect used by Sayaka by $+680%$, reduce the AP cost of Sayaka's skills in the deck by $-3$, and decrease Mental to a fixed $50%$ of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "获得$7倍$跳心的技能心心，Vo Pt.$+136$，恢复最大mental值的$34%$。并且Mental为100%以上时，下次沙耶香使用的获得Vo Pt.效果$+680%$，卡组中沙耶香的技能消费AP-3，失去最大mental值的50%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$7回分$のスキルハートを獲得し、ボルテージPt.を$+144$、メンタルを最大値の$36%$回復させる。さらにメンタルが100%以上のとき、次にさやかが使用するボルテージゲイン効果を$+720%$、デッキ内のさやかのスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Gain $7 Skill Hearts of Beat Heart, increase Volts Pt. by $+144$, and restore Mental to $36%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, boost the next Volt Gain effect used by Sayaka by $+720%$, reduce the AP cost of Sayaka's skills in the deck by $-3$, and decrease Mental to a fixed $50%$ of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "获得$7倍$跳心的技能心心，Vo Pt.$+144$，恢复最大mental值的$36%$。并且Mental为100%以上时，下次沙耶香使用的获得Vo Pt.效果$+720%$，卡组中沙耶香的技能消费AP-3，失去最大mental值的50%。",
+        "author": "deepseek-chat"
       }
     }
   },
@@ -70889,6 +71201,32 @@
     }
   },
   {
+    "raw": "ビートハート$8回分$のスキルハートを獲得し、ボルテージPt.を$+160$、メンタルを最大値の$40%$回復させる。さらにメンタルが100%以上のとき、次にさやかが使用するボルテージゲイン効果を$+800%$、デッキ内のさやかのスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to 8 beats, increasing Voltage Points by +160 and restoring Mental to 40% of its maximum value. Additionally, when Mental reaches 100% or higher, the next Voltage Gain effect used by Sayaka will be increased by +800%, consuming 3 AP from Sayaka's skills in the deck while reducing Mental to a fixed 50% of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "获得$8倍$跳心的技能心心，Vo Pt.$+160$，恢复最大Mental值的$40%$。并且Mental在100%以上时，下次沙耶香使用的获得Vo Pt.效果$+800%$，卡组中沙耶香的技能消费AP-3，失去最大Mental值的50%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$8回分$のスキルハートを獲得し、ボルテージPt.を$+168$、メンタルを最大値の$42%$回復させる。さらにメンタルが100%以上のとき、次にさやかが使用するボルテージゲイン効果を$+840%$、デッキ内のさやかのスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to 8 beats, increasing Voltage Points by +168 and restoring Mental to 42% of its maximum value. Additionally, when Mental reaches 100% or higher, the next Voltage Gain effect used by Sayaka will be increased by +840%, consuming 3 AP from Sayaka's skills in the deck while reducing Mental to a fixed 50% of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "获得$8倍$跳心的技能心心，Vo Pt.$+168$，恢复最大Mental值的$42%$。并且Mental在100%以上时，下次沙耶香使用的获得Vo Pt.效果$+840%$，卡组中沙耶香的技能消费AP-3，失去最大Mental值的50%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$8回分$のスキルハートを獲得し、メンタルを最大値の15％減少させる。さらにメンタルが5%以下のとき、ビートハート$20回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -72055,6 +72393,32 @@
       "en": {
         "text": "Gain Skill Heart equivalent to $9$ Beat Hearts, and LOVE gained this section increases by $+23.4%$. Additionally, when deck has 25 cards, Heart limit increases by $+686$ this section, gain Skill Heart equivalent to $94$ Beat Hearts, and LOVE gained increases by $+234%$ this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$9回分$のスキルハートを獲得し、ボルテージPt.を$+176$、メンタルを最大値の$44%$回復させる。さらにメンタルが100%以上のとき、次にさやかが使用するボルテージゲイン効果を$+880%$、デッキ内のさやかのスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to 9 beats, increasing Voltage Points by +176 and restoring Mental to 44% of its maximum value. Additionally, when Mental reaches 100% or higher, the next Voltage Gain effect used by Sayaka will be increased by +880%, consuming 3 AP from Sayaka's skills in the deck while reducing Mental to a fixed 50% of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "获得$9倍$跳心的技能心心，Vo Pt.$+176$，恢复最大Mental值的$44%$。并且Mental在100%以上时，下次沙耶香使用的获得Vo Pt.效果$+880%$，卡组中沙耶香的技能消费AP-3，失去最大Mental值的50%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$9回分$のスキルハートを獲得し、ボルテージPt.を$+184$、メンタルを最大値の$46%$回復させる。さらにメンタルが100%以上のとき、次にさやかが使用するボルテージゲイン効果を$+920%$、デッキ内のさやかのスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to 9 beats, increasing Voltage Points by +184 and restoring Mental to 46% of its maximum value. Additionally, when Mental reaches 100% or higher, the next Voltage Gain effect used by Sayaka will be increased by +920%, consuming 3 AP from Sayaka's skills in the deck while reducing Mental to a fixed 50% of its maximum value.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "获得$9倍$跳心的技能心心，Vo Pt.$+184$，恢复最大Mental值的$46%$。并且Mental在100%以上时，下次沙耶香使用的获得Vo Pt.效果$+920%$，卡组中沙耶香的技能消费AP-3，失去最大Mental值的50%。",
+        "author": "deepseek-chat"
       }
     }
   },
@@ -76046,6 +76410,32 @@
       "en": {
         "text": "While Voltage Lv. is 10 or above, AP cost -3 and skill effect values increase.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージLv.が20以上で手札にある状態で、メイン効果にスキルハート獲得かメンタル回復効果を持つスキルを使用するたび、このセクション中、ビートハートの出現個数を+1し、手札を山札リセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Whenever a skill with either Skill Heart acquisition or Mental Recovery effects is used while having at least 20 Voltage Levels and cards in hand, increase the number of Beat Hearts appearing in this section by +1 and shuffle the hand back into the deck.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "Vo Lv.在20以上且在手牌中时，每次使用主要效果为获得技能心心或Mental恢复效果的技能，本小节中，节奏心心的出现数量+1，并重置洗牌。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージLv.が20以上で手札にある状態で、メイン効果にメンタルプロテクトかメンタル回復効果を持つスキルを使用するたび、ビートハート200回分のスキルハートを獲得し、手札を山札リセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Whenever a skill with either Mental Protection or Mental Recovery effects is used while having at least 20 Voltage Levels and cards in hand, gain Skill Hearts equivalent to 200 beats and shuffle the hand back into the deck.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "Vo Lv.在20以上且在手牌中时，每次使用主要效果为防止Mental消耗或Mental恢复效果的技能，获得200倍跳心的技能心心，并重置洗牌。",
+        "author": "deepseek-chat"
       }
     }
   },
@@ -91312,6 +91702,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$100%$回復させる。さらに5回の間メンタルリカバー効果を$+100%$し、このセクション中、AP回復速度を-20%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 100% of its maximum value. Additionally, for 5 turns, increase the Mental Recovery effect by +100% and reduce the AP recovery speed within this section by -20%.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$100%$。并且接下来5次Mental恢复效果$+100%$，本小节中，AP回复速度-20%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$100%$回復させる。さらに5回の間メンタルリカバー効果を$+100%$し、このセクション中、手札の上限枚数を2枚減少する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 100% of its maximum value. Additionally, for 5 turns, increase the Mental Recovery effect by +100% and reduce the maximum number of cards in hand within this section by 2.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$100%$。并且接下来5次Mental恢复效果$+100%$，本小节中，手牌上限-2。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$100%$回復する。さらにこのセクション中、メンタルが1秒ごとに最大値の$2%$回復する。",
     "translation": {
       "zh-CN": {
@@ -96447,6 +96863,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$40%$回復させる。さらに5回の間メンタルリカバー効果を$+40%$し、このセクション中、AP回復速度を-20%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 40% of its maximum value. Additionally, for 5 turns, increase the Mental Recovery effect by +40% and reduce the AP recovery speed within this section by -20%.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$40%$。并且接下来5次Mental恢复效果$+40%$，本小节中，AP回复速度-20%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$40%$回復させる。さらに5回の間メンタルリカバー効果を$+40%$し、このセクション中、手札の上限枚数を2枚減少する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 40% of its maximum value. Additionally, for 5 turns, increase the Mental Recovery effect by +40% and reduce the maximum number of cards in hand within this section by 2.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$40%$。并且接下来5次Mental恢复效果$+40%$，本小节中，手牌上限-2。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$40.32%$回復させる。さらに、ビートハート$11回分$のスキルハートを獲得し、このセクション中、獲得するLOVEを$+9.5%$する。",
     "translation": {
       "zh-CN": {
@@ -96564,6 +97006,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$44%$回復させる。さらに5回の間メンタルリカバー効果を$+44%$し、このセクション中、AP回復速度を-20%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 44% of its maximum value. Additionally, for 5 turns, increase the Mental Recovery effect by +44% and reduce the AP recovery speed within this section by -20%.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$44%$。并且接下来5次Mental恢复效果$+44%$，本小节中，AP回复速度-20%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$44%$回復させる。さらに5回の間メンタルリカバー効果を$+44%$し、このセクション中、手札の上限枚数を2枚減少する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 44% of its maximum value. Additionally, for 5 turns, increase the Mental Recovery effect by +44% and reduce the maximum number of cards in hand within this section by 2.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$44%$。并且接下来5次Mental恢复效果$+44%$，本小节中，手牌上限-2。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$44.16%$回復させる。さらに、ビートハート$12回分$のスキルハートを獲得し、このセクション中、獲得するLOVEを$+10.4%$する。",
     "translation": {
       "zh-CN": {
@@ -96612,6 +97080,32 @@
       "en": {
         "text": "Restore Mental by $48%$ of max value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$48%$回復させる。さらに5回の間メンタルリカバー効果を$+48%$し、このセクション中、AP回復速度を-20%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 48% of its maximum value. Additionally, for 5 turns, increase the Mental Recovery effect by +48% and reduce the AP recovery speed within this section by -20%.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$48%$。并且接下来5次Mental恢复效果$+48%$，本小节中，AP回复速度-20%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$48%$回復させる。さらに5回の間メンタルリカバー効果を$+48%$し、このセクション中、手札の上限枚数を2枚減少する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 48% of its maximum value. Additionally, for 5 turns, increase the Mental Recovery effect by +48% and reduce the maximum number of cards in hand within this section by 2.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$48%$。并且接下来5次Mental恢复效果$+48%$，本小节中，手牌上限-2。",
+        "author": "deepseek-chat"
       }
     }
   },
@@ -96993,6 +97487,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$52%$回復させる。さらに5回の間メンタルリカバー効果を$+52%$し、このセクション中、AP回復速度を-20%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 52% of its maximum value. Additionally, for 5 turns, increase the Mental Recovery effect by +52% and reduce the AP recovery speed within this section by -20%.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$52%$。并且接下来5次Mental恢复效果$+52%$，本小节中，AP回复速度-20%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$52%$回復させる。さらに5回の間メンタルリカバー効果を$+52%$し、このセクション中、手札の上限枚数を2枚減少する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 52% of its maximum value. Additionally, for 5 turns, increase the Mental Recovery effect by +52% and reduce the maximum number of cards in hand within this section by 2.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$52%$。并且接下来5次Mental恢复效果$+52%$，本小节中，手牌上限-2。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$52.8%$回復させる。",
     "translation": {
       "zh-CN": {
@@ -97054,6 +97574,32 @@
       "en": {
         "text": "Restore Mental by $55.2%$ of max value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$56%$回復させる。さらに5回の間メンタルリカバー効果を$+56%$し、このセクション中、AP回復速度を-20%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 56% of its maximum value. Additionally, for 5 turns, increase the Mental Recovery effect by +56% and reduce the AP recovery speed within this section by -20%.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$56%$。并且接下来5次Mental恢复效果$+56%$，本小节中，AP回复速度-20%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$56%$回復させる。さらに5回の間メンタルリカバー効果を$+56%$し、このセクション中、手札の上限枚数を2枚減少する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 56% of its maximum value. Additionally, for 5 turns, increase the Mental Recovery effect by +56% and reduce the maximum number of cards in hand within this section by 2.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$56%$。并且接下来5次Mental恢复效果$+56%$，本小节中，手牌上限-2。",
+        "author": "deepseek-chat"
       }
     }
   },
@@ -97487,6 +98033,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$60%$回復させる。さらに5回の間メンタルリカバー効果を$+60%$し、このセクション中、AP回復速度を-20%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 60% of its maximum value. Additionally, for 5 turns, increase the Mental Recovery effect by +60% and reduce the AP recovery speed within this section by -20%.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$60%$。并且接下来5次Mental恢复效果$+60%$，本小节中，AP回复速度-20%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$60%$回復させる。さらに5回の間メンタルリカバー効果を$+60%$し、このセクション中、手札の上限枚数を2枚減少する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 60% of its maximum value. Additionally, for 5 turns, increase the Mental Recovery effect by +60% and reduce the maximum number of cards in hand within this section by 2.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$60%$。并且接下来5次Mental恢复效果$+60%$，本小节中，手牌上限-2。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$62.4%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$156回分$のスキルハートを獲得、それぞれ3回の間さやかが使用するラブアトラクト効果を$+416%$、ボルテージゲイン効果を$+156%$、デッキ内のさやかのスキルの消費APを-8し、メンタルを最大値の99％固定で減少させる。",
     "translation": {
       "en": {
@@ -97526,6 +98098,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$64%$回復させる。さらに5回の間メンタルリカバー効果を$+64%$し、このセクション中、AP回復速度を-20%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 64% of its maximum value. Additionally, for 5 turns, increase the Mental Recovery effect by +64% and reduce the AP recovery speed within this section by -20%.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$64%$。并且接下来5次Mental恢复效果$+64%$，本小节中，AP回复速度-20%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$64%$回復させる。さらに5回の間メンタルリカバー効果を$+64%$し、このセクション中、手札の上限枚数を2枚減少する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 64% of its maximum value. Additionally, for 5 turns, increase the Mental Recovery effect by +64% and reduce the maximum number of cards in hand within this section by 2.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$64%$。并且接下来5次Mental恢复效果$+64%$，本小节中，手牌上限-2。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$67.2%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$168回分$のスキルハートを獲得、それぞれ3回の間さやかが使用するラブアトラクト効果を$+448%$、ボルテージゲイン効果を$+168%$、デッキ内のさやかのスキルの消費APを-8し、メンタルを最大値の99％固定で減少させる。",
     "translation": {
       "en": {
@@ -97548,6 +98146,32 @@
       "zh-CN": {
         "text": "恢复最大mental值的$67.2%$。并且Mental在100%以上时，洗手牌，获得$168倍$跳心的技能心心，本场Live中，防止最大mental值$30.8%$的mental消耗。",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$68%$回復させる。さらに5回の間メンタルリカバー効果を$+68%$し、このセクション中、AP回復速度を-20%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 68% of its maximum value. Additionally, for 5 turns, increase the Mental Recovery effect by +68% and reduce the AP recovery speed within this section by -20%.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$68%$。并且接下来5次Mental恢复效果$+68%$，本小节中，AP回复速度-20%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$68%$回復させる。さらに5回の間メンタルリカバー効果を$+68%$し、このセクション中、手札の上限枚数を2枚減少する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 68% of its maximum value. Additionally, for 5 turns, increase the Mental Recovery effect by +68% and reduce the maximum number of cards in hand within this section by 2.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$68%$。并且接下来5次Mental恢复效果$+68%$，本小节中，手牌上限-2。",
+        "author": "deepseek-chat"
       }
     }
   },
@@ -98042,6 +98666,32 @@
       "en": {
         "text": "Restores Mental by $70.4%$ of maximum value. Additionally, when Mental is at 100%, increases the number of Beat Hearts that appear by $+6$ during this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$72%$回復させる。さらに5回の間メンタルリカバー効果を$+72%$し、このセクション中、AP回復速度を-20%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 72% of its maximum value. Additionally, increase the Mental Recovery effect by +72% for 5 turns and reduce AP Recovery Speed by -20% during this section.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$72%$。并且接下来5次Mental恢复效果$+72%$，本小节中，AP回复速度-20%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$72%$回復させる。さらに5回の間メンタルリカバー効果を$+72%$し、このセクション中、手札の上限枚数を2枚減少する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 72% of its maximum value. Additionally, increase the Mental Recovery effect by +72% for 5 turns and reduce the maximum number of cards in hand by 2 during this section.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$72%$。并且接下来5次Mental恢复效果$+72%$，本小节中，手牌上限-2。",
+        "author": "deepseek-chat"
       }
     }
   },
@@ -98696,6 +99346,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$80%$回復させる。さらに5回の間メンタルリカバー効果を$+80%$し、このセクション中、AP回復速度を-20%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 80% of its maximum value. Additionally, increase the Mental Recovery effect by +80% for 5 turns and reduce AP Recovery Speed by -20% during this section.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$80%$。并且接下来5次Mental恢复效果$+80%$，本小节中，AP回复速度-20%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$80%$回復させる。さらに5回の間メンタルリカバー効果を$+80%$し、このセクション中、手札の上限枚数を2枚減少する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 80% of its maximum value. Additionally, increase the Mental Recovery effect by +80% for 5 turns and reduce the maximum number of cards in hand by 2 during this section.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$80%$。并且接下来5次Mental恢复效果$+80%$，本小节中，手牌上限-2。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$80.96%$回復させる。さらにメンタルが100%のとき、このセクション中、ビートハートの出現個数を$+7$する。",
     "translation": {
       "zh-CN": {
@@ -98735,6 +99411,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$84%$回復させる。さらに5回の間メンタルリカバー効果を$+84%$し、このセクション中、AP回復速度を-20%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 84% of its maximum value. Additionally, increase the Mental Recovery effect by +84% for 5 turns and reduce AP Recovery Speed by -20% during this section.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$84%$。并且接下来5次Mental恢复效果$+84%$，本小节中，AP回复速度-20%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$84%$回復させる。さらに5回の間メンタルリカバー効果を$+84%$し、このセクション中、手札の上限枚数を2枚減少する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 84% of its maximum value. Additionally, increase the Mental Recovery effect by +84% for 5 turns and reduce the maximum number of cards in hand by 2 during this section.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$84%$。并且接下来5次Mental恢复效果$+84%$，本小节中，手牌上限-2。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$86.4%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$216回分$のスキルハートを獲得、それぞれ3回の間さやかが使用するラブアトラクト効果を$+576%$、ボルテージゲイン効果を$+216%$、デッキ内のさやかのスキルの消費APを-8し、メンタルを最大値の99％固定で減少させる。",
     "translation": {
       "en": {
@@ -98757,6 +99459,32 @@
       "zh-CN": {
         "text": "恢复最大mental值的$86.4%$。并且Mental在100%以上时，洗手牌，获得$216倍$跳心的技能心心，本场Live中，防止最大mental值$39.6%$的mental消耗。",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$88%$回復させる。さらに5回の間メンタルリカバー効果を$+88%$し、このセクション中、AP回復速度を-20%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 88% of its maximum value. Additionally, increase the Mental Recovery effect by +88% for 5 turns and reduce AP Recovery Speed by -20% during this section.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$88%$。并且接下来5次Mental恢复效果$+88%$，本小节中，AP回复速度-20%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$88%$回復させる。さらに5回の間メンタルリカバー効果を$+88%$し、このセクション中、手札の上限枚数を2枚減少する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 88% of its maximum value. Additionally, increase the Mental Recovery effect by +88% for 5 turns and reduce the maximum number of cards in hand by 2 during this section.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$88%$。并且接下来5次Mental恢复效果$+88%$，本小节中，手牌上限-2。",
+        "author": "deepseek-chat"
       }
     }
   },
@@ -99121,6 +99849,32 @@
       "en": {
         "text": "Restore Mental by $9.68%$ of max value. Additionally, when Mental is 100% or higher, prevent Mental damage equal to $13.2%$ of max Mental value during this stage.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$92%$回復させる。さらに5回の間メンタルリカバー効果を$+92%$し、このセクション中、AP回復速度を-20%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 92% of its maximum value. Additionally, increase the Mental Recovery effect by +92% for 5 turns and reduce AP Recovery Speed by -20% during this section.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$92%$。并且接下来5次Mental恢复效果$+92%$，本小节中，AP回复速度-20%。",
+        "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$92%$回復させる。さらに5回の間メンタルリカバー効果を$+92%$し、このセクション中、手札の上限枚数を2枚減少する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 92% of its maximum value. Additionally, increase the Mental Recovery effect by +92% for 5 turns and reduce the maximum number of cards in hand by 2 during this section.",
+        "author": "qwen-mt-turbo"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$92%$。并且接下来5次Mental恢复效果$+92%$，本小节中，手牌上限-2。",
+        "author": "deepseek-chat"
       }
     }
   },
