@@ -1,0 +1,737 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "Id"
+        ]
+    },
+    "data": [
+        {
+            "Id": 104251201001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104251201002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104251201003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104251201004,
+            "MissionText": "メンタル回復効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251201005,
+            "MissionText": "メンタルバリア効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251201006,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104251201007,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104251201008,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104251201009,
+            "MissionText": "AP回復速度増加効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251201010,
+            "MissionText": "デッキのカード枚数をスキルで合計$TargetValue$枚増加させる。"
+        },
+        {
+            "Id": 104251201011,
+            "MissionText": "小鈴のスキルを合計$TargetValue$回発動する。"
+        },
+        {
+            "Id": 104251201012,
+            "MissionText": "メンタルダウンが$TargetValue$回発生する。"
+        },
+        {
+            "Id": 104251201013,
+            "MissionText": "ボルテージPt.が0になる。"
+        },
+        {
+            "Id": 104251202001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104251202002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104251202003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104251202004,
+            "MissionText": "メンタル回復効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251202005,
+            "MissionText": "メンタルバリア効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251202006,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104251202007,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104251202008,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104251202009,
+            "MissionText": "AP回復速度増加効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251202010,
+            "MissionText": "デッキのカード枚数をスキルで合計$TargetValue$枚増加させる。"
+        },
+        {
+            "Id": 104251202011,
+            "MissionText": "小鈴のスキルを合計$TargetValue$回発動する。"
+        },
+        {
+            "Id": 104251202012,
+            "MissionText": "メンタルダウンが$TargetValue$回発生する。"
+        },
+        {
+            "Id": 104251202013,
+            "MissionText": "ボルテージPt.が0になる。"
+        },
+        {
+            "Id": 104251203001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104251203002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104251203003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104251203004,
+            "MissionText": "メンタル回復効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251203005,
+            "MissionText": "メンタルバリア効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251203006,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104251203007,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104251203008,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104251203009,
+            "MissionText": "AP回復速度増加効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251203010,
+            "MissionText": "デッキのカード枚数をスキルで合計$TargetValue$枚増加させる。"
+        },
+        {
+            "Id": 104251203011,
+            "MissionText": "小鈴のスキルを合計$TargetValue$回発動する。"
+        },
+        {
+            "Id": 104251203012,
+            "MissionText": "メンタルダウンが$TargetValue$回発生する。"
+        },
+        {
+            "Id": 104251203013,
+            "MissionText": "ボルテージPt.が0になる。"
+        },
+        {
+            "Id": 104251204001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104251204002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104251204003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104251204004,
+            "MissionText": "メンタル回復効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251204005,
+            "MissionText": "メンタルバリア効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251204006,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104251204007,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104251204008,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104251204009,
+            "MissionText": "AP回復速度増加効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251204010,
+            "MissionText": "デッキのカード枚数をスキルで合計$TargetValue$枚増加させる。"
+        },
+        {
+            "Id": 104251204011,
+            "MissionText": "小鈴のスキルを合計$TargetValue$回発動する。"
+        },
+        {
+            "Id": 104251204012,
+            "MissionText": "メンタルダウンが$TargetValue$回発生する。"
+        },
+        {
+            "Id": 104251204013,
+            "MissionText": "ボルテージPt.が0になる。"
+        },
+        {
+            "Id": 104251205001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104251205002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104251205003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104251205004,
+            "MissionText": "メンタル回復効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251205005,
+            "MissionText": "メンタルバリア効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251205006,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104251205007,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104251205008,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104251205009,
+            "MissionText": "AP回復速度増加効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251205010,
+            "MissionText": "デッキのカード枚数をスキルで合計$TargetValue$枚増加させる。"
+        },
+        {
+            "Id": 104251205011,
+            "MissionText": "小鈴のスキルを合計$TargetValue$回発動する。"
+        },
+        {
+            "Id": 104251205012,
+            "MissionText": "メンタルダウンが$TargetValue$回発生する。"
+        },
+        {
+            "Id": 104251205013,
+            "MissionText": "ボルテージPt.が0になる。"
+        },
+        {
+            "Id": 104251206001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104251206002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104251206003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104251206004,
+            "MissionText": "メンタル回復効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251206005,
+            "MissionText": "メンタルバリア効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251206006,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104251206007,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104251206008,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104251206009,
+            "MissionText": "AP回復速度増加効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251206010,
+            "MissionText": "デッキのカード枚数をスキルで合計$TargetValue$枚増加させる。"
+        },
+        {
+            "Id": 104251206011,
+            "MissionText": "小鈴のスキルを合計$TargetValue$回発動する。"
+        },
+        {
+            "Id": 104251206012,
+            "MissionText": "メンタルダウンが$TargetValue$回発生する。"
+        },
+        {
+            "Id": 104251206013,
+            "MissionText": "ボルテージPt.が0になる。"
+        },
+        {
+            "Id": 104251207001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104251207002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104251207003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104251207004,
+            "MissionText": "メンタル回復効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251207005,
+            "MissionText": "メンタルバリア効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251207006,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104251207007,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104251207008,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104251207009,
+            "MissionText": "AP回復速度増加効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251207010,
+            "MissionText": "デッキのカード枚数をスキルで合計$TargetValue$枚増加させる。"
+        },
+        {
+            "Id": 104251207011,
+            "MissionText": "小鈴のスキルを合計$TargetValue$回発動する。"
+        },
+        {
+            "Id": 104251207012,
+            "MissionText": "メンタルダウンが$TargetValue$回発生する。"
+        },
+        {
+            "Id": 104251207013,
+            "MissionText": "ボルテージPt.が0になる。"
+        },
+        {
+            "Id": 104251208001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104251208002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104251208003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104251208004,
+            "MissionText": "メンタル回復効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251208005,
+            "MissionText": "メンタルバリア効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251208006,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104251208007,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104251208008,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104251208009,
+            "MissionText": "AP回復速度増加効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251208010,
+            "MissionText": "デッキのカード枚数をスキルで合計$TargetValue$枚増加させる。"
+        },
+        {
+            "Id": 104251208011,
+            "MissionText": "小鈴のスキルを合計$TargetValue$回発動する。"
+        },
+        {
+            "Id": 104251208012,
+            "MissionText": "メンタルダウンが$TargetValue$回発生する。"
+        },
+        {
+            "Id": 104251208013,
+            "MissionText": "ボルテージPt.が0になる。"
+        },
+        {
+            "Id": 104251209001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104251209002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104251209003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104251209004,
+            "MissionText": "メンタル回復効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251209005,
+            "MissionText": "メンタルバリア効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251209006,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104251209007,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104251209008,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104251209009,
+            "MissionText": "AP回復速度増加効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251209010,
+            "MissionText": "デッキのカード枚数をスキルで合計$TargetValue$枚増加させる。"
+        },
+        {
+            "Id": 104251209011,
+            "MissionText": "小鈴のスキルを合計$TargetValue$回発動する。"
+        },
+        {
+            "Id": 104251209012,
+            "MissionText": "メンタルダウンが$TargetValue$回発生する。"
+        },
+        {
+            "Id": 104251209013,
+            "MissionText": "ボルテージPt.が0になる。"
+        },
+        {
+            "Id": 104251210001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104251210002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104251210003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104251210004,
+            "MissionText": "メンタル回復効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251210005,
+            "MissionText": "メンタルバリア効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251210006,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104251210007,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104251210008,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104251210009,
+            "MissionText": "AP回復速度増加効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251210010,
+            "MissionText": "デッキのカード枚数をスキルで合計$TargetValue$枚増加させる。"
+        },
+        {
+            "Id": 104251210011,
+            "MissionText": "小鈴のスキルを合計$TargetValue$回発動する。"
+        },
+        {
+            "Id": 104251210012,
+            "MissionText": "メンタルダウンが$TargetValue$回発生する。"
+        },
+        {
+            "Id": 104251210013,
+            "MissionText": "ボルテージPt.が0になる。"
+        },
+        {
+            "Id": 104251211001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104251211002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104251211003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104251211004,
+            "MissionText": "メンタル回復効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251211005,
+            "MissionText": "メンタルバリア効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251211006,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104251211007,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104251211008,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104251211009,
+            "MissionText": "AP回復速度増加効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251211010,
+            "MissionText": "デッキのカード枚数をスキルで合計$TargetValue$枚増加させる。"
+        },
+        {
+            "Id": 104251211011,
+            "MissionText": "小鈴のスキルを合計$TargetValue$回発動する。"
+        },
+        {
+            "Id": 104251211012,
+            "MissionText": "メンタルダウンが$TargetValue$回発生する。"
+        },
+        {
+            "Id": 104251211013,
+            "MissionText": "ボルテージPt.が0になる。"
+        },
+        {
+            "Id": 104251212001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104251212002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104251212003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104251212004,
+            "MissionText": "メンタル回復効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251212005,
+            "MissionText": "メンタルバリア効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251212006,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104251212007,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104251212008,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104251212009,
+            "MissionText": "AP回復速度増加効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251212010,
+            "MissionText": "デッキのカード枚数をスキルで合計$TargetValue$枚増加させる。"
+        },
+        {
+            "Id": 104251212011,
+            "MissionText": "小鈴のスキルを合計$TargetValue$回発動する。"
+        },
+        {
+            "Id": 104251212012,
+            "MissionText": "メンタルダウンが$TargetValue$回発生する。"
+        },
+        {
+            "Id": 104251212013,
+            "MissionText": "ボルテージPt.が0になる。"
+        },
+        {
+            "Id": 104251213001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104251213002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104251213003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104251213004,
+            "MissionText": "メンタル回復効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251213005,
+            "MissionText": "メンタルバリア効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251213006,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104251213007,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104251213008,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104251213009,
+            "MissionText": "AP回復速度増加効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251213010,
+            "MissionText": "デッキのカード枚数をスキルで合計$TargetValue$枚増加させる。"
+        },
+        {
+            "Id": 104251213011,
+            "MissionText": "小鈴のスキルを合計$TargetValue$回発動する。"
+        },
+        {
+            "Id": 104251213012,
+            "MissionText": "メンタルダウンが$TargetValue$回発生する。"
+        },
+        {
+            "Id": 104251213013,
+            "MissionText": "ボルテージPt.が0になる。"
+        },
+        {
+            "Id": 104251214001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104251214002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104251214003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104251214004,
+            "MissionText": "メンタル回復効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251214005,
+            "MissionText": "メンタルバリア効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251214006,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104251214007,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104251214008,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104251214009,
+            "MissionText": "AP回復速度増加効果をスキルで合計$TargetValue$%分発動させる。"
+        },
+        {
+            "Id": 104251214010,
+            "MissionText": "デッキのカード枚数をスキルで合計$TargetValue$枚増加させる。"
+        },
+        {
+            "Id": 104251214011,
+            "MissionText": "小鈴のスキルを合計$TargetValue$回発動する。"
+        },
+        {
+            "Id": 104251214012,
+            "MissionText": "メンタルダウンが$TargetValue$回発生する。"
+        },
+        {
+            "Id": 104251214013,
+            "MissionText": "ボルテージPt.が0になる。"
+        }
+    ]
+}

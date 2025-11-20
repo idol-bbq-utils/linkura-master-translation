@@ -1,0 +1,80 @@
+[
+  {
+    "raw": "DOLLCHESTRA メンバーシップ特典交換",
+    "translation": {
+      "en": {
+        "text": "DOLLCHESTRA Membership Benefits Exchange",
+        "author": "copilot"
+      },
+      "zh-CN": {
+        "text": "DOLLCHESTRA 会员特典兑换",
+        "author": "copilot"
+      }
+    }
+  },
+  {
+    "raw": "Edel Note メンバーシップ特典交換",
+    "translation": {
+      "en": {
+        "text": "Edel Note Membership Benefits Exchange",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Edel Note 会员特典兑换",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "みらくらぱーく！ メンバーシップ特典交換",
+    "translation": {
+      "en": {
+        "text": "Mira-Cra Park! Membership Benefits Exchange",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mira-Cra Park! 会员特典兑换",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "スリーズブーケ メンバーシップ特典交換",
+    "translation": {
+      "en": {
+        "text": "Cerise Bouquet Membership Benefits Exchange",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Cerise Bouquet 会员特典兑换",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ユメノシリーズ交換",
+    "translation": {
+      "en": {
+        "text": "Yumeno Series Exchange",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "梦之系列兑换",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "通常アイテム交換",
+    "translation": {
+      "en": {
+        "text": "Regular Item Exchange",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "通常道具兑换",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  }
+]

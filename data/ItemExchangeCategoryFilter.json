@@ -1,0 +1,444 @@
+[
+  {
+    "raw": "GP PRIZE交換チケット",
+    "translation": {
+      "en": {
+        "text": "GP PRIZE Exchange Ticket",
+        "author": "copilot"
+      },
+      "zh-CN": {
+        "text": "GP PRIZE 兑换券",
+        "author": "copilot"
+      }
+    }
+  },
+  {
+    "raw": "アメジストピース",
+    "translation": {
+      "en": {
+        "text": "Amethyst Piece",
+        "author": "copilot"
+      },
+      "zh-CN": {
+        "text": "紫水晶碎片",
+        "author": "copilot"
+      }
+    }
+  },
+  {
+    "raw": "エメラルドピース",
+    "translation": {
+      "en": {
+        "text": "Emerald Piece",
+        "author": "copilot"
+      },
+      "zh-CN": {
+        "text": "翡翠碎片",
+        "author": "copilot"
+      }
+    }
+  },
+  {
+    "raw": "カードパックチケット",
+    "translation": {
+      "en": {
+        "text": "Card Pack Ticket",
+        "author": "copilot"
+      },
+      "zh-CN": {
+        "text": "卡包兑换券",
+        "author": "copilot"
+      }
+    }
+  },
+  {
+    "raw": "カーネリアンピース",
+    "translation": {
+      "en": {
+        "text": "Carnelian Piece",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "玛瑙碎片",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ガーネットピース",
+    "translation": {
+      "en": {
+        "text": "Garnet Piece",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "石榴石碎片",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "クリスタルチャーム",
+    "translation": {
+      "en": {
+        "text": "Crystal Charm",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "水晶吊坠",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "クリスタルティア",
+    "translation": {
+      "en": {
+        "text": "Crystal Tear",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "水晶眼泪",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ゴールドティア",
+    "translation": {
+      "en": {
+        "text": "Gold Tear",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "黄金眼泪",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "サファイアピース",
+    "translation": {
+      "en": {
+        "text": "Sapphire Piece",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "蓝宝石碎片",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "シルバーティア",
+    "translation": {
+      "en": {
+        "text": "Silver Tear",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "白银眼泪",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ステラチャーム",
+    "translation": {
+      "en": {
+        "text": "Stella Charm",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "星辰吊坠",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ステラピース",
+    "translation": {
+      "en": {
+        "text": "Stella Piece",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "星辰碎片",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "セレクトチケット",
+    "translation": {
+      "en": {
+        "text": "Select Ticket",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "精选兑换券",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ソルチャーム",
+    "translation": {
+      "en": {
+        "text": "Sol Charm",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "太阳吊坠",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ソルピース",
+    "translation": {
+      "en": {
+        "text": "Sol Piece",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "太阳碎片",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ターコイズピース",
+    "translation": {
+      "en": {
+        "text": "Turquoise Piece",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "绿松石碎片",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ダイヤピース",
+    "translation": {
+      "en": {
+        "text": "Diamond Piece",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "钻石碎片",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "チアリーダーの証",
+    "translation": {
+      "en": {
+        "text": "Cheerleader's Proof",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "啦啦队长的证明",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "トパーズピース",
+    "translation": {
+      "en": {
+        "text": "Topaz Piece",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "黄玉碎片",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "トリックスターの証",
+    "translation": {
+      "en": {
+        "text": "Trickster's Proof",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "捣蛋鬼的证明",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "パフォーマーの証",
+    "translation": {
+      "en": {
+        "text": "Performer's Proof",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "表演者的证明",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ブロンズティア",
+    "translation": {
+      "en": {
+        "text": "Bronze Tear",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "青铜眼泪",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ペリドットピース",
+    "translation": {
+      "en": {
+        "text": "Peridot Piece",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "橄榄石碎片",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ムードメーカーの証",
+    "translation": {
+      "en": {
+        "text": "Mood Maker's Proof",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "气氛担当的证明",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ユメノカケラ",
+    "translation": {
+      "en": {
+        "text": "Yume no Kakera",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "梦之碎片",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ユメノコトワリ",
+    "translation": {
+      "en": {
+        "text": "Yume no Kotowari",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "梦之理",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ユメノチケット",
+    "translation": {
+      "en": {
+        "text": "Yume no Ticket",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "梦之券",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ユメノハネ",
+    "translation": {
+      "en": {
+        "text": "Yume no Hane",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "梦之羽",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ルナチャーム",
+    "translation": {
+      "en": {
+        "text": "Luna Charm",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "露娜吊坠",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ルナピース",
+    "translation": {
+      "en": {
+        "text": "Luna Piece",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "露娜碎片",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ルビーピース",
+    "translation": {
+      "en": {
+        "text": "Ruby Piece",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "红宝石碎片",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "技能書",
+    "translation": {
+      "en": {
+        "text": "Skill Book",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "技能书",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "花束",
+    "translation": {
+      "en": {
+        "text": "Bouquet",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "花束",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  }
+]

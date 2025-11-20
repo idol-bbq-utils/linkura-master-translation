@@ -234,6 +234,19 @@
     }
   },
   {
+    "raw": "105期4thTerm 第1回 サークル対抗戦",
+    "translation": {
+      "zh-CN": {
+        "text": "第105期 第4赛季 第1回 社团对抗战",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "105th Term 4th Term 1st Circle Competition",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "105期OpeningTerm サークル対抗戦",
     "translation": {
       "zh-CN": {

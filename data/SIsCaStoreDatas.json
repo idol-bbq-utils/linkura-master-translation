@@ -1,0 +1,67 @@
+[
+  {
+    "raw": "10連カードパックチケット（2.5th ANNIVERSARY COLLECTION PREMIUM）",
+    "translation": {
+      "en": {
+        "text": "10x Card Pack Ticket (2.5th ANNIVERSARY COLLECTION PREMIUM)",
+        "author": "copilot"
+      },
+      "zh-CN": {
+        "text": "10连卡包兑换券（2.5周年纪念收藏高级版）",
+        "author": "copilot"
+      }
+    }
+  },
+  {
+    "raw": "メッセージカード（スペシャル）",
+    "translation": {
+      "en": {
+        "text": "Message Card (Special)",
+        "author": "copilot"
+      },
+      "zh-CN": {
+        "text": "留言卡（特别版）",
+        "author": "copilot"
+      }
+    }
+  },
+  {
+    "raw": "メッセージカード（ノーマル）",
+    "translation": {
+      "en": {
+        "text": "Message Card (Normal)",
+        "author": "copilot"
+      },
+      "zh-CN": {
+        "text": "留言卡（普通版）",
+        "author": "copilot"
+      }
+    }
+  },
+  {
+    "raw": "メッセージカード（ビッグ）",
+    "translation": {
+      "en": {
+        "text": "Message Card (Big)",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "留言卡（大型版）",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メッセージカード（ミニ）",
+    "translation": {
+      "en": {
+        "text": "Message Card (Mini)",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "留言卡（迷你版）",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  }
+]

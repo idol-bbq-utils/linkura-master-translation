@@ -1,0 +1,129 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "Id"
+        ]
+    },
+    "data": [
+        {
+            "Id": 7051041,
+            "Description": "ステージA"
+        },
+        {
+            "Id": 7051042,
+            "Description": "ステージB"
+        },
+        {
+            "Id": 7051043,
+            "Description": "ステージC"
+        },
+        {
+            "Id": 7051051,
+            "Description": "ステージA"
+        },
+        {
+            "Id": 7051052,
+            "Description": "ステージB"
+        },
+        {
+            "Id": 7051053,
+            "Description": "ステージC"
+        },
+        {
+            "Id": 7051061,
+            "Description": "ステージA"
+        },
+        {
+            "Id": 7051062,
+            "Description": "ステージB"
+        },
+        {
+            "Id": 7051063,
+            "Description": "ステージC"
+        },
+        {
+            "Id": 7051071,
+            "Description": "ステージA"
+        },
+        {
+            "Id": 7051072,
+            "Description": "ステージB"
+        },
+        {
+            "Id": 7051073,
+            "Description": "ステージC"
+        },
+        {
+            "Id": 7051081,
+            "Description": "ステージA"
+        },
+        {
+            "Id": 7051082,
+            "Description": "ステージB"
+        },
+        {
+            "Id": 7051083,
+            "Description": "ステージC"
+        },
+        {
+            "Id": 8051041,
+            "Description": "ステージA"
+        },
+        {
+            "Id": 8051042,
+            "Description": "ステージB"
+        },
+        {
+            "Id": 8051043,
+            "Description": "ステージC"
+        },
+        {
+            "Id": 8051051,
+            "Description": "ステージA"
+        },
+        {
+            "Id": 8051052,
+            "Description": "ステージB"
+        },
+        {
+            "Id": 8051053,
+            "Description": "ステージC"
+        },
+        {
+            "Id": 8051061,
+            "Description": "ステージA"
+        },
+        {
+            "Id": 8051062,
+            "Description": "ステージB"
+        },
+        {
+            "Id": 8051063,
+            "Description": "ステージC"
+        },
+        {
+            "Id": 8051071,
+            "Description": "ステージA"
+        },
+        {
+            "Id": 8051072,
+            "Description": "ステージB"
+        },
+        {
+            "Id": 8051073,
+            "Description": "ステージC"
+        },
+        {
+            "Id": 8051081,
+            "Description": "ステージA"
+        },
+        {
+            "Id": 8051082,
+            "Description": "ステージB"
+        },
+        {
+            "Id": 8051083,
+            "Description": "ステージC"
+        }
+    ]
+}

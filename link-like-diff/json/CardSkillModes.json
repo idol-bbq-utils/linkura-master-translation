@@ -1,0 +1,14 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "Id"
+        ]
+    },
+    "data": [
+        {
+            "Id": 1,
+            "ModeOnName": "イグニッションモード",
+            "ModeOffName": "通常"
+        }
+    ]
+}

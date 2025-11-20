@@ -1,0 +1,41 @@
+[
+  {
+    "raw": "ステージA",
+    "translation": {
+      "en": {
+        "text": "Stage A",
+        "author": "copilot"
+      },
+      "zh-CN": {
+        "text": "阶段A",
+        "author": "copilot"
+      }
+    }
+  },
+  {
+    "raw": "ステージB",
+    "translation": {
+      "en": {
+        "text": "Stage B",
+        "author": "copilot"
+      },
+      "zh-CN": {
+        "text": "阶段B",
+        "author": "copilot"
+      }
+    }
+  },
+  {
+    "raw": "ステージC",
+    "translation": {
+      "en": {
+        "text": "Stage C",
+        "author": "copilot"
+      },
+      "zh-CN": {
+        "text": "阶段C",
+        "author": "copilot"
+      }
+    }
+  }
+]

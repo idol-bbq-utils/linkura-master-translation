@@ -2634,6 +2634,12 @@
             "RequirementText": "[蒼のツバメ]安養寺 姫芽 解放完了"
         },
         {
+            "Id": 10434051,
+            "Name": "[Poupée en Lotus]安養寺 姫芽",
+            "Text": "[Poupée en Lotus]安養寺 姫芽 を4回解放した記念のステッカー",
+            "RequirementText": "[Poupée en Lotus]安養寺 姫芽 解放完了"
+        },
+        {
             "Id": 10435011,
             "Name": "[Dream Believers]安養寺 姫芽",
             "Text": "[Dream Believers]安養寺 姫芽 を4回解放した記念のステッカー",
@@ -2856,6 +2862,12 @@
             "RequirementText": "[片翼のトリバガ]桂城 泉 解放完了"
         },
         {
+            "Id": 10515071,
+            "Name": "[シアター生き様]桂城 泉",
+            "Text": "[シアター生き様]桂城 泉 を4回解放した記念のステッカー",
+            "RequirementText": "[シアター生き様]桂城 泉 解放完了"
+        },
+        {
             "Id": 10518011,
             "Name": "[Oracle Étude]桂城 泉",
             "Text": "[Oracle Étude]桂城 泉 を4回解放した記念のステッカー",
@@ -2932,6 +2944,12 @@
             "Name": "[片翼のトリバガ]セラス 柳田 リリエンフェルト",
             "Text": "[片翼のトリバガ]セラス 柳田 リリエンフェルト を4回解放した記念のステッカー",
             "RequirementText": "[片翼のトリバガ]セラス 柳田 リリエンフェルト 解放完了"
+        },
+        {
+            "Id": 10525071,
+            "Name": "[シアター生き様]セラス 柳田 リリエンフェルト",
+            "Text": "[シアター生き様]セラス 柳田 リリエンフェルト を4回解放した記念のステッカー",
+            "RequirementText": "[シアター生き様]セラス 柳田 リリエンフェルト 解放完了"
         },
         {
             "Id": 10528011,
@@ -6586,6 +6604,120 @@
             "Name": "105期3rdTerm 第2回 サークル対抗戦 参加",
             "Text": "105期3rdTerm 第2回 サークル対抗戦 参加賞のステッカー",
             "RequirementText": "105期3rdTerm 第2回 サークル対抗戦に参加"
+        },
+        {
+            "Id": 20250801,
+            "Name": "105期4thTerm 第1回 サークル対抗戦 1位",
+            "Text": "105期4thTerm 第1回 サークル対抗戦 1位 を称えるステッカー",
+            "RequirementText": "105期4thTerm 第1回 サークル対抗戦 1位 入賞"
+        },
+        {
+            "Id": 20250802,
+            "Name": "105期4thTerm 第1回 サークル対抗戦 2位",
+            "Text": "105期4thTerm 第1回 サークル対抗戦 2位 を称えるステッカー",
+            "RequirementText": "105期4thTerm 第1回 サークル対抗戦 2位 入賞"
+        },
+        {
+            "Id": 20250803,
+            "Name": "105期4thTerm 第1回 サークル対抗戦 3位",
+            "Text": "105期4thTerm 第1回 サークル対抗戦 3位 を称えるステッカー",
+            "RequirementText": "105期4thTerm 第1回 サークル対抗戦 3位 入賞"
+        },
+        {
+            "Id": 20250804,
+            "Name": "105期4thTerm 第1回 サークル対抗戦 4位",
+            "Text": "105期4thTerm 第1回 サークル対抗戦 4位 を称えるステッカー",
+            "RequirementText": "105期4thTerm 第1回 サークル対抗戦 4位 入賞"
+        },
+        {
+            "Id": 20250805,
+            "Name": "105期4thTerm 第1回 サークル対抗戦 5位",
+            "Text": "105期4thTerm 第1回 サークル対抗戦 5位 を称えるステッカー",
+            "RequirementText": "105期4thTerm 第1回 サークル対抗戦 5位 入賞"
+        },
+        {
+            "Id": 20250806,
+            "Name": "105期4thTerm 第1回 サークル対抗戦 6位",
+            "Text": "105期4thTerm 第1回 サークル対抗戦 6位 を称えるステッカー",
+            "RequirementText": "105期4thTerm 第1回 サークル対抗戦 6位 入賞"
+        },
+        {
+            "Id": 20250807,
+            "Name": "105期4thTerm 第1回 サークル対抗戦 7位",
+            "Text": "105期4thTerm 第1回 サークル対抗戦 7位 を称えるステッカー",
+            "RequirementText": "105期4thTerm 第1回 サークル対抗戦 7位 入賞"
+        },
+        {
+            "Id": 20250808,
+            "Name": "105期4thTerm 第1回 サークル対抗戦 8位",
+            "Text": "105期4thTerm 第1回 サークル対抗戦 8位 を称えるステッカー",
+            "RequirementText": "105期4thTerm 第1回 サークル対抗戦 8位 入賞"
+        },
+        {
+            "Id": 20250809,
+            "Name": "105期4thTerm 第1回 サークル対抗戦 9位",
+            "Text": "105期4thTerm 第1回 サークル対抗戦 9位 を称えるステッカー",
+            "RequirementText": "105期4thTerm 第1回 サークル対抗戦 9位 入賞"
+        },
+        {
+            "Id": 20250810,
+            "Name": "105期4thTerm 第1回 サークル対抗戦 10位",
+            "Text": "105期4thTerm 第1回 サークル対抗戦 10位 を称えるステッカー",
+            "RequirementText": "105期4thTerm 第1回 サークル対抗戦 10位 入賞"
+        },
+        {
+            "Id": 20250811,
+            "Name": "105期4thTerm 第1回 サークル対抗戦 TOP30位",
+            "Text": "105期4thTerm 第1回 サークル対抗戦 TOP30位 を称えるステッカー",
+            "RequirementText": "105期4thTerm 第1回 サークル対抗戦 TOP30位 入賞"
+        },
+        {
+            "Id": 20250812,
+            "Name": "105期4thTerm 第1回 サークル対抗戦 TOP100位",
+            "Text": "105期4thTerm 第1回 サークル対抗戦 TOP100位 を称えるステッカー",
+            "RequirementText": "105期4thTerm 第1回 サークル対抗戦 TOP100位 入賞"
+        },
+        {
+            "Id": 20250813,
+            "Name": "105期4thTerm 第1回 サークル対抗戦 TOP200位",
+            "Text": "105期4thTerm 第1回 サークル対抗戦 TOP200位 を称えるステッカー",
+            "RequirementText": "105期4thTerm 第1回 サークル対抗戦 TOP200位 入賞"
+        },
+        {
+            "Id": 20250814,
+            "Name": "105期4thTerm 第1回 サークル対抗戦 TOP300位",
+            "Text": "105期4thTerm 第1回 サークル対抗戦 TOP300位 を称えるステッカー",
+            "RequirementText": "105期4thTerm 第1回 サークル対抗戦 TOP300位 入賞"
+        },
+        {
+            "Id": 20250815,
+            "Name": "105期4thTerm 第1回 サークル対抗戦 TOP500位",
+            "Text": "105期4thTerm 第1回 サークル対抗戦 TOP500位 を称えるステッカー",
+            "RequirementText": "105期4thTerm 第1回 サークル対抗戦 TOP500位 入賞"
+        },
+        {
+            "Id": 20250816,
+            "Name": "105期4thTerm 第1回 サークル対抗戦 TOP1000位",
+            "Text": "105期4thTerm 第1回 サークル対抗戦 TOP1000位 を称えるステッカー",
+            "RequirementText": "105期4thTerm 第1回 サークル対抗戦 TOP1000位 入賞"
+        },
+        {
+            "Id": 20250817,
+            "Name": "105期4thTerm 第1回 サークル対抗戦 TOP1500位",
+            "Text": "105期4thTerm 第1回 サークル対抗戦 TOP1500位 を称えるステッカー",
+            "RequirementText": "105期4thTerm 第1回 サークル対抗戦 TOP1500位 入賞"
+        },
+        {
+            "Id": 20250818,
+            "Name": "105期4thTerm 第1回 サークル対抗戦 TOP2000位",
+            "Text": "105期4thTerm 第1回 サークル対抗戦 TOP2000位 を称えるステッカー",
+            "RequirementText": "105期4thTerm 第1回 サークル対抗戦 TOP2000位 入賞"
+        },
+        {
+            "Id": 20250819,
+            "Name": "105期4thTerm 第1回 サークル対抗戦 参加",
+            "Text": "105期4thTerm 第1回 サークル対抗戦 参加賞のステッカー",
+            "RequirementText": "105期4thTerm 第1回 サークル対抗戦に参加"
         },
         {
             "Id": 20330101,
@@ -11442,6 +11574,24 @@
             "RequirementText": "『ちょ、尊いLOVE』マスタリーLv.30到達"
         },
         {
+            "Id": 40405123,
+            "Name": "『シアター生き様』マエストロ",
+            "Text": "『シアター生き様』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『シアター生き様』マスタリーLv.30到達"
+        },
+        {
+            "Id": 40405124,
+            "Name": "『IcHiGo milK love』マエストロ",
+            "Text": "『IcHiGo milK love』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『IcHiGo milK love』マスタリーLv.30到達"
+        },
+        {
+            "Id": 40405125,
+            "Name": "『Nεw Black』マエストロ",
+            "Text": "『Nεw Black』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『Nεw Black』マスタリーLv.30到達"
+        },
+        {
             "Id": 40405301,
             "Name": "『虹色Passions!』マエストロ",
             "Text": "『虹色Passions!』のマスタリーLv.を30にした記念のステッカー",
@@ -12976,6 +13126,12 @@
             "Name": "Live『5th Live Tour ～4Pair Power Spread!!!!～』DOLLCHESTRA presents Diamond Stage",
             "Text": "2025.11.8-9 in 愛知・Aichi Sky Expo（愛知県国際展示場）ホールA",
             "RequirementText": "5th Live Tour ～4Pair Power Spread!!!!～ DOLLCHESTRA presents Diamond Stage 開催日にログイン"
+        },
+        {
+            "Id": 92000055,
+            "Name": "Live『5th Live Tour ～4Pair Power Spread!!!!～』Edel Note presents Spade Stage",
+            "Text": "2025.11.19-20 in 大阪・大阪城ホール",
+            "RequirementText": "5th Live Tour ～4Pair Power Spread!!!!～ Edel Note presents Spade Stage 開催日にログイン"
         },
         {
             "Id": 93001001,

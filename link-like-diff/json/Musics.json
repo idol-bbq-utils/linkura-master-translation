@@ -1406,6 +1406,27 @@
             "ReleaseConditionText": "初めから習得"
         },
         {
+            "Id": 405123,
+            "Title": "シアター生き様",
+            "TitleFurigana": "しあたーいきざま",
+            "Description": "Edel Note",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 405124,
+            "Title": "IcHiGo milK love",
+            "TitleFurigana": "いちごみるくらぶ",
+            "Description": "シャッフルユニット",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 405125,
+            "Title": "Nεw Black",
+            "TitleFurigana": "にゅーぶらっく",
+            "Description": "シャッフルユニット",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
             "Id": 405301,
             "Title": "虹色Passions!",
             "TitleFurigana": "にじいろぱっしょんず",

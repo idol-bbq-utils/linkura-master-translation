@@ -1,0 +1,37 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "Id"
+        ]
+    },
+    "data": [
+        {
+            "Id": 1,
+            "DisplayName": ""
+        },
+        {
+            "Id": 2,
+            "DisplayName": "メッセージカード（スペシャル）"
+        },
+        {
+            "Id": 3,
+            "DisplayName": "メッセージカード（ビッグ）"
+        },
+        {
+            "Id": 4,
+            "DisplayName": "メッセージカード（ノーマル）"
+        },
+        {
+            "Id": 5,
+            "DisplayName": "メッセージカード（ミニ）"
+        },
+        {
+            "Id": 6,
+            "DisplayName": "10連カードパックチケット（2.5th ANNIVERSARY COLLECTION PREMIUM）"
+        },
+        {
+            "Id": 7,
+            "DisplayName": "10連カードパックチケット（2.5th ANNIVERSARY COLLECTION PREMIUM）"
+        }
+    ]
+}

@@ -13,6 +13,45 @@
     }
   },
   {
+    "raw": "[103期]レンタルデッキ02",
+    "translation": {
+      "zh-CN": {
+        "text": "[103期]租赁卡组02",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Class 103] Rental Deck 02",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[103期]レンタルデッキ03",
+    "translation": {
+      "zh-CN": {
+        "text": "[103期]租赁卡组03",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Class 103] Rental Deck 03",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[103期]レンタルデッキ04",
+    "translation": {
+      "zh-CN": {
+        "text": "[103期]租赁卡组04",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Class 103] Rental Deck 04",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[104期]レンタルデッキ01",
     "translation": {
       "zh-CN": {
@@ -26,6 +65,45 @@
     }
   },
   {
+    "raw": "[104期]レンタルデッキ02",
+    "translation": {
+      "zh-CN": {
+        "text": "[104期]租赁卡组02",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Class 104] Rental Deck 02",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[104期]レンタルデッキ03",
+    "translation": {
+      "zh-CN": {
+        "text": "[104期]租赁卡组03",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Class 104] Rental Deck 03",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[104期]レンタルデッキ04",
+    "translation": {
+      "zh-CN": {
+        "text": "[104期]租赁卡组04",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Class 104] Rental Deck 04",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[105期]レンタルデッキ01",
     "translation": {
       "zh-CN": {
@@ -35,6 +113,19 @@
       "en": {
         "text": "[Term 105] Rental Deck 01",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[105期]レンタルデッキ02",
+    "translation": {
+      "zh-CN": {
+        "text": "[105期]租赁卡组02",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Class 105] Rental Deck 02",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   }

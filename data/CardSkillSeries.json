@@ -1534,6 +1534,19 @@
     }
   },
   {
+    "raw": "アルターエゴ",
+    "translation": {
+      "zh-CN": {
+        "text": "Alter Ego",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Alter Ego",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "アルティメットフォース",
     "translation": {
       "zh-CN": {
@@ -1755,6 +1768,19 @@
     }
   },
   {
+    "raw": "イミテーションアクター",
+    "translation": {
+      "zh-CN": {
+        "text": "Imitation Actor",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Imitation Actor",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "イミテーションアトラクト",
     "translation": {
       "zh-CN": {
@@ -1777,6 +1803,19 @@
       "zh-CN": {
         "text": "Imitation Extra Attract",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "イミテーションシアター",
+    "translation": {
+      "zh-CN": {
+        "text": "Imitation Theater",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Imitation Theater",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -4849,6 +4888,19 @@
     }
   },
   {
+    "raw": "ショウタイム",
+    "translation": {
+      "zh-CN": {
+        "text": "Showtime",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Showtime",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ショット：ヒートアップ",
     "translation": {
       "zh-CN": {
@@ -5317,6 +5369,19 @@
     }
   },
   {
+    "raw": "セレスティアルライズ",
+    "translation": {
+      "zh-CN": {
+        "text": "Celestial Rise",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Celestial Rise",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "セレブレイション",
     "translation": {
       "zh-CN": {
@@ -5482,6 +5547,19 @@
       "en": {
         "text": "Tag Boost",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ダブルキャスト",
+    "translation": {
+      "zh-CN": {
+        "text": "Double Cast",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Double Cast",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -6604,6 +6682,19 @@
     }
   },
   {
+    "raw": "デュアリティノート",
+    "translation": {
+      "zh-CN": {
+        "text": "Duality Note",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Duality Note",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "デュオアトラクト",
     "translation": {
       "zh-CN": {
@@ -7003,6 +7094,19 @@
       "en": {
         "text": "Dress《PASSION!!!!!!》",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ドレス《Poupée en Lotus》",
+    "translation": {
+      "zh-CN": {
+        "text": "Dress《Poupée en Lotus》",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Dress《Poupée en Lotus》",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -8069,6 +8173,19 @@
       "en": {
         "text": "Draw：Mental Recover & Mental Protect",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ドロー：メンタルリカバー/インスタンス",
+    "translation": {
+      "zh-CN": {
+        "text": "Draw：Mental Recover/Instance",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Draw: Mental Recover/Instance",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -9880,6 +9997,19 @@
     }
   },
   {
+    "raw": "ボルテックスガード",
+    "translation": {
+      "zh-CN": {
+        "text": "Vortex Guard",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Vortex Guard",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ボルテックスゲイン",
     "translation": {
       "zh-CN": {
@@ -10084,6 +10214,19 @@
       "zh-CN": {
         "text": "Mid Wide Belief",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ミミクリー",
+    "translation": {
+      "zh-CN": {
+        "text": "Mimicry",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Mimicry",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -11137,6 +11280,19 @@
       "zh-CN": {
         "text": "重写页面",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "リーディングアクター",
+    "translation": {
+      "zh-CN": {
+        "text": "Leading Actor",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Leading Actor",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

@@ -1,0 +1,67 @@
+[
+  {
+    "raw": "サプライズボックス（虹+）",
+    "translation": {
+      "en": {
+        "text": "secret surprise box (rainbow+)",
+        "author": "copilot"
+      },
+      "zh-CN": {
+        "text": "秘密惊喜盒（虹+）",
+        "author": "copilot"
+      }
+    }
+  },
+  {
+    "raw": "サプライズボックス（虹）",
+    "translation": {
+      "en": {
+        "text": "secret surprise box (rainbow)",
+        "author": "copilot"
+      },
+      "zh-CN": {
+        "text": "秘密惊喜盒（虹）",
+        "author": "copilot"
+      }
+    }
+  },
+  {
+    "raw": "サプライズボックス（金）",
+    "translation": {
+      "en": {
+        "text": "secret surprise box (gold)",
+        "author": "copilot"
+      },
+      "zh-CN": {
+        "text": "秘密惊喜盒（金）",
+        "author": "copilot"
+      }
+    }
+  },
+  {
+    "raw": "サプライズボックス（銀）",
+    "translation": {
+      "en": {
+        "text": "secret surprise box (silver)",
+        "author": "copilot"
+      },
+      "zh-CN": {
+        "text": "秘密惊喜盒（银）",
+        "author": "copilot"
+      }
+    }
+  },
+  {
+    "raw": "サプライズボックス（銅）",
+    "translation": {
+      "en": {
+        "text": "secret surprise box (bronze)",
+        "author": "copilot"
+      },
+      "zh-CN": {
+        "text": "秘密惊喜盒（铜）",
+        "author": "copilot"
+      }
+    }
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "raw": "AP回復速度増加効果をスキルで合計$TargetValue$%分発動させる。",
+    "translation": {
+      "en": {
+        "text": "Activate AP Recovery Speed increase effects totaling $TargetValue$% through skills.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "通过技能累计发动AP回复速度增加效果$TargetValue$%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。",
+    "translation": {
+      "en": {
+        "text": "Activate Attract effects totaling $TargetValue$% through skills.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "通过技能累计发动LOVE+效果$TargetValue$%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "デッキのカード枚数をスキルで合計$TargetValue$枚増加させる。",
+    "translation": {
+      "en": {
+        "text": "Increase the number of cards in the deck by a total of $TargetValue$ cards through skills.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "通过技能累计增加卡组卡牌数量$TargetValue$张。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ハートを合計$TargetValue$個回収する。",
+    "translation": {
+      "en": {
+        "text": "Collect a total of $TargetValue$ Hearts.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "累计回收$TargetValue$个心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。",
+    "translation": {
+      "en": {
+        "text": "Activate Heart capacity increase effects totaling $TargetValue$ Hearts through skills.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "通过技能累计发动心心数量上限增加效果$TargetValue$个。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.が0になる。",
+    "translation": {
+      "en": {
+        "text": "Voltage Pt. becomes 0.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Vo Pt.归零。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.をスキルで合計$TargetValue$獲得する。",
+    "translation": {
+      "en": {
+        "text": "Gain a total of $TargetValue$ Voltage Pt. through skills.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "通过技能累计获得Vo Pt.$TargetValue$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルダウンが$TargetValue$回発生する。",
+    "translation": {
+      "en": {
+        "text": "Mental Down occurs $TargetValue$ times.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental减少发生$TargetValue$次。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルバリア効果をスキルで合計$TargetValue$%分発動させる。",
+    "translation": {
+      "en": {
+        "text": "Activate Mental Barrier effects totaling $TargetValue$% through skills.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "通过技能累计发动防止Mental消耗效果$TargetValue$%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタル回復効果をスキルで合計$TargetValue$%分発動させる。",
+    "translation": {
+      "en": {
+        "text": "Activate Mental Recovery effects totaling $TargetValue$% through skills.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "通过技能累计发动Mental回复效果$TargetValue$%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。",
+    "translation": {
+      "en": {
+        "text": "Activate Reshuffle effects a total of $TargetValue$ times through skills.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "通过技能累计发动重置洗牌效果$TargetValue$次。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "小鈴のスキルを合計$TargetValue$回発動する。",
+    "translation": {
+      "en": {
+        "text": "Activate Kosuzu's skills a total of $TargetValue$ times.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "累计发动小铃的技能$TargetValue$次。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。",
+    "translation": {
+      "en": {
+        "text": "Activate hand limit increase effects totaling $TargetValue$ cards through skills.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "通过技能累计发动手牌上限增加效果$TargetValue$张。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  }
+]

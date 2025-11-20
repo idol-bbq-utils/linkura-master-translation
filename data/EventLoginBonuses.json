@@ -234,6 +234,19 @@
     }
   },
   {
+    "raw": "5th Live Tour ～4Pair Power Spread!!!!～ Edel Note presents Spade Stage 開催記念プレゼント！",
+    "translation": {
+      "zh-CN": {
+        "text": "5th Live Tour ～4Pair Power Spread!!!!～ Edel Note presents Spade Stage 举办纪念礼物！",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "5th Live Tour ~4Pair Power Spread!!!!~ Edel Note presents Spade Stage Commemorative Gift!",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "5th Live Tour ～4Pair Power Spread!!!!～ みらくらぱーく！ presents Heart Stage 開催記念プレゼント！",
     "translation": {
       "zh-CN": {
@@ -594,6 +607,19 @@
       "en": {
         "text": "Link-Like Official Release 0.5th Anniversary Commemoration! Special Login Campaign!",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "リンクラに夢が咲くように 2.5周年ログインボーナス",
+    "translation": {
+      "zh-CN": {
+        "text": "如同梦想在Link-Live中绽放 2.5周年登录奖励",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "May Dreams Bloom in Link-Ra 2.5th Anniversary Login Bonus",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

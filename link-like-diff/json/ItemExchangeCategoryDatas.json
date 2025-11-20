@@ -1,0 +1,117 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "Id"
+        ]
+    },
+    "data": [
+        {
+            "Id": 1,
+            "ItemExchangeCategoryName": "ブロンズティア"
+        },
+        {
+            "Id": 2,
+            "ItemExchangeCategoryName": "シルバーティア"
+        },
+        {
+            "Id": 3,
+            "ItemExchangeCategoryName": "ゴールドティア"
+        },
+        {
+            "Id": 4,
+            "ItemExchangeCategoryName": "クリスタルティア"
+        },
+        {
+            "Id": 5,
+            "ItemExchangeCategoryName": "ガーネットピース"
+        },
+        {
+            "Id": 6,
+            "ItemExchangeCategoryName": "カーネリアンピース"
+        },
+        {
+            "Id": 7,
+            "ItemExchangeCategoryName": "エメラルドピース"
+        },
+        {
+            "Id": 8,
+            "ItemExchangeCategoryName": "ダイヤピース"
+        },
+        {
+            "Id": 9,
+            "ItemExchangeCategoryName": "ペリドットピース"
+        },
+        {
+            "Id": 10,
+            "ItemExchangeCategoryName": "ルビーピース"
+        },
+        {
+            "Id": 11,
+            "ItemExchangeCategoryName": "サファイアピース"
+        },
+        {
+            "Id": 12,
+            "ItemExchangeCategoryName": "トパーズピース"
+        },
+        {
+            "Id": 13,
+            "ItemExchangeCategoryName": "ターコイズピース"
+        },
+        {
+            "Id": 14,
+            "ItemExchangeCategoryName": "アメジストピース"
+        },
+        {
+            "Id": 15,
+            "ItemExchangeCategoryName": "ソルチャーム"
+        },
+        {
+            "Id": 16,
+            "ItemExchangeCategoryName": "ルナチャーム"
+        },
+        {
+            "Id": 17,
+            "ItemExchangeCategoryName": "ステラチャーム"
+        },
+        {
+            "Id": 18,
+            "ItemExchangeCategoryName": "技能書"
+        },
+        {
+            "Id": 19,
+            "ItemExchangeCategoryName": "パフォーマーの証"
+        },
+        {
+            "Id": 20,
+            "ItemExchangeCategoryName": "ムードメーカーの証"
+        },
+        {
+            "Id": 21,
+            "ItemExchangeCategoryName": "チアリーダーの証"
+        },
+        {
+            "Id": 22,
+            "ItemExchangeCategoryName": "トリックスターの証"
+        },
+        {
+            "Id": 23,
+            "ItemExchangeCategoryName": "花束"
+        },
+        {
+            "Id": 24,
+            "ItemExchangeCategoryName": "GP PRIZE交換チケット"
+        },
+        {
+            "Id": 25,
+            "ItemExchangeCategoryName": "ユメシリーズ"
+        },
+        {
+            "Id": 26,
+            "ItemExchangeCategoryName": "カードパックチケット"
+        },
+        {
+            "Id": 27,
+            "ItemExchangeCategoryName": "セレクトチケット"
+        }
+    ]
+}

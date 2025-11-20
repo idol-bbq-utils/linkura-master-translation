@@ -39,6 +39,32 @@
     }
   },
   {
+    "raw": "Edel Noteのスキルを使用するたび、このステージ中、獲得するLOVEを+1500%し、また山札が切れるたび、メンタルを現在値の75%減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "每使用Edel Note的技能时，在本阶段内获得的LOVE提升1500%，且每当牌库用完时，Mental值减少当前值的75%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Edel Note gains +1500% LOVE acquired during this stage each time she uses a skill, and her Mental decreases by 75% of its current value whenever the deck runs out.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "Edel Noteのスキルを使用するたび、ボルテージを+3000し、メイン効果がメンタルプロテクトのスキルを使用するたび、ボルテージを-3000する。",
+    "translation": {
+      "zh-CN": {
+        "text": "每使用Edel Note的技能时，Voltage提升3000点，且每当主要效果为Mental护盾的技能被使用时，Voltage减少3000点。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Edel Note gains +3000 Voltage each time she uses a skill, and loses -3000 Voltage each time a Mental Protect main effect skill is used.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "いつもの教室",
     "translation": {
       "zh-CN": {
@@ -945,6 +971,19 @@
       "en": {
         "text": "At stage start, permanently reduce AP cost of all cards in deck by -2 for the entire stage, and reduce Mental by 25% of maximum value each time the deck runs out.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ステージ開始時、デッキの全ての泉、姫芽、吟子、花帆の消費APをステージ中常に-10し、さやか、瑠璃乃、小鈴、セラスの消費APをステージ中常に+10する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Live开始时，使牌组中所有泉、姬芽、吟子、花帆的消耗AP在本阶段始终减少10，沙耶香、瑠璃乃、小铃、塞拉斯的消耗AP在本阶段始终增加10。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "At stage start, all Izumi, Hime, Ginko, and Kaho cards in the deck have their AP cost reduced by -10 throughout the stage, while all Sayaka, Rurino, Kosuzu, and Ceras cards have their AP cost increased by +10 throughout the stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

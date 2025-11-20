@@ -1,0 +1,28 @@
+[
+  {
+    "raw": "イグニッションモード",
+    "translation": {
+      "en": {
+        "text": "ignition mode",
+        "author": "copilot"
+      },
+      "zh-CN": {
+        "text": "点火模式",
+        "author": "copilot"
+      }
+    }
+  },
+  {
+    "raw": "通常",
+    "translation": {
+      "en": {
+        "text": "normal",
+        "author": "copilot"
+      },
+      "zh-CN": {
+        "text": "通常",
+        "author": "copilot"
+      }
+    }
+  }
+]

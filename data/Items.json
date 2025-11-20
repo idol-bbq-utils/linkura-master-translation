@@ -78,6 +78,19 @@
     }
   },
   {
+    "raw": "10連カードパックチケット（2.5th ANNIVERSARY COLLECTION PREMIUM）",
+    "translation": {
+      "zh-CN": {
+        "text": "10连卡包券（2.5th ANNIVERSARY COLLECTION PREMIUM）",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "10-Pull Card Pack Ticket (2.5th ANNIVERSARY COLLECTION PREMIUM)",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "10連カードパックチケット（2023-2024 LIMITED COLLECTION MEMORY PREMIUM）",
     "translation": {
       "zh-CN": {
@@ -2145,6 +2158,19 @@
     }
   },
   {
+    "raw": "[Poupée en Lotus]安養寺 姫芽 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[Poupée en Lotus]安养寺姬芽 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Poupée en Lotus] Anyoji Hime Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[Poupée en Lotus]百生 吟子 解放Pt.",
     "translation": {
       "en": {
@@ -3480,6 +3506,32 @@
       "en": {
         "text": "[Cotton=Utopia] Megumi Fujishima Unlock Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[シアター生き様]セラス 柳田 リリエンフェルト 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[剧场生存之道]塞拉斯 柳田 利林费尔德 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Theatre Ikisama] Ceras Yanagida Lilienfeld Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[シアター生き様]桂城 泉 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[剧场生存之道]桂城泉 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Theatre Ikisama] Katsuragi Izumi Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -7939,6 +7991,19 @@
       "en": {
         "text": "Ten-draw Card Pack Ticket",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "じゅうれんかーどぱっくちけっとつーぽいんとふぃふすあにばーさりーこれくしょんめもりーぷれみあむ",
+    "translation": {
+      "zh-CN": {
+        "text": "10连卡包券 2.5th ANNIVERSARY COLLECTION MEMORY PREMIUM",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "juurenkaadobakkuchikettotsuupoinfifusuanibassariikurekushonmemoripuremiamu",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

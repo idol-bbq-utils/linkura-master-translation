@@ -1846,6 +1846,19 @@
     }
   },
   {
+    "raw": "泉、セラスの消費APを-5する。",
+    "translation": {
+      "zh-CN": {
+        "text": "使泉、塞拉斯的消耗AP-5。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Decreases the AP consumed by Izumi and Ceras by -5.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "消費APを+1する。",
     "translation": {
       "zh-CN": {

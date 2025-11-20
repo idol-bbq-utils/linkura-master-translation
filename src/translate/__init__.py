@@ -60,7 +60,7 @@ def translate_file(translator: LLMTranslator, file: Path, target_language: I18nL
     
     # Get base prompt and reference examples
     base_prompt = prompt_module.prompt
-    translate_reference = get_reference_prompt(file, target_language, 40)
+    translate_reference = get_reference_prompt(file, target_language, 24)
 
     
     # Process texts in chunks

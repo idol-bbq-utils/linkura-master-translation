@@ -1,0 +1,149 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "Id"
+        ]
+    },
+    "data": [
+        {
+            "Id": 106001,
+            "ItemExchangeCategoryName": "技能書"
+        },
+        {
+            "Id": 106002,
+            "ItemExchangeCategoryName": "パフォーマーの証"
+        },
+        {
+            "Id": 106003,
+            "ItemExchangeCategoryName": "ムードメーカーの証"
+        },
+        {
+            "Id": 106004,
+            "ItemExchangeCategoryName": "チアリーダーの証"
+        },
+        {
+            "Id": 106005,
+            "ItemExchangeCategoryName": "トリックスターの証"
+        },
+        {
+            "Id": 106006,
+            "ItemExchangeCategoryName": "ガーネットピース"
+        },
+        {
+            "Id": 106007,
+            "ItemExchangeCategoryName": "カーネリアンピース"
+        },
+        {
+            "Id": 106008,
+            "ItemExchangeCategoryName": "エメラルドピース"
+        },
+        {
+            "Id": 106009,
+            "ItemExchangeCategoryName": "ダイヤピース"
+        },
+        {
+            "Id": 106010,
+            "ItemExchangeCategoryName": "ペリドットピース"
+        },
+        {
+            "Id": 106011,
+            "ItemExchangeCategoryName": "ルビーピース"
+        },
+        {
+            "Id": 106012,
+            "ItemExchangeCategoryName": "サファイアピース"
+        },
+        {
+            "Id": 106013,
+            "ItemExchangeCategoryName": "トパーズピース"
+        },
+        {
+            "Id": 106014,
+            "ItemExchangeCategoryName": "ターコイズピース"
+        },
+        {
+            "Id": 106015,
+            "ItemExchangeCategoryName": "アメジストピース"
+        },
+        {
+            "Id": 106016,
+            "ItemExchangeCategoryName": "ソルチャーム"
+        },
+        {
+            "Id": 106017,
+            "ItemExchangeCategoryName": "ルナチャーム"
+        },
+        {
+            "Id": 106018,
+            "ItemExchangeCategoryName": "ステラチャーム"
+        },
+        {
+            "Id": 106019,
+            "ItemExchangeCategoryName": "ブロンズティア"
+        },
+        {
+            "Id": 106020,
+            "ItemExchangeCategoryName": "シルバーティア"
+        },
+        {
+            "Id": 106021,
+            "ItemExchangeCategoryName": "ゴールドティア"
+        },
+        {
+            "Id": 106022,
+            "ItemExchangeCategoryName": "クリスタルティア"
+        },
+        {
+            "Id": 106023,
+            "ItemExchangeCategoryName": "花束"
+        },
+        {
+            "Id": 106024,
+            "ItemExchangeCategoryName": "GP PRIZE交換チケット"
+        },
+        {
+            "Id": 106025,
+            "ItemExchangeCategoryName": "カードパックチケット"
+        },
+        {
+            "Id": 106026,
+            "ItemExchangeCategoryName": "セレクトチケット"
+        },
+        {
+            "Id": 106027,
+            "ItemExchangeCategoryName": "ソルピース"
+        },
+        {
+            "Id": 106028,
+            "ItemExchangeCategoryName": "ルナピース"
+        },
+        {
+            "Id": 106029,
+            "ItemExchangeCategoryName": "ステラピース"
+        },
+        {
+            "Id": 106030,
+            "ItemExchangeCategoryName": "クリスタルチャーム"
+        },
+        {
+            "Id": 206001,
+            "ItemExchangeCategoryName": "ユメノカケラ"
+        },
+        {
+            "Id": 206002,
+            "ItemExchangeCategoryName": "ユメノハネ"
+        },
+        {
+            "Id": 206003,
+            "ItemExchangeCategoryName": "ユメノコトワリ"
+        },
+        {
+            "Id": 206004,
+            "ItemExchangeCategoryName": "ユメノチケット"
+        },
+        {
+            "Id": 206005,
+            "ItemExchangeCategoryName": "クリスタルティア"
+        }
+    ]
+}

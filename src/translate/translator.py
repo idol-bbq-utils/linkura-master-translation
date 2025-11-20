@@ -73,7 +73,7 @@ class ClaudeTranslator(LLMTranslator):
             kwargs["base_url"] = self.base_url
         return anthropic.Anthropic(**kwargs)
     
-    def translate(self, prompt: str, max_tokens: int = 4000) -> str:
+    def translate(self, prompt: str, max_tokens: int = 4000, target_lang: str = 'zh-CN') -> str:
         """
         Translate using Claude API
         
@@ -104,7 +104,7 @@ class DeepseekTranslator(LLMTranslator):
         """Setup Deepseek API client"""
         pass
     
-    def translate(self, prompt: str, max_tokens: int = 4000) -> str:
+    def translate(self, prompt: str, max_tokens: int = 4000, target_lang: str = 'zh-CN') -> str:
         """
         Translate using Claude API
         
