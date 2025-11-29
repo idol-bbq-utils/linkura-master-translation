@@ -2316,6 +2316,12 @@
             "Description": "スタイル解放素材(乙宗 梢)"
         },
         {
+            "Id": 4021702,
+            "Name": "[Reflection in the mirror/102]乙宗 梢 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(乙宗 梢)"
+        },
+        {
             "Id": 4021801,
             "Name": "[Prism Echo]乙宗 梢 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
@@ -2652,6 +2658,12 @@
             "Description": "スタイル解放素材(夕霧 綴理)"
         },
         {
+            "Id": 4022702,
+            "Name": "[Sparkly Spot/102]夕霧 綴理 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(夕霧 綴理)"
+        },
+        {
             "Id": 4022801,
             "Name": "[Prism Echo]夕霧 綴理 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
@@ -2924,6 +2936,12 @@
         {
             "Id": 4023701,
             "Name": "[やっぱ天使！]藤島 慈 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(藤島 慈)"
+        },
+        {
+            "Id": 4023702,
+            "Name": "[On your mark/102]藤島 慈 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
             "Description": "スタイル解放素材(藤島 慈)"
         },

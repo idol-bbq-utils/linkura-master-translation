@@ -5421,6 +5421,19 @@
     }
   },
   {
+    "raw": "APを$10$回復し、ボルテージPt.を-1020、メンタルを最大値の102％減少させる。さらにビートハート$530回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复$10$AP，Vo Pt.-1020，失去最大mental值的102%。并且获得$530倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore $10$ AP, decrease Voltage Pt. by -1020, and reduce Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to 530 beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "APを$10$回復する。",
     "translation": {
       "en": {
@@ -5430,6 +5443,19 @@
       "zh-CN": {
         "text": "AP回复$10$。",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "APを$11$回復し、ボルテージPt.を-1020、メンタルを最大値の102％減少させる。さらにビートハート$571回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复$11$AP，Vo Pt.-1020，失去最大mental值的102%。并且获得$571倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore $11$ AP, decrease Voltage Pt. by -1020, and reduce Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to 571 beats.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -5447,6 +5473,32 @@
     }
   },
   {
+    "raw": "APを$12$回復し、ボルテージPt.を-1020、メンタルを最大値の102％減少させる。さらにビートハート$612回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复$12$AP，Vo Pt.-1020，失去最大mental值的102%。并且获得$612倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore $12$ AP, decrease Voltage Pt. by -1020, and reduce Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to 612 beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "APを$12$回復し、ボルテージPt.を-1020、メンタルを最大値の102％減少させる。さらにビートハート$653回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复$12$AP，Vo Pt.-1020，失去最大mental值的102%。并且获得$653倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore $12$ AP, decrease Voltage Pt. by -1020, and reduce Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to 653 beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "APを$12$回復する。",
     "translation": {
       "en": {
@@ -5456,6 +5508,19 @@
       "zh-CN": {
         "text": "AP回复$12$。",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "APを$13$回復し、ボルテージPt.を-1020、メンタルを最大値の102％減少させる。さらにビートハート$694回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复$13$AP，Vo Pt.-1020，失去最大mental值的102%。并且获得$694倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore $13$ AP, decrease Voltage Pt. by -1020, and reduce Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to 694 beats.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -5473,6 +5538,19 @@
     }
   },
   {
+    "raw": "APを$14$回復し、ボルテージPt.を-1020、メンタルを最大値の102％減少させる。さらにビートハート$734回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复$14$AP，Vo Pt.-1020，失去最大mental值的102%。并且获得$734倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore $14$ AP, decrease Voltage Pt. by -1020, and reduce Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to 734 beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "APを$14$回復する。",
     "translation": {
       "en": {
@@ -5482,6 +5560,32 @@
       "zh-CN": {
         "text": "AP回复$14$。",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "APを$16$回復し、ボルテージPt.を-1020、メンタルを最大値の102％減少させる。さらにビートハート$816回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复$16$AP，Vo Pt.-1020，失去最大mental值的102%。并且获得$816倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore $16$ AP, decrease Voltage Pt. by -1020, and reduce Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to 816 beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "APを$16$回復し、ボルテージPt.を-1020、メンタルを最大値の102％減少させる。さらにビートハート$857回分$のスキルハートを獲得し、それぞれ3回の間綴理、慈が使用するスキルハート獲得効果による獲得数を$+85.7%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复$16$AP，Vo Pt.-1020，失去最大mental值的102%。并且获得$857倍$跳心的技能心心，接下来分别3次使用缀理、慈的获得技能心心时，其数量$+85.7%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore $16$ AP, decrease Voltage Pt. by -1020, and reduce Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to 857 beats and increase the number of Skill Hearts acquired from Skill Heart acquisition effects used by Tsuzuri and Megumi by $+85.7%$ for 3 turns each.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -5499,6 +5603,19 @@
     }
   },
   {
+    "raw": "APを$17$回復し、ボルテージPt.を-1020、メンタルを最大値の102％減少させる。さらにビートハート$898回分$のスキルハートを獲得し、それぞれ3回の間綴理、慈が使用するスキルハート獲得効果による獲得数を$+89.8%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复$17$AP，Vo Pt.-1020，失去最大mental值的102%。并且获得$898倍$跳心的技能心心，接下来分别3次使用缀理、慈的获得技能心心时，其数量$+89.8%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore $17$ AP, decrease Voltage Pt. by -1020, and reduce Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to 898 beats and increase the number of Skill Hearts acquired from Skill Heart acquisition effects used by Tsuzuri and Megumi by $+89.8%$ for 3 turns each.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "APを$17$回復する。",
     "translation": {
       "en": {
@@ -5508,6 +5625,19 @@
       "zh-CN": {
         "text": "AP回复$17$。",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "APを$18$回復し、ボルテージPt.を-1020、メンタルを最大値の102％減少させる。さらにビートハート$938回分$のスキルハートを獲得し、それぞれ3回の間綴理、慈が使用するスキルハート獲得効果による獲得数を$+93.8%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复$18$AP，Vo Pt.-1020，失去最大mental值的102%。并且获得$938倍$跳心的技能心心，接下来分别3次使用缀理、慈的获得技能心心时，其数量$+93.8%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore $18$ AP, decrease Voltage Pt. by -1020, and reduce Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to 938 beats and increase the number of Skill Hearts acquired from Skill Heart acquisition effects used by Tsuzuri and Megumi by $+93.8%$ for 3 turns each.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -5534,6 +5664,19 @@
       "en": {
         "text": "Recover $2$ AP.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "APを$20$回復し、ボルテージPt.を-1020、メンタルを最大値の102％減少させる。さらにビートハート$1020回分$のスキルハートを獲得し、それぞれ3回の間綴理、慈が使用するスキルハート獲得効果による獲得数を$+102%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复$20$AP，Vo Pt.-1020，失去最大mental值的102%。并且获得$1020倍$跳心的技能心心，接下来分别3次使用缀理、慈的获得技能心心时，其数量$+102%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore $20$ AP, decrease Voltage Pt. by -1020, and reduce Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to 1020 beats and increase the number of Skill Hearts acquired from Skill Heart acquisition effects used by Tsuzuri and Megumi by $+102%$ for 3 turns each.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -5590,6 +5733,32 @@
     }
   },
   {
+    "raw": "APを$8$回復し、ボルテージPt.を-1020、メンタルを最大値の102％減少させる。さらにビートハート$408回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复$8$AP，Vo Pt.-1020，失去最大mental值的102%。并且获得$408倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore $8$ AP, decrease Voltage Pt. by -1020, and reduce Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to 408 beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "APを$8$回復し、ボルテージPt.を-1020、メンタルを最大値の102％減少させる。さらにビートハート$449回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复$8$AP，Vo Pt.-1020，失去最大mental值的102%。并且获得$449倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore $8$ AP, decrease Voltage Pt. by -1020, and reduce Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to 449 beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "APを$8$回復する。",
     "translation": {
       "en": {
@@ -5599,6 +5768,19 @@
       "zh-CN": {
         "text": "AP回复$8$。",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "APを$9$回復し、ボルテージPt.を-1020、メンタルを最大値の102％減少させる。さらにビートハート$490回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复$9$AP，Vo Pt.-1020，失去最大mental值的102%。并且获得$490倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore $9$ AP, decrease Voltage Pt. by -1020, and reduce Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to 490 beats.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -38116,6 +38298,19 @@
     }
   },
   {
+    "raw": "このセクション中、AP回復速度を$+102%$し、手札の上限枚数を3枚減少する。さらにAPを$20$回復し、デッキ内の全てのスキルの消費AP-20。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+102%$，手牌上限-3。并且恢复$20$AP，卡组中所有技能消费AP-20。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase AP Recovery Speed by $+102%$ and reduce the maximum number of cards in hand by 3. Additionally, restore $20$ AP and reduce the AP cost of all skills in the deck by -20.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、AP回復速度を$+11.2%$する。",
     "translation": {
       "zh-CN": {
@@ -38610,6 +38805,19 @@
     }
   },
   {
+    "raw": "このセクション中、AP回復速度を$+40.8%$し、手札の上限枚数を3枚減少する。さらにAPを$8$回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+40.8%$，手牌上限-3。并且恢复$8$AP。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase AP Recovery Speed by $+40.8%$ and reduce the maximum number of cards in hand by 3. Additionally, restore $8$ AP.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、AP回復速度を$+42.3%$する。",
     "translation": {
       "zh-CN": {
@@ -38632,6 +38840,19 @@
       "en": {
         "text": "During this section, increase AP recovery speed by $+43.2%$. Additionally, reduce AP cost of all skills in hand by -9.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、AP回復速度を$+44.9%$し、手札の上限枚数を3枚減少する。さらにAPを$8$回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+44.9%$，手牌上限-3。并且恢复$8$AP。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase AP Recovery Speed by $+44.9%$ and reduce the maximum number of cards in hand by 3. Additionally, restore $8$ AP.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -38675,6 +38896,19 @@
     }
   },
   {
+    "raw": "このセクション中、AP回復速度を$+49%$し、手札の上限枚数を3枚減少する。さらにAPを$9$回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+49%$，手牌上限-3。并且恢复$9$AP。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase AP Recovery Speed by $+49%$ and reduce the maximum number of cards in hand by 3. Additionally, restore $9$ AP.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、AP回復速度を$+50.4%$する。さらに手札にある全てのスキルの消費AP-9。",
     "translation": {
       "zh-CN": {
@@ -38701,6 +38935,19 @@
     }
   },
   {
+    "raw": "このセクション中、AP回復速度を$+53.1%$し、手札の上限枚数を3枚減少する。さらにAPを$10$回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+53.1%$，手牌上限-3。并且恢复$10$AP。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase AP Recovery Speed by $+53.1%$ and reduce the maximum number of cards in hand by 3. Additionally, restore $10$ AP.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、AP回復速度を$+54%$する。さらに手札にある全てのスキルの消費AP-9。",
     "translation": {
       "zh-CN": {
@@ -38723,6 +38970,19 @@
       "en": {
         "text": "During this section, AP recovery speed $+55.5%$.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、AP回復速度を$+57.2%$し、手札の上限枚数を3枚減少する。さらにAPを$11$回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+57.2%$，手牌上限-3。并且恢复$11$AP。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase AP Recovery Speed by $+57.2%$ and reduce the maximum number of cards in hand by 3. Additionally, restore $11$ AP.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -38779,6 +39039,19 @@
     }
   },
   {
+    "raw": "このセクション中、AP回復速度を$+61.2%$し、手札の上限枚数を3枚減少する。さらにAPを$12$回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+61.2%$，手牌上限-3。并且恢复$12$AP。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase AP Recovery Speed by $+61.2%$ and reduce the maximum number of cards in hand by 3. Additionally, restore $12$ AP.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、AP回復速度を$+61.2%$する。さらに手札にある全てのスキルの消費AP-9。",
     "translation": {
       "zh-CN": {
@@ -38805,6 +39078,19 @@
     }
   },
   {
+    "raw": "このセクション中、AP回復速度を$+65.3%$し、手札の上限枚数を3枚減少する。さらにAPを$12$回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+65.3%$，手牌上限-3。并且恢复$12$AP。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase AP Recovery Speed by $+65.3%$ and reduce the maximum number of cards in hand by 3. Additionally, restore $12$ AP.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、AP回復速度を$+66%$する。",
     "translation": {
       "zh-CN": {
@@ -38814,6 +39100,19 @@
       "en": {
         "text": "During this section, AP recovery speed $+66%$.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、AP回復速度を$+69.4%$し、手札の上限枚数を3枚減少する。さらにAPを$13$回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+69.4%$，手牌上限-3。并且恢复$13$AP。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase AP Recovery Speed by $+69.4%$ and reduce the maximum number of cards in hand by 3. Additionally, restore $13$ AP.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -38853,6 +39152,19 @@
       "en": {
         "text": "During this section, AP recovery speed $+72%$. Additionally, all skills in hand have their AP cost reduced by 9.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、AP回復速度を$+73.5%$し、手札の上限枚数を3枚減少する。さらにAPを$14$回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+73.5%$，手牌上限-3。并且恢复$14$AP。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase AP Recovery Speed by $+73.5%$ and reduce the maximum number of cards in hand by 3. Additionally, restore $14$ AP.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -38922,6 +39234,19 @@
     }
   },
   {
+    "raw": "このセクション中、AP回復速度を$+81.6%$し、手札の上限枚数を3枚減少する。さらにAPを$16$回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+81.6%$，手牌上限-3。并且恢复$16$AP。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase AP recovery speed by +81.6% and reduce the maximum number of cards in hand by 3. Additionally, restore 16 AP.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、AP回復速度を$+82.8%$する。さらに手札にある全てのスキルの消費AP-9。",
     "translation": {
       "zh-CN": {
@@ -38931,6 +39256,32 @@
       "en": {
         "text": "During this section, AP recovery speed $+82.8%$. Additionally, all skills in hand have their AP cost reduced by 9.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、AP回復速度を$+85.7%$し、手札の上限枚数を3枚減少する。さらにAPを$16$回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+85.7%$，手牌上限-3。并且恢复$16$AP。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase AP recovery speed by +85.7% and reduce the maximum number of cards in hand by 3. Additionally, restore 16 AP.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、AP回復速度を$+89.8%$し、手札の上限枚数を3枚減少する。さらにAPを$17$回復し、デッキ内の全てのスキルの消費AP-20。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+89.8%$，手牌上限-3。并且恢复$17$AP，卡组中所有技能消费AP-20。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase AP recovery speed by +89.8% and reduce the maximum number of cards in hand by 3. Additionally, restore 17 AP and reduce the AP cost of all skills in the deck by -20.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -38983,6 +39334,19 @@
       "en": {
         "text": "During this section, AP recovery speed $+90%$. Additionally, all skills in hand have their AP cost reduced by 9.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、AP回復速度を$+93.9%$し、手札の上限枚数を3枚減少する。さらにAPを$18$回復し、デッキ内の全てのスキルの消費AP-20。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+93.9%$，手牌上限-3。并且恢复$18$AP，卡组中所有技能消费AP-20。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase AP recovery speed by +93.9% and reduce the maximum number of cards in hand by 3. Additionally, restore 18 AP and reduce the AP cost of all skills in the deck by -20.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -44161,6 +44525,188 @@
     }
   },
   {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$102000$ptずつ増加し、手札の上限枚数を3枚減少する。さらにデッキ内の全てのスキルの消費AP-3。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每秒增加$102000$pt，手牌上限-3。并且卡组中所有技能消费AP-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 102000 pt every second and reduce the maximum number of cards in hand by 3. Additionally, reduce the AP cost of all skills in the deck by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$40800$ptずつ増加し、手札の上限枚数を3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每秒增加$40800$pt，手牌上限-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 40800 pt every second and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$44880$ptずつ増加し、手札の上限枚数を3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每秒增加$44880$pt，手牌上限-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 44880 pt every second and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$48960$ptずつ増加し、手札の上限枚数を3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每秒增加$48960$pt，手牌上限-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 48960 pt every second and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$53040$ptずつ増加し、手札の上限枚数を3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每秒增加$53040$pt，手牌上限-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 53040 pt every second and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$57120$ptずつ増加し、手札の上限枚数を3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每秒增加$57120$pt，手牌上限-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 57120 pt every second and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$61200$ptずつ増加し、手札の上限枚数を3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每秒增加$61200$pt，手牌上限-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 61200 pt every second and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$65280$ptずつ増加し、手札の上限枚数を3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每秒增加$65280$pt，手牌上限-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 65280 pt every second and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$69360$ptずつ増加し、手札の上限枚数を3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每秒增加$69360$pt，手牌上限-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 69360 pt every second and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$73440$ptずつ増加し、手札の上限枚数を3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每秒增加$73440$pt，手牌上限-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 73440 pt every second and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$81600$ptずつ増加し、手札の上限枚数を3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每秒增加$81600$pt，手牌上限-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 81600 pt every second and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$85680$ptずつ増加し、手札の上限枚数を3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每秒增加$85680$pt，手牌上限-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 85680 pt every second and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$89760$ptずつ増加し、手札の上限枚数を3枚減少する。さらにデッキ内の全てのスキルの消費AP-3。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每秒增加$89760$pt，手牌上限-3。并且卡组中所有技能消费AP-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 89760 pt every second and reduce the maximum number of cards in hand by 3. Additionally, reduce the AP cost of all skills in the deck by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$93840$ptずつ増加し、手札の上限枚数を3枚減少する。さらにデッキ内の全てのスキルの消費AP-3。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每秒增加$93840$pt，手牌上限-3。并且卡组中所有技能消费AP-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 93840 pt every second and reduce the maximum number of cards in hand by 3. Additionally, reduce the AP cost of all skills in the deck by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムードがハッピーのときメロウ方向に、メロウのときハッピー方向に$+12$する。",
     "translation": {
       "zh-CN": {
@@ -47853,6 +48399,19 @@
     }
   },
   {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$102%$回復し、手札の上限枚数を3枚減少する。さらにデッキ内の全てのスキルの消費AP-3。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental每秒恢复最大值的$102%$，手牌上限-3。并且卡组中所有技能消费AP-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental recovers by 102% of its maximum value every second and reduce the maximum number of cards in hand by 3. Additionally, reduce the AP cost of all skills in the deck by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、メンタルが1秒ごとに最大値の$11.2%$回復する。",
     "translation": {
       "en": {
@@ -48048,6 +48607,123 @@
     }
   },
   {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$40.8%$回復し、手札の上限枚数を3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental每秒恢复最大值的$40.8%$，手牌上限-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental recovers by 40.8% of its maximum value every second and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$44.9%$回復し、手札の上限枚数を3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental每秒恢复最大值的$44.9%$，手牌上限-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental recovers by 44.9% of its maximum value every second and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$49%$回復し、手札の上限枚数を3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental每秒恢复最大值的$49%$，手牌上限-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental recovers by 49% of its maximum value every second and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$53.1%$回復し、手札の上限枚数を3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental每秒恢复最大值的$53.1%$，手牌上限-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental recovers by 53.1% of its maximum value every second and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$57.2%$回復し、手札の上限枚数を3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental每秒恢复最大值的$57.2%$，手牌上限-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental recovers by 57.2% of its maximum value every second and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$61.2%$回復し、手札の上限枚数を3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental每秒恢复最大值的$61.2%$，手牌上限-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental recovers by $61.2%$ of its maximum value every second, and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$65.3%$回復し、手札の上限枚数を3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental每秒恢复最大值的$65.3%$，手牌上限-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental recovers by $65.3%$ of its maximum value every second, and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$69.4%$回復し、手札の上限枚数を3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental每秒恢复最大值的$69.4%$，手牌上限-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental recovers by $69.4%$ of its maximum value every second, and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$73.5%$回復し、手札の上限枚数を3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental每秒恢复最大值的$73.5%$，手牌上限-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental recovers by $73.5%$ of its maximum value every second, and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、メンタルが1秒ごとに最大値の$8%$回復する。",
     "translation": {
       "en": {
@@ -48074,6 +48750,45 @@
     }
   },
   {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$81.6%$回復し、手札の上限枚数を3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental每秒恢复最大值的$81.6%$，手牌上限-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental recovers by $81.6%$ of its maximum value every second, and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$85.7%$回復し、手札の上限枚数を3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental每秒恢复最大值的$85.7%$，手牌上限-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental recovers by $85.7%$ of its maximum value every second, and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$89.8%$回復し、手札の上限枚数を3枚減少する。さらにデッキ内の全てのスキルの消費AP-3。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental每秒恢复最大值的$89.8%$，手牌上限-3。并且卡组中所有技能消费AP-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental recovers by $89.8%$ of its maximum value every second, and reduce the maximum number of cards in hand by 3. Additionally, reduce the AP cost of all skills in the deck by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、メンタルが1秒ごとに最大値の$9.6%$回復する。",
     "translation": {
       "en": {
@@ -48083,6 +48798,19 @@
       "zh-CN": {
         "text": "本小节中，Mental每秒回复最大值的$9.6%$。",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$93.9%$回復し、手札の上限枚数を3枚減少する。さらにデッキ内の全てのスキルの消費AP-3。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental每秒恢复最大值的$93.9%$，手牌上限-3。并且卡组中所有技能消费AP-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental recovers by $93.9%$ of its maximum value every second, and reduce the maximum number of cards in hand by 3. Additionally, reduce the AP cost of all skills in the deck by -3.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -87841,6 +88569,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$+10200$し、APを10減少、メンタルを最大値の102％減少させる。さらにビートハート$1020回分$のスキルハートを獲得し、それぞれ3回の間梢、慈が使用するスキルハート獲得効果による獲得数を$+102%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Vo Pt.$+10200$，AP-10，失去最大mental值的102%。并且获得$1020倍$跳心的技能心心，接下来3次使用梢、慈的获得技能心心时，其数量$+102%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Voltage Pt. by $+10200$, reduce AP by 10, and decrease Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to $1020$ beats, and for 3 turns each, increase the Skill Heart acquisition from Skill Heart acquisition effects used by Kozue and Megumi by $+102%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$+106$する。さらにデッキ枚数が30枚以上のとき、このセクション中、AP回復速度を+13%し、デッキ枚数が33枚以上のとき、ビートハート$396回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -97149,6 +97890,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$+4080$し、APを10減少、メンタルを最大値の102％減少させる。さらにビートハート$408回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Vo Pt.$+4080$，AP-10，失去最大mental值的102%。并且获得$408倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Voltage Pt. by $+4080$, reduce AP by 10, and decrease Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to $408$ beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$+409$する。さらにこのステージ中、メンタルの最大値の$60.72%$分のメンタルダメージを無効にする。",
     "translation": {
       "zh-CN": {
@@ -97565,6 +98319,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$+4488$し、APを10減少、メンタルを最大値の102％減少させる。さらにビートハート$449回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Vo Pt.$+4488$，AP-10，失去最大mental值的102%。并且获得$449倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Voltage Pt. by $+4488$, reduce AP by 10, and decrease Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to $449$ beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$+45$する。さらにメンタルが10%以下のとき、ビートハート$26回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -97847,6 +98614,19 @@
       "en": {
         "text": "Gain $+48$ Voltage Pt. Additionally, reduce Mental by 15% of maximum value, and when Mental is 1% or lower, increase Sayaka's next Voltage gain effect by $+1260%$.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$+4896$し、APを10減少、メンタルを最大値の102％減少させる。さらにビートハート$490回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Vo Pt.$+4896$，AP-10，失去最大mental值的102%。并且获得$490倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Voltage Pt. by $+4896$, reduce AP by 10, and decrease Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to $490$ beats.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -98163,6 +98943,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$+5304$し、APを10減少、メンタルを最大値の102％減少させる。さらにビートハート$530回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Vo Pt.$+5304$，AP-10，失去最大mental值的102%。并且获得$530倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Voltage Pt. by $+5304$, reduce AP by 10, and decrease Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to $530$ beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$+54$する。さらにこのステージ中、メンタルの最大値の$9%$分のメンタルダメージを無効にする。",
     "translation": {
       "zh-CN": {
@@ -98289,6 +99082,19 @@
       "en": {
         "text": "Voltage Pt. $+57$. Additionally, when Mental is 50% or below, LOVE gained increases by $+43.6%$ during this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$+5712$し、APを10減少、メンタルを最大値の102％減少させる。さらにビートハート$571回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Vo Pt.$+5712$，AP-10，失去最大mental值的102%。并且获得$571倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Voltage Pt. by $+5712$, reduce AP by 10, and decrease Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to $571$ beats.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -98488,6 +99294,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$+6120$し、APを10減少、メンタルを最大値の102％減少させる。さらにビートハート$612回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Vo Pt.$+6120$，AP-10，失去最大mental值的102%。并且获得$612倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Voltage Pt. by $+6120$, reduce AP by 10, and decrease Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to $612$ beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$+62$する。",
     "translation": {
       "zh-CN": {
@@ -98592,6 +99411,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$+6528$し、APを10減少、メンタルを最大値の102％減少させる。さらにビートハート$653回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Vo Pt.$+6528$，AP-10，失去最大mental值的102%。并且获得$653倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Voltage Pt. by $+6528$, reduce AP by 10, and decrease Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to $653$ beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$+66$する。さらにメンタルが1%以下のとき、このステージ中、獲得するLOVEを$+90%$する。メンタルが0%のとき、このステージ中、獲得するLOVEを$+180%$する。",
     "translation": {
       "zh-CN": {
@@ -98692,6 +99524,19 @@
       "en": {
         "text": "Voltage Pt. $+68$. Additionally, if Voltage Lv is 6 or below, LOVE gained increases by $+8.6%$ during this stage.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$+6936$し、APを10減少、メンタルを最大値の102％減少させる。さらにビートハート$694回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Vo Pt.$+6936$，AP-10，失去最大mental值的102%。并且获得$694倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Voltage Pt. by $+6936$, reduce AP by 10, and decrease Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to $694$ beats.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -98861,6 +99706,19 @@
       "en": {
         "text": "Voltage Pt. $+73$. Additionally, when Mental is 1% or below, gain Skill Hearts equivalent to $100$ beat hearts, and when Mental is 0%, LOVE gained increases by $+198%$ during this stage.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$+7344$し、APを10減少、メンタルを最大値の102％減少させる。さらにビートハート$734回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Vo Pt.$+7344$，AP-10，失去最大mental值的102%。并且获得$734倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Voltage Pt. by $+7344$, reduce AP by 10, and decrease Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to $734$ beats.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -99047,6 +99905,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$+8160$し、APを10減少、メンタルを最大値の102％減少させる。さらにビートハート$816回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Vo Pt.$+8160$，AP-10，失去最大mental值的102%。并且获得$816倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Voltage Pt. by $+8160$, reduce AP by 10, and decrease Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to $816$ beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$+82$する。さらにデッキ枚数が30枚以上のとき、このセクション中、AP回復速度を+13%し、デッキ枚数が33枚以上のとき、ビートハート$306回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -99121,6 +99992,19 @@
       "en": {
         "text": "Voltage Pt. $+84$. Additionally, when Voltage Lv is 6 or below, LOVE gained $+10.6%$ during this stage.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$+8568$し、APを10減少、メンタルを最大値の102％減少させる。さらにビートハート$857回分$のスキルハートを獲得し、それぞれ3回の間梢、慈が使用するスキルハート獲得効果による獲得数を$+85.7%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Vo Pt.$+8568$，AP-10，失去最大mental值的102%。并且获得$857倍$跳心的技能心心，接下来3次使用梢、慈的获得技能心心时，其数量$+85.7%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Voltage Pt. by $+8568$, reduce AP by 10, and decrease Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to $857$ beats, and for 3 turns each, increase the Skill Heart acquisition from Skill Heart acquisition effects used by Kozue and Megumi by $+85.7%$.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -99225,6 +100109,19 @@
       "en": {
         "text": "Voltage Pt. $+8889$. Additionally, gain Skill Hearts worth $889$ beat hearts and heart limit $+889$ during this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$+8976$し、APを10減少、メンタルを最大値の102％減少させる。さらにビートハート$898回分$のスキルハートを獲得し、それぞれ3回の間梢、慈が使用するスキルハート獲得効果による獲得数を$+89.8%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Vo Pt.$+8976$，AP-10，失去最大mental值的102%。并且获得$898倍$跳心的技能心心，接下来3次使用梢、慈的获得技能心心时，其数量$+89.8%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Voltage Pt. by $+8976$, reduce AP by 10, and decrease Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to $898$ beats, and for 3 turns each, increase the Skill Heart acquisition from Skill Heart acquisition effects used by Kozue and Megumi by $+89.8%$.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -99381,6 +100278,19 @@
       "en": {
         "text": "Voltage Pt. $+92$. Additionally, when Mental is 1% or below, gain Skill Hearts worth $127$ beat hearts, and when Mental is 0%, LOVE gained $+252%$ during this stage.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$+9384$し、APを10減少、メンタルを最大値の102％減少させる。さらにビートハート$938回分$のスキルハートを獲得し、それぞれ3回の間梢、慈が使用するスキルハート獲得効果による獲得数を$+93.8%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Vo Pt.$+9384$，AP-10，失去最大mental值的102%。并且获得$938倍$跳心的技能心心，接下来3次使用梢、慈的获得技能心心时，其数量$+93.8%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Voltage Pt. by $+9384$, reduce AP by 10, and decrease Mental by 102% of its maximum value. Additionally, gain Skill Hearts equivalent to $938$ beats, and for 3 turns each, increase the Skill Heart acquisition from Skill Heart acquisition effects used by Kozue and Megumi by $+93.8%$.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -103787,6 +104697,19 @@
       },
       "en": {
         "text": "Restore Mental to $100.8%$ of its maximum value. Additionally, when Mental reaches 100% or higher, shuffle the hand, gain Skill Hearts equivalent to $252$ beats, and nullify Mental natural decay equivalent to $46.2%$ of the maximum Mental value during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$1020%$回復、このステージ中、それぞれメンタル最大値の$1020%$分のメンタル自然減少、メンタル直接ダメージを無効にし、APを10減少、ボルテージPt.を-1020する。さらにビートハート$1020回分$のスキルハートを獲得し、それぞれ3回の間梢、綴理が使用するスキルハート獲得効果による獲得数を$+102%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大mental值的$1020%$，本场Live中，防止最大mental值的$1020%$自然减少、Mental直接伤害，AP-10，Vo Pt.-1020。并且获得$1020倍$跳心的技能心心，接下来3次使用梢、缀理的获得技能心心时，其数量$+102%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $1020%$ of its maximum value, and during this stage, nullify natural Mental decay and direct Mental damage equivalent to $1020%$ of the maximum Mental value respectively, reduce AP by 10, and decrease Voltage Pt. by -1020. Additionally, gain Skill Hearts equivalent to $1020$ beats, and for 3 turns each, increase the Skill Heart acquisition from Skill Heart acquisition effects used by Kozue and Tsuzuri by $+102%$.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -109343,6 +110266,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$408%$回復、このステージ中、それぞれメンタル最大値の$408%$分のメンタル自然減少、メンタル直接ダメージを無効にし、APを10減少、ボルテージPt.を-1020する。さらにビートハート$408回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大mental值的$408%$，本场Live中，防止最大mental值的$408%$自然减少、Mental直接伤害，AP-10，Vo Pt.-1020。并且获得$408倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $408%$ of its maximum value, and during this stage, nullify natural Mental decay and direct Mental damage equivalent to $408%$ of the maximum Mental value respectively, reduce AP by 10, and decrease Voltage Pt. by -1020. Additionally, gain Skill Hearts equivalent to $408$ beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$42%$回復させる。",
     "translation": {
       "zh-CN": {
@@ -109473,6 +110409,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$448.8%$回復、このステージ中、それぞれメンタル最大値の$448.8%$分のメンタル自然減少、メンタル直接ダメージを無効にし、APを10減少、ボルテージPt.を-1020する。さらにビートハート$449回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$448.8%$，本场Live中，分别防止最大mental值的$448.8%$的Mental自然减少、Mental直接伤害，AP-10，Vo Pt.-1020。并且获得$449倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $448.8%$ of its maximum value. During this stage, nullify Mental natural decay and Mental direct damage equivalent to $448.8%$ of the maximum Mental value respectively, reduce AP by 10, and decrease Voltage Pt. by -1020. Additionally, gain Skill Hearts equivalent to $449$ beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$45.76%$回復させる。さらにメンタルが100%のとき、このセクション中、ビートハートの出現個数を$+4$する。",
     "translation": {
       "zh-CN": {
@@ -109585,6 +110534,19 @@
       },
       "en": {
         "text": "Restore Mental to $48%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, shuffle the hand, gain Skill Hearts equivalent to $120$ beats, and nullify $22%$ of the maximum Mental value as natural Mental decay during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$489.6%$回復、このステージ中、それぞれメンタル最大値の$489.6%$分のメンタル自然減少、メンタル直接ダメージを無効にし、APを10減少、ボルテージPt.を-1020する。さらにビートハート$490回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$489.6%$，本场Live中，分别防止最大mental值的$489.6%$的Mental自然减少、Mental直接伤害，AP-10，Vo Pt.-1020。并且获得$490倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $489.6%$ of its maximum value. During this stage, nullify Mental natural decay and Mental direct damage equivalent to $489.6%$ of the maximum Mental value respectively, reduce AP by 10, and decrease Voltage Pt. by -1020. Additionally, gain Skill Hearts equivalent to $490$ beats.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -110058,6 +111020,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$530.4%$回復、このステージ中、それぞれメンタル最大値の$530.4%$分のメンタル自然減少、メンタル直接ダメージを無効にし、APを10減少、ボルテージPt.を-1020する。さらにビートハート$530回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$530.4%$，本场Live中，分别防止最大mental值的$530.4%$的Mental自然减少、Mental直接伤害，AP-10，Vo Pt.-1020。并且获得$530倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $530.4%$ of its maximum value. During this stage, nullify Mental natural decay and Mental direct damage equivalent to $530.4%$ of the maximum Mental value respectively, reduce AP by 10, and decrease Voltage Pt. by -1020. Additionally, gain Skill Hearts equivalent to $530$ beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$55.2%$回復させる。",
     "translation": {
       "zh-CN": {
@@ -110144,6 +111119,19 @@
       },
       "en": {
         "text": "Restore Mental to 57.6% of its maximum value. Additionally, when Mental reaches 100% or higher, shuffle the hand, gain Skill Hearts equivalent to 144 beats, and nullify natural Mental decay equal to 26.4% of the maximum Mental value during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$571.2%$回復、このステージ中、それぞれメンタル最大値の$571.2%$分のメンタル自然減少、メンタル直接ダメージを無効にし、APを10減少、ボルテージPt.を-1020する。さらにビートハート$571回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$571.2%$，本场Live中，分别防止最大mental值的$571.2%$的Mental自然减少、Mental直接伤害，AP-10，Vo Pt.-1020。并且获得$571倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $571.2%$ of its maximum value. During this stage, nullify Mental natural decay and Mental direct damage equivalent to $571.2%$ of the maximum Mental value respectively, reduce AP by 10, and decrease Voltage Pt. by -1020. Additionally, gain Skill Hearts equivalent to $571$ beats.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -110617,6 +111605,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$612%$回復、このステージ中、それぞれメンタル最大値の$612%$分のメンタル自然減少、メンタル直接ダメージを無効にし、APを10減少、ボルテージPt.を-1020する。さらにビートハート$612回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$612%$，本场Live中，分别防止最大mental值的$612%$的Mental自然减少、Mental直接伤害，AP-10，Vo Pt.-1020。并且获得$612倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $612%$ of its maximum value. During this stage, nullify Mental natural decay and Mental direct damage equivalent to $612%$ of the maximum Mental value respectively, reduce AP by 10, and decrease Voltage Pt. by -1020. Additionally, gain Skill Hearts equivalent to $612$ beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$62.4%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$156回分$のスキルハートを獲得、それぞれ3回の間さやかが使用するラブアトラクト効果を$+416%$、ボルテージゲイン効果を$+156%$、デッキ内のさやかのスキルの消費APを-8し、メンタルを最大値の99％固定で減少させる。",
     "translation": {
       "en": {
@@ -110695,6 +111696,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$652.8%$回復、このステージ中、それぞれメンタル最大値の$652.8%$分のメンタル自然減少、メンタル直接ダメージを無効にし、APを10減少、ボルテージPt.を-1020する。さらにビートハート$653回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$652.8%$，本场Live中，分别防止最大mental值的$652.8%$的Mental自然减少、Mental直接伤害，AP-10，Vo Pt.-1020。并且获得$653倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $652.8%$ of its maximum value. During this stage, nullify Mental natural decay and Mental direct damage equivalent to $652.8%$ of the maximum Mental value respectively, reduce AP by 10, and decrease Voltage Pt. by -1020. Additionally, gain Skill Hearts equivalent to $653$ beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$67.2%$回復させる。さらにメンタルが100%以上のとき、手札をシャッフル、ビートハート$168回分$のスキルハートを獲得、それぞれ3回の間さやかが使用するラブアトラクト効果を$+448%$、ボルテージゲイン効果を$+168%$、デッキ内のさやかのスキルの消費APを-8し、メンタルを最大値の99％固定で減少させる。",
     "translation": {
       "en": {
@@ -110756,6 +111770,19 @@
       "zh-CN": {
         "text": "恢复最大Mental值的$68%$。并且接下来5次Mental恢复效果$+68%$，本小节中，手牌上限-2。",
         "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$693.6%$回復、このステージ中、それぞれメンタル最大値の$693.6%$分のメンタル自然減少、メンタル直接ダメージを無効にし、APを10減少、ボルテージPt.を-1020する。さらにビートハート$694回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$693.6%$，本场Live中，分别防止最大mental值的$693.6%$的Mental自然减少、Mental直接伤害，AP-10，Vo Pt.-1020。并且获得$694倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $693.6%$ of its maximum value. During this stage, nullify Mental natural decay and Mental direct damage equivalent to $693.6%$ of the maximum Mental value respectively, reduce AP by 10, and decrease Voltage Pt. by -1020. Additionally, gain Skill Hearts equivalent to $694$ beats.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -111419,6 +112446,19 @@
       "en": {
         "text": "Restores Mental by $73.92%$ of maximum value. Additionally, when Mental is at 100%, increases the number of Beat Hearts that appear by $+6$ during this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$734.4%$回復、このステージ中、それぞれメンタル最大値の$734.4%$分のメンタル自然減少、メンタル直接ダメージを無効にし、APを10減少、ボルテージPt.を-1020する。さらにビートハート$734回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$734.4%$，本场Live中，分别防止最大mental值的$734.4%$的Mental自然减少、Mental直接伤害，AP-10，Vo Pt.-1020。并且获得$734倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $734.4%$ of its maximum value. During this stage, nullify Mental natural decay and Mental direct damage equivalent to $734.4%$ of the maximum Mental value respectively, reduce AP by 10, and decrease Voltage Pt. by -1020. Additionally, gain Skill Hearts equivalent to $734$ beats.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -112177,6 +113217,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$816%$回復、このステージ中、それぞれメンタル最大値の$816%$分のメンタル自然減少、メンタル直接ダメージを無効にし、APを10減少、ボルテージPt.を-1020する。さらにビートハート$816回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$816%$，本场Live中，分别防止最大mental值的$816%$的Mental自然减少、Mental直接伤害，AP-10，Vo Pt.-1020。并且获得$816倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $816%$ of its maximum value. During this stage, nullify Mental natural decay and Mental direct damage equivalent to $816%$ of the maximum Mental value respectively, reduce AP by 10, and decrease Voltage Pt. by -1020. Additionally, gain Skill Hearts equivalent to $816$ beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$84%$回復させる。さらに5回の間メンタルリカバー効果を$+84%$し、このセクション中、AP回復速度を-20%する。",
     "translation": {
       "en": {
@@ -112199,6 +113252,19 @@
       "zh-CN": {
         "text": "恢复最大Mental值的$84%$。并且接下来5次Mental恢复效果$+84%$，本小节中，手牌上限-2。",
         "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$856.8%$回復、このステージ中、それぞれメンタル最大値の$856.8%$分のメンタル自然減少、メンタル直接ダメージを無効にし、APを10減少、ボルテージPt.を-1020する。さらにビートハート$857回分$のスキルハートを獲得し、それぞれ3回の間梢、綴理が使用するスキルハート獲得効果による獲得数を$+85.7%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$856.8%$，本场Live中，分别防止最大mental值的$856.8%$的Mental自然减少、Mental直接伤害，AP-10，Vo Pt.-1020。并且获得$857倍$跳心的技能心心，分别在接下来3次使用梢、缀理的获得技能心心时，其数量$+85.7%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $856.8%$ of its maximum value. During this stage, nullify Mental natural decay and Mental direct damage equivalent to $856.8%$ of the maximum Mental value respectively, reduce AP by 10, and decrease Voltage Pt. by -1020. Additionally, gain Skill Hearts equivalent to $857$ beats, and increase the number of Skill Hearts acquired by Kozue and Tsuzuri's Skill Heart acquisition effects by $+85.7%$ for 3 turns each.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -112277,6 +113343,19 @@
       "en": {
         "text": "Restores Mental by $88%$ of maximum value. Additionally, when Mental is at 100%, increases the number of Beat Hearts that appear by $+8$ during this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$897.6%$回復、このステージ中、それぞれメンタル最大値の$897.6%$分のメンタル自然減少、メンタル直接ダメージを無効にし、APを10減少、ボルテージPt.を-1020する。さらにビートハート$898回分$のスキルハートを獲得し、それぞれ3回の間梢、綴理が使用するスキルハート獲得効果による獲得数を$+89.8%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$897.6%$，本场Live中，分别防止最大mental值的$897.6%$的Mental自然减少、Mental直接伤害，AP-10，Vo Pt.-1020。并且获得$898倍$跳心的技能心心，分别在接下来3次使用梢、缀理的获得技能心心时，其数量$+89.8%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $897.6%$ of its maximum value. During this stage, nullify Mental natural decay and Mental direct damage equivalent to $897.6%$ of the maximum Mental value respectively, reduce AP by 10, and decrease Voltage Pt. by -1020. Additionally, gain Skill Hearts equivalent to $898$ beats, and increase the number of Skill Hearts acquired by Kozue and Tsuzuri's Skill Heart acquisition effects by $+89.8%$ for 3 turns each.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -112706,6 +113785,19 @@
       "zh-CN": {
         "text": "恢复最大Mental值的$92%$。并且接下来5次Mental恢复效果$+92%$，本小节中，手牌上限-2。",
         "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$938.4%$回復、このステージ中、それぞれメンタル最大値の$938.4%$分のメンタル自然減少、メンタル直接ダメージを無効にし、APを10減少、ボルテージPt.を-1020する。さらにビートハート$938回分$のスキルハートを獲得し、それぞれ3回の間梢、綴理が使用するスキルハート獲得効果による獲得数を$+93.8%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$938.4%$，本场Live中，分别防止最大mental值的$938.4%$的Mental自然减少、Mental直接伤害，AP-10，Vo Pt.-1020。并且获得$938倍$跳心的技能心心，分别在接下来3次使用梢、缀理的获得技能心心时，其数量$+93.8%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $938.4%$ of its maximum value. During this stage, nullify Mental natural decay and Mental direct damage equivalent to $938.4%$ of the maximum Mental value respectively, reduce AP by 10, and decrease Voltage Pt. by -1020. Additionally, gain Skill Hearts equivalent to $938$ beats, and increase the number of Skill Hearts acquired by Kozue and Tsuzuri's Skill Heart acquisition effects by $+93.8%$ for 3 turns each.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -134247,6 +135339,45 @@
       "en": {
         "text": "After using Kozue or Megumi's skills, the probability of drawing this increases. Additionally, when drawn, recover 5% of maximum Mental.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "梢、綴理、慈、沙知以外のスキル使用時にドローされない。さらに手札にある状態でハートを102000個回収したとき、ビートハート10200回分のスキルハートを獲得し、APを10回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "使用梢、缀理、慈、沙知以外的技能时不会被抽到。并且在手牌中回收102000个心心时，获得10200倍跳心的技能心心，AP+10。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Will not be drawn when using skills other than Kozue, Tsuzuri, Megumi, and Sayaka. Additionally, when 102000 hearts are collected while in hand, gain Skill Hearts equivalent to 10200 beats and restore AP by 10.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "梢、綴理、慈、沙知以外のスキル使用時にドローされない。さらに手札にある状態でハートを102000個回収したとき、ビートハート1020回分のスキルハートを獲得し、ボルテージPt.を+1020する。",
+    "translation": {
+      "zh-CN": {
+        "text": "使用梢、缀理、慈、沙知以外的技能时不会被抽到。并且在手牌中回收102000个心心时，获得1020倍跳心的技能心心，Vo Pt.+1020。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Will not be drawn when using skills other than Kozue, Tsuzuri, Megumi, and Sayaka. Additionally, when 102000 hearts are collected while in hand, gain Skill Hearts equivalent to 1020 beats and increase Voltage Pt. by +1020.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "梢、綴理、慈、沙知以外のスキル使用時にドローされない。さらに手札にある状態でハートを102000個回収したとき、ビートハート1020回分のスキルハートを獲得し、メンタルを最大値の102%回復させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "使用梢、缀理、慈、沙知以外的技能时不会被抽到。并且在手牌中回收102000个心心时，获得1020倍跳心的技能心心，恢复最大mental值的102%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Will not be drawn when using skills other than Kozue, Tsuzuri, Megumi, and Sayaka. Additionally, when 102000 hearts are collected while in hand, gain Skill Hearts equivalent to 1020 beats and restore Mental to 102% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

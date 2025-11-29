@@ -13,6 +13,19 @@
     }
   },
   {
+    "raw": "102期活動記録 ～Shades of Stars～\nエピローグ読了証",
+    "translation": {
+      "zh-CN": {
+        "text": "102期活动记录 ～Shades of Stars～<br>尾声 阅读完成证",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "102nd Term Activity Record ~Shades of Stars~\nEpilogue Reading Certificate",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "102期活動記録 ～Shades of Stars～\n第1話『a falling star』読了証",
     "translation": {
       "zh-CN": {
@@ -91,6 +104,32 @@
     }
   },
   {
+    "raw": "102期活動記録 ～Shades of Stars～\n第7話『On your mark』後編 読了証",
+    "translation": {
+      "zh-CN": {
+        "text": "102期活动记录 ～Shades of Stars～<br>第7话『On your mark』后篇 阅读完成证",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "102nd Term Activity Record ~Shades of Stars~\nChapter 7 'On your mark' Part 2 Reading Certificate",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "102期活動記録 ～Shades of Stars～ エピローグを読了",
+    "translation": {
+      "zh-CN": {
+        "text": "102期活动记录 ～Shades of Stars～ 尾声 阅读完成",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Read the epilogue of 102nd Term Activity Record ~Shades of Stars~",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "102期活動記録 ～Shades of Stars～ 第1話『a falling star』を読了",
     "translation": {
       "zh-CN": {
@@ -165,6 +204,19 @@
       "zh-CN": {
         "text": "102期活动记录 ～Shades of Stars～ 第6话『On your mark』前篇 阅读完成",
         "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "102期活動記録 ～Shades of Stars～ 第7話『On your mark』後編 を読了",
+    "translation": {
+      "zh-CN": {
+        "text": "102期活动记录 ～Shades of Stars～ 第7话『On your mark』后篇 阅读完成",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Read Chapter 7 'On your mark' Part 2 of 102nd Term Activity Record ~Shades of Stars~",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -17433,6 +17485,19 @@
     }
   },
   {
+    "raw": "CD『はじまりの羽音』購入特典",
+    "translation": {
+      "zh-CN": {
+        "text": "CD『はじまりの羽音』购买特典",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "CD 'Hajimari no Haoto' Purchase Bonus",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "CD『アイデンティティ』購入特典",
     "translation": {
       "zh-CN": {
@@ -17806,6 +17871,19 @@
       "en": {
         "text": "A special title commemorating Chara Expo USA 2019",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Cover『102期活動記録 ～Shades of Stars～』",
+    "translation": {
+      "zh-CN": {
+        "text": "Cover『102期活动记录 ～Shades of Stars～』",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Cover '102nd Term Activity Record ~Shades of Stars~'",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -18300,6 +18378,19 @@
       "en": {
         "text": "Jacket『おいでよ！石川大観光』",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Jacket『はじまりの羽音』",
+    "translation": {
+      "zh-CN": {
+        "text": "Jacket『はじまりの羽音』",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Jacket 'Hajimari no Haoto'",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -50115,6 +50206,19 @@
     }
   },
   {
+    "raw": "On my way 踏み出した瞬間 手にした勇気",
+    "translation": {
+      "zh-CN": {
+        "text": "On my way 踏出步伐的瞬间 握住的勇气",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "On my way, the moment I stepped forward, I grasped courage",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "POP UP SHOP in 東京・大阪 開催記念！",
     "translation": {
       "zh-CN": {
@@ -52013,6 +52117,19 @@
     }
   },
   {
+    "raw": "[BEAST TAMER]日野下 花帆",
+    "translation": {
+      "zh-CN": {
+        "text": "[BEAST TAMER]日野下花帆",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[BEAST TAMER] Kaho Hinoshita",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[BLACK COLLECTION/mini]セラス 柳田 リリエンフェルト",
     "translation": {
       "en": {
@@ -53534,6 +53651,19 @@
     }
   },
   {
+    "raw": "[ELF]大沢 瑠璃乃",
+    "translation": {
+      "zh-CN": {
+        "text": "[ELF]大泽瑠璃乃",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[ELF] Rurino Osawa",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[Edelied]桂城 泉＆セラス 柳田 リリエンフェルト ",
     "translation": {
       "zh-CN": {
@@ -54232,6 +54362,19 @@
       "en": {
         "text": "[Ether Aria]Megumi Fujishima Release Complete",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[FAIRY]徒町 小鈴",
+    "translation": {
+      "zh-CN": {
+        "text": "[FAIRY]徒町小铃",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[FAIRY] Kosuzu Kachimachi",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -55601,6 +55744,45 @@
     }
   },
   {
+    "raw": "[On your mark/102]藤島 慈",
+    "translation": {
+      "zh-CN": {
+        "text": "[On your mark/102]藤岛慈",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[On your mark/102] Megumi Fujishima",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[On your mark/102]藤島 慈 を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[On your mark/102]藤岛慈 解放4次的纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Commemorative sticker for releasing [On your mark/102] Megumi Fujishima 4 times",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[On your mark/102]藤島 慈 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[On your mark/102]藤岛慈 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[On your mark/102] Megumi Fujishima released successfully",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[Oracle Étude]セラス 柳田 リリエンフェルト",
     "translation": {
       "zh-CN": {
@@ -56459,6 +56641,32 @@
     }
   },
   {
+    "raw": "[PRINCESS]セラス 柳田 リリエンフェルト",
+    "translation": {
+      "zh-CN": {
+        "text": "[PRINCESS]塞拉斯 柳田 利林费尔德",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[PRINCESS] Ceras Yanagida Lilienfeld",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[PRINCESS KNIGHT]桂城 泉",
+    "translation": {
+      "zh-CN": {
+        "text": "[PRINCESS KNIGHT]桂城泉",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[PRINCESS KNIGHT] Izumi Katsuragi",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[Pleasure Feather]乙宗 梢",
     "translation": {
       "zh-CN": {
@@ -57161,6 +57369,45 @@
     }
   },
   {
+    "raw": "[Reflection in the mirror/102]乙宗 梢",
+    "translation": {
+      "zh-CN": {
+        "text": "[Reflection in the mirror/102]乙宗梢",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Reflection in the mirror/102] Kozue Otomune",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[Reflection in the mirror/102]乙宗 梢 を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[Reflection in the mirror/102]乙宗梢 解放4次的纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Commemorative sticker for releasing [Reflection in the mirror/102] Kozue Otomune 4 times",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[Reflection in the mirror/102]乙宗 梢 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[Reflection in the mirror/102]乙宗梢 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Reflection in the mirror/102] Kozue Otomune released successfully",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[Reflection in the mirror]乙宗 梢",
     "translation": {
       "zh-CN": {
@@ -57508,6 +57755,32 @@
       "en": {
         "text": "[Rose Garden]Sayaka Murano release completed",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[SHRINE MAIDEN]百生 吟子",
+    "translation": {
+      "zh-CN": {
+        "text": "[SHRINE MAIDEN]百生吟子",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[SHRINE MAIDEN] Ginko Momose",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[SNIPER]安養寺 姫芽",
+    "translation": {
+      "zh-CN": {
+        "text": "[SNIPER]安养寺姬芽",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[SNIPER] Hime Anyoji",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -57898,6 +58171,45 @@
       "zh-CN": {
         "text": "[Shades of Stars]藤岛慈",
         "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "[Sparkly Spot/102]夕霧 綴理",
+    "translation": {
+      "zh-CN": {
+        "text": "[Sparkly Spot/102]夕雾缀理",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Sparkly Spot/102] Tsuzuri Yugiri",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[Sparkly Spot/102]夕霧 綴理 を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[Sparkly Spot/102]夕雾缀理 解放4次的纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Commemorative sticker for releasing [Sparkly Spot/102] Tsuzuri Yugiri 4 times",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[Sparkly Spot/102]夕霧 綴理 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[Sparkly Spot/102]夕雾缀理 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Sparkly Spot/102] Tsuzuri Yugiri released successfully",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -58678,6 +58990,19 @@
       "en": {
         "text": "[WAWO!]Hime Anyoji Unlock completed",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[WIZARD]村野 さやか",
+    "translation": {
+      "zh-CN": {
+        "text": "[WIZARD]村野沙耶香",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[WIZARD] Sayaka Murano",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -72722,6 +73047,19 @@
     }
   },
   {
+    "raw": "「BEAST TAMER 花帆 大冒険セット」を購入",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「BEAST TAMER 花帆 大冒险套装」",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Purchase the \"BEAST TAMER Kaho Great Adventure Set\"",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "「BLACK COLLECTION by ZOZOTOWN Edel Noteコーディネート」を購入",
     "translation": {
       "en": {
@@ -72783,6 +73121,32 @@
       "en": {
         "text": "Purchased \"Ceras's 16th Birthday Celebrate Pack\"",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "「ELF 瑠璃乃 大冒険セット」を購入",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「ELF 瑠璃乃 大冒险套装」",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Purchase the \"ELF Rurino Great Adventure Set\"",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "「FAIRY 小鈴 大冒険セット」を購入",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「FAIRY 小铃 大冒险套装」",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Purchase the \"FAIRY Kosuzu Great Adventure Set\"",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -73203,6 +73567,32 @@
     }
   },
   {
+    "raw": "「PRINCESS KNIGHT 泉 大冒険セット」を購入",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「PRINCESS KNIGHT 泉 大冒险套装」",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Purchase the \"PRINCESS KNIGHT Izumi Great Adventure Set\"",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "「PRINCESS セラス 大冒険セット」を購入",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「PRINCESS 塞拉斯 大冒险套装」",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Purchase the \"PRINCESS Ceras Great Adventure Set\"",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "「RUN！CAN！FUN！完走パック！」を購入",
     "translation": {
       "zh-CN": {
@@ -73242,6 +73632,32 @@
     }
   },
   {
+    "raw": "「SHRINE MAIDEN 吟子 大冒険セット」を購入",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「SHRINE MAIDEN 吟子 大冒险套装」",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Purchase the \"SHRINE MAIDEN Ginko Great Adventure Set\"",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "「SNIPER 姫芽 大冒険セット」を購入",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「SNIPER 姬芽 大冒险套装」",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Purchase the \"SNIPER Hime Great Adventure Set\"",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "「Sayaka's 17th Birthday セレブレイトパック」を購入",
     "translation": {
       "zh-CN": {
@@ -73264,6 +73680,19 @@
       "en": {
         "text": "Purchase \"Tsuzuri's 18th Birthday Celebrate Pack\"",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "「WIZARD さやか 大冒険セット」を購入",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「WIZARD 沙耶香 大冒险套装」",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Purchase the \"WIZARD Sayaka Great Adventure Set\"",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -74070,6 +74499,19 @@
       "en": {
         "text": "Purchase 「8ban Ramen Collaboration Memorial! 8ban DOLLCHESTRA Set」",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "『102期活動記録 ～Shades of Stars～』レプリカ",
+    "translation": {
+      "zh-CN": {
+        "text": "『102期活动记录 ～Shades of Stars～』复制品",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Replica of '102nd Term Activity Record ~Shades of Stars~'",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -88435,6 +88877,19 @@
       "en": {
         "text": "The solemn sound of bells ringing in the passing and coming year - wearing this on 12/31 gives a feeling that good things will happen",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ようこそ\nHASUNOSORA FANTASYへ！",
+    "translation": {
+      "zh-CN": {
+        "text": "欢迎来到\nHASUNOSORA FANTASY!",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Welcome to\nHASUNOSORA FANTASY!",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

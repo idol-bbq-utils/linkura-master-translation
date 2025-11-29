@@ -1950,6 +1950,19 @@
     }
   },
   {
+    "raw": "[On your mark/102]藤島 慈 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[On your mark/102]藤岛 慈 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[On your mark/102] Fujishima Megumi Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[Oracle Étude]セラス 柳田 リリエンフェルト 解放Pt.",
     "translation": {
       "zh-CN": {
@@ -2314,6 +2327,19 @@
     }
   },
   {
+    "raw": "[Reflection in the mirror/102]乙宗 梢 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[Reflection in the mirror/102]乙宗 梢 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Reflection in the mirror/102] Otomune Kozue Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[Reflection in the mirror]乙宗 梢 解放Pt.",
     "translation": {
       "zh-CN": {
@@ -2531,6 +2557,19 @@
       "en": {
         "text": "[Secret Christmas]Megumi Fujishima Liberation Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[Sparkly Spot/102]夕霧 綴理 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[Sparkly Spot/102]夕雾 缀理 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Sparkly Spot/102] Yugiri Tsuzuri Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

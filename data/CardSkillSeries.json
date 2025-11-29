@@ -13,6 +13,19 @@
     }
   },
   {
+    "raw": "102オーバーチュア",
+    "translation": {
+      "zh-CN": {
+        "text": "102 Overture",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "102 Overture",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "APエスカレート：メンタル & メンタルバリア：ハートキャプチャ",
     "translation": {
       "zh-CN": {
@@ -5248,6 +5261,45 @@
       "en": {
         "text": "Scorching",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "スタボーンチャーミング",
+    "translation": {
+      "zh-CN": {
+        "text": "Stubborn Charming",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Stubborn Charming",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "スタボーンパッション",
+    "translation": {
+      "zh-CN": {
+        "text": "Stubborn Passion",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Stubborn Passion",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "スタボーンピュリティ",
+    "translation": {
+      "zh-CN": {
+        "text": "Stubborn Purity",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Stubborn Purity",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -11384,6 +11436,45 @@
       "zh-CN": {
         "text": "浪漫防护",
         "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "ローエッジスピリッツ",
+    "translation": {
+      "zh-CN": {
+        "text": "Low Edge Spirits",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Low Edge Spirits",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ローエッジフォース",
+    "translation": {
+      "zh-CN": {
+        "text": "Low Edge Force",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Low Edge Force",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ローエッジボルテージ",
+    "translation": {
+      "zh-CN": {
+        "text": "Low Edge Voltage",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Low Edge Voltage",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

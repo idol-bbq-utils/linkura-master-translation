@@ -6331,6 +6331,19 @@
     }
   },
   {
+    "raw": "CD『はじまりの羽音』シリアルコード特典です。",
+    "translation": {
+      "zh-CN": {
+        "text": "CD《はじまりの羽音》序列号特典",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "CD 'Hajimari no Haoto' Serial Code Bonus.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "CD『アイデンティティ』シリアルコード特典です。",
     "translation": {
       "zh-CN": {
@@ -14664,6 +14677,19 @@
     }
   },
   {
+    "raw": "「BEAST TAMER 花帆 大冒険セット」を購入して獲得したアイテムです。",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「BEAST TAMER 花帆 大冒险套装」获得的道具",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Items obtained by purchasing the 'BEAST TAMER Kaho Adventure Set'.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "「BLACK COLLECTION by ZOZOTOWN Edel Noteコーディネート」を購入して獲得したアイテムです。",
     "translation": {
       "en": {
@@ -14829,6 +14855,32 @@
       "en": {
         "text": "This is an item acquired by purchasing the「Dream Show Bloom Stage, Link-Live! Limited Set」.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "「ELF 瑠璃乃 大冒険セット」を購入して獲得したアイテムです。",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「ELF 瑠璃乃 大冒险套装」获得的道具",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Items obtained by purchasing the 'ELF Rurino Adventure Set'.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "「FAIRY 小鈴 大冒険セット」を購入して獲得したアイテムです。",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「FAIRY 小铃 大冒险套装」获得的道具",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Items obtained by purchasing the 'FAIRY Kosuzu Adventure Set'.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -15249,6 +15301,32 @@
     }
   },
   {
+    "raw": "「PRINCESS KNIGHT 泉 大冒険セット」を購入して獲得したアイテムです。",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「PRINCESS KNIGHT 泉 大冒险套装」获得的道具",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Items obtained by purchasing the 'PRINCESS KNIGHT Izumi Adventure Set'.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "「PRINCESS セラス 大冒険セット」を購入して獲得したアイテムです。",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「PRINCESS 塞拉斯 大冒险套装」获得的道具",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Items obtained by purchasing the 'PRINCESS Ceras Adventure Set'.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "「RUN！CAN！FUN！完走パック！」を購入して獲得したアイテムです。",
     "translation": {
       "zh-CN": {
@@ -15284,6 +15362,32 @@
       "zh-CN": {
         "text": "购买「Rurino's 18th Birthday 庆祝礼包」获得的道具。",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "「SHRINE MAIDEN 吟子 大冒険セット」を購入して獲得したアイテムです。",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「SHRINE MAIDEN 吟子 大冒险套装」获得的道具",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Items obtained by purchasing the 'SHRINE MAIDEN Ginko Adventure Set'.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "「SNIPER 姫芽 大冒険セット」を購入して獲得したアイテムです。",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「SNIPER 姫芽 大冒险套装」获得的道具",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Items obtained by purchasing the 'SNIPER Hime Adventure Set'.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -15336,6 +15440,19 @@
       "en": {
         "text": "This is an item obtained by purchasing the \"Tsuzuri's 18th Birthday Celebrate Pack\".",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "「WIZARD さやか 大冒険セット」を購入して獲得したアイテムです。",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「WIZARD 沙耶香 大冒险套装」获得的道具",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Items obtained by purchasing the 'WIZARD Sayaka Adventure Set'.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -18430,6 +18547,58 @@
       "en": {
         "text": "Dimensional Festival Commemoration Login Campaign Day 3 present.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "石川県コラボ第4弾「HASUNOSORA FANTASY」開催記念ログインキャンペーン！ 1日目のプレゼントです！",
+    "translation": {
+      "zh-CN": {
+        "text": "石川县联动第4弹「HASUNOSORA FANTASY」举办纪念登录活动第1天的礼物！",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Ishikawa Prefecture Collaboration Part 4 'HASUNOSORA FANTASY' Login Campaign: Day 1's Gift!",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "石川県コラボ第4弾「HASUNOSORA FANTASY」開催記念ログインキャンペーン！ 2日目のプレゼントです！",
+    "translation": {
+      "zh-CN": {
+        "text": "石川县联动第4弹「HASUNOSORA FANTASY」举办纪念登录活动第2天的礼物！",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Ishikawa Prefecture Collaboration Part 4 'HASUNOSORA FANTASY' Login Campaign: Day 2's Gift!",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "石川県コラボ第4弾「HASUNOSORA FANTASY」開催記念ログインキャンペーン！ 3日目のプレゼントです！",
+    "translation": {
+      "zh-CN": {
+        "text": "石川县联动第4弹「HASUNOSORA FANTASY」举办纪念登录活动第3天的礼物！",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Ishikawa Prefecture Collaboration Part 4 'HASUNOSORA FANTASY' Login Campaign: Day 3's Gift!",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "石川県コラボ第4弾「HASUNOSORA FANTASY」開催記念ログインキャンペーン！ 4日目のプレゼントです！",
+    "translation": {
+      "zh-CN": {
+        "text": "石川县联动第4弹「HASUNOSORA FANTASY」举办纪念登录活动第4天的礼物！",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Ishikawa Prefecture Collaboration Part 4 'HASUNOSORA FANTASY' Login Campaign: Day 4's Gift!",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

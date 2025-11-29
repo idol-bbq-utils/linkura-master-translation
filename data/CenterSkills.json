@@ -11934,6 +11934,19 @@
     }
   },
   {
+    "raw": "【ライブ開始時に発動】APを$10$回復／最大値の$85%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "zh-CN": {
+        "text": "【Live开始时发动】回复$10$AP／减少最大值的$85%$Mental（此效果不会使Mental变为0）",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "【Activated at the start of the live】Recover $10$ AP / Reduce mental by 85% of the maximum value (this effect prevents mental from reaching 0)",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "【ライブ開始時に発動】APを$11$回復",
     "translation": {
       "zh-CN": {
@@ -12116,6 +12129,32 @@
     }
   },
   {
+    "raw": "【ライブ開始時に発動】APを$4$回復／最大値の$35%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "zh-CN": {
+        "text": "【Live开始时发动】回复$4$AP／减少最大值的$35%$Mental（此效果不会使Mental变为0）",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "【Activated at the start of the live】Recover $4$ AP / Reduce mental by 35% of the maximum value (this effect prevents mental from reaching 0)",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "【ライブ開始時に発動】APを$4$回復／最大値の$40%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "zh-CN": {
+        "text": "【Live开始时发动】回复$4$AP／减少最大值的$40%$Mental（此效果不会使Mental变为0）",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "【Activated at the start of the live】Recover $4$ AP / Reduce mental by 40% of the maximum value (this effect prevents mental from reaching 0)",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "【ライブ開始時に発動】APを$5$回復",
     "translation": {
       "zh-CN": {
@@ -12151,6 +12190,32 @@
       "zh-CN": {
         "text": "【Live开始时发动】AP回复$5$／Mental减少最大值的$30%$（此效果不会使Mental变为0）",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【ライブ開始時に発動】APを$5$回復／最大値の$40%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "zh-CN": {
+        "text": "【Live开始时发动】回复$5$AP／减少最大值的$40%$Mental（此效果不会使Mental变为0）",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "【Activated at the start of the live】Recover $5$ AP / Reduce mental by 40% of the maximum value (this effect prevents mental from reaching 0)",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "【ライブ開始時に発動】APを$5$回復／最大値の$45%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "zh-CN": {
+        "text": "【Live开始时发动】回复$5$AP／减少最大值的$45%$Mental（此效果不会使Mental变为0）",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "【Activated at the start of the live】Recover $5$ AP / Reduce mental by 45% of the maximum value (this effect prevents mental from reaching 0)",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -12194,6 +12259,32 @@
     }
   },
   {
+    "raw": "【ライブ開始時に発動】APを$6$回復／最大値の$50%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "zh-CN": {
+        "text": "【Live开始时发动】回复$6$AP／减少最大值的$50%$Mental（此效果不会使Mental变为0）",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "【Activated at the start of the live】Recover $6$ AP / Reduce mental by 50% of the maximum value (this effect prevents mental from reaching 0)",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "【ライブ開始時に発動】APを$6$回復／最大値の$55%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "zh-CN": {
+        "text": "【Live开始时发动】回复$6$AP／减少最大值的$55%$Mental（此效果不会使Mental变为0）",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "【Activated at the start of the live】Recover $6$ AP / Reduce mental by 55% of the maximum value (this effect prevents mental from reaching 0)",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "【ライブ開始時に発動】APを$7$回復",
     "translation": {
       "zh-CN": {
@@ -12216,6 +12307,19 @@
       "en": {
         "text": "【Triggered at live start】Recover $7$ AP／Reduce Mental by $100%$ of maximum value (this effect will not reduce Mental to 0)",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【ライブ開始時に発動】APを$7$回復／最大値の$60%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "zh-CN": {
+        "text": "【Live开始时发动】回复$7$AP／减少最大值的$60%$Mental（此效果不会使Mental变为0）",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "【Activated at the start of the live】Recover $7$ AP / Reduce mental by 60% of the maximum value (this effect prevents mental from reaching 0)",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -12259,6 +12363,32 @@
     }
   },
   {
+    "raw": "【ライブ開始時に発動】APを$8$回復／最大値の$65%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "zh-CN": {
+        "text": "【Live开始时发动】回复$8$AP／减少最大值的$65%$Mental（此效果不会使Mental变为0）",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "【Activated at the start of the live】Recover $8$ AP / Reduce mental by 65% of the maximum value (this effect prevents mental from reaching 0)",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "【ライブ開始時に発動】APを$8$回復／最大値の$70%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "zh-CN": {
+        "text": "【Live开始时发动】回复$8$AP／减少最大值的$70%$Mental（此效果不会使Mental变为0）",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "【Activated at the start of the live】Recover $8$ AP / Reduce mental by 70% of the maximum value (this effect prevents mental from reaching 0)",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "【ライブ開始時に発動】APを$9$回復",
     "translation": {
       "zh-CN": {
@@ -12281,6 +12411,19 @@
       "en": {
         "text": "【Triggered at live start】Recover $9$ AP／Reduce Mental by $100%$ of maximum value (this effect will not reduce Mental to 0)",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【ライブ開始時に発動】APを$9$回復／最大値の$80%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "zh-CN": {
+        "text": "【Live开始时发动】回复$9$AP／减少最大值的$80%$Mental（此效果不会使Mental变为0）",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "【Activated at the start of the live】Recover $9$ AP / Reduce mental by 80% of the maximum value (this effect prevents mental from reaching 0)",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

@@ -1,5 +1,18 @@
 [
   {
+    "raw": "DOLLCHESTRAに所属するメンバーと乙宗梢、藤島慈のアピール値が180％上昇／メンタルの最大値が編成している綴理のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "DOLLCHESTRA所属成员与乙宗梢、藤岛慈的Appeal值上升180%/Mental的最大值变为编组中缀理的卡片数量×100，但所有技能的消费AP减少2，冷却时间减少2秒。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The Appeal of DOLLCHESTRA members, Kozue Otomune, and Megumi Fujishima increases by 180% / The maximum Mental becomes 100 × the number of Tsuzuri cards in the formation, but the AP cost of all skills decreases by 2 and cooldown decreases by 2 seconds.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "DOLLCHESTRAに所属するメンバーと日野下花帆、大沢瑠璃乃のアピール値が180％上昇／クールタイムが3秒増加するが、全てのスキルカードの消費APが8減少し、ボルテージの獲得量が1600％増加する。",
     "translation": {
       "zh-CN": {
@@ -74,6 +87,19 @@
       "en": {
         "text": "Edel Note members have their Appeal values increased by 200%",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "みらくらぱーく！に所属するメンバーと乙宗梢、夕霧綴理のアピール値が180％上昇／全てのスキルカードの消費APが1増加するが、APの獲得量が10％増加し、クールタイムが3秒減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Mira-Cra Park!所属成员与乙宗梢、夕雾缀理的Appeal值上升180%/所有技能卡的消费AP增加1，但AP的获得量增加10%，冷却时间减少3秒。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The Appeal of Mira-Cra Park! members, Kozue Otomune, and Tsuzuri Yugiri increases by 180% / The AP cost of all skill cards increases by 1, but AP gain increases by 10% and cooldown decreases by 3 seconds.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -490,6 +516,19 @@
       "en": {
         "text": "Appeal Up (Megumi Fujishima)",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "スリーズブーケに所属するメンバーと夕霧綴理、藤島慈のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少",
+    "translation": {
+      "zh-CN": {
+        "text": "Cerise Bouquet所属成员与夕雾缀理、藤岛慈的Appeal值上升200%/所有技能的消费AP减少1/冷却时间减少2秒",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The Appeal of Cerise Bouquet members, Tsuzuri Yugiri, and Megumi Fujishima increases by 200% / The AP cost of all skills decreases by 1 / Cooldown decreases by 2 seconds",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

@@ -336,6 +336,12 @@
             "RequirementText": "[be proud]乙宗 梢 解放完了"
         },
         {
+            "Id": 10217021,
+            "Name": "[Reflection in the mirror/102]乙宗 梢",
+            "Text": "[Reflection in the mirror/102]乙宗 梢 を4回解放した記念のステッカー",
+            "RequirementText": "[Reflection in the mirror/102]乙宗 梢 解放完了"
+        },
+        {
             "Id": 10218011,
             "Name": "[Prism Echo]乙宗 梢",
             "Text": "[Prism Echo]乙宗 梢を4回解放した記念のステッカー",
@@ -684,6 +690,12 @@
             "RequirementText": "[幸せのリボン]夕霧 綴理 解放完了"
         },
         {
+            "Id": 10227021,
+            "Name": "[Sparkly Spot/102]夕霧 綴理",
+            "Text": "[Sparkly Spot/102]夕霧 綴理 を4回解放した記念のステッカー",
+            "RequirementText": "[Sparkly Spot/102]夕霧 綴理 解放完了"
+        },
+        {
             "Id": 10228011,
             "Name": "[Prism Echo]夕霧 綴理",
             "Text": "[Prism Echo]夕霧 綴理を4回解放した記念のステッカー",
@@ -970,6 +982,12 @@
             "Name": "[やっぱ天使！]藤島 慈",
             "Text": "[やっぱ天使！]藤島 慈 を4回解放した記念のステッカー",
             "RequirementText": "[やっぱ天使！]藤島 慈 解放完了"
+        },
+        {
+            "Id": 10237021,
+            "Name": "[On your mark/102]藤島 慈",
+            "Text": "[On your mark/102]藤島 慈 を4回解放した記念のステッカー",
+            "RequirementText": "[On your mark/102]藤島 慈 解放完了"
         },
         {
             "Id": 10238011,
@@ -12408,6 +12426,54 @@
             "RequirementText": "「GiGO×fanfancy+×Edel Noteパック」を購入"
         },
         {
+            "Id": 90000132,
+            "Name": "[BEAST TAMER]日野下 花帆",
+            "Text": "ようこそ\nHASUNOSORA FANTASYへ！",
+            "RequirementText": "「BEAST TAMER 花帆 大冒険セット」を購入"
+        },
+        {
+            "Id": 90000133,
+            "Name": "[WIZARD]村野 さやか",
+            "Text": "ようこそ\nHASUNOSORA FANTASYへ！",
+            "RequirementText": "「WIZARD さやか 大冒険セット」を購入"
+        },
+        {
+            "Id": 90000134,
+            "Name": "[ELF]大沢 瑠璃乃",
+            "Text": "ようこそ\nHASUNOSORA FANTASYへ！",
+            "RequirementText": "「ELF 瑠璃乃 大冒険セット」を購入"
+        },
+        {
+            "Id": 90000135,
+            "Name": "[SHRINE MAIDEN]百生 吟子",
+            "Text": "ようこそ\nHASUNOSORA FANTASYへ！",
+            "RequirementText": "「SHRINE MAIDEN 吟子 大冒険セット」を購入"
+        },
+        {
+            "Id": 90000136,
+            "Name": "[FAIRY]徒町 小鈴",
+            "Text": "ようこそ\nHASUNOSORA FANTASYへ！",
+            "RequirementText": "「FAIRY 小鈴 大冒険セット」を購入"
+        },
+        {
+            "Id": 90000137,
+            "Name": "[SNIPER]安養寺 姫芽",
+            "Text": "ようこそ\nHASUNOSORA FANTASYへ！",
+            "RequirementText": "「SNIPER 姫芽 大冒険セット」を購入"
+        },
+        {
+            "Id": 90000138,
+            "Name": "[PRINCESS]セラス 柳田 リリエンフェルト",
+            "Text": "ようこそ\nHASUNOSORA FANTASYへ！",
+            "RequirementText": "「PRINCESS セラス 大冒険セット」を購入"
+        },
+        {
+            "Id": 90000139,
+            "Name": "[PRINCESS KNIGHT]桂城 泉",
+            "Text": "ようこそ\nHASUNOSORA FANTASYへ！",
+            "RequirementText": "「PRINCESS KNIGHT 泉 大冒険セット」を購入"
+        },
+        {
             "Id": 90010210,
             "Name": "Kozue Birthday 2023",
             "Text": "Happy 17th Birthday to Dear Kozue!",
@@ -12772,6 +12838,12 @@
             "Name": "Jacket『片翼のトリバガ』",
             "Text": "白と黒、どちら？\n幸と不幸 左右合わせて 生き甲斐",
             "RequirementText": "CD『片翼のトリバガ』購入特典"
+        },
+        {
+            "Id": 90405119,
+            "Name": "Jacket『はじまりの羽音』",
+            "Text": "On my way 踏み出した瞬間 手にした勇気",
+            "RequirementText": "CD『はじまりの羽音』購入特典"
         },
         {
             "Id": 91000001,
@@ -13618,6 +13690,18 @@
             "Name": "[Shades of Stars]藤島 慈",
             "Text": "102期活動記録 ～Shades of Stars～\n第6話『On your mark』前編 読了証",
             "RequirementText": "102期活動記録 ～Shades of Stars～ 第6話『On your mark』前編 を読了"
+        },
+        {
+            "Id": 95000007,
+            "Name": "Cover『102期活動記録 ～Shades of Stars～』",
+            "Text": "102期活動記録 ～Shades of Stars～\n第7話『On your mark』後編 読了証",
+            "RequirementText": "102期活動記録 ～Shades of Stars～ 第7話『On your mark』後編 を読了"
+        },
+        {
+            "Id": 95000008,
+            "Name": "『102期活動記録 ～Shades of Stars～』レプリカ",
+            "Text": "102期活動記録 ～Shades of Stars～\nエピローグ読了証",
+            "RequirementText": "102期活動記録 ～Shades of Stars～ エピローグを読了"
         },
         {
             "Id": 99000001,
