@@ -910,6 +910,32 @@
     }
   },
   {
+    "raw": "このカードのスキル発動回数が1回以下の時、APを$2$回復／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$28.75%$上昇／次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が8回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, restore AP by $2$ / The voltage acquisition effect skill increases voltage acquisition by $28.75%$ for one turn / Return the next skill to be activated to the deck in order from the first card (removed cards do not return) / When this card's skill activation count is 8 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，AP回复$2$／获得Voltage效果技能的Voltage获得量单次提升$28.75%$／下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动8次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が1回以下の時、APを$2$回復／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$31.62%$上昇／次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が8回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, restore AP by $2$ / The voltage acquisition effect skill increases voltage acquisition by $31.62%$ for one turn / Return the next skill to be activated to the deck in order from the first card (removed cards do not return) / When this card's skill activation count is 8 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，AP回复$2$／获得Voltage效果技能的Voltage获得量单次提升$31.62%$／下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动8次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このカードのスキル発動回数が1回以下の時、APを$20$回復／このカードのスキル発動回数が2回以上の時、APを$20$減少／ボルテージLv.が10以上の時、このカードを除外する",
     "translation": {
       "en": {
@@ -949,6 +975,149 @@
     }
   },
   {
+    "raw": "このカードのスキル発動回数が1回以下の時、APを$3$回復／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$34.5%$上昇／次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が8回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, restore AP by $3$ / The voltage acquisition effect skill increases voltage acquisition by $34.5%$ for one turn / Return the next skill to be activated to the deck in order from the first card (removed cards do not return) / When this card's skill activation count is 8 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，AP回复$3$／获得Voltage效果技能的Voltage获得量单次提升$34.5%$／下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动8次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が1回以下の時、APを$3$回復／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$37.37%$上昇／次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が8回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, restore AP by $3$ / The voltage acquisition effect skill increases voltage acquisition by $37.37%$ for one turn / Return the next skill to be activated to the deck in order from the first card (removed cards do not return) / When this card's skill activation count is 8 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，AP回复$3$／获得Voltage效果技能的Voltage获得量单次提升$37.37%$／下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动8次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が1回以下の時、APを$3$回復／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$40.25%$上昇／次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が8回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, restore AP by $3$ / The voltage acquisition effect skill increases voltage acquisition by $40.25%$ for one turn / Return the next skill to be activated to the deck in order from the first card (removed cards do not return) / When this card's skill activation count is 8 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，AP回复$3$／获得Voltage效果技能的Voltage获得量单次提升$40.25%$／下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动8次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が1回以下の時、APを$4$回復／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$43.12%$上昇／次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が8回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, restore AP by $4$ / The voltage acquisition effect skill increases voltage acquisition by $43.12%$ for one turn / Return the next skill to be activated to the deck in order from the first card (removed cards do not return) / When this card's skill activation count is 8 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，AP回复$4$／获得Voltage效果技能的Voltage获得量单次提升$43.12%$／下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动8次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が1回以下の時、APを$4$回復／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$46%$上昇／次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が8回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, restore AP by $4$ / The voltage acquisition effect skill increases voltage acquisition by $46%$ for one turn / Return the next skill to be activated to the deck in order from the first card (removed cards do not return) / When this card's skill activation count is 8 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，AP回复$4$／获得Voltage效果技能的Voltage获得量单次提升$46%$／下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动8次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が1回以下の時、APを$4$回復／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$48.87%$上昇／次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が8回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, restore AP by $4$ / The voltage acquisition effect skill increases voltage acquisition by $48.87%$ for one turn / Return the next skill to be activated to the deck in order from the first card (removed cards do not return) / When this card's skill activation count is 8 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，AP回复$4$／获得Voltage效果技能的Voltage获得量单次提升$48.87%$／下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动8次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が1回以下の時、APを$4$回復／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$51.75%$上昇／次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が8回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, restore AP by $4$ / The voltage acquisition effect skill increases voltage acquisition by $51.75%$ for one turn / Return the next skill to be activated to the deck in order from the first card (removed cards do not return) / When this card's skill activation count is 8 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，AP回复$4$／获得Voltage效果技能的Voltage获得量单次提升$51.75%$／下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动8次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が1回以下の時、APを$5$回復／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$57.5%$上昇／次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が8回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, restore AP by $5$ / The voltage acquisition effect skill increases voltage acquisition by $57.5%$ for one turn / Return the next skill to be activated to the deck in order from the first card (removed cards do not return) / When this card's skill activation count is 8 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，AP回复$5$／获得Voltage效果技能的Voltage获得量单次提升$57.5%$／下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动8次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が1回以下の時、APを$5$回復／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$63.25%$上昇／次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が8回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, restore AP by $5$ / The voltage acquisition effect skill increases voltage acquisition by $63.25%$ for one turn / Return the next skill to be activated to the deck in order from the first card (removed cards do not return) / When this card's skill activation count is 8 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，AP回复$5$／获得Voltage效果技能的Voltage获得量单次提升$63.25%$／下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动8次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が1回以下の時、APを$6$回復／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$69%$上昇／次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が8回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, restore AP by $6$ / The voltage acquisition effect skill increases voltage acquisition by $69%$ for one turn / Return the next skill to be activated to the deck in order from the first card (removed cards do not return) / When this card's skill activation count is 8 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，AP回复$6$／获得Voltage效果技能的Voltage获得量单次提升$69%$／下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动8次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が1回以下の時、APを$6$回復／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$74.75%$上昇／次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が8回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, restore AP by $6$ / The voltage acquisition effect skill increases voltage acquisition by $74.75%$ for one turn / Return the next skill to be activated to the deck in order from the first card (removed cards do not return) / When this card's skill activation count is 8 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，AP回复$6$／获得Voltage效果技能的Voltage获得量单次提升$74.75%$／下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动8次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このカードのスキル発動回数が1回以下の時、APを$8$回復／このカードのスキル発動回数が2回以上の時、APを$20$減少／ボルテージLv.が10以上の時、このカードを除外する",
     "translation": {
       "en": {
@@ -958,6 +1127,19 @@
       "zh-CN": {
         "text": "此卡技能发动1次以下时，AP回复$8$／此卡技能发动2次以上时，AP减少$20$／Voltage Lv.10以上时，移除此卡",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が1回以下の時、APを$8$回復／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$86.25%$上昇／次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が8回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, restore AP by $8$ / The voltage acquisition effect skill increases voltage acquisition by $86.25%$ for one turn / Return the next skill to be activated to the deck in order from the first card (removed cards do not return) / When this card's skill activation count is 8 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，AP回复$8$／获得Voltage效果技能的Voltage获得量单次提升$86.25%$／下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动8次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -40352,6 +40534,188 @@
     }
   },
   {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$195.75%$のスコアを獲得／スキルの合計発動回数が20回以上の時、合計アピール値の$217.5%$のスコアを獲得／合計アピール値の$108.75%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When Mental is 100% or more of its maximum value, acquire a score equal to $195.75%$ of the total Appeal Value / When the total skill activation count is 20 or more, acquire a score equal to $217.5%$ of the total Appeal Value / Acquire a score equal to $108.75%$ of the total Appeal Value",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$195.75%$的分数／技能总计发动20次以上时，获得总分值$217.5%$的分数／获得总分值$108.75%$的分数",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$215.32%$のスコアを獲得／スキルの合計発動回数が20回以上の時、合計アピール値の$239.25%$のスコアを獲得／合計アピール値の$119.62%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When Mental is 100% or more of its maximum value, acquire a score equal to $215.32%$ of the total Appeal Value / When the total skill activation count is 20 or more, acquire a score equal to $239.25%$ of the total Appeal Value / Acquire a score equal to $119.62%$ of the total Appeal Value",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$215.32%$的分数／技能总计发动20次以上时，获得总分值$239.25%$的分数／获得总分值$119.62%$的分数",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$234.9%$のスコアを獲得／スキルの合計発動回数が20回以上の時、合計アピール値の$261%$のスコアを獲得／合計アピール値の$130.5%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When Mental is 100% or more of its maximum value, acquire a score equal to $234.9%$ of the total Appeal Value / When the total skill activation count is 20 or more, acquire a score equal to $261%$ of the total Appeal Value / Acquire a score equal to $130.5%$ of the total Appeal Value",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$234.9%$的分数／技能总计发动20次以上时，获得总分值$261%$的分数／获得总分值$130.5%$的分数",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$254.47%$のスコアを獲得／スキルの合計発動回数が20回以上の時、合計アピール値の$282.75%$のスコアを獲得／合計アピール値の$141.37%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When Mental is 100% or more of its maximum value, acquire a score equal to $254.47%$ of the total Appeal Value / When the total skill activation count is 20 or more, acquire a score equal to $282.75%$ of the total Appeal Value / Acquire a score equal to $141.37%$ of the total Appeal Value",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$254.47%$的分数／技能总计发动20次以上时，获得总分值$282.75%$的分数／获得总分值$141.37%$的分数",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$274.05%$のスコアを獲得／スキルの合計発動回数が20回以上の時、合計アピール値の$304.5%$のスコアを獲得／合計アピール値の$152.25%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When Mental is 100% or more of its maximum value, acquire a score equal to $274.05%$ of the total Appeal Value / When the total skill activation count is 20 or more, acquire a score equal to $304.5%$ of the total Appeal Value / Acquire a score equal to $152.25%$ of the total Appeal Value",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$274.05%$的分数／技能总计发动20次以上时，获得总分值$304.5%$的分数／获得总分值$152.25%$的分数",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$293.62%$のスコアを獲得／スキルの合計発動回数が20回以上の時、合計アピール値の$326.25%$のスコアを獲得／合計アピール値の$163.12%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When Mental is 100% or more of its maximum value, acquire a score equal to $293.62%$ of the total Appeal Value / When the total skill activation count is 20 or more, acquire a score equal to $326.25%$ of the total Appeal Value / Acquire a score equal to $163.12%$ of the total Appeal Value",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$293.62%$的分数／技能总计发动20次以上时，获得总分值$326.25%$的分数／获得总分值$163.12%$的分数",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$313.2%$のスコアを獲得／スキルの合計発動回数が20回以上の時、合計アピール値の$348%$のスコアを獲得／合計アピール値の$174%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When Mental is 100% or more of its maximum value, acquire a score equal to $313.2%$ of the total Appeal Value / When the total skill activation count is 20 or more, acquire a score equal to $348%$ of the total Appeal Value / Acquire a score equal to $174%$ of the total Appeal Value",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$313.2%$的分数／技能总计发动20次以上时，获得总分值$348%$的分数／获得总分值$174%$的分数",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$332.77%$のスコアを獲得／スキルの合計発動回数が20回以上の時、合計アピール値の$369.75%$のスコアを獲得／合計アピール値の$184.87%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When Mental is 100% or more of its maximum value, acquire a score equal to $332.77%$ of the total Appeal Value / When the total skill activation count is 20 or more, acquire a score equal to $369.75%$ of the total Appeal Value / Acquire a score equal to $184.87%$ of the total Appeal Value",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$332.77%$的分数／技能总计发动20次以上时，获得总分值$369.75%$的分数／获得总分值$184.87%$的分数",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$352.35%$のスコアを獲得／スキルの合計発動回数が20回以上の時、合計アピール値の$391.5%$のスコアを獲得／合計アピール値の$195.75%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When Mental is 100% or more of its maximum value, acquire a score equal to $352.35%$ of the total Appeal Value / When the total skill activation count is 20 or more, acquire a score equal to $391.5%$ of the total Appeal Value / Acquire a score equal to $195.75%$ of the total Appeal Value",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$352.35%$的分数／技能总计发动20次以上时，获得总分值$391.5%$的分数／获得总分值$195.75%$的分数",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$391.5%$のスコアを獲得／スキルの合計発動回数が20回以上の時、合計アピール値の$435%$のスコアを獲得／合計アピール値の$217.5%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When Mental is 100% or more of its maximum value, acquire a score equal to $391.5%$ of the total Appeal Value / When the total skill activation count is 20 or more, acquire a score equal to $435%$ of the total Appeal Value / Acquire a score equal to $217.5%$ of the total Appeal Value",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$391.5%$的分数／技能总计发动20次以上时，获得总分值$435%$的分数／获得总分值$217.5%$的分数",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$430.65%$のスコアを獲得／スキルの合計発動回数が20回以上の時、合計アピール値の$478.5%$のスコアを獲得／合計アピール値の$239.25%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 100% or more of its maximum value, acquire a score equal to $430.65%$ of the total Appeal Value / When the total skill activation count is 20 or more, acquire a score equal to $478.5%$ of the total Appeal Value / Acquire a score equal to $239.25%$ of the total Appeal Value",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$430.65%$的分数／技能总发动次数为20次以上时，获得总分值$478.5%$的分数／获得总分值$239.25%$的分数",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$469.8%$のスコアを獲得／スキルの合計発動回数が20回以上の時、合計アピール値の$522%$のスコアを獲得／合計アピール値の$261%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 100% or more of its maximum value, acquire a score equal to $469.8%$ of the total Appeal Value / When the total skill activation count is 20 or more, acquire a score equal to $522%$ of the total Appeal Value / Acquire a score equal to $261%$ of the total Appeal Value",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$469.8%$的分数／技能总发动次数为20次以上时，获得总分值$522%$的分数／获得总分值$261%$的分数",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$508.95%$のスコアを獲得／スキルの合計発動回数が20回以上の時、合計アピール値の$565.5%$のスコアを獲得／合計アピール値の$282.75%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 100% or more of its maximum value, acquire a score equal to $508.95%$ of the total Appeal Value / When the total skill activation count is 20 or more, acquire a score equal to $565.5%$ of the total Appeal Value / Acquire a score equal to $282.75%$ of the total Appeal Value",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$508.95%$的分数／技能总发动次数为20次以上时，获得总分值$565.5%$的分数／获得总分值$282.75%$的分数",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$587.25%$のスコアを獲得／スキルの合計発動回数が20回以上の時、合計アピール値の$652.5%$のスコアを獲得／合計アピール値の$326.25%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 100% or more of its maximum value, acquire a score equal to $587.25%$ of the total Appeal Value / When the total skill activation count is 20 or more, acquire a score equal to $652.5%$ of the total Appeal Value / Acquire a score equal to $326.25%$ of the total Appeal Value",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$587.25%$的分数／技能总发动次数为20次以上时，获得总分值$652.5%$的分数／获得总分值$326.25%$的分数",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルが最大値の10％以上の時、最大値の$30%$分のメンタルを減少（この効果ではメンタルが0にならない）／メンタルが最大値の10％以下の時、APを$10$回復／メンタルが最大値の10％以下の時、このカードを除外する",
     "translation": {
       "en": {
@@ -41414,6 +41778,188 @@
       "en": {
         "text": "When Mental is at 1% or more of maximum value, recover $5$ AP／When Mental is at 1% or less of maximum value, Voltage gain from Voltage acquisition effect skills increases by $225%$ for 1 time／When Mental is at 1% or less of maximum value, score gain from score acquisition effect skills increases by $225%$ for 1 time／Reduce Mental by $100%$ of maximum value (this effect does not reduce Mental to 0)",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の1％以上の時、ボルテージPt.を$139pt$獲得／メンタルが最大値の1％以下の時、APを$2$回復／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 1% or more of its maximum value, acquire $139pt$ of Voltage Points / When Mental is at 1% or less of its maximum value, restore AP by $2$ / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的1%以上时，获得Vo Pt.$139pt$／Mental为最大值的1%以下时，AP回复$2$／此卡技能发动2次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の1％以上の時、ボルテージPt.を$153pt$獲得／メンタルが最大値の1％以下の時、APを$2$回復／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 1% or more of its maximum value, acquire $153pt$ of Voltage Points / When Mental is at 1% or less of its maximum value, restore AP by $2$ / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的1%以上时，获得Vo Pt.$153pt$／Mental为最大值的1%以下时，AP回复$2$／此卡技能发动2次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の1％以上の時、ボルテージPt.を$167pt$獲得／メンタルが最大値の1％以下の時、APを$2$回復／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 1% or more of its maximum value, acquire $167pt$ of Voltage Points / When Mental is at 1% or less of its maximum value, restore AP by $2$ / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的1%以上时，获得Vo Pt.$167pt$／Mental为最大值的1%以下时，AP回复$2$／此卡技能发动2次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の1％以上の時、ボルテージPt.を$181pt$獲得／メンタルが最大値の1％以下の時、APを$2$回復／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 1% or more of its maximum value, acquire $181pt$ of Voltage Points / When Mental is at 1% or less of its maximum value, restore AP by $2$ / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的1%以上时，获得Vo Pt.$181pt$／Mental为最大值的1%以下时，AP回复$2$／此卡技能发动2次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の1％以上の時、ボルテージPt.を$195pt$獲得／メンタルが最大値の1％以下の時、APを$2$回復／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 1% or more of its maximum value, acquire $195pt$ of Voltage Points / When Mental is at 1% or less of its maximum value, restore AP by $2$ / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的1%以上时，获得Vo Pt.$195pt$／Mental为最大值的1%以下时，AP回复$2$／此卡技能发动2次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の1％以上の時、ボルテージPt.を$209pt$獲得／メンタルが最大値の1％以下の時、APを$3$回復／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 1% or more of its maximum value, acquire $209pt$ of Voltage Points / When Mental is at 1% or less of its maximum value, restore AP by $3$ / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的1%以上时，获得Vo Pt.$209pt$／Mental为最大值的1%以下时，AP回复$3$／此卡技能发动2次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の1％以上の時、ボルテージPt.を$223pt$獲得／メンタルが最大値の1％以下の時、APを$3$回復／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 1% or more of its maximum value, acquire $223pt$ of Voltage Points / When Mental is at 1% or less of its maximum value, restore AP by $3$ / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的1%以上时，获得Vo Pt.$223pt$／Mental为最大值的1%以下时，AP回复$3$／此卡技能发动2次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の1％以上の時、ボルテージPt.を$237pt$獲得／メンタルが最大値の1％以下の時、APを$3$回復／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 1% or more of its maximum value, acquire $237pt$ of Voltage Points / When Mental is at 1% or less of its maximum value, restore AP by $3$ / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的1%以上时，获得Vo Pt.$237pt$／Mental为最大值的1%以下时，AP回复$3$／此卡技能发动2次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の1％以上の時、ボルテージPt.を$251pt$獲得／メンタルが最大値の1％以下の時、APを$3$回復／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 1% or more of its maximum value, acquire $251pt$ of Voltage Points / When Mental is at 1% or less of its maximum value, restore AP by $3$ / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的1%以上时，获得Vo Pt.$251pt$／Mental为最大值的1%以下时，AP回复$3$／此卡技能发动2次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の1％以上の時、ボルテージPt.を$279pt$獲得／メンタルが最大値の1％以下の時、APを$4$回復／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 1% or more of its maximum value, acquire $279pt$ of Voltage Points / When Mental is at 1% or less of its maximum value, restore AP by $4$ / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的1%以上时，获得Vo Pt.$279pt$／Mental为最大值的1%以下时，AP回复$4$／此卡技能发动2次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の1％以上の時、ボルテージPt.を$306pt$獲得／メンタルが最大値の1％以下の時、APを$4$回復／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 1% or more of its maximum value, acquire $306pt$ of Voltage Points / When Mental is at 1% or less of its maximum value, restore AP by $4$ / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的1%以上时，获得Vo Pt.$306pt$／Mental为最大值的1%以下时，AP回复$4$／此卡技能发动2次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の1％以上の時、ボルテージPt.を$334pt$獲得／メンタルが最大値の1％以下の時、APを$4$回復／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 1% or more of its maximum value, acquire $334pt$ of Voltage Points / When Mental is at 1% or less of its maximum value, restore AP by $4$ / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的1%以上时，获得Vo Pt.$334pt$／Mental为最大值的1%以下时，AP回复$4$／此卡技能发动2次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の1％以上の時、ボルテージPt.を$362pt$獲得／メンタルが最大値の1％以下の時、APを$5$回復／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 1% or more of its maximum value, acquire $362pt$ of Voltage Points / When Mental is at 1% or less of its maximum value, restore AP by $5$ / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的1%以上时，获得Vo Pt.$362pt$／Mental为最大值的1%以下时，AP回复$5$／此卡技能发动2次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の1％以上の時、ボルテージPt.を$418pt$獲得／メンタルが最大値の1％以下の時、APを$6$回復／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "en": {
+        "text": "When Mental is at 1% or more of its maximum value, acquire $418pt$ of Voltage Points / When Mental is at 1% or less of its maximum value, restore AP by $6$ / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的1%以上时，获得Vo Pt.$418pt$／Mental为最大值的1%以下时，AP回复$6$／此卡技能发动2次以上时，移除此卡",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

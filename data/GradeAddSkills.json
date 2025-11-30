@@ -533,6 +533,19 @@
     }
   },
   {
+    "raw": "スキルAP -3",
+    "translation": {
+      "en": {
+        "text": "Skill AP -3",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "技能AP -3",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "スキルAP -30",
     "translation": {
       "zh-CN": {
@@ -1283,6 +1296,19 @@
       "en": {
         "text": "During live, increase skill AP cost by +3.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ライブ中、スキルの消費APを-3する。",
+    "translation": {
+      "en": {
+        "text": "During a live, reduces the AP cost of skills by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "演出中，技能消耗的AP-3。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

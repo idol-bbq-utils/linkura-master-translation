@@ -6331,6 +6331,19 @@
     }
   },
   {
+    "raw": "CD『ちょ、尊いLOVE / Nεw Black』シリアルコード特典です。",
+    "translation": {
+      "en": {
+        "text": "Items obtained via serial code from the CD 'ちょ、尊いLOVE / Nεw Black'.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "CD『ちょ、尊いLOVE / Nεw Black』序列号特典",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "CD『はじまりの羽音』シリアルコード特典です。",
     "translation": {
       "zh-CN": {

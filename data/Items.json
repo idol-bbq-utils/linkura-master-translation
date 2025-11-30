@@ -2171,6 +2171,19 @@
     }
   },
   {
+    "raw": "[Poupée en Lotus]大沢 瑠璃乃 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[Poupée en Lotus] Osawa Rurino Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[Poupée en Lotus]大泽 瑠璃乃 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[Poupée en Lotus]安養寺 姫芽 解放Pt.",
     "translation": {
       "zh-CN": {
@@ -2179,6 +2192,32 @@
       },
       "en": {
         "text": "[Poupée en Lotus] Anyoji Hime Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[Poupée en Lotus]徒町 小鈴 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[Poupée en Lotus] Kachimachi Kosuzu Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[Poupée en Lotus]徒町 小铃 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[Poupée en Lotus]日野下 花帆 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[Poupée en Lotus] Hinoshita Kaho Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[Poupée en Lotus]日野下 花帆 解放Pt.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }

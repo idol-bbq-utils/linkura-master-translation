@@ -1392,6 +1392,12 @@
             "RequirementText": "[乙女詞華集]日野下 花帆 解放完了"
         },
         {
+            "Id": 10315351,
+            "Name": "[Poupée en Lotus]日野下 花帆",
+            "Text": "[Poupée en Lotus]日野下 花帆 を4回解放した記念のステッカー",
+            "RequirementText": "[Poupée en Lotus]日野下 花帆 解放完了"
+        },
+        {
             "Id": 10318011,
             "Name": "[Prism Echo]日野下 花帆",
             "Text": "[Prism Echo]日野下 花帆を4回解放した記念のステッカー",
@@ -2160,6 +2166,12 @@
             "RequirementText": "[バイタルサイン]大沢 瑠璃乃 解放完了"
         },
         {
+            "Id": 10335301,
+            "Name": "[Poupée en Lotus]大沢 瑠璃乃",
+            "Text": "[Poupée en Lotus]大沢 瑠璃乃 を4回解放した記念のステッカー",
+            "RequirementText": "[Poupée en Lotus]大沢 瑠璃乃 解放完了"
+        },
+        {
             "Id": 10338011,
             "Name": "[Prism Echo]大沢 瑠璃乃",
             "Text": "[Prism Echo]大沢 瑠璃乃 を4回解放した記念のステッカー",
@@ -2572,6 +2584,12 @@
             "Name": "[ガランドFlash]徒町 小鈴",
             "Text": "[ガランドFlash]徒町 小鈴 を4回解放した記念のステッカー",
             "RequirementText": "[ガランドFlash]徒町 小鈴 解放完了"
+        },
+        {
+            "Id": 10425201,
+            "Name": "[Poupée en Lotus]徒町 小鈴",
+            "Text": "[Poupée en Lotus]徒町 小鈴 を4回解放した記念のステッカー",
+            "RequirementText": "[Poupée en Lotus]徒町 小鈴 解放完了"
         },
         {
             "Id": 10428011,
@@ -11610,6 +11628,18 @@
             "RequirementText": "『Nεw Black』マスタリーLv.30到達"
         },
         {
+            "Id": 40405126,
+            "Name": "『チャーミングな花束を！』マエストロ",
+            "Text": "『チャーミングな花束を！』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『チャーミングな花束を！』マスタリーLv.30到達"
+        },
+        {
+            "Id": 40405201,
+            "Name": "『テレパシ』マエストロ",
+            "Text": "『テレパシ』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『テレパシ』マスタリーLv.30到達"
+        },
+        {
             "Id": 40405301,
             "Name": "『虹色Passions!』マエストロ",
             "Text": "『虹色Passions!』のマスタリーLv.を30にした記念のステッカー",
@@ -12840,10 +12870,10 @@
             "RequirementText": "CD『片翼のトリバガ』購入特典"
         },
         {
-            "Id": 90405119,
-            "Name": "Jacket『はじまりの羽音』",
-            "Text": "On my way 踏み出した瞬間 手にした勇気",
-            "RequirementText": "CD『はじまりの羽音』購入特典"
+            "Id": 90405122,
+            "Name": "Jacket『ちょ、尊いLOVE / Nεw Black』",
+            "Text": "オギャッと⽣まれた平成ギャルズ\nIcHiGo milKに染まれ 甘い夢を一緒に見よう",
+            "RequirementText": "CD『ちょ、尊いLOVE / Nεw Black』購入特典"
         },
         {
             "Id": 91000001,
@@ -13652,6 +13682,12 @@
         {
             "Id": 94000060,
             "Name": "きまっし!!みらぱ！の部屋のカキワリ",
+            "Text": "きまっし!!みらぱ！の部屋ラジオの応援ありがとうございます！",
+            "RequirementText": "きまっし!!みらぱ！の部屋ラジオを応援"
+        },
+        {
+            "Id": 94000061,
+            "Name": "Ruri&To",
             "Text": "きまっし!!みらぱ！の部屋ラジオの応援ありがとうございます！",
             "RequirementText": "きまっし!!みらぱ！の部屋ラジオを応援"
         },

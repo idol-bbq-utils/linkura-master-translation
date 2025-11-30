@@ -988,6 +988,19 @@
     }
   },
   {
+    "raw": "『チャーミングな花束を！』",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "『チリコンカン』",
     "translation": {
       "zh-CN": {
@@ -1034,6 +1047,19 @@
         "author": ""
       },
       "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "『テレパシ』",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
         "text": "",
         "author": ""
       }
@@ -2704,6 +2730,19 @@
     }
   },
   {
+    "raw": "チャーミングな花束を！",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "チリコンカン",
     "translation": {
       "zh-CN": {
@@ -2750,6 +2789,19 @@
         "author": ""
       },
       "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "テレパシ",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
         "text": "",
         "author": ""
       }

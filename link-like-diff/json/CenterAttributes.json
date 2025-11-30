@@ -3536,6 +3536,21 @@
             "Description": "スリーズブーケに所属するメンバーのアピール値が200％上昇"
         },
         {
+            "Id": 20315351,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
+            "Id": 20315352,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
+            "Id": 20315353,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
             "Id": 20318011,
             "CenterAttributeName": "アピールアップ（スリーズブーケ）&APレデュース&CTレデュース",
             "Description": "スリーズブーケに所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少"
@@ -5471,6 +5486,21 @@
             "Description": "全メンバーのアピール値が80％上昇"
         },
         {
+            "Id": 20335301,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
+            "Id": 20335302,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
+            "Id": 20335303,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
             "Id": 20338011,
             "CenterAttributeName": "アピールアップ（みらくらぱーく！）&APレデュース&CTレデュース",
             "Description": "みらくらぱーく！に所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少"
@@ -6489,6 +6519,21 @@
             "Id": 20425193,
             "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
             "Description": "DOLLCHESTRAに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20425201,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が72％上昇"
+        },
+        {
+            "Id": 20425202,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が72％上昇"
+        },
+        {
+            "Id": 20425203,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が72％上昇"
         },
         {
             "Id": 20428011,

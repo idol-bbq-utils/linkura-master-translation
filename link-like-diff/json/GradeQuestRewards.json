@@ -3124,6 +3124,86 @@
         {
             "Id": 1053516,
             "ConditionsDescription": "4個以上のライブステージのライブPt.獲得率を100％にしてクリア"
+        },
+        {
+            "Id": 1053601,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率10％"
+        },
+        {
+            "Id": 1053602,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率15％"
+        },
+        {
+            "Id": 1053603,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率20％"
+        },
+        {
+            "Id": 1053604,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率25％"
+        },
+        {
+            "Id": 1053605,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率30％"
+        },
+        {
+            "Id": 1053606,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率35％"
+        },
+        {
+            "Id": 1053607,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率40％"
+        },
+        {
+            "Id": 1053608,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率45％"
+        },
+        {
+            "Id": 1053609,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率50％"
+        },
+        {
+            "Id": 1053610,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率55％"
+        },
+        {
+            "Id": 1053611,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率60％"
+        },
+        {
+            "Id": 1053612,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率65％"
+        },
+        {
+            "Id": 1053613,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率70％"
+        },
+        {
+            "Id": 1053614,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率75％"
+        },
+        {
+            "Id": 1053615,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率80％"
+        },
+        {
+            "Id": 1053616,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率85％"
+        },
+        {
+            "Id": 1053617,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率90％"
+        },
+        {
+            "Id": 1053618,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率95％"
+        },
+        {
+            "Id": 1053619,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率100％"
+        },
+        {
+            "Id": 1053620,
+            "ConditionsDescription": "『スキルAP -3』を解除してクリア"
         }
     ]
 }

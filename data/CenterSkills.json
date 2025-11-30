@@ -117,6 +117,19 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】APを$10$回復／最大値の$50%$分のメンタルを回復",
+    "translation": {
+      "en": {
+        "text": "【Activated at the start of FEVER】Recover $10$ AP / Recover mental by 50% of the maximum value",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】AP回复$10$／回复最大值的$50%$Mental",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】APを$10$回復／最大値の$85%$分のメンタルを回復",
     "translation": {
       "zh-CN": {
@@ -611,6 +624,19 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】APを$3$回復／最大値の$50%$分のメンタルを回復",
+    "translation": {
+      "en": {
+        "text": "【Activated at the start of FEVER】Recover $3$ AP / Recover mental by 50% of the maximum value",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】AP回复$3$／回复最大值的$50%$Mental",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】APを$4$回復",
     "translation": {
       "zh-CN": {
@@ -923,6 +949,19 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】APを$4$回復／最大値の$50%$分のメンタルを回復",
+    "translation": {
+      "en": {
+        "text": "【Activated at the start of FEVER】Recover $4$ AP / Recover mental by 50% of the maximum value",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】AP回复$4$／回复最大值的$50%$Mental",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】APを$5$回復",
     "translation": {
       "zh-CN": {
@@ -1166,6 +1205,19 @@
       "en": {
         "text": "【Activates at FEVER start】Recover $5$ AP / Recover Mental equal to $45%$ of maximum value",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】APを$5$回復／最大値の$50%$分のメンタルを回復",
+    "translation": {
+      "en": {
+        "text": "【Activated at the start of FEVER】Recover $5$ AP / Recover mental by 50% of the maximum value",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】AP回复$5$／回复最大值的$50%$Mental",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -1508,6 +1560,19 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】APを$7$回復／最大値の$50%$分のメンタルを回復",
+    "translation": {
+      "en": {
+        "text": "【Activated at the start of FEVER】Recover $7$ AP / Recover mental by 50% of the maximum value",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】AP回复$7$／回复最大值的$50%$Mental",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】APを$7$回復／最大値の$60%$分のメンタルを回復",
     "translation": {
       "zh-CN": {
@@ -1738,6 +1803,19 @@
       "en": {
         "text": "【Activates at FEVER start】Recover $8$ AP／When Mental is 99% or less of maximum value, Voltage Pt. decreases by $1000pt$",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】APを$8$回復／最大値の$50%$分のメンタルを回復",
+    "translation": {
+      "en": {
+        "text": "【Activated at the start of FEVER】Recover $8$ AP / Recover mental by 50% of the maximum value",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】AP回复$8$／回复最大值的$50%$Mental",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

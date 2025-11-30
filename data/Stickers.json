@@ -17485,6 +17485,19 @@
     }
   },
   {
+    "raw": "CD『ちょ、尊いLOVE / Nεw Black』購入特典",
+    "translation": {
+      "en": {
+        "text": "CD 'Cho, Tadai LOVE / Nεw Black' Purchase Bonus",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "CD『ちょ、尊いLOVE / Nεw Black』购买特典",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "CD『はじまりの羽音』購入特典",
     "translation": {
       "zh-CN": {
@@ -18378,6 +18391,19 @@
       "en": {
         "text": "Jacket『おいでよ！石川大観光』",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Jacket『ちょ、尊いLOVE / Nεw Black』",
+    "translation": {
+      "en": {
+        "text": "Jacket 'Cho, Tadai LOVE / Nεw Black'",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Jacket『ちょ、尊いLOVE / Nεw Black』",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -56745,6 +56771,45 @@
     }
   },
   {
+    "raw": "[Poupée en Lotus]大沢 瑠璃乃",
+    "translation": {
+      "en": {
+        "text": "[Poupée en Lotus] Rurino Osawa",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[Poupée en Lotus]大泽瑠璃乃",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[Poupée en Lotus]大沢 瑠璃乃 を4回解放した記念のステッカー",
+    "translation": {
+      "en": {
+        "text": "[Poupée en Lotus] A sticker commemorating the 4th release of Rurino Osawa",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[Poupée en Lotus]大泽瑠璃乃 解放4次纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[Poupée en Lotus]大沢 瑠璃乃 解放完了",
+    "translation": {
+      "en": {
+        "text": "[Poupée en Lotus] Rurino Osawa Release Completed",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[Poupée en Lotus]大泽瑠璃乃 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[Poupée en Lotus]安養寺 姫芽",
     "translation": {
       "zh-CN": {
@@ -56779,6 +56844,84 @@
       },
       "en": {
         "text": "[Poupée en Lotus] Hime Anyoji Release Completed",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[Poupée en Lotus]徒町 小鈴",
+    "translation": {
+      "en": {
+        "text": "[Poupée en Lotus] Kosuzu Kachimachi",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[Poupée en Lotus]徒町小铃",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[Poupée en Lotus]徒町 小鈴 を4回解放した記念のステッカー",
+    "translation": {
+      "en": {
+        "text": "[Poupée en Lotus] A sticker commemorating the 4th release of Kosuzu Kachimachi",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[Poupée en Lotus]徒町小铃 解放4次纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[Poupée en Lotus]徒町 小鈴 解放完了",
+    "translation": {
+      "en": {
+        "text": "[Poupée en Lotus] Kosuzu Kachimachi Release Completed",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[Poupée en Lotus]徒町小铃 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[Poupée en Lotus]日野下 花帆",
+    "translation": {
+      "en": {
+        "text": "[Poupée en Lotus] Kaho Hinoshita",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[Poupée en Lotus]日野下花帆",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[Poupée en Lotus]日野下 花帆 を4回解放した記念のステッカー",
+    "translation": {
+      "en": {
+        "text": "[Poupée en Lotus] A sticker commemorating the 4th release of Kaho Hinoshita",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[Poupée en Lotus]日野下花帆 解放4次纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[Poupée en Lotus]日野下 花帆 解放完了",
+    "translation": {
+      "en": {
+        "text": "[Poupée en Lotus] Kaho Hinoshita Release Completed",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[Poupée en Lotus]日野下花帆 解放完成",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -78754,6 +78897,45 @@
     }
   },
   {
+    "raw": "『チャーミングな花束を！』のマスタリーLv.を30にした記念のステッカー",
+    "translation": {
+      "en": {
+        "text": "The commemorative sticker for reaching Mastery Level 30 of 'A Charming Bouquet!'",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "『チャーミングな花束を！』精通等级达到30纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "『チャーミングな花束を！』マエストロ",
+    "translation": {
+      "en": {
+        "text": "'A Charming Bouquet!' Maestro",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "『チャーミングな花束を！』大师",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "『チャーミングな花束を！』マスタリーLv.30到達",
+    "translation": {
+      "en": {
+        "text": "Reached Mastery Level 30 of 'A Charming Bouquet!'",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "『チャーミングな花束を！』精通等级达到30",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "『チリコンカン』のマスタリーLv.を30にした記念のステッカー",
     "translation": {
       "zh-CN": {
@@ -78906,6 +79088,45 @@
       "en": {
         "text": "Reached Mastery Lv.30 for 『ツバサ・ラ・リベルテ（104期Ver.）』",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "『テレパシ』のマスタリーLv.を30にした記念のステッカー",
+    "translation": {
+      "en": {
+        "text": "The commemorative sticker for reaching Mastery Level 30 of 'Telepathy'",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "『テレパシ』精通等级达到30纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "『テレパシ』マエストロ",
+    "translation": {
+      "en": {
+        "text": "'Telepathy' Maestro",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "『テレパシ』大师",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "『テレパシ』マスタリーLv.30到達",
+    "translation": {
+      "en": {
+        "text": "Reached Mastery Level 30 of 'Telepathy'",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "『テレパシ』精通等级达到30",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -89228,6 +89449,19 @@
       "en": {
         "text": "Emma supporter",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "オギャッと⽣まれた平成ギャルズ\nIcHiGo milKに染まれ 甘い夢を一緒に見よう",
+    "translation": {
+      "en": {
+        "text": "Born with a cry, the Heisei gals\nGet dyed in IcHiGo milK, let's dream sweet dreams together",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "呱唧一声诞生的平成辣妹\nIcHiGo milK染上甜蜜梦境 一起做甜美的梦吧",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

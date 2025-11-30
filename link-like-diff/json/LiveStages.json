@@ -4548,6 +4548,24 @@
             "StageSkillDescription": "スキルを3回使用するたび、ボルテージを+5000し、山札が切れるたび、ボルテージを-2000する。"
         },
         {
+            "Id": 1041601,
+            "Name": "スタジアム",
+            "Description": "スタジアム",
+            "StageSkillDescription": "Edel Noteのスキルを使用するたび、ボルテージを+2000し、また山札が切れるたび、メンタルを現在値の50%減少する。"
+        },
+        {
+            "Id": 1041602,
+            "Name": "テーマパーク",
+            "Description": "テーマパーク",
+            "StageSkillDescription": "ステージ開始時、デッキの全てのカードの消費APをステージ中常に-2し、また山札が切れるたび、APが7減少する。"
+        },
+        {
+            "Id": 1041603,
+            "Name": "野外ステージ",
+            "Description": "野外ステージ",
+            "StageSkillDescription": "スキルを1回使用するたび、APを3回復し、山札が切れるたび、ボルテージを-1000する。"
+        },
+        {
             "Id": 531031101,
             "Name": "教室",
             "Description": "教室",
@@ -6130,6 +6148,12 @@
             "Name": "ホール",
             "Description": "ホール",
             "StageSkillDescription": ""
+        },
+        {
+            "Id": 571053601,
+            "Name": "アリーナ",
+            "Description": "アリーナ",
+            "StageSkillDescription": "スキルを2回使用するたび、ボルテージを+2000し、また山札が切れるたび、メンタルを現在値の50%減少する。"
         }
     ]
 }

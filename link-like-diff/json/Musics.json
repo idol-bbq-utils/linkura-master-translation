@@ -1427,6 +1427,20 @@
             "ReleaseConditionText": "初めから習得"
         },
         {
+            "Id": 405126,
+            "Title": "チャーミングな花束を！",
+            "TitleFurigana": "ちゃーみんぐなはなたばを",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 405201,
+            "Title": "テレパシ",
+            "TitleFurigana": "てらぱし",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
             "Id": 405301,
             "Title": "虹色Passions!",
             "TitleFurigana": "にじいろぱっしょんず",

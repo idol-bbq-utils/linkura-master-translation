@@ -52,6 +52,19 @@
     }
   },
   {
+    "raw": "Edel Noteのスキルを使用するたび、ボルテージを+2000し、また山札が切れるたび、メンタルを現在値の50%減少する。",
+    "translation": {
+      "en": {
+        "text": "Each time an Edel Note skill is used, Voltage is increased by +2000, and Mental decreases by 50% of its current value whenever the deck runs out.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Edel Note每使用一次技能时，Voltage提升2000点，且每当牌库用完时，Mental值减少当前值的50%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "Edel Noteのスキルを使用するたび、ボルテージを+3000し、メイン効果がメンタルプロテクトのスキルを使用するたび、ボルテージを-3000する。",
     "translation": {
       "zh-CN": {
@@ -273,6 +286,19 @@
     }
   },
   {
+    "raw": "スキルを1回使用するたび、APを3回復し、山札が切れるたび、ボルテージを-1000する。",
+    "translation": {
+      "en": {
+        "text": "Each time a skill is used, 3 AP is restored, and Voltage decreases by -1000 whenever the deck runs out.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "每使用1次技能时，恢复3点AP，且每当牌库用完时，Voltage减少1000点。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "スキルを20回使用するたび、デッキの全てのDOLLCHESTRAの消費APをステージ中常に-1し、ステージ開始時、メイン効果がリシャッフルであるデッキの全てのカードの消費APをステージ中常に+3する。",
     "translation": {
       "zh-CN": {
@@ -360,6 +386,19 @@
       "en": {
         "text": "Each time skills are used 25 times, all cards in deck with main effect being reshuffle have AP cost permanently -1 during stage, and each time skills are used 10 times, discard all hand cards and redraw up to hand limit from deck.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "スキルを2回使用するたび、ボルテージを+2000し、また山札が切れるたび、メンタルを現在値の50%減少する。",
+    "translation": {
+      "en": {
+        "text": "Every 2 times a skill is used, Voltage is increased by +2000, and Mental decreases by 50% of its current value whenever the deck runs out.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "每使用2次技能时，Voltage提升2000点，且每当牌库用完时，Mental值减少当前值的50%。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -957,6 +996,19 @@
       },
       "zh-CN": {
         "text": "舞台开始时，卡组中所有卡牌的消耗AP在舞台中始终-2，并且每次牌组用尽时，AP减少5。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ステージ開始時、デッキの全てのカードの消費APをステージ中常に-2し、また山札が切れるたび、APが7減少する。",
+    "translation": {
+      "en": {
+        "text": "At stage start, all cards in the deck have their AP cost reduced by -2 throughout the stage, and AP decreases by 7 whenever the deck runs out.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live开始时，使牌组中所有卡牌的消耗AP在本阶段始终减少2，且每当牌库用完时，AP减少7点。",
         "author": "claude-sonnet-4-5-20250929"
       }
     }

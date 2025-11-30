@@ -156,6 +156,19 @@
     }
   },
   {
+    "raw": "『スキルAP -3』を解除してクリア",
+    "translation": {
+      "en": {
+        "text": "Clear after removing 'Skill AP -3'",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "解除『技能AP -3』后通关",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "『スキルAP -3（DOLLCHESTRA）』を解除してクリア",
     "translation": {
       "zh-CN": {

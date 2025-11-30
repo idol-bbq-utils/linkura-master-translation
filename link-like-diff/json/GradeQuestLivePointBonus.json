@@ -1084,6 +1084,22 @@
         {
             "Id": 1053504,
             "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1053601,
+            "Description": "AUTUMN LIMITED"
+        },
+        {
+            "Id": 1053602,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1053603,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1053604,
+            "Description": "レアリティ：DR"
         }
     ]
 }

@@ -5837,6 +5837,45 @@
     }
   },
   {
+    "raw": "Poupée en Lotus/Kahoを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "Add 1 type of Poupée en Lotus/Kaho (1 card total) to the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将1种Poupée en Lotus/Kaho（共计1张）加入牌库。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "Poupée en Lotus/Kosuzuを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "Add 1 type of Poupée en Lotus/Kosuzu (1 card total) to the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将1种Poupée en Lotus/Kosuzu（共计1张）加入牌库。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "Poupée en Lotus/Rurinoを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "en": {
+        "text": "Add 1 type of Poupée en Lotus/Rurino (1 card total) to the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将1种Poupée en Lotus/Rurino（共计1张）加入牌库。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "《シュータードレス/RIO》を1種類(合計1枚)山札に追加する。メンタルが50%以下のとき、さらに《シュータードレス/RIO》を1種類(合計1枚)山札に追加する。",
     "translation": {
       "zh-CN": {
@@ -15080,6 +15119,45 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$10%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$100%$分のメンタル直接ダメージを無効にし、このセクション中、獲得するLOVEを$+240%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $10%$ of the maximum Mental value as direct Mental damage. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify $100%$ of the maximum Mental value as direct Mental damage during this stage and increase LOVE gained by $+240%$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$10%$。此外，Mental为100%以上时，洗牌手牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$100%$，本小节中，获得LOVE$+240%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$10%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$100%$分のメンタル直接ダメージを無効にし、ハート上限を$+240$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $10%$ of the maximum Mental value as direct Mental damage. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify $100%$ of the maximum Mental value as direct Mental damage during this stage and increase Heart limit by $+240$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$10%$。此外，Mental为100%以上时，洗牌手牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$100%$，心心上限$+240$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$10%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$100%$分のメンタル直接ダメージを無効にし、ビートハート$104回分$のスキルハートを獲得する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $10%$ of the maximum Mental value as direct Mental damage. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify $100%$ of the maximum Mental value as direct Mental damage during this stage and gain $104 Skill Hearts of Beat Heart.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$10%$。此外，Mental为100%以上时，洗牌手牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$100%$，获得$104倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$10%$分のメンタル自然減少を無効にする。さらにメンタルが75％以上のとき、このステージ中、獲得するLOVEを$+4%$する。",
     "translation": {
       "zh-CN": {
@@ -15340,6 +15418,45 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$10.5%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$105%$分のメンタル直接ダメージを無効にし、このセクション中、獲得するLOVEを$+252%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $10.5%$ of the maximum Mental value as direct Mental damage. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify $105%$ of the maximum Mental value as direct Mental damage during this stage and increase LOVE gained by $+252%$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$10.5%$。此外，Mental为100%以上时，洗牌手牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$105%$，本小节中，获得LOVE$+252%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$10.5%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$105%$分のメンタル直接ダメージを無効にし、ハート上限を$+252$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $10.5%$ of the maximum Mental value as direct Mental damage. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify $105%$ of the maximum Mental value as direct Mental damage during this stage and increase Heart limit by $+252$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$10.5%$。此外，Mental为100%以上时，洗牌手牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$105%$，心心上限$+252$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$10.5%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$105%$分のメンタル直接ダメージを無効にし、ビートハート$109回分$のスキルハートを獲得する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $10.5%$ of the maximum Mental value as direct Mental damage. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify $105%$ of the maximum Mental value as direct Mental damage during this stage and gain $109 Skill Hearts of Beat Heart.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$10.5%$。此外，Mental为100%以上时，洗牌手牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$105%$，获得$109倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$10.8%$分のメンタルダメージを無効にする。さらにメンタル0%のとき、さやか、小鈴がそれぞれ3回の間使用するスキルハート獲得効果による獲得数を$+1080%$、ムードがメロウ50以上のとき、このステージ中、ハート上限を$+194$し、メンタル0%かつメロウ50以上のとき、ビートハート$162回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -15535,6 +15652,45 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$11%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$110%$分のメンタル直接ダメージを無効にし、このセクション中、獲得するLOVEを$+264%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $11%$ of the maximum Mental value as direct Mental damage. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify $110%$ of the maximum Mental value as direct Mental damage during this stage and increase LOVE gained by $+264%$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$11%$。此外，Mental为100%以上时，洗牌手牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$110%$，本小节中，获得LOVE$+264%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$11%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$110%$分のメンタル直接ダメージを無効にし、ハート上限を$+264$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $11%$ of the maximum Mental value as direct Mental damage. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify $110%$ of the maximum Mental value as direct Mental damage during this stage and increase Heart limit by $+264$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$11%$。此外，Mental为100%以上时，洗牌手牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$110%$，心心上限$+264$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$11%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$110%$分のメンタル直接ダメージを無効にし、ビートハート$114回分$のスキルハートを獲得する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $11%$ of the maximum Mental value as direct Mental damage. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify $110%$ of the maximum Mental value as direct Mental damage during this stage and gain $114 Skill Hearts of Beat Heart.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$11%$。此外，Mental为100%以上时，洗牌手牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$110%$，获得$114倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$11%$分のメンタル自然減少を無効にし、ボルテージPt.を$+200$、メンタルを最大値の$50%$回復させる。さらにメンタルが100%以上のとき、次に小鈴が使用するボルテージゲイン効果を$+1000%$、デッキ内の小鈴のスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
     "translation": {
       "zh-CN": {
@@ -15660,6 +15816,45 @@
       },
       "en": {
         "text": "During this stage, nullify $11.44%$ of the maximum Mental value as Mental natural decay. Additionally, restore 9 AP.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$11.5%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$115%$分のメンタル直接ダメージを無効にし、このセクション中、獲得するLOVEを$+276%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $11.5%$ of the maximum Mental value as direct Mental damage. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify $115%$ of the maximum Mental value as direct Mental damage during this stage and increase LOVE gained by $+276%$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$11.5%$。此外，Mental为100%以上时，洗牌手牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$115%$，本小节中，获得LOVE$+276%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$11.5%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$115%$分のメンタル直接ダメージを無効にし、ハート上限を$+276$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $11.5%$ of the maximum Mental value as direct Mental damage. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify $115%$ of the maximum Mental value as direct Mental damage during this stage and increase Heart limit by $+276$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$11.5%$。此外，Mental为100%以上时，洗牌手牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$115%$，心心上限$+276$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$11.5%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$115%$分のメンタル直接ダメージを無効にし、ビートハート$120回分$のスキルハートを獲得する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $11.5%$ of the maximum Mental value as direct Mental damage. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify $115%$ of the maximum Mental value as direct Mental damage during this stage and gain $120 Skill Hearts of Beat Heart.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$11.5%$。此外，Mental为100%以上时，洗牌手牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$115%$，获得$120倍$跳心的技能心心。",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -15959,6 +16154,45 @@
       },
       "en": {
         "text": "During this stage, nullify $12.24%$ of the maximum Mental value as natural Mental decay. Additionally, increase LOVE gained during this stage by $+5.8%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$12.5%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$125%$分のメンタル直接ダメージを無効にし、このセクション中、獲得するLOVEを$+300%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $12.5%$ of the maximum Mental value as direct Mental damage. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify $125%$ of the maximum Mental value as direct Mental damage during this stage and increase LOVE gained by $+300%$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$12.5%$。此外，Mental为100%以上时，洗牌手牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$125%$，本小节中，获得LOVE$+300%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$12.5%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$125%$分のメンタル直接ダメージを無効にし、ハート上限を$+300$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $12.5%$ of the maximum Mental value as direct Mental damage. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify $125%$ of the maximum Mental value as direct Mental damage during this stage and increase Heart limit by $+300$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$12.5%$。此外，Mental为100%以上时，洗牌手牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$125%$，心心上限$+300$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$12.5%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$125%$分のメンタル直接ダメージを無効にし、ビートハート$130回分$のスキルハートを獲得する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $12.5%$ of the maximum Mental value as direct Mental damage. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify $125%$ of the maximum Mental value as direct Mental damage during this stage and gain $130 Skill Hearts of Beat Heart.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$12.5%$。此外，Mental为100%以上时，洗牌手牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$125%$，获得$130倍$跳心的技能心心。",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -20579,6 +20813,45 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$5%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$50%$分のメンタル直接ダメージを無効にし、このセクション中、獲得するLOVEを$+120%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $5%$ of the maximum Mental value as direct Mental damage. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify $50%$ of the maximum Mental value as direct Mental damage during this stage and increase LOVE gained by $+120%$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$5%$。此外，Mental为100%以上时，洗牌手牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$50%$，本小节中，获得LOVE$+120%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$5%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$50%$分のメンタル直接ダメージを無効にし、ハート上限を$+120$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $5%$ of the maximum Mental value as direct Mental damage. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify $50%$ of the maximum Mental value as direct Mental damage during this stage and increase Heart limit by $+120$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$5%$。此外，Mental为100%以上时，洗牌手牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$50%$，心心上限$+120$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$5%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$50%$分のメンタル直接ダメージを無効にし、ビートハート$52回分$のスキルハートを獲得する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $5%$ of the maximum Mental value as direct Mental damage. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify $50%$ of the maximum Mental value as direct Mental damage during this stage and gain $52 Skill Hearts of Beat Heart.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$5%$。此外，Mental为100%以上时，洗牌手牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$50%$，获得$52倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$5.04%$分のメンタルダメージを無効にする。",
     "translation": {
       "zh-CN": {
@@ -21216,6 +21489,45 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$5.5%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$55%$分のメンタル直接ダメージを無効にし、このセクション中、獲得するLOVEを$+132%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $5.5%$ of the maximum Mental value as direct Mental damage. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify $55%$ of the maximum Mental value as direct Mental damage during this stage and increase LOVE gained by $+132%$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$5.5%$。此外，Mental为100%以上时，洗牌手牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$55%$，本小节中，获得LOVE$+132%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$5.5%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$55%$分のメンタル直接ダメージを無効にし、ハート上限を$+132$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $5.5%$ of the maximum Mental value as direct Mental damage. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify $55%$ of the maximum Mental value as direct Mental damage during this stage and increase Heart limit by $+132$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$5.5%$。此外，Mental为100%以上时，洗牌手牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$55%$，心心上限$+132$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$5.5%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$55%$分のメンタル直接ダメージを無効にし、ビートハート$57回分$のスキルハートを獲得する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify $5.5%$ of the maximum Mental value as direct Mental damage. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify $55%$ of the maximum Mental value as direct Mental damage during this stage and gain $57 Skill Hearts of Beat Heart.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$5.5%$。此外，Mental为100%以上时，洗牌手牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$55%$，获得$57倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$5.52%$分のメンタルダメージを無効にする。",
     "translation": {
       "zh-CN": {
@@ -21827,6 +22139,45 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$6%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$60%$分のメンタル直接ダメージを無効にし、このセクション中、獲得するLOVEを$+144%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify direct Mental damage equivalent to $6%$ of the maximum Mental value. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify direct Mental damage equivalent to $60%$ of the maximum Mental value during this stage and increase LOVE gained by $+144%$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$6%$。此外，Mental为100%以上时，洗牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$60%$，本小节中，获得LOVE$+144%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$6%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$60%$分のメンタル直接ダメージを無効にし、ハート上限を$+144$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify direct Mental damage equivalent to $6%$ of the maximum Mental value. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify direct Mental damage equivalent to $60%$ of the maximum Mental value during this stage and increase the Heart limit by $+144$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$6%$。此外，Mental为100%以上时，洗牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$60%$，心心上限$+144$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$6%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$60%$分のメンタル直接ダメージを無効にし、ビートハート$62回分$のスキルハートを獲得する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify direct Mental damage equivalent to $6%$ of the maximum Mental value. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify direct Mental damage equivalent to $60%$ of the maximum Mental value during this stage and gain $62 Skill Hearts of Beat Heart.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$6%$。此外，Mental为100%以上时，洗牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$60%$，获得$62倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$6%$分のメンタル自然減少を無効にする。",
     "translation": {
       "zh-CN": {
@@ -22321,6 +22672,45 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$6.5%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$65%$分のメンタル直接ダメージを無効にし、このセクション中、獲得するLOVEを$+156%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify direct Mental damage equivalent to $6.5%$ of the maximum Mental value. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify direct Mental damage equivalent to $65%$ of the maximum Mental value during this stage and increase LOVE gained by $+156%$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$6.5%$。此外，Mental为100%以上时，洗牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$65%$，本小节中，获得LOVE$+156%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$6.5%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$65%$分のメンタル直接ダメージを無効にし、ハート上限を$+156$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify direct Mental damage equivalent to $6.5%$ of the maximum Mental value. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify direct Mental damage equivalent to $65%$ of the maximum Mental value during this stage and increase the Heart limit by $+156$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$6.5%$。此外，Mental为100%以上时，洗牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$65%$，心心上限$+156$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$6.5%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$65%$分のメンタル直接ダメージを無効にし、ビートハート$68回分$のスキルハートを獲得する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify direct Mental damage equivalent to $6.5%$ of the maximum Mental value. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify direct Mental damage equivalent to $65%$ of the maximum Mental value during this stage and gain $68 Skill Hearts of Beat Heart.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$6.5%$。此外，Mental为100%以上时，洗牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$65%$，获得$68倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$6.6%$分のメンタルダメージを無効にし、ボルテージPt.を$+120$、メンタルを最大値の$30%$回復させる。さらにメンタルが100%以上のとき、次に小鈴が使用するボルテージゲイン効果を$+600%$、デッキ内の小鈴のスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
     "translation": {
       "en": {
@@ -22746,6 +23136,45 @@
       "en": {
         "text": "During this stage, nullify Mental damage equivalent to $7%$ of maximum Mental. Additionally, when Voltage Lv. is 10 or above, increase LOVE gained by $+45%$ during this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$7%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$70%$分のメンタル直接ダメージを無効にし、このセクション中、獲得するLOVEを$+168%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify direct Mental damage equivalent to $7%$ of the maximum Mental value. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify direct Mental damage equivalent to $70%$ of the maximum Mental value during this stage and increase LOVE gained by $+168%$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$7%$。此外，Mental为100%以上时，洗牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$70%$，本小节中，获得LOVE$+168%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$7%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$70%$分のメンタル直接ダメージを無効にし、ハート上限を$+168$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify direct Mental damage equivalent to $7%$ of the maximum Mental value. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify direct Mental damage equivalent to $70%$ of the maximum Mental value during this stage and increase the Heart limit by $+168$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$7%$。此外，Mental为100%以上时，洗牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$70%$，心心上限$+168$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$7%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$70%$分のメンタル直接ダメージを無効にし、ビートハート$73回分$のスキルハートを獲得する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify direct Mental damage equivalent to $7%$ of the maximum Mental value. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify direct Mental damage equivalent to $70%$ of the maximum Mental value during this stage and gain $73 Skill Hearts of Beat Heart.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$7%$。此外，Mental为100%以上时，洗牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$70%$，获得$73倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -23335,6 +23764,45 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$7.5%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$75%$分のメンタル直接ダメージを無効にし、このセクション中、獲得するLOVEを$+180%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify direct Mental damage equivalent to $7.5%$ of the maximum Mental value. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify direct Mental damage equivalent to $75%$ of the maximum Mental value during this stage and increase LOVE gained by $+180%$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$7.5%$。此外，Mental为100%以上时，洗牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$75%$，本小节中，获得LOVE$+180%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$7.5%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$75%$分のメンタル直接ダメージを無効にし、ハート上限を$+180$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify direct Mental damage equivalent to $7.5%$ of the maximum Mental value. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify direct Mental damage equivalent to $75%$ of the maximum Mental value during this stage and increase the Heart limit by $+180$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$7.5%$。此外，Mental为100%以上时，洗牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$75%$，心心上限$+180$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$7.5%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$75%$分のメンタル直接ダメージを無効にし、ビートハート$78回分$のスキルハートを獲得する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify direct Mental damage equivalent to $7.5%$ of the maximum Mental value. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify direct Mental damage equivalent to $75%$ of the maximum Mental value during this stage and gain $78 Skill Hearts of Beat Heart.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$7.5%$。此外，Mental为100%以上时，洗牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$75%$，获得$78倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$7.56%$分のメンタルダメージを無効にする。さらにボルテージLv.が5以下の時このステージ中、メンタルの最大値の$9.24%$分のメンタルダメージを無効にする。",
     "translation": {
       "zh-CN": {
@@ -23699,6 +24167,45 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$8%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$80%$分のメンタル直接ダメージを無効にし、このセクション中、獲得するLOVEを$+192%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify direct Mental damage equivalent to $8%$ of the maximum Mental value. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify direct Mental damage equivalent to $80%$ of the maximum Mental value during this stage and increase LOVE gained by $+192%$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$8%$。此外，Mental为100%以上时，洗牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$80%$，本小节中，获得LOVE$+192%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$8%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$80%$分のメンタル直接ダメージを無効にし、ハート上限を$+192$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify direct Mental damage equivalent to $8%$ of the maximum Mental value. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify direct Mental damage equivalent to $80%$ of the maximum Mental value during this stage and increase the Heart limit by $+192$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$8%$。此外，Mental为100%以上时，洗牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$80%$，心心上限$+192$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$8%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$80%$分のメンタル直接ダメージを無効にし、ビートハート$83回分$のスキルハートを獲得する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify direct Mental damage equivalent to $8%$ of the maximum Mental value. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify direct Mental damage equivalent to $80%$ of the maximum Mental value during this stage and gain $83 Skill Hearts of Beat Heart.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$8%$。此外，Mental为100%以上时，洗牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$80%$，获得$83倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$8%$分のメンタル自然減少を無効にし、獲得するLOVEを$+3.2%$する。さらにAPを5回復する。",
     "translation": {
       "zh-CN": {
@@ -24024,6 +24531,45 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルの最大値の$8.5%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$85%$分のメンタル直接ダメージを無効にし、このセクション中、獲得するLOVEを$+204%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify direct Mental damage equivalent to $8.5%$ of the maximum Mental value. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify direct Mental damage equivalent to $85%$ of the maximum Mental value during this stage and increase LOVE gained by $+204%$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$8.5%$。此外，Mental为100%以上时，洗牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$85%$，本小节中，获得LOVE$+204%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$8.5%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$85%$分のメンタル直接ダメージを無効にし、ハート上限を$+204$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify direct Mental damage equivalent to $8.5%$ of the maximum Mental value. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify direct Mental damage equivalent to $85%$ of the maximum Mental value during this stage and increase the Heart limit by $+204$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$8.5%$。此外，Mental为100%以上时，洗牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$85%$，心心上限$+204$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$8.5%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$85%$分のメンタル直接ダメージを無効にし、ビートハート$88回分$のスキルハートを獲得する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify direct Mental damage equivalent to $8.5%$ of the maximum Mental value. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify direct Mental damage equivalent to $85%$ of the maximum Mental value during this stage and gain $88 Skill Hearts of Beat Heart.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$8.5%$。此外，Mental为100%以上时，洗牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$85%$，获得$88倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルの最大値の$8.8%$分のメンタルダメージを無効にし、ボルテージPt.を$+160$、メンタルを最大値の$40%$回復させる。さらにメンタルが100%以上のとき、次に小鈴が使用するボルテージゲイン効果を$+800%$、デッキ内の小鈴のスキルの消費AP-3し、メンタルを最大値の50％固定で減少させる。",
     "translation": {
       "en": {
@@ -24267,6 +24813,45 @@
       "en": {
         "text": "During this stage, nullify Mental damage equal to $9%$ of maximum Mental. Additionally, when Mental is 30% or below, recover Mental by $9%$ of maximum value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$9%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$90%$分のメンタル直接ダメージを無効にし、このセクション中、獲得するLOVEを$+216%$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify direct Mental damage equivalent to $9%$ of the maximum Mental value. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify direct Mental damage equivalent to $90%$ of the maximum Mental value during this stage and increase LOVE gained by $+216%$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$9%$。此外，Mental为100%以上时，洗牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$90%$，本小节中，获得LOVE$+216%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$9%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$90%$分のメンタル直接ダメージを無効にし、ハート上限を$+216$する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify direct Mental damage equivalent to $9%$ of the maximum Mental value. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify direct Mental damage equivalent to $90%$ of the maximum Mental value during this stage and increase the Heart limit by $+216$.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$9%$。此外，Mental为100%以上时，洗牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$90%$，心心上限$+216$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルの最大値の$9%$分のメンタル直接ダメージを無効にする。さらにメンタルが100%以上のとき、手札をシャッフルし、このセクション中、手札の上限枚数を1枚増加、メンタルが200％以上のとき、このステージ中、メンタルの最大値の$90%$分のメンタル直接ダメージを無効にし、ビートハート$94回分$のスキルハートを獲得する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, nullify direct Mental damage equivalent to $9%$ of the maximum Mental value. Additionally, when Mental reaches or exceeds $100%$, shuffle your hand and increase the maximum number of cards in hand by 1 during this section. When Mental reaches or exceeds $200%$, nullify direct Mental damage equivalent to $90%$ of the maximum Mental value during this stage and gain $94 Skill Hearts of Beat Heart.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$9%$。此外，Mental为100%以上时，洗牌，本小节中，手牌上限+1，Mental为200%以上时，本场Live中，使Mental直接伤害无效化，其数值为Mental最大值的$90%$，获得$94倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -63544,6 +64129,45 @@
     }
   },
   {
+    "raw": "スキル使用時1度だけ、Poupée en Lotus/Kahoを1種類(合計1枚)山札に追加する。さらにドローした時、現在の残りメンタルが多いほど、APを回復し、スキルハートを獲得する。",
+    "translation": {
+      "en": {
+        "text": "Only once when using this skill, add 1 type of Poupée en Lotus/Kaho (1 card total) to the deck. Additionally, when drawn, the more current remaining Mental, the more AP is restored and Skill Hearts are gained.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "使用技能时仅限1次，将1种（共计1张）Poupée en Lotus/Kaho加入牌库。此外，抽牌时，根据当前剩余Mental的多少，回复AP，获得技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "スキル使用時1度だけ、Poupée en Lotus/Kosuzuを1種類(合計1枚)山札に追加する。さらにドローした時、現在の残りメンタルが多いほど、このセクション中、獲得するLOVEを増加し、スキルハートを獲得する。",
+    "translation": {
+      "en": {
+        "text": "Only once when using this skill, add 1 type of Poupée en Lotus/Kosuzu (1 card total) to the deck. Additionally, when drawn, the more current remaining Mental, the more LOVE gained is increased during this section and Skill Hearts are gained.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "使用技能时仅限1次，将1种（共计1张）Poupée en Lotus/Kosuzu加入牌库。此外，抽牌时，根据当前剩余Mental的多少，本小节中，增加获得LOVE，获得技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "スキル使用時1度だけ、Poupée en Lotus/Rurinoを1種類(合計1枚)山札に追加する。さらにドローした時、現在の残りメンタルが多いほど、このステージ中、ハート上限を増加し、スキルハートを獲得する。",
+    "translation": {
+      "en": {
+        "text": "Only once when using this skill, add 1 type of Poupée en Lotus/Rurino (1 card total) to the deck. Additionally, when drawn, the more current remaining Mental, the more the Heart limit is increased during this stage and Skill Hearts are gained.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "使用技能时仅限1次，将1种（共计1张）Poupée en Lotus/Rurino加入牌库。此外，抽牌时，根据当前剩余Mental的多少，本场Live中，增加心心上限，获得技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "スキル使用時4回まで、このステージ中、AP回復速度を+5%する。",
     "translation": {
       "zh-CN": {
@@ -66972,6 +67596,45 @@
       "en": {
         "text": "When drawn, increase next Mental recovery effect used by Hime by +300% and Voltage gain effect by +48%.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ドローした時、現在の残りメンタルが多いほど、APを回復し、スキルハートを獲得する。",
+    "translation": {
+      "en": {
+        "text": "When drawn, recover AP and gain Skill Hearts based on how much Mental remains.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "抽到时，当前剩余Mental越多，AP回复越多，并获得技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ドローした時、現在の残りメンタルが多いほど、このステージ中、ハート上限を増加し、スキルハートを獲得する。",
+    "translation": {
+      "en": {
+        "text": "When drawn, increase the Heart limit during this stage and gain Skill Hearts based on how much Mental remains.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "抽到时，当前剩余Mental越多，本场Live中，心心上限增加越多，并获得技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ドローした時、現在の残りメンタルが多いほど、このセクション中、獲得するLOVEを増加し、スキルハートを獲得する。",
+    "translation": {
+      "en": {
+        "text": "When drawn, increase the LOVE gained during this section and gain Skill Hearts based on how much Mental remains.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "抽到时，当前剩余Mental越多，本小节中，获得LOVE增加越多，并获得技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

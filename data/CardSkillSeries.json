@@ -8398,6 +8398,45 @@
     }
   },
   {
+    "raw": "ドールズガードアトラクト",
+    "translation": {
+      "en": {
+        "text": "Dolls Guard Attract",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Dolls Guard Attract",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ドールズガードハート",
+    "translation": {
+      "en": {
+        "text": "Dolls Guard Heart",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Dolls Guard Heart",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ドールズガードワイド",
+    "translation": {
+      "en": {
+        "text": "Dolls Guard Wide",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Dolls Guard Wide",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ナイトクイーン",
     "translation": {
       "en": {

@@ -3336,6 +3336,12 @@
             "Description": "スタイル解放素材(日野下 花帆)"
         },
         {
+            "Id": 4031535,
+            "Name": "[Poupée en Lotus]日野下 花帆 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(日野下 花帆)"
+        },
+        {
             "Id": 4031801,
             "Name": "[Prism Echo]日野下 花帆 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
@@ -4068,6 +4074,12 @@
             "Description": "スタイル解放素材(大沢 瑠璃乃)"
         },
         {
+            "Id": 4033530,
+            "Name": "[Poupée en Lotus]大沢 瑠璃乃 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(大沢 瑠璃乃)"
+        },
+        {
             "Id": 4033801,
             "Name": "[Prism Echo]大沢 瑠璃乃  解放Pt.",
             "NameFurigana": "かいほうぽいんと",
@@ -4448,6 +4460,12 @@
         {
             "Id": 4042519,
             "Name": "[ガランドFlash]徒町 小鈴 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(徒町 小鈴)"
+        },
+        {
+            "Id": 4042520,
+            "Name": "[Poupée en Lotus]徒町 小鈴 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
             "Description": "スタイル解放素材(徒町 小鈴)"
         },
