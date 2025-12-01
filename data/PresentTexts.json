@@ -15132,6 +15132,19 @@
     }
   },
   {
+    "raw": "「Izumi's 17th Birthday セレブレイトパック」を購入して獲得したアイテムです。",
+    "translation": {
+      "en": {
+        "text": "Items obtained by purchasing the 'Izumi's 17th Birthday Celebrate Pack'.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "购买「Izumi's 17th Birthday 庆祝组合包」获得的道具",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "「Kaho's 18th Birthday セレブレイトパック」を購入して獲得したアイテムです。",
     "translation": {
       "zh-CN": {

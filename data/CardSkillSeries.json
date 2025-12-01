@@ -3536,6 +3536,19 @@
     }
   },
   {
+    "raw": "オールラウンドブースト",
+    "translation": {
+      "en": {
+        "text": "All-Round Boost",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "全能提升",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "オールレンジ♡アトラクション",
     "translation": {
       "zh-CN": {

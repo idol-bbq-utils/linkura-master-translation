@@ -2916,6 +2916,12 @@
             "RequirementText": "[Oracle Étude]桂城 泉 1回解放"
         },
         {
+            "Id": 10519011,
+            "Name": "[17th Birthday]桂城 泉",
+            "Text": "[17th Birthday]桂城 泉 を4回解放した記念のステッカー",
+            "RequirementText": "[17th Birthday]桂城 泉 解放完了"
+        },
+        {
             "Id": 10523011,
             "Name": "[ノヴァホワイト]セラス 柳田 リリエンフェルト",
             "Text": "[ノヴァホワイト]セラス 柳田 リリエンフェルト を4回解放した記念のステッカー",
@@ -12616,6 +12622,12 @@
             "Name": "Hime's 17th Birthday",
             "Text": "Happy 17th Birthday to Dear Hime!\n「あんようじせぶんてぃ～ん」",
             "RequirementText": "「Hime's 17th Birthday セレブレイトパック」を購入"
+        },
+        {
+            "Id": 90010511,
+            "Name": "Izumi's 17th Birthday",
+            "Text": "Happy 17th Birthday to Dear Izumi!\n「ハッピーバースデー桂城 泉。\n17歳になったよ。」",
+            "RequirementText": "「Izumi's 17th Birthday セレブレイトパック」を購入"
         },
         {
             "Id": 90010521,

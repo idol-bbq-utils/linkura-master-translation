@@ -728,6 +728,19 @@
     }
   },
   {
+    "raw": "[17th Birthday]桂城 泉 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[17th Birthday] Katsuragi Izumi Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[17th Birthday]桂城泉 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[17th Birthday]百生 吟子 解放Pt.",
     "translation": {
       "en": {

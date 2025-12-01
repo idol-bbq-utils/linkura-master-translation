@@ -468,6 +468,19 @@
     }
   },
   {
+    "raw": "アピールアップ（桂城泉）",
+    "translation": {
+      "en": {
+        "text": "Appeal Up (Izumi Katsuragi)",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "魅力提升(桂城泉)",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "アピールアップ（桂城泉）&APレデュース&CTレデュース",
     "translation": {
       "zh-CN": {
@@ -958,6 +971,19 @@
       "en": {
         "text": "Izumi Katsuragi's Appeal value increases by 320%/All skills' AP consumption decreases by 2/Cooltime decreases by 2 seconds",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "桂城泉のアピール値が400％上昇",
+    "translation": {
+      "en": {
+        "text": "Izumi Katsuragi's Appeal value increases by 400%",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "桂城泉的魅力值上升400%",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

@@ -18122,6 +18122,19 @@
     }
   },
   {
+    "raw": "Happy 17th Birthday to Dear Izumi!\n「ハッピーバースデー桂城 泉。\n17歳になったよ。」",
+    "translation": {
+      "en": {
+        "text": "Happy 17th Birthday to Dear Izumi!\n\"Happy Birthday Izumi Katsuragi.\nYou're now 17 years old.\"",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "亲爱的泉17岁生日快乐！\n「生日快乐 桂城泉。\n17岁了。」",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "Happy 18th Birthday to Dear Kaho!\n「いえーい！　フラワー♪\n花帆はじゅーはっさいになりました～！」",
     "translation": {
       "zh-CN": {
@@ -51168,6 +51181,45 @@
     }
   },
   {
+    "raw": "[17th Birthday]桂城 泉",
+    "translation": {
+      "en": {
+        "text": "[17th Birthday] Izumi Katsuragi",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[17th Birthday]桂城泉",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[17th Birthday]桂城 泉 を4回解放した記念のステッカー",
+    "translation": {
+      "en": {
+        "text": "Commemorative sticker for unlocking [17th Birthday] Izumi Katsuragi 4 times",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "解放[17th Birthday]桂城泉 4次的纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[17th Birthday]桂城 泉 解放完了",
+    "translation": {
+      "en": {
+        "text": "[17th Birthday] Izumi Katsuragi Unlock Complete",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[17th Birthday]桂城泉 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[17th Birthday]百生 吟子",
     "translation": {
       "en": {
@@ -73524,6 +73576,19 @@
       "zh-CN": {
         "text": "购买「Hime's 17th Birthday 庆祝包」",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "「Izumi's 17th Birthday セレブレイトパック」を購入",
+    "translation": {
+      "en": {
+        "text": "Purchased \"Izumi's 17th Birthday Celebrate Pack\"",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "购买「Izumi's 17th Birthday 庆祝包」",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

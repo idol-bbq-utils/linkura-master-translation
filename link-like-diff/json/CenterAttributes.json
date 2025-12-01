@@ -7311,6 +7311,21 @@
             "Description": "桂城泉のアピール値が320％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少"
         },
         {
+            "Id": 20519011,
+            "CenterAttributeName": "アピールアップ（桂城泉）",
+            "Description": "桂城泉のアピール値が400％上昇"
+        },
+        {
+            "Id": 20519012,
+            "CenterAttributeName": "アピールアップ（桂城泉）",
+            "Description": "桂城泉のアピール値が400％上昇"
+        },
+        {
+            "Id": 20519013,
+            "CenterAttributeName": "アピールアップ（桂城泉）",
+            "Description": "桂城泉のアピール値が400％上昇"
+        },
+        {
             "Id": 20523011,
             "CenterAttributeName": "アピールアップ",
             "Description": "全メンバーのアピール値が40％上昇"

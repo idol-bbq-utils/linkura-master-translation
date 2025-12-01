@@ -52016,6 +52016,76 @@
             "Description": "【ライブ終了時に発動】合計アピール値の$502.2%$のスコアを獲得"
         },
         {
+            "Id": 10519010011,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$5$回復"
+        },
+        {
+            "Id": 10519010021,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$5$回復"
+        },
+        {
+            "Id": 10519010031,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$6$回復"
+        },
+        {
+            "Id": 10519010041,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$6$回復"
+        },
+        {
+            "Id": 10519010051,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$7$回復"
+        },
+        {
+            "Id": 10519010061,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$7$回復"
+        },
+        {
+            "Id": 10519010071,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$8$回復"
+        },
+        {
+            "Id": 10519010081,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$8$回復"
+        },
+        {
+            "Id": 10519010091,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$9$回復"
+        },
+        {
+            "Id": 10519010101,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$10$回復"
+        },
+        {
+            "Id": 10519010111,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$11$回復"
+        },
+        {
+            "Id": 10519010121,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$12$回復"
+        },
+        {
+            "Id": 10519010131,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$13$回復"
+        },
+        {
+            "Id": 10519010141,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$15$回復"
+        },
+        {
             "Id": 10523010011,
             "CenterSkillName": "ボルテージゲイン",
             "Description": "【ライブ開始時に発動】ボルテージPt.を$46pt$獲得"

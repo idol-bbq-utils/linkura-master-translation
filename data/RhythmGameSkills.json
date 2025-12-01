@@ -3887,6 +3887,188 @@
     }
   },
   {
+    "raw": "このカードのスキル発動回数が8回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$21.78%$上昇／このカードのスキル発動回数が9回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$280.5%$上昇",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 8 or less, the score acquisition effect skill increases score acquisition by $21.78%$ for one turn / When this card's skill activation count is 9 or more, the score acquisition effect skill increases score acquisition by $280.5%$ for one turn",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动8次以下时，获得分数效果技能获得的分数值单次提升$21.78%$／此卡技能发动9次以上时，获得分数效果技能获得的分数值单次提升$280.5%$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が8回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$23.95%$上昇／このカードのスキル発動回数が9回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$308.55%$上昇",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 8 or less, the score acquisition effect skill increases score acquisition by $23.95%$ for one turn / When this card's skill activation count is 9 or more, the score acquisition effect skill increases score acquisition by $308.55%$ for one turn",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动8次以下时，获得分数效果技能获得的分数值单次提升$23.95%$／此卡技能发动9次以上时，获得分数效果技能获得的分数值单次提升$308.55%$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が8回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$26.13%$上昇／このカードのスキル発動回数が9回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$336.6%$上昇",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 8 or less, the score acquisition effect skill increases score acquisition by $26.13%$ for one turn / When this card's skill activation count is 9 or more, the score acquisition effect skill increases score acquisition by $336.6%$ for one turn",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动8次以下时，获得分数效果技能获得的分数值单次提升$26.13%$／此卡技能发动9次以上时，获得分数效果技能获得的分数值单次提升$336.6%$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が8回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$28.31%$上昇／このカードのスキル発動回数が9回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$364.65%$上昇",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 8 or less, the score acquisition effect skill increases score acquisition by $28.31%$ for one turn / When this card's skill activation count is 9 or more, the score acquisition effect skill increases score acquisition by $364.65%$ for one turn",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动8次以下时，获得分数效果技能获得的分数值单次提升$28.31%$／此卡技能发动9次以上时，获得分数效果技能获得的分数值单次提升$364.65%$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が8回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$30.49%$上昇／このカードのスキル発動回数が9回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$392.7%$上昇",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 8 or less, the score acquisition effect skill increases score acquisition by $30.49%$ for one turn / When this card's skill activation count is 9 or more, the score acquisition effect skill increases score acquisition by $392.7%$ for one turn",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动8次以下时，获得分数效果技能获得的分数值单次提升$30.49%$／此卡技能发动9次以上时，获得分数效果技能获得的分数值单次提升$392.7%$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が8回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$32.67%$上昇／このカードのスキル発動回数が9回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$420.75%$上昇",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 8 or less, the score acquisition effect skill increases score acquisition by $32.67%$ for one turn / When this card's skill activation count is 9 or more, the score acquisition effect skill increases score acquisition by $420.75%$ for one turn",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动8次以下时，获得分数效果技能获得的分数值单次提升$32.67%$／此卡技能发动9次以上时，获得分数效果技能获得的分数值单次提升$420.75%$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が8回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$34.84%$上昇／このカードのスキル発動回数が9回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$448.8%$上昇",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 8 or less, the score acquisition effect skill increases score acquisition by $34.84%$ for one turn / When this card's skill activation count is 9 or more, the score acquisition effect skill increases score acquisition by $448.8%$ for one turn",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动8次以下时，获得分数效果技能获得的分数值单次提升$34.84%$／此卡技能发动9次以上时，获得分数效果技能获得的分数值单次提升$448.8%$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が8回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$37.02%$上昇／このカードのスキル発動回数が9回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$476.85%$上昇",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 8 or less, the score acquisition effect skill increases score acquisition by $37.02%$ for one turn / When this card's skill activation count is 9 or more, the score acquisition effect skill increases score acquisition by $476.85%$ for one turn",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动8次以下时，获得分数效果技能获得的分数值单次提升$37.02%$／此卡技能发动9次以上时，获得分数效果技能获得的分数值单次提升$476.85%$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が8回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$39.2%$上昇／このカードのスキル発動回数が9回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$504.9%$上昇",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 8 or less, the score acquisition effect skill increases score acquisition by $39.2%$ for one turn / When this card's skill activation count is 9 or more, the score acquisition effect skill increases score acquisition by $504.9%$ for one turn",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动8次以下时，获得分数效果技能获得的分数值单次提升$39.2%$／此卡技能发动9次以上时，获得分数效果技能获得的分数值单次提升$504.9%$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が8回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$43.56%$上昇／このカードのスキル発動回数が9回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$561%$上昇",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 8 or less, the score acquisition effect skill increases score acquisition by $43.56%$ for one turn / When this card's skill activation count is 9 or more, the score acquisition effect skill increases score acquisition by $561%$ for one turn",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动8次以下时，获得分数效果技能获得的分数值单次提升$43.56%$／此卡技能发动9次以上时，获得分数效果技能获得的分数值单次提升$561%$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が8回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$47.91%$上昇／このカードのスキル発動回数が9回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$617.1%$上昇",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 8 or less, the score acquisition effect skill increases score acquisition by $47.91%$ for one turn / When this card's skill activation count is 9 or more, the score acquisition effect skill increases score acquisition by $617.1%$ for one turn",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动8次以下时，获得分数效果技能获得的分数值单次提升$47.91%$／此卡技能发动9次以上时，获得分数效果技能获得的分数值单次提升$617.1%$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が8回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$52.27%$上昇／このカードのスキル発動回数が9回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$673.2%$上昇",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 8 or less, the score acquisition effect skill increases score acquisition by $52.27%$ for one turn / When this card's skill activation count is 9 or more, the score acquisition effect skill increases score acquisition by $673.2%$ for one turn",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动8次以下时，获得分数效果技能获得的分数值单次提升$52.27%$／此卡技能发动9次以上时，获得分数效果技能获得的分数值单次提升$673.2%$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が8回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$56.62%$上昇／このカードのスキル発動回数が9回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$729.3%$上昇",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 8 or less, the score acquisition effect skill increases score acquisition by $56.62%$ for one turn / When this card's skill activation count is 9 or more, the score acquisition effect skill increases score acquisition by $729.3%$ for one turn",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动8次以下时，获得分数效果技能获得的分数值单次提升$56.62%$／此卡技能发动9次以上时，获得分数效果技能获得的分数值单次提升$729.3%$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が8回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$65.34%$上昇／このカードのスキル発動回数が9回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$841.5%$上昇",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 8 or less, the score acquisition effect skill increases score acquisition by $65.34%$ for one turn / When this card's skill activation count is 9 or more, the score acquisition effect skill increases score acquisition by $841.5%$ for one turn",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动8次以下时，获得分数效果技能获得的分数值单次提升$65.34%$／此卡技能发动9次以上时，获得分数效果技能获得的分数值单次提升$841.5%$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "スキルの合計発動回数が15回以下の時、APを$10$回復／スキルの合計発動回数が15回以上の時、合計アピール値の$895.05%$のスコアを獲得",
     "translation": {
       "en": {
