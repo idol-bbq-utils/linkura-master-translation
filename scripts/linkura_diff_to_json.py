@@ -1,6 +1,7 @@
 import os
 import yaml
 import json
+import re
 from typing import List
 from yaml.reader import Reader
 
@@ -499,6 +500,8 @@ def convert_yaml_types(folder_path="./link-like-diff/orig"):
                     # content = content.replace('\t', '    ')  # 替换制表符
                     content = content.replace(": \t", ": \"\t\"")  # 替换制表符
                     content = content.replace("|\n", "|+\n") # Fix literal strings newline chomping
+                    # 修复单独的 '-' 字符作为值的情况（会被误认为列表）
+                    content = re.sub(r':\s+-\s*$', ': ""', content, flags=re.MULTILINE)
 
                     # 解析 YAML 内容
                     # data = yaml.safe_load(content)

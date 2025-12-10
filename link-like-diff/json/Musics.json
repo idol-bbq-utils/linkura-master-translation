@@ -1434,6 +1434,13 @@
             "ReleaseConditionText": "初めから習得"
         },
         {
+            "Id": 405127,
+            "Title": "Hip, hip, hooray!",
+            "TitleFurigana": "ひっぷひっぷふーれい",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
             "Id": 405201,
             "Title": "テレパシ",
             "TitleFurigana": "てらぱし",

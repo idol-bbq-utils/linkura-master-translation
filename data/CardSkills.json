@@ -46176,6 +46176,370 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をハッピー方向に$+100$し、AP回復速度を$+50%$する。さらにメンタルを最大値の$200%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mood Value in the Happy direction by +100 and increase AP Recovery Speed by +50%. Additionally, restore Mental to 200% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+100$，AP回复速度$+50%$。并且恢复最大Mental值的$200%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+100$し、手札の上限枚数を$5枚$増加する。さらにメンタルを最大値の$200%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mood Value in the Happy direction by +100 and increase the maximum number of cards in hand by 5. Additionally, restore Mental to 200% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+100$，手牌上限增加$5张$。并且恢复最大Mental值的$200%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+40$し、AP回復速度を$+20%$する。さらにメンタルを最大値の$80%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mood Value in the Happy direction by +40 and increase AP Recovery Speed by +20%. Additionally, restore Mental to 80% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+40$，AP回复速度$+20%$。并且恢复最大Mental值的$80%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+40$し、手札の上限枚数を$2枚$増加する。さらにメンタルを最大値の$80%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mood Value in the Happy direction by +40 and increase the maximum number of cards in hand by 2. Additionally, restore Mental to 80% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+40$，手牌上限增加$2张$。并且恢复最大Mental值的$80%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+44$し、AP回復速度を$+22%$する。さらにメンタルを最大値の$88%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mood Value in the Happy direction by +44 and increase AP Recovery Speed by +22%. Additionally, restore Mental to 88% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+44$，AP回复速度$+22%$。并且恢复最大Mental值的$88%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+44$し、手札の上限枚数を$3枚$増加する。さらにメンタルを最大値の$88%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mood Value in the Happy direction by +44 and increase the maximum number of cards in hand by 3. Additionally, restore Mental to 88% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+44$，手牌上限增加$3张$。并且恢复最大Mental值的$88%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+48$し、AP回復速度を$+24%$する。さらにメンタルを最大値の$96%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mood Value in the Happy direction by +48 and increase AP Recovery Speed by +24%. Additionally, restore Mental to 96% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+48$，AP回复速度$+24%$。并且恢复最大Mental值的$96%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+48$し、手札の上限枚数を$3枚$増加する。さらにメンタルを最大値の$96%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mood Value in the Happy direction by +48 and increase the maximum number of cards in hand by 3. Additionally, restore Mental to 96% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+48$，手牌上限增加$3张$。并且恢复最大Mental值的$96%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+52$し、AP回復速度を$+26%$する。さらにメンタルを最大値の$104%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mood Value in the Happy direction by +52 and increase AP Recovery Speed by +26%. Additionally, restore Mental to 104% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+52$，AP回复速度$+26%$。并且恢复最大Mental值的$104%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+52$し、手札の上限枚数を$3枚$増加する。さらにメンタルを最大値の$104%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mood Value in the Happy direction by +52 and increase the maximum number of cards in hand by 3. Additionally, restore Mental to 104% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+52$，手牌上限增加$3张$。并且恢复最大Mental值的$104%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+56$し、AP回復速度を$+28%$する。さらにメンタルを最大値の$112%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mood Value in the Happy direction by +56 and increase AP Recovery Speed by +28%. Additionally, restore Mental to 112% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+56$，AP回复速度$+28%$。并且恢复最大Mental值的$112%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+56$し、手札の上限枚数を$3枚$増加する。さらにメンタルを最大値の$112%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mood Value in the Happy direction by +56 and increase the maximum number of cards in hand by 3. Additionally, restore Mental to 112% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+56$，手牌上限增加$3张$。并且恢复最大Mental值的$112%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+60$し、AP回復速度を$+30%$する。さらにメンタルを最大値の$120%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mood Value in the Happy direction by +60 and increase AP Recovery Speed by +30%. Additionally, restore Mental to 120% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+60$，AP回复速度$+30%$。此外，恢复最大Mental值的$120%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+60$し、手札の上限枚数を$3枚$増加する。さらにメンタルを最大値の$120%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mood Value in the Happy direction by +60 and increase the maximum number of cards in hand by 3. Additionally, restore Mental to 120% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+60$，手牌上限增加$3张$。此外，恢复最大Mental值的$120%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+64$し、AP回復速度を$+32%$する。さらにメンタルを最大値の$128%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mood Value in the Happy direction by +64 and increase AP Recovery Speed by +32%. Additionally, restore Mental to 128% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+64$，AP回复速度$+32%$。此外，恢复最大Mental值的$128%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+64$し、手札の上限枚数を$4枚$増加する。さらにメンタルを最大値の$128%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mood Value in the Happy direction by +64 and increase the maximum number of cards in hand by 4. Additionally, restore Mental to 128% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+64$，手牌上限增加$4张$。此外，恢复最大Mental值的$128%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+68$し、AP回復速度を$+34%$する。さらにメンタルを最大値の$136%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mood Value in the Happy direction by +68 and increase AP Recovery Speed by +34%. Additionally, restore Mental to 136% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+68$，AP回复速度$+34%$。此外，恢复最大Mental值的$136%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+68$し、手札の上限枚数を$4枚$増加する。さらにメンタルを最大値の$136%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mood Value in the Happy direction by +68 and increase the maximum number of cards in hand by 4. Additionally, restore Mental to 136% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+68$，手牌上限增加$4张$。此外，恢复最大Mental值的$136%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+72$し、AP回復速度を$+36%$する。さらにメンタルを最大値の$144%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mood Value in the Happy direction by +72 and increase AP Recovery Speed by +36%. Additionally, restore Mental to 144% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+72$，AP回复速度$+36%$。此外，恢复最大Mental值的$144%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+72$し、手札の上限枚数を$4枚$増加する。さらにメンタルを最大値の$144%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mood Value in the Happy direction by +72 and increase the maximum number of cards in hand by 4. Additionally, restore Mental to 144% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+72$，手牌上限增加$4张$。此外，恢复最大Mental值的$144%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+80$し、AP回復速度を$+40%$する。さらにメンタルを最大値の$160%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mood Value in the Happy direction by +80 and increase AP Recovery Speed by +40%. Additionally, restore Mental to 160% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+80$，AP回复速度$+40%$。此外，恢复最大Mental值的$160%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+80$し、手札の上限枚数を$4枚$増加する。さらにメンタルを最大値の$160%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mood Value in the Happy direction by +80 and increase the maximum number of cards in hand by 4. Additionally, restore Mental to 160% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+80$，手牌上限增加$4张$。此外，恢复最大Mental值的$160%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+84$し、AP回復速度を$+42%$する。さらにメンタルを最大値の$168%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mood Value in the Happy direction by +84 and increase AP Recovery Speed by +42%. Additionally, restore Mental to 168% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+84$，AP回复速度$+42%$。此外，恢复最大Mental值的$168%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+84$し、手札の上限枚数を$5枚$増加する。さらにメンタルを最大値の$168%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase Mood Value in the Happy direction by +84 and increase the maximum number of cards in hand by 5. Additionally, restore Mental to 168% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+84$，手牌上限增加$5张$。此外，恢复最大Mental值的$168%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+88$し、AP回復速度を$+44%$する。さらにメンタルを最大値の$176%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "Increase Mood towards Happy by +88 and increase AP Recovery Speed by +44% during this section. Additionally, restore Mental to 176% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+88$，AP回复速度$+44%$。此外，恢复最大Mental值的$176%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+88$し、手札の上限枚数を$5枚$増加する。さらにメンタルを最大値の$176%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "Increase Mood towards Happy by +88 and increase the maximum number of cards in hand by +5 during this section. Additionally, restore Mental to 176% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+88$，手牌上限增加$5张$。此外，恢复最大Mental值的$176%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+92$し、AP回復速度を$+46%$する。さらにメンタルを最大値の$184%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "Increase Mood towards Happy by +92 and increase AP Recovery Speed by +46% during this section. Additionally, restore Mental to 184% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+92$，AP回复速度$+46%$。此外，恢复最大Mental值的$184%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+92$し、手札の上限枚数を$5枚$増加する。さらにメンタルを最大値の$184%$回復させる。",
+    "translation": {
+      "en": {
+        "text": "Increase Mood towards Happy by +92 and increase the maximum number of cards in hand by +5 during this section. Additionally, restore Mental to 184% of its maximum value.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+92$，手牌上限增加$5张$。此外，恢复最大Mental值的$184%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をメロウ方向に$+20$する。さらにメンタルを最大値の16%減少させる。",
     "translation": {
       "zh-CN": {
@@ -63180,6 +63544,188 @@
     }
   },
   {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を777%吸収したとき、ボルテージPt.を$+311$、このセクション中、ムード値を$+31$、ビートハートの出現個数を+2し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When 777% of the Love Attract effect is absorbed, increase Voltage Pt. by +311, increase Mood by +31 during this section, increase the number of Beat Hearts appearing by +2, and move to the discard pile.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "将卡牌放置在场上，吸收LOVE+效果。吸收777%LOVE+效果时，Vo Pt.$+311$，本小节中，气氛值$+31$，跳心出现数量+2，移动至弃牌堆。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を777%吸収したとき、ボルテージPt.を$+342$、このセクション中、ムード値を$+34$、ビートハートの出現個数を+2し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When 777% of the Love Attract effect is absorbed, increase Voltage Pt. by +342, increase Mood by +34 during this section, increase the number of Beat Hearts appearing by +2, and move to the discard pile.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "将卡牌放置在场上，吸收LOVE+效果。吸收777%LOVE+效果时，Vo Pt.$+342$，本小节中，气氛值$+34$，跳心出现数量+2，移动至弃牌堆。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を777%吸収したとき、ボルテージPt.を$+373$、このセクション中、ムード値を$+37$、ビートハートの出現個数を+2し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When 777% of the Love Attract effect is absorbed, increase Voltage Pt. by +373, increase Mood by +37 during this section, increase the number of Beat Hearts appearing by +2, and move to the discard pile.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "将卡牌放置在场上，吸收LOVE+效果。吸收777%LOVE+效果时，Vo Pt.$+373$，本小节中，气氛值$+37$，跳心出现数量+2，移动至弃牌堆。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を777%吸収したとき、ボルテージPt.を$+404$、このセクション中、ムード値を$+41$、ビートハートの出現個数を+2し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When 777% of the Love Attract effect is absorbed, increase Voltage Pt. by +404, increase Mood by +41 during this section, increase the number of Beat Hearts appearing by +2, and move to the discard pile.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "将卡牌放置在场上，吸收LOVE+效果。吸收777%LOVE+效果时，Vo Pt.$+404$，本小节中，气氛值$+41$，跳心出现数量+2，移动至弃牌堆。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を777%吸収したとき、ボルテージPt.を$+435$、このセクション中、ムード値を$+44$、ビートハートの出現個数を+2し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When 777% of the Love Attract effect is absorbed, increase Voltage Pt. by +435, increase Mood by +44 during this section, increase the number of Beat Hearts appearing by +2, and move to the discard pile.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "将卡牌放置在场上，吸收LOVE+效果。吸收777%LOVE+效果时，Vo Pt.$+435$，本小节中，气氛值$+44$，跳心出现数量+2，移动至弃牌堆。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を777%吸収したとき、ボルテージPt.を$+467$、このセクション中、ムード値を$+47$、ビートハートの出現個数を+2し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When 777% of the Love Attract effect is absorbed, increase Voltage Pt. by +467, increase Mood by +47 during this section, increase the number of Beat Hearts appearing by +2, and move to the discard pile.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "将卡牌放置在场上，吸收LOVE+效果。吸收777%LOVE+效果时，Vo Pt.$+467$，本小节中，气氛值$+47$，跳心出现数量+2，移动至弃牌堆。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を777%吸収したとき、ボルテージPt.を$+498$、このセクション中、ムード値を$+50$、ビートハートの出現個数を+2し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When 777% of the Love Attract effect is absorbed, increase Voltage Pt. by +498, increase Mood by +50 during this section, increase the number of Beat Hearts appearing by +2, and move to the discard pile.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "将卡牌放置在场上，吸收LOVE+效果。吸收777%LOVE+效果时，Vo Pt.$+498$，本小节中，气氛值$+50$，跳心出现数量+2，移动至弃牌堆。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を777%吸収したとき、ボルテージPt.を$+529$、このセクション中、ムード値を$+53$、ビートハートの出現個数を+2し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When 777% of the Love Attract effect is absorbed, increase Voltage Pt. by +529, increase Mood by +53 during this section, increase the number of Beat Hearts appearing by +2, and move to the discard pile.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "将卡牌放置在场上，吸收LOVE+效果。吸收777%LOVE+效果时，Vo Pt.$+529$，本小节中，气氛值$+53$，跳心出现数量+2，移动至弃牌堆。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を777%吸収したとき、ボルテージPt.を$+560$、このセクション中、ムード値を$+56$、ビートハートの出現個数を+2し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When 777% of the Love Attract effect is absorbed, increase Voltage Pt. by +560, increase Mood by +56 during this section, increase the number of Beat Hearts appearing by +2, and move to the discard pile.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "卡牌设置到舞台上，吸收LOVE+效果。当吸收777% LOVE+效果时，Vo Pt.$+560$，本小节中，气氛值$+56$，跳心出现数量+2，并移入弃牌堆。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を777%吸収したとき、ボルテージPt.を$+622$、このセクション中、ムード値を$+62$、ビートハートの出現個数を+2し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When 777% of the Love Attract effect is absorbed, increase Voltage Pt. by +622, increase Mood by +62 during this section, increase the number of Beat Hearts appearing by +2, and move to the discard pile.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "卡牌设置到舞台上，吸收LOVE+效果。当吸收777% LOVE+效果时，Vo Pt.$+622$，本小节中，气氛值$+62$，跳心出现数量+2，并移入弃牌堆。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を777%吸収したとき、ボルテージPt.を$+653$、このセクション中、ムード値を$+65$、ビートハートの出現個数を+2し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When 777% of the Love Attract effect is absorbed, increase Voltage Pt. by +653, increase Mood by +65 during this section, increase the number of Beat Hearts appearing by +2, and move to the discard pile.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "卡牌设置到舞台上，吸收LOVE+效果。当吸收777% LOVE+效果时，Vo Pt.$+653$，本小节中，气氛值$+65$，跳心出现数量+2，并移入弃牌堆。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を777%吸収したとき、ボルテージPt.を$+684$、このセクション中、ムード値を$+68$、ビートハートの出現個数を+2し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When 777% of the Love Attract effect is absorbed, increase Voltage Pt. by +684, increase Mood by +68 during this section, increase the number of Beat Hearts appearing by +2, and move to the discard pile.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "卡牌设置到舞台上，吸收LOVE+效果。当吸收777% LOVE+效果时，Vo Pt.$+684$，本小节中，气氛值$+68$，跳心出现数量+2，并移入弃牌堆。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を777%吸収したとき、ボルテージPt.を$+715$、このセクション中、ムード値を$+71$、ビートハートの出現個数を+2し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When 777% of the Love Attract effect is absorbed, increase Voltage Pt. by +715, increase Mood by +71 during this section, increase the number of Beat Hearts appearing by +2, and move to the discard pile.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "卡牌设置到舞台上，吸收LOVE+效果。当吸收777% LOVE+效果时，Vo Pt.$+715$，本小节中，气氛值$+71$，跳心出现数量+2，并移入弃牌堆。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を777%吸収したとき、ボルテージPt.を$+777$、このセクション中、ムード値を$+77$、ビートハートの出現個数を+2し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When 777% of the Love Attract effect is absorbed, increase Voltage Pt. by +777, increase Mood by +77 during this section, increase the number of Beat Hearts appearing by +2, and move to the discard pile.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "卡牌设置到舞台上，吸收LOVE+效果。当吸收777% LOVE+效果时，Vo Pt.$+777$，本小节中，气氛值$+77$，跳心出现数量+2，并移入弃牌堆。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "カードがステージにセットされ、手札上限増加効果を吸収する。手札上限増加効果を2枚分吸収したとき、手札を全て捨てて、捨札を全て山札に戻した後、デッキから手札上限までスキルを引き、このステージ中、メンタルの最大値の$10.4%$分のメンタルダメージを無効にし、捨札に移動する。",
     "translation": {
       "zh-CN": {
@@ -67171,6 +67717,19 @@
     }
   },
   {
+    "raw": "ドローした時、このセクション中、AP回復速度を+7%し、ムード値を+7する。",
+    "translation": {
+      "en": {
+        "text": "When drawn, increase AP Recovery Speed by +7% and Mood by +7 during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "抽到时，本小节中，AP回复速度+7%，气氛值+7。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "ドローした時、このセクション中、AP回復速度を-10%、ボルテージPt.を-100し、メンタルを最大値の10%減少させる。さらに手札にある状態でハートを3000個回収した時、ビートハート3000回分のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -67908,6 +68467,19 @@
       "zh-CN": {
         "text": "抽到时，下次获得技能心心时，其数量+50%。并且在手牌中回收300个心心时，本小节中，心心上限+60。",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ドローした時、次に使用するラブアトラクト効果を+16%、ボルテージPt.を$+18し、このステージ中、メンタルの最大値の10%分のメンタル自然減少を無効にする。さらにメンタルが200%以上でドローした時、3回の間ボルテージゲイン効果を+64%する。",
+    "translation": {
+      "en": {
+        "text": "When drawn, increase the next Love Attract effect by +16%, increase Voltage Pt. by +18, and nullify natural Mental decrease equal to 10% of the maximum Mental value during this stage. Additionally, when drawn with 200% or more Mental, increase the Voltage Gain effect by +64% for 3 turns.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "抽到时，下次使用的LOVE+效果+16%，Vo Pt.$+18$，本场Live中，防止最大Mental值的10%自然减少。并且Mental为200%以上抽到时，接下来3次获得Vo Pt.效果+64%。",
+        "author": "gemini-3-pro-preview"
       }
     }
   },
@@ -76050,6 +76622,19 @@
     }
   },
   {
+    "raw": "ビートハート$28回分$のスキルハートを獲得し、姫芽の《イグニッションモード》を解除する。メンタルが50%以下のとき、ビートハート$37回分$のスキルハートを追加で獲得し、メンタルが25%以下のとき、ビートハート$46回分$のスキルハートをさらに追加で獲得、メンタルが0%のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to 28 beats and deactivate Hime's 《Ignition Mode》. When Mental is at 50% or less, gain an additional Skill Hearts equivalent to 37 beats, and when Mental is at 25% or less, gain an additional Skill Hearts equivalent to 46 beats, and when Mental is at 0%, shuffle your hand.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得$28倍$跳心的技能心心，解除姬芽的《イグニッションモード》。Mental为50%以下时，追加获得$37倍$跳心的技能心心，Mental为25%以下时，再次追加获得$46倍$跳心的技能心心，Mental为0%时，将手牌重置洗牌。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$28回分$のスキルハートを獲得し、姫芽の《イグニッションモード》を解除する。メンタルが50%以下のとき、ビートハート$37回分$のスキルハートを追加で獲得し、メンタルが25%以下のとき、ビートハート$46回分$のスキルハートをさらに追加で獲得する。",
     "translation": {
       "zh-CN": {
@@ -76544,6 +77129,19 @@
     }
   },
   {
+    "raw": "ビートハート$31回分$のスキルハートを獲得し、姫芽の《イグニッションモード》を解除する。メンタルが50%以下のとき、ビートハート$41回分$のスキルハートを追加で獲得し、メンタルが25%以下のとき、ビートハート$51回分$のスキルハートをさらに追加で獲得、メンタルが0%のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to 31 beats and deactivate Hime's 《Ignition Mode》. When Mental is at 50% or less, gain an additional Skill Hearts equivalent to 41 beats, and when Mental is at 25% or less, gain an additional Skill Hearts equivalent to 51 beats, and when Mental is at 0%, shuffle your hand.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得$31倍$跳心的技能心心，解除姬芽的《イグニッションモード》。Mental为50%以下时，追加获得$41倍$跳心的技能心心，Mental为25%以下时，再次追加获得$51倍$跳心的技能心心，Mental为0%时，将手牌重置洗牌。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$31回分$のスキルハートを獲得し、姫芽の《イグニッションモード》を解除する。メンタルが50%以下のとき、ビートハート$41回分$のスキルハートを追加で獲得し、メンタルが25%以下のとき、ビートハート$51回分$のスキルハートをさらに追加で獲得する。",
     "translation": {
       "zh-CN": {
@@ -76856,6 +77454,19 @@
     }
   },
   {
+    "raw": "ビートハート$34回分$のスキルハートを獲得し、姫芽の《イグニッションモード》を解除する。メンタルが50%以下のとき、ビートハート$44回分$のスキルハートを追加で獲得し、メンタルが25%以下のとき、ビートハート$55回分$のスキルハートをさらに追加で獲得、メンタルが0%のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to 34 beats and deactivate Hime's 《Ignition Mode》. When Mental is at 50% or less, gain an additional Skill Hearts equivalent to 44 beats, and when Mental is at 25% or less, gain an additional Skill Hearts equivalent to 55 beats, and when Mental is at 0%, shuffle your hand.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得$34倍$跳心的技能心心，解除姬芽的《イグニッションモード》。Mental为50%以下时，追加获得$44倍$跳心的技能心心，Mental为25%以下时，再次追加获得$55倍$跳心的技能心心，Mental为0%时，将手牌重置洗牌。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$34回分$のスキルハートを獲得し、姫芽の《イグニッションモード》を解除する。メンタルが50%以下のとき、ビートハート$44回分$のスキルハートを追加で獲得し、メンタルが25%以下のとき、ビートハート$55回分$のスキルハートをさらに追加で獲得する。",
     "translation": {
       "zh-CN": {
@@ -77021,6 +77632,19 @@
       "en": {
         "text": "Gain Skill Heart equivalent to $36$ Beat Hearts and gain $+33.7%$ LOVE for this stage. Additionally, when deck has exactly 21 cards, gain Skill Heart equivalent to $1938$ Beat Hearts and gain $+1870%$ LOVE for this stage.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$36回分$のスキルハートを獲得し、姫芽の《イグニッションモード》を解除する。メンタルが50%以下のとき、ビートハート$48回分$のスキルハートを追加で獲得し、メンタルが25%以下のとき、ビートハート$60回分$のスキルハートをさらに追加で獲得、メンタルが0%のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Gain Skill Hearts equivalent to 36 beats and deactivate Hime's 《Ignition Mode》. When Mental is at 50% or less, gain an additional Skill Hearts equivalent to 48 beats, and when Mental is at 25% or less, gain an additional Skill Hearts equivalent to 60 beats, and when Mental is at 0%, shuffle your hand.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得$36倍$跳心的技能心心，解除姬芽的《イグニッションモード》。Mental为50%以下时，追加获得$48倍$跳心的技能心心，Mental为25%以下时，再次追加获得$60倍$跳心的技能心心，Mental为0%时，将手牌重置洗牌。",
+        "author": "gemini-3-pro-preview"
       }
     }
   },
@@ -77281,6 +77905,19 @@
       "en": {
         "text": "Gain Skill Heart equivalent to Beat Heart $39 times$ and reduce Mental by 25% of maximum value. Additionally, increase LOVE gained by $+96.9%$ during this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$39回分$のスキルハートを獲得し、姫芽の《イグニッションモード》を解除する。メンタルが50%以下のとき、ビートハート$52回分$のスキルハートを追加で獲得し、メンタルが25%以下のとき、ビートハート$64回分$のスキルハートをさらに追加で獲得、メンタルが0%のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Gain $39 Skill Hearts of Beat Heart and deactivate Hime's Ignition Mode. If Mental is 50% or less, gain an additional $52 Skill Hearts. If Mental is 25% or less, gain a further $64 Skill Hearts, and if Mental is 0%, shuffle the hand back into the deck.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得$39倍$跳心的技能心心，解除姬芽的《イグニッションモード》。Mental为50%以下时，追加获得$52倍$跳心的技能心心，Mental为25%以下时，再次追加获得$64倍$跳心的技能心心，Mental为0%时，将手牌重置洗牌。",
+        "author": "gemini-3-pro-preview"
       }
     }
   },
@@ -77766,6 +78403,19 @@
     }
   },
   {
+    "raw": "ビートハート$42回分$のスキルハートを獲得し、姫芽の《イグニッションモード》を解除する。メンタルが50%以下のとき、ビートハート$56回分$のスキルハートを追加で獲得し、メンタルが25%以下のとき、ビートハート$69回分$のスキルハートをさらに追加で獲得、メンタルが0%のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Gain $42 Skill Hearts of Beat Heart and deactivate Hime's Ignition Mode. If Mental is 50% or less, gain an additional $56 Skill Hearts. If Mental is 25% or less, gain a further $69 Skill Hearts, and if Mental is 0%, shuffle the hand back into the deck.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得$42倍$跳心的技能心心，解除姬芽的《イグニッションモード》。Mental为50%以下时，追加获得$56倍$跳心的技能心心，Mental为25%以下时，再次追加获得$69倍$跳心的技能心心，Mental为0%时，将手牌重置洗牌。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$42回分$のスキルハートを獲得し、姫芽の《イグニッションモード》を解除する。メンタルが50%以下のとき、ビートハート$56回分$のスキルハートを追加で獲得し、メンタルが25%以下のとき、ビートハート$69回分$のスキルハートをさらに追加で獲得する。",
     "translation": {
       "zh-CN": {
@@ -77892,6 +78542,19 @@
       "zh-CN": {
         "text": "获得$454倍$跳心的技能心心，本场Live中，获得LOVE$+7.8%$。并且卡组卡牌数在23以上时，本场Live中，心心上限$+114$，接下来87次使用Dress Card获得技能心心时，其数量$+38%$。",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$45回分$のスキルハートを獲得し、姫芽の《イグニッションモード》を解除する。メンタルが50%以下のとき、ビートハート$59回分$のスキルハートを追加で獲得し、メンタルが25%以下のとき、ビートハート$74回分$のスキルハートをさらに追加で獲得、メンタルが0%のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Gain $45 Skill Hearts of Beat Heart and deactivate Hime's Ignition Mode. If Mental is 50% or less, gain an additional $59 Skill Hearts. If Mental is 25% or less, gain a further $74 Skill Hearts, and if Mental is 0%, shuffle the hand back into the deck.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得$45倍$跳心的技能心心，解除姬芽的《イグニッションモード》。Mental为50%以下时，追加获得$59倍$跳心的技能心心，Mental为25%以下时，再次追加获得$74倍$跳心的技能心心，Mental为0%时，将手牌重置洗牌。",
+        "author": "gemini-3-pro-preview"
       }
     }
   },
@@ -78087,6 +78750,19 @@
       "en": {
         "text": "Obtain $48$ Beat Heart worth of Skill Hearts and reduce Mental by 25% of max value. Furthermore, increase LOVE gained by $+119.7%$ during this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$48回分$のスキルハートを獲得し、姫芽の《イグニッションモード》を解除する。メンタルが50%以下のとき、ビートハート$63回分$のスキルハートを追加で獲得し、メンタルが25%以下のとき、ビートハート$78回分$のスキルハートをさらに追加で獲得、メンタルが0%のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Gain $48 Skill Hearts of Beat Heart and deactivate Hime's Ignition Mode. If Mental is 50% or less, gain an additional $63 Skill Hearts. If Mental is 25% or less, gain a further $78 Skill Hearts, and if Mental is 0%, shuffle the hand back into the deck.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得$48倍$跳心的技能心心，解除姬芽的《イグニッションモード》。Mental为50%以下时，追加获得$63倍$跳心的技能心心，Mental为25%以下时，再次追加获得$78倍$跳心的技能心心，Mental为0%时，将手牌重置洗牌。",
+        "author": "gemini-3-pro-preview"
       }
     }
   },
@@ -78754,6 +79430,19 @@
     }
   },
   {
+    "raw": "ビートハート$50回分$のスキルハートを獲得し、姫芽の《イグニッションモード》を解除する。メンタルが50%以下のとき、ビートハート$67回分$のスキルハートを追加で獲得し、メンタルが25%以下のとき、ビートハート$83回分$のスキルハートをさらに追加で獲得、メンタルが0%のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Gain $50 Skill Hearts of Beat Heart and deactivate Hime's Ignition Mode. If Mental is 50% or less, gain an additional $67 Skill Hearts. If Mental is 25% or less, gain a further $83 Skill Hearts, and if Mental is 0%, shuffle the hand back into the deck.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得$50倍$跳心的技能心心，解除姬芽的《イグニッションモード》。Mental为50%以下时，追加获得$67倍$跳心的技能心心，Mental为25%以下时，再次追加获得$83倍$跳心的技能心心，Mental为0%时，将手牌重置洗牌。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$50回分$のスキルハートを獲得し、姫芽の《イグニッションモード》を解除する。メンタルが50%以下のとき、ビートハート$67回分$のスキルハートを追加で獲得し、メンタルが25%以下のとき、ビートハート$83回分$のスキルハートをさらに追加で獲得する。",
     "translation": {
       "zh-CN": {
@@ -78988,6 +79677,19 @@
     }
   },
   {
+    "raw": "ビートハート$56回分$のスキルハートを獲得し、姫芽の《イグニッションモード》を解除する。メンタルが50%以下のとき、ビートハート$74回分$のスキルハートを追加で獲得し、メンタルが25%以下のとき、ビートハート$92回分$のスキルハートをさらに追加で獲得、メンタルが0%のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Gain $56 Skill Hearts of Beat Heart and deactivate Hime's Ignition Mode. If Mental is 50% or less, gain an additional $74 Skill Hearts. If Mental is 25% or less, gain a further $92 Skill Hearts, and if Mental is 0%, shuffle the hand back into the deck.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得$56倍$跳心的技能心心，解除姬芽的《イグニッションモード》。Mental为50%以下时，追加获得$74倍$跳心的技能心心，Mental为25%以下时，再次追加获得$92倍$跳心的技能心心，Mental为0%时，将手牌重置洗牌。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$56回分$のスキルハートを獲得し、姫芽の《イグニッションモード》を解除する。メンタルが50%以下のとき、ビートハート$74回分$のスキルハートを追加で獲得し、メンタルが25%以下のとき、ビートハート$92回分$のスキルハートをさらに追加で獲得する。",
     "translation": {
       "zh-CN": {
@@ -79127,6 +79829,19 @@
       "zh-CN": {
         "text": "获得$593倍$跳心的技能心心，本场Live中，获得LOVE$+10.2%$。并且卡组卡牌数在23以上时，本场Live中，心心上限$+150$，接下来87次使用Dress Card获得技能心心时，其数量$+49.6%$。",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$59回分$のスキルハートを獲得し、姫芽の《イグニッションモード》を解除する。メンタルが50%以下のとき、ビートハート$78回分$のスキルハートを追加で獲得し、メンタルが25%以下のとき、ビートハート$97回分$のスキルハートをさらに追加で獲得、メンタルが0%のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Gain $59 Skill Hearts of Beat Heart and deactivate Hime's Ignition Mode. If Mental is 50% or less, gain an additional $78 Skill Hearts. If Mental is 25% or less, gain a further $97 Skill Hearts, and if Mental is 0%, shuffle the hand back into the deck.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得$59倍$跳心的技能心心，解除姬芽的《イグニッションモード》。Mental为50%以下时，追加获得$78倍$跳心的技能心心，Mental为25%以下时，再次追加获得$97倍$跳心的技能心心，Mental为0%时，将手牌重置洗牌。",
+        "author": "gemini-3-pro-preview"
       }
     }
   },
@@ -80067,6 +80782,19 @@
     }
   },
   {
+    "raw": "ビートハート$62回分$のスキルハートを獲得し、姫芽の《イグニッションモード》を解除する。メンタルが50%以下のとき、ビートハート$81回分$のスキルハートを追加で獲得し、メンタルが25%以下のとき、ビートハート$101回分$のスキルハートをさらに追加で獲得、メンタルが0%のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Gain $62 Skill Hearts of Beat Heart and deactivate Hime's Ignition Mode. If Mental is 50% or less, gain an additional $81 Skill Hearts. If Mental is 25% or less, gain a further $101 Skill Hearts, and if Mental is 0%, shuffle the hand back into the deck.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得$62倍$跳心的技能心心，解除姬芽的《イグニッションモード》。Mental为50%以下时，追加获得$81倍$跳心的技能心心，Mental为25%以下时，再次追加获得$101倍$跳心的技能心心，Mental为0%时，将手牌重置洗牌。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$62回分$のスキルハートを獲得し、姫芽の《イグニッションモード》を解除する。メンタルが50%以下のとき、ビートハート$81回分$のスキルハートを追加で獲得し、メンタルが25%以下のとき、ビートハート$101回分$のスキルハートをさらに追加で獲得する。",
     "translation": {
       "zh-CN": {
@@ -80115,6 +80843,19 @@
       "en": {
         "text": "Gain Skill Hearts equivalent to 63 beats.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$64回分$のスキルハートを獲得し、姫芽の《イグニッションモード》を解除する。メンタルが50%以下のとき、ビートハート$85回分$のスキルハートを追加で獲得し、メンタルが25%以下のとき、ビートハート$106回分$のスキルハートをさらに追加で獲得、メンタルが0%のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Gain $64 Skill Hearts of Beat Heart and deactivate Hime's Ignition Mode. If Mental is 50% or less, gain an additional $85 Skill Hearts. If Mental is 25% or less, gain a further $106 Skill Hearts, and if Mental is 0%, shuffle the hand back into the deck.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得$64倍$跳心的技能心心，解除姬芽的《イグニッションモード》。Mental为50%以下时，追加获得$85倍$跳心的技能心心，Mental为25%以下时，再次追加获得$106倍$跳心的技能心心，Mental为0%时，将手牌重置洗牌。",
+        "author": "gemini-3-pro-preview"
       }
     }
   },
@@ -80232,6 +80973,19 @@
       "zh-CN": {
         "text": "获得$698倍$跳心的技能心心，本场Live中，获得LOVE$+12%$。并且卡组卡牌数在23以上时，本场Live中，心心上限$+176$，接下来87次使用Dress Card获得技能心心时，其数量$+58.4%$。",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$69回分$のスキルハートを獲得し、姫芽の《イグニッションモード》を解除する。メンタルが50%以下のとき、ビートハート$92回分$のスキルハートを追加で獲得し、メンタルが25%以下のとき、ビートハート$114回分$のスキルハートをさらに追加で獲得、メンタルが0%のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Gain $69 Skill Hearts of Beat Heart and deactivate Hime's Ignition Mode. If Mental is 50% or less, gain an additional $92 Skill Hearts. If Mental is 25% or less, gain a further $114 Skill Hearts, and if Mental is 0%, shuffle the hand back into the deck.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得$69倍$跳心的技能心心，解除姬芽的《イグニッションモード》。Mental为50%以下时，追加获得$92倍$跳心的技能心心，Mental为25%以下时，再次追加获得$114倍$跳心的技能心心，Mental为0%时，将手牌重置洗牌。",
+        "author": "gemini-3-pro-preview"
       }
     }
   },
@@ -90311,6 +91065,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$+13$し、このセクション中、AP回復速度を$+8%$、ビートハート$2回分$のスキルハートを3回獲得する。さらにメンタルが200%以上のとき、3回の間ボルテージゲイン効果を$+134.4%$する。",
+    "translation": {
+      "en": {
+        "text": "Increase Volts Pt. by $+13, increase AP Recovery Speed by $+8%, and gain $2 Skill Hearts 3 times during this section. Additionally, when Mental is 200% or higher, increase the Voltage Gain effect by $+134.4% for 3 turns.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Vo Pt.$+13$，本小节中，AP回复速度$+8%$，3次获得$2倍$跳心的技能心心。并且Mental在200%以上时，接下来3次使用的获得Vo Pt.效果$+134.4%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$+13$し、このセクション中、AP回復速度を$+8%$する。さらにビートハート$2回分$のスキルハートを3回獲得する。",
     "translation": {
       "zh-CN": {
@@ -90697,6 +91464,19 @@
       "en": {
         "text": "Gain $+139$ Voltage Pt. Additionally, when Mental is 1% or lower, gain Skill Hearts equal to $191$ beat hearts, and when Mental is 0%, increase LOVE gained by $+378%$ this stage.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$+14$し、このセクション中、AP回復速度を$+8.8%$、ビートハート$2回分$のスキルハートを3回獲得する。さらにメンタルが200%以上のとき、3回の間ボルテージゲイン効果を$+147.8%$する。",
+    "translation": {
+      "en": {
+        "text": "Increase Volts Pt. by $+14, increase AP Recovery Speed by $+8.8%, and gain $2 Skill Hearts 3 times during this section. Additionally, when Mental is 200% or higher, increase the Voltage Gain effect by $+147.8% for 3 turns.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Vo Pt.$+14$，本小节中，AP回复速度$+8.8%$，3次获得$2倍$跳心的技能心心。并且Mental在200%以上时，接下来3次使用的获得Vo Pt.效果$+147.8%$。",
+        "author": "gemini-3-pro-preview"
       }
     }
   },
@@ -91442,6 +92222,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$+16$し、このセクション中、AP回復速度を$+9.6%$、ビートハート$2回分$のスキルハートを3回獲得する。さらにメンタルが200%以上のとき、3回の間ボルテージゲイン効果を$+161.3%$する。",
+    "translation": {
+      "en": {
+        "text": "Increase Volts Pt. by $+16, increase AP Recovery Speed by $+9.6%, and gain $2 Skill Hearts 3 times during this section. Additionally, when Mental is 200% or higher, increase the Voltage Gain effect by $+161.3% for 3 turns.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Vo Pt.$+16$，本小节中，AP回复速度$+9.6%$，3次获得$2倍$跳心的技能心心。并且Mental为200%以上时，接下来3次获得Vo Pt.效果$+161.3%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$+16$し、このセクション中、AP回復速度を$+9.6%$する。さらにビートハート$2回分$のスキルハートを3回獲得する。",
     "translation": {
       "zh-CN": {
@@ -91897,6 +92690,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$+17$し、このセクション中、AP回復速度を$+10.4%$、ビートハート$3回分$のスキルハートを3回獲得する。さらにメンタルが200%以上のとき、3回の間ボルテージゲイン効果を$+174.7%$する。",
+    "translation": {
+      "en": {
+        "text": "Increase Volts Pt. by $+17, increase AP Recovery Speed by $+10.4%, and gain $3 Skill Hearts 3 times during this section. Additionally, when Mental is 200% or higher, increase the Voltage Gain effect by $+174.7% for 3 turns.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Vo Pt.$+17$，本小节中，AP回复速度$+10.4%$，3次获得$3倍$跳心的技能心心。并且Mental为200%以上时，接下来3次获得Vo Pt.效果$+174.7%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$+17$し、このセクション中、AP回復速度を$+10.4%$する。さらにビートハート$3回分$のスキルハートを3回獲得する。",
     "translation": {
       "zh-CN": {
@@ -92270,6 +93076,19 @@
       "en": {
         "text": "Voltage Pt. +$18$ and LOVE gained +$1.8%$ during this stage. Additionally, when Voltage Lv. is 3 or lower, recover 5 AP.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$+18$し、このセクション中、AP回復速度を$+11.2%$、ビートハート$3回分$のスキルハートを3回獲得する。さらにメンタルが200%以上のとき、3回の間ボルテージゲイン効果を$+188.2%$する。",
+    "translation": {
+      "en": {
+        "text": "Increase Volts Pt. by $+18, increase AP Recovery Speed by $+11.2%, and gain $3 Skill Hearts 3 times during this section. Additionally, when Mental is 200% or higher, increase the Voltage Gain effect by $+188.2% for 3 turns.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Vo Pt.$+18$，本小节中，AP回复速度$+11.2%$，3次获得$3倍$跳心的技能心心。并且Mental为200%以上时，接下来3次获得Vo Pt.效果$+188.2%$。",
+        "author": "gemini-3-pro-preview"
       }
     }
   },
@@ -93028,6 +93847,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$+20$し、このセクション中、AP回復速度を$+12%$、ビートハート$3回分$のスキルハートを3回獲得する。さらにメンタルが200%以上のとき、3回の間ボルテージゲイン効果を$+201.6%$する。",
+    "translation": {
+      "en": {
+        "text": "Increase Volts Pt. by $+20, increase AP Recovery Speed by $+12%, and gain $3 Skill Hearts 3 times during this section. Additionally, when Mental is 200% or higher, increase the Voltage Gain effect by $+201.6% for 3 turns.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Vo Pt.$+20$，本小节中，AP回复速度$+12%$，3次获得$3倍$跳心的技能心心。并且Mental为200%以上时，接下来3次获得Vo Pt.效果$+201.6%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$+20$し、このセクション中、AP回復速度を$+12%$する。さらにビートハート$3回分$のスキルハートを3回獲得する。",
     "translation": {
       "zh-CN": {
@@ -93466,6 +94298,19 @@
       "en": {
         "text": "Increase Voltage Pt. by $+21$ and increase LOVE gained by $+2.1%$ for this stage. Additionally, when Voltage Lv. is 3 or lower, recover 5 AP.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$+21$し、このセクション中、AP回復速度を$+12.8%$、ビートハート$3回分$のスキルハートを3回獲得する。さらにメンタルが200%以上のとき、3回の間ボルテージゲイン効果を$+215%$する。",
+    "translation": {
+      "en": {
+        "text": "Increase Volts Pt. by $+21, increase AP Recovery Speed by $+12.8%, and gain $3 Skill Hearts 3 times during this section. Additionally, when Mental is 200% or higher, increase the Voltage Gain effect by $+215% for 3 turns.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Vo Pt.$+21$，本小节中，AP回复速度$+12.8%$，3次获得$3倍$跳心的技能心心。并且Mental为200%以上时，接下来3次获得Vo Pt.效果$+215%$。",
+        "author": "gemini-3-pro-preview"
       }
     }
   },
@@ -93960,6 +94805,19 @@
       "en": {
         "text": "Gain $+22$ Voltage Pt. and increase LOVE gained by $+2.2%$ during this stage. Additionally, when Voltage Lv. is 3 or lower, recover 5 AP.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$+22$し、このセクション中、AP回復速度を$+13.6%$、ビートハート$3回分$のスキルハートを3回獲得する。さらにメンタルが200%以上のとき、3回の間ボルテージゲイン効果を$+228.5%$する。",
+    "translation": {
+      "en": {
+        "text": "Increase Volts Pt. by $+22, increase AP Recovery Speed by $+13.6%, and gain $3 Skill Hearts 3 times during this section. Additionally, when Mental is 200% or higher, increase the Voltage Gain effect by $+228.5% for 3 turns.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Vo Pt.$+22$，本小节中，AP回复速度$+13.6%$，3次获得$3倍$跳心的技能心心。并且Mental为200%以上时，接下来3次获得Vo Pt.效果$+228.5%$。",
+        "author": "gemini-3-pro-preview"
       }
     }
   },
@@ -94532,6 +95390,19 @@
       "zh-CN": {
         "text": "Vo Pt.$+224$。并且Vo Lv.4以上时，本小节中，手牌上限+2，Vo Lv.8以上时，姬芽接下来4次使用的获得Vo Pt.效果$+901.1%$，Vo Lv.16以上时，弃置所有手牌，然后抽取等量的卡牌，Vo Lv.32以上时，本场Live中，心心上限$+902$。",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$+23$し、このセクション中、AP回復速度を$+14.4%$、ビートハート$4回分$のスキルハートを3回獲得する。さらにメンタルが200%以上のとき、3回の間ボルテージゲイン効果を$+241.9%$する。",
+    "translation": {
+      "en": {
+        "text": "Increase Volts Pt. by $+23, increase AP Recovery Speed by $+14.4%, and gain $4 Skill Hearts 3 times during this section. Additionally, when Mental is 200% or higher, increase the Voltage Gain effect by $+241.9% for 3 turns.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Vo Pt.$+23$，本小节中，AP回复速度$+14.4%$，3次获得$4倍$跳心的技能心心。并且Mental为200%以上时，接下来3次获得Vo Pt.效果$+241.9%$。",
+        "author": "gemini-3-pro-preview"
       }
     }
   },
@@ -95446,6 +96317,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$+26$し、このセクション中、AP回復速度を$+16%$、ビートハート$4回分$のスキルハートを3回獲得する。さらにメンタルが200%以上のとき、3回の間ボルテージゲイン効果を$+268.8%$する。",
+    "translation": {
+      "en": {
+        "text": "Increase Volts Pt. by $+26, increase AP Recovery Speed by $+16%, and gain $4 Skill Hearts 3 times during this section. Additionally, when Mental is 200% or higher, increase the Voltage Gain effect by $+268.8% for 3 turns.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Vo Pt.$+26$，本小节中，AP回复速度$+16%$，3次获得$4倍$跳心的技能心心。并且Mental为200%以上时，接下来3次获得Vo Pt.效果$+268.8%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$+26$し、このセクション中、AP回復速度を$+16%$する。さらにビートハート$4回分$のスキルハートを3回獲得する。",
     "translation": {
       "zh-CN": {
@@ -95910,6 +96794,19 @@
       "en": {
         "text": "Gain $+27$ Voltage Pt. and increase LOVE gained during this stage by $+2.7%$. Additionally, recover 5 AP when Voltage Lv. is 3 or below.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$+27$し、このセクション中、AP回復速度を$+16.8%$、ビートハート$4回分$のスキルハートを3回獲得する。さらにメンタルが200%以上のとき、3回の間ボルテージゲイン効果を$+282.2%$する。",
+    "translation": {
+      "en": {
+        "text": "Increase Volts Pt. by $+27, increase AP Recovery Speed by $+16.8%, and gain $4 Skill Hearts 3 times during this section. Additionally, when Mental is 200% or higher, increase the Voltage Gain effect by $+282.2% for 3 turns.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Vo Pt.$+27$，本小节中，AP回复速度$+16.8%$，3次获得$4倍$跳心的技能心心。并且Mental为200%以上时，接下来3次获得Vo Pt.效果$+282.2%$。",
+        "author": "gemini-3-pro-preview"
       }
     }
   },
@@ -96395,6 +97292,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$+29$し、このセクション中、AP回復速度を$+17.6%$、ビートハート$4回分$のスキルハートを3回獲得する。さらにメンタルが200%以上のとき、3回の間ボルテージゲイン効果を$+295.7%$する。",
+    "translation": {
+      "en": {
+        "text": "Increase Volts Pt. by $+29, increase AP Recovery Speed by $+17.6%, and gain $4 Skill Hearts 3 times during this section. Additionally, when Mental is 200% or higher, increase the Voltage Gain effect by $+295.7% for 3 turns.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Vo Pt.$+29$，本小节中，AP回复速度$+17.6%$，3次获得$4倍$跳心的技能心心。并且Mental为200%以上时，接下来3次获得Vo Pt.效果$+295.7%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$+29$し、このセクション中、AP回復速度を$+17.6%$する。さらにビートハート$4回分$のスキルハートを3回獲得する。",
     "translation": {
       "zh-CN": {
@@ -96811,6 +97721,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$+30$し、このセクション中、AP回復速度を$+18.4%$、ビートハート$5回分$のスキルハートを3回獲得する。さらにメンタルが200%以上のとき、3回の間ボルテージゲイン効果を$+309.1%$する。",
+    "translation": {
+      "en": {
+        "text": "Increase Volts Pt. by $+30, increase AP Recovery Speed by $+18.4%, and gain $5 Skill Hearts 3 times during this section. Additionally, when Mental is 200% or higher, increase the Voltage Gain effect by $+309.1% for 3 turns.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Vo Pt.$+30$，本小节中，AP回复速度$+18.4%$，3次获得$5倍$跳心的技能心心。并且Mental为200%以上时，接下来3次获得Vo Pt.效果$+309.1%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$+30$し、このセクション中、AP回復速度を$+18.4%$する。さらにビートハート$5回分$のスキルハートを3回獲得する。",
     "translation": {
       "zh-CN": {
@@ -97197,6 +98120,19 @@
       "en": {
         "text": "Gain $+32$ Voltage Pt. and during this stage, increase LOVE gained by $+3.2%$. Additionally, when Voltage Lv. is 3 or below, recover 5 AP.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$+32$し、このセクション中、AP回復速度を$+20%$、ビートハート$5回分$のスキルハートを3回獲得する。さらにメンタルが200%以上のとき、3回の間ボルテージゲイン効果を$+336%$する。",
+    "translation": {
+      "en": {
+        "text": "Increase Volts Pt. by $+32, increase AP Recovery Speed by $+20%, and gain $5 Skill Hearts 3 times during this section. Additionally, when Mental is 200% or higher, increase the Voltage Gain effect by $+336% for 3 turns.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Vo Pt.$+32$，本小节中，AP回复速度$+20%$，3次获得$5倍$跳心的技能心心。并且Mental为200%以上时，接下来3次获得Vo Pt.效果$+336%$。",
+        "author": "gemini-3-pro-preview"
       }
     }
   },
@@ -101621,6 +102557,32 @@
     }
   },
   {
+    "raw": "ムードがハッピー100未満でドローしたとき、デッキ内にある姫芽の消費AP-10、次に姫芽が使用するムード値変動効果の効果量を+100%し、ムードがハッピー100でドローしたとき、現在の残りメンタルが多いほど、5回の間スキルハート獲得効果による獲得数を増加する。",
+    "translation": {
+      "en": {
+        "text": "When drawn with Mood below Happy 100, reduce the AP cost of Hime's skills in the deck by -10 and boost the effectiveness of the next Mood fluctuation effect used by Hime by +100%. When drawn with Mood at Happy 100, the more remaining Mental you have, the more Skill Hearts you'll gain from Skill Heart acquisition effects for 5 turns.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "气氛值未达Happy100时抽牌，卡组中姬芽的消费AP-10，下次姬芽使用的气氛值变动效果的效果量+100%，气氛值达到Happy100时抽牌，根据当前剩余Mental的多少，在5次内增加スキルハート获得效果的获得数。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "ムードがハッピー100未満でドローしたとき、デッキ内にある瑠璃乃の消費AP-10、次に瑠璃乃が使用するムード値変動効果の効果量を+100%し、ムードがハッピー100でドローしたとき、現在の残りメンタルが多いほど、スキルハートを獲得する。",
+    "translation": {
+      "en": {
+        "text": "When drawn with Mood below Happy 100, reduce the AP cost of Rurino's skills in the deck by -10 and boost the effectiveness of the next Mood fluctuation effect used by Rurino by +100%. When drawn with Mood at Happy 100, gain Skill Hearts based on your current remaining Mental.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "气氛值未达Happy100时抽牌，卡组中瑠璃乃的消费AP-10，下次瑠璃乃使用的气氛值变动效果的效果量+100%，气氛值达到Happy100时抽牌，根据当前剩余Mental的多少，获得スキルハート。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "ムードがハッピー50以上でドローしたとき、このセクション中、手札の上限枚数を3枚増加し、APを1回復する。",
     "translation": {
       "zh-CN": {
@@ -103645,6 +104607,188 @@
       "en": {
         "text": "When Mental is 100% or higher, gain Skill Hearts worth $938 beat hearts$, increase LOVE gained by $+9384%$ this section, increase AP recovery speed by $+9.4%$, and gain $+94$ Voltage Pt. Additionally, reduce Mental by 99% of its maximum value and reduce all skills in hand by $-2$ AP cost.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが200%以上のとき、このセクション中、あらゆるスキル効果量を$30.8%$増幅する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is 200% or higher, amplify all skill effects by $30.8%$ for this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental在200%以上时，本小节中，所有技能效果量增幅$30.8%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが200%以上のとき、このセクション中、あらゆるスキル効果量を$33.9%$増幅する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is 200% or higher, amplify all skill effects by $33.9%$ for this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental在200%以上时，本小节中，所有技能效果量增幅$33.9%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが200%以上のとき、このセクション中、あらゆるスキル効果量を$37%$増幅する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is 200% or higher, amplify all skill effects by $37%$ for this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental在200%以上时，本小节中，所有技能效果量增幅$37%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが200%以上のとき、このセクション中、あらゆるスキル効果量を$40.1%$増幅する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is 200% or higher, amplify all skill effects by $40.1%$ for this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental在200%以上时，本小节中，所有技能效果量增幅$40.1%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが200%以上のとき、このセクション中、あらゆるスキル効果量を$43.2%$増幅する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is 200% or higher, amplify all skill effects by $43.2%$ for this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental在200%以上时，本小节中，所有技能效果量增幅$43.2%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが200%以上のとき、このセクション中、あらゆるスキル効果量を$46.2%$増幅する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is 200% or higher, amplify all skill effects by $46.2%$ for this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental在200%以上时，本小节中，所有技能效果量增幅$46.2%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが200%以上のとき、このセクション中、あらゆるスキル効果量を$49.3%$増幅する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is 200% or higher, amplify all skill effects by $49.3%$ for this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental在200%以上时，本小节中，所有技能效果量增幅$49.3%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが200%以上のとき、このセクション中、あらゆるスキル効果量を$52.4%$増幅する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is 200% or higher, amplify all skill effects by $52.4%$ for this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental在200%以上时，本小节中，所有技能效果量增幅$52.4%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが200%以上のとき、このセクション中、あらゆるスキル効果量を$55.5%$増幅する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is 200% or higher, amplify all skill effects by $55.5%$ for this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental在200%以上时，本小节中，所有技能效果量增幅$55.5%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが200%以上のとき、このセクション中、あらゆるスキル効果量を$61.6%$増幅する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is 200% or higher, amplify all skill effects by $61.6%$ for this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental在200%以上时，本小节中，所有技能效果量增幅$61.6%$。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが200%以上のとき、このセクション中、あらゆるスキル効果量を$64.7%$増幅する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is 200% or higher, amplify all skill effects by $64.7%$ for this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental为200%以上时，本小节中，所有技能效果量增幅$64.7%$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが200%以上のとき、このセクション中、あらゆるスキル効果量を$67.8%$増幅する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is 200% or higher, amplify all skill effects by $67.8%$ for this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental为200%以上时，本小节中，所有技能效果量增幅$67.8%$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが200%以上のとき、このセクション中、あらゆるスキル効果量を$70.9%$増幅する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is 200% or higher, amplify all skill effects by $70.9%$ for this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental为200%以上时，本小节中，所有技能效果量增幅$70.9%$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが200%以上のとき、このセクション中、あらゆるスキル効果量を$77%$増幅する。",
+    "translation": {
+      "en": {
+        "text": "When Mental is 200% or higher, amplify all skill effects by $77%$ for this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental为200%以上时，本小节中，所有技能效果量增幅$77%$。",
+        "author": "glm-4.6"
       }
     }
   },
@@ -110682,6 +111826,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$32%$回復、このセクション中、ムード値をハッピー方向に$+6$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$220%$分のメンタル直接ダメージを無効、ハート上限を$+560$、5回の間ラブアトラクト効果を$+240%$し、このセクション中、AP回復速度を$+8%$する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 32% of its maximum value, and increase Mood towards Happy by $+6$ during this section. Additionally, if Mood is at Happy 100, shuffle your hand. If Mental is 200% or higher, nullify direct Mental damage equal to 220% of the maximum Mental value during this stage, increase the Heart Limit by $+560$, boost the Love Attract effect by $+240%$ for 5 turns, and increase AP Recovery Speed by $+8%$ during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$32%$，本小节中，气氛值向Happy方向$+6$。并且气氛为Happy100时，洗牌手牌，Mental为200%以上时，本场Live中，防止最大Mental值的$220%$的直接Mental伤害，心心上限$+560$，接下来5次LOVE+效果$+240%$，本小节中，AP回复速度$+8%$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$32%$回復、このセクション中、ムード値をハッピー方向に$+6$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$220%$分のメンタル直接ダメージを無効にし、ビートハート$240回分$のスキルハートを獲得、5回の間ボルテージゲイン効果を$+240%$し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 32% of its maximum value, and increase Mood towards Happy by $+6$ during this section. Additionally, if Mood is at Happy 100, shuffle your hand. If Mental is 200% or higher, nullify direct Mental damage equal to 220% of the maximum Mental value during this stage, gain Skill Hearts equivalent to 240 beats, boost the Voltage Gain effect by $+240%$ for 5 turns, and increase the maximum number of cards in hand by 2 during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$32%$，本小节中，气氛值向Happy方向$+6$。并且气氛为Happy100时，洗牌手牌，Mental为200%以上时，本场Live中，防止最大Mental值的$242%$的直接Mental伤害，获得$240倍$跳心的技能心心，接下来5次获得Vo Pt.效果$+240%$，本小节中，手牌上限增加$2张$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$32%$回復させ、ビートハート$8回分$のスキルハートを獲得する。さらにデッキ枚数が30枚以上のとき、次に慈が使用するラブアトラクト効果を$+1680%$する。",
     "translation": {
       "zh-CN": {
@@ -110799,6 +111969,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$35.2%$回復、このセクション中、ムード値をハッピー方向に$+7$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$242%$分のメンタル直接ダメージを無効、ハート上限を$+616$、5回の間ラブアトラクト効果を$+264%$し、このセクション中、AP回復速度を$+8.8%$する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 35.2% of its maximum value, and increase Mood towards Happy by $+7$ during this section. Additionally, if Mood is at Happy 100, shuffle your hand. If Mental is 200% or higher, nullify direct Mental damage equal to 242% of the maximum Mental value during this stage, increase the Heart Limit by $+616$, boost the Love Attract effect by $+264%$ for 5 turns, and increase AP Recovery Speed by $+8.8%$ during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$35.2%$，本小节中，气氛值向Happy方向$+7$。并且气氛为Happy100时，洗牌手牌，Mental为200%以上时，本场Live中，防止最大Mental值的$242%$的直接Mental伤害，心心上限$+616$，接下来5次LOVE+效果$+264%$，本小节中，AP回复速度$+8.8%$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$35.2%$回復、このセクション中、ムード値をハッピー方向に$+7$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$242%$分のメンタル直接ダメージを無効にし、ビートハート$264回分$のスキルハートを獲得、5回の間ボルテージゲイン効果を$+264%$し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 35.2% of its maximum value, and increase Mood towards Happy by $+7$ during this section. Additionally, if Mood is at Happy 100, shuffle your hand. If Mental is 200% or higher, nullify direct Mental damage equal to 242% of the maximum Mental value during this stage, gain Skill Hearts equivalent to 264 beats, boost the Voltage Gain effect by $+264%$ for 5 turns, and increase the maximum number of cards in hand by 2 during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$35.2%$，本小节中，气氛值向Happy方向$+7$。并且气氛为Happy100时，洗牌手牌，Mental为200%以上时，本场Live中，防止最大Mental值的$242%$的直接Mental伤害，获得$264倍$跳心的技能心心，接下来5次获得Vo Pt.效果$+264%$，本小节中，手牌上限增加$2张$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$35.2%$回復させ、ビートハート$9回分$のスキルハートを獲得する。さらにデッキ枚数が30枚以上のとき、次に慈が使用するラブアトラクト効果を$+1848%$する。",
     "translation": {
       "zh-CN": {
@@ -110912,6 +112108,32 @@
       "en": {
         "text": "Restore Mental by $36.96%$ of maximum value. Additionally, when Mental is 75% or higher, restore 2 AP.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$38.4%$回復、このセクション中、ムード値をハッピー方向に$+8$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$264%$分のメンタル直接ダメージを無効、ハート上限を$+672$、5回の間ラブアトラクト効果を$+288%$し、このセクション中、AP回復速度を$+9.6%$する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 38.4% of its maximum value, and increase Mood towards Happy by $+8$ during this section. Additionally, if Mood is at Happy 100, shuffle your hand. If Mental is 200% or higher, nullify direct Mental damage equal to 264% of the maximum Mental value during this stage, increase the Heart Limit by $+672$, boost the Love Attract effect by $+288%$ for 5 turns, and increase AP Recovery Speed by $+9.6%$ during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$38.4%$，本小节中，气氛值向Happy方向$+8$。并且气氛为Happy100时，洗牌手牌，Mental为200%以上时，本场Live中，防止最大Mental值的$264%$的直接Mental伤害，心心上限$+672$，接下来5次LOVE+效果$+288%$，本小节中，AP回复速度$+9.6%$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$38.4%$回復、このセクション中、ムード値をハッピー方向に$+8$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$264%$分のメンタル直接ダメージを無効にし、ビートハート$288回分$のスキルハートを獲得、5回の間ボルテージゲイン効果を$+288%$し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 38.4% of its maximum value, and increase Mood towards Happy by $+8$ during this section. Additionally, if Mood is at Happy 100, shuffle your hand. If Mental is 200% or higher, nullify direct Mental damage equal to 264% of the maximum Mental value during this stage, gain Skill Hearts equivalent to 288 beats, boost the Voltage Gain effect by $+288%$ for 5 turns, and increase the maximum number of cards in hand by 2 during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$38.4%$，本小节中，气氛值向Happy方向$+8$。并且气氛为Happy100时，洗牌手牌，Mental为200%以上时，本场Live中，防止最大Mental值的$264%$的直接Mental伤害，获得$288倍$跳心的技能心心，接下来5次获得Vo Pt.效果$+288%$，本小节中，手牌上限增加$2张$。",
+        "author": "glm-4.6"
       }
     }
   },
@@ -111306,6 +112528,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$41.6%$回復、このセクション中、ムード値をハッピー方向に$+8$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$286%$分のメンタル直接ダメージを無効、ハート上限を$+728$、5回の間ラブアトラクト効果を$+312%$し、このセクション中、AP回復速度を$+10.4%$する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 41.6% of its maximum value, and increase Mood towards Happy by $+8$ during this section. Additionally, if Mood is at Happy 100, shuffle your hand. If Mental is 200% or higher, nullify direct Mental damage equal to 286% of the maximum Mental value during this stage, increase the Heart Limit by $+728$, boost the Love Attract effect by $+312%$ for 5 turns, and increase AP Recovery Speed by $+10.4%$ during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$41.6%$，本小节中，气氛值向Happy方向$+8$。并且气氛为Happy100时，洗牌手牌，Mental为200%以上时，本场Live中，防止最大Mental值的$286%$的直接Mental伤害，心心上限$+728$，接下来5次LOVE+效果$+312%$，本小节中，AP回复速度$+10.4%$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$41.6%$回復、このセクション中、ムード値をハッピー方向に$+8$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$286%$分のメンタル直接ダメージを無効にし、ビートハート$312回分$のスキルハートを獲得、5回の間ボルテージゲイン効果を$+312%$し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to 41.6% of its maximum value, and increase Mood towards Happy by $+8$ during this section. Additionally, if Mood is at Happy 100, shuffle your hand. If Mental is 200% or higher, nullify direct Mental damage equal to 286% of the maximum Mental value during this stage, gain Skill Hearts equivalent to 312 beats, boost the Voltage Gain effect by $+312%$ for 5 turns, and increase the maximum number of cards in hand by 2 during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$41.6%$，本小节中，气氛值向Happy方向$+8$。并且气氛为Happy100时，洗牌手牌，Mental为200%以上时，本场Live中，防止最大Mental值的$286%$的直接Mental伤害，获得$312倍$跳心的技能心心，接下来5次获得Vo Pt.效果$+312%$，本小节中，手牌上限增加$2张$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$42%$回復させる。",
     "translation": {
       "zh-CN": {
@@ -111436,6 +112684,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$44.8%$回復、このセクション中、ムード値をハッピー方向に$+9$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$308%$分のメンタル直接ダメージを無効、ハート上限を$+784$、5回の間ラブアトラクト効果を$+336%$し、このセクション中、AP回復速度を$+11.2%$する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by 44.8% of its max value, and increase Mood toward Happy by +9 during this section. Additionally, if Mood is Happy 100, shuffle your hand. If Mental is 200% or higher, nullify 308% of max Mental value as direct Mental damage for the rest of this stage, increase Heart Cap by +784, increase Love Attract effect by +336% for 5 turns, and increase AP Recovery Speed by +11.2% during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$44.8%$，本小节中，气氛值向Happy方向$+9$。并且气氛为Happy100时，将手牌洗牌，Mental为200%以上时，本场Live中，防止最大mental值$308%$的直接伤害，心心上限$+784$，接下来5次LOVE+效果$+336%$，本小节中，AP回复速度$+11.2%$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$44.8%$回復、このセクション中、ムード値をハッピー方向に$+9$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$308%$分のメンタル直接ダメージを無効にし、ビートハート$336回分$のスキルハートを獲得、5回の間ボルテージゲイン効果を$+336%$し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by 44.8% of its max value, and increase Mood toward Happy by +9 during this section. Additionally, if Mood is Happy 100, shuffle your hand. If Mental is 200% or higher, nullify 308% of max Mental value as direct Mental damage for the rest of this stage, gain 336 Skill Hearts from Beat Hearts, increase Voltage Gain effect by +336% for 5 turns, and increase max hand size by 2 during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$44.8%$，本小节中，气氛值向Happy方向$+9$。并且气氛为Happy100时，将手牌洗牌，Mental为200%以上时，本场Live中，防止最大mental值$308%$的直接伤害，获得$336倍$跳心的技能心心，接下来5次获得Vo Pt.效果$+336%$，本小节中，手牌上限增加2张。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$448.8%$回復、このステージ中、それぞれメンタル最大値の$448.8%$分のメンタル自然減少、メンタル直接ダメージを無効にし、APを10減少、ボルテージPt.を-1020する。さらにビートハート$449回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -111458,6 +112732,32 @@
       "en": {
         "text": "Recover Mental by $45.76%$ of maximum value. Additionally, when Mental is at 100%, increase Beat Heart appearance count by $+4$ during this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$48%$回復、このセクション中、ムード値をハッピー方向に$+9$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$330%$分のメンタル直接ダメージを無効、ハート上限を$+840$、5回の間ラブアトラクト効果を$+360%$し、このセクション中、AP回復速度を$+12%$する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by 48% of its max value, and increase Mood toward Happy by +9 during this section. Additionally, if Mood is Happy 100, shuffle your hand. If Mental is 200% or higher, nullify 330% of max Mental value as direct Mental damage for the rest of this stage, increase Heart Cap by +840, increase Love Attract effect by +360% for 5 turns, and increase AP Recovery Speed by +12% during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$48%$，本小节中，气氛值向Happy方向$+9$。并且气氛为Happy100时，将手牌洗牌，Mental为200%以上时，本场Live中，防止最大mental值$330%$的直接伤害，心心上限$+840$，接下来5次LOVE+效果$+360%$，本小节中，AP回复速度$+12%$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$48%$回復、このセクション中、ムード値をハッピー方向に$+9$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$330%$分のメンタル直接ダメージを無効にし、ビートハート$360回分$のスキルハートを獲得、5回の間ボルテージゲイン効果を$+360%$し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by 48% of its max value, and increase Mood toward Happy by +9 during this section. Additionally, if Mood is Happy 100, shuffle your hand. If Mental is 200% or higher, nullify 330% of max Mental value as direct Mental damage for the rest of this stage, gain 360 Skill Hearts from Beat Hearts, increase Voltage Gain effect by +360% for 5 turns, and increase max hand size by 2 during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$48%$，本小节中，气氛值向Happy方向$+9$。并且气氛为Happy100时，将手牌洗牌，Mental为200%以上时，本场Live中，防止最大mental值$330%$的直接伤害，获得$360倍$跳心的技能心心，接下来5次获得Vo Pt.效果$+360%$，本小节中，手牌上限增加2张。",
+        "author": "glm-4.6"
       }
     }
   },
@@ -111956,6 +113256,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$51.2%$回復、このセクション中、ムード値をハッピー方向に$+10$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$352%$分のメンタル直接ダメージを無効、ハート上限を$+896$、5回の間ラブアトラクト効果を$+384%$し、このセクション中、AP回復速度を$+12.8%$する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by 51.2% of its max value, and increase Mood toward Happy by +10 during this section. Additionally, if Mood is Happy 100, shuffle your hand. If Mental is 200% or higher, nullify 352% of max Mental value as direct Mental damage for the rest of this stage, increase Heart Cap by +896, increase Love Attract effect by +384% for 5 turns, and increase AP Recovery Speed by +12.8% during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$51.2%$，本小节中，气氛值向Happy方向$+10$。并且气氛为Happy100时，将手牌洗牌，Mental为200%以上时，本场Live中，防止最大mental值$352%$的直接伤害，心心上限$+896$，接下来5次LOVE+效果$+384%$，本小节中，AP回复速度$+12.8%$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$51.2%$回復、このセクション中、ムード値をハッピー方向に$+10$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$352%$分のメンタル直接ダメージを無効にし、ビートハート$384回分$のスキルハートを獲得、5回の間ボルテージゲイン効果を$+384%$し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by 51.2% of its max value, and increase Mood toward Happy by +10 during this section. Additionally, if Mood is Happy 100, shuffle your hand. If Mental is 200% or higher, nullify 352% of max Mental value as direct Mental damage for the rest of this stage, gain 384 Skill Hearts from Beat Hearts, increase Voltage Gain effect by +384% for 5 turns, and increase max hand size by 2 during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$51.2%$，本小节中，气氛值向Happy方向$+10$。并且气氛为Happy100时，将手牌洗牌，Mental为200%以上时，本场Live中，防止最大mental值$352%$的直接伤害，获得$384倍$跳心的技能心心，接下来5次获得Vo Pt.效果$+384%$，本小节中，手牌上限增加2张。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$52%$回復させる。さらに5回の間メンタルリカバー効果を$+52%$し、このセクション中、AP回復速度を-20%する。",
     "translation": {
       "en": {
@@ -112060,6 +113386,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$54.4%$回復、このセクション中、ムード値をハッピー方向に$+11$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$374%$分のメンタル直接ダメージを無効、ハート上限を$+952$、5回の間ラブアトラクト効果を$+408%$し、このセクション中、AP回復速度を$+13.6%$する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by 54.4% of its max value, and increase Mood toward Happy by +11 during this section. Additionally, if Mood is Happy 100, shuffle your hand. If Mental is 200% or higher, nullify 374% of max Mental value as direct Mental damage for the rest of this stage, increase Heart Cap by +952, increase Love Attract effect by +408% for 5 turns, and increase AP Recovery Speed by +13.6% during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$54.4%$，本小节中，气氛值向Happy方向$+11$。并且气氛为Happy100时，将手牌洗牌，Mental为200%以上时，本场Live中，防止最大mental值$374%$的直接伤害，心心上限$+952$，接下来5次LOVE+效果$+408%$，本小节中，AP回复速度$+13.6%$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$54.4%$回復、このセクション中、ムード値をハッピー方向に$+11$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$374%$分のメンタル直接ダメージを無効にし、ビートハート$408回分$のスキルハートを獲得、5回の間ボルテージゲイン効果を$+408%$し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by 54.4% of its max value, and increase Mood toward Happy by +11 during this section. Additionally, if Mood is Happy 100, shuffle your hand. If Mental is 200% or higher, nullify 374% of max Mental value as direct Mental damage for the rest of this stage, gain 408 Skill Hearts from Beat Hearts, increase Voltage Gain effect by +408% for 5 turns, and increase max hand size by 2 during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$54.4%$，本小节中，气氛值向Happy方向$+11$。并且气氛为Happy100时，将手牌洗牌，Mental为200%以上时，本场Live中，防止最大mental值$374%$的直接伤害，获得$408倍$跳心的技能心心，接下来5次获得Vo Pt.效果$+408%$，本小节中，手牌上限增加2张。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$55.2%$回復させる。",
     "translation": {
       "zh-CN": {
@@ -112108,6 +113460,32 @@
       "en": {
         "text": "Recover Mental by $56.32%$ of maximum value. Additionally, when Mental is at 100%, increase Beat Heart appearance count by $+5$ during this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$57.6%$回復、このセクション中、ムード値をハッピー方向に$+11$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$396%$分のメンタル直接ダメージを無効、ハート上限を$+1008$、5回の間ラブアトラクト効果を$+432%$し、このセクション中、AP回復速度を$+14.4%$する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by 57.6% of its max value, and increase Mood toward Happy by +11 during this section. Additionally, if Mood is Happy 100, shuffle your hand. If Mental is 200% or higher, nullify 396% of max Mental value as direct Mental damage for the rest of this stage, increase Heart Cap by +1008, increase Love Attract effect by +432% for 5 turns, and increase AP Recovery Speed by +14.4% during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$57.6%$，本小节中，气氛值向Happy方向$+11$。并且气氛为Happy100时，将手牌洗牌，Mental为200%以上时，本场Live中，防止最大mental值$396%$的直接伤害，心心上限$+1008$，接下来5次LOVE+效果$+432%$，本小节中，AP回复速度$+14.4%$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$57.6%$回復、このセクション中、ムード値をハッピー方向に$+11$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$396%$分のメンタル直接ダメージを無効にし、ビートハート$432回分$のスキルハートを獲得、5回の間ボルテージゲイン効果を$+432%$し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by 57.6% of its max value, and increase Mood toward Happy by +11 during this section. Additionally, if Mood is Happy 100, shuffle your hand. If Mental is 200% or higher, nullify 396% of max Mental value as direct Mental damage for the rest of this stage, gain 432 Skill Hearts from Beat Hearts, increase Voltage Gain effect by +432% for 5 turns, and increase max hand size by 2 during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$57.6%$，本小节中，气氛值向Happy方向$+11$。并且气氛为Happy100时，将手牌洗牌，Mental为200%以上时，本场Live中，防止最大mental值$396%$的直接伤害，获得$432倍$跳心的技能心心，接下来5次获得Vo Pt.效果$+432%$，本小节中，手牌上限增加2张。",
+        "author": "glm-4.6"
       }
     }
   },
@@ -112697,6 +114075,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$64%$回復、このセクション中、ムード値をハッピー方向に$+12$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$440%$分のメンタル直接ダメージを無効、ハート上限を$+1120$、5回の間ラブアトラクト効果を$+480%$し、このセクション中、AP回復速度を$+16%$する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by 64% of its max value, and increase Mood toward Happy by +12 during this section. Additionally, if Mood is Happy 100, shuffle your hand. If Mental is 200% or higher, nullify 440% of max Mental value as direct Mental damage for the rest of this stage, increase Heart Cap by +1120, increase Love Attract effect by +480% for 5 turns, and increase AP Recovery Speed by +16% during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$64%$，本小节中，气氛值向Happy方向$+12$。并且气氛为Happy100时，将手牌洗牌，Mental为200%以上时，本场Live中，防止最大mental值$440%$的直接伤害，心心上限$+1120$，接下来5次LOVE+效果$+480%$，本小节中，AP回复速度$+16%$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$64%$回復、このセクション中、ムード値をハッピー方向に$+12$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$440%$分のメンタル直接ダメージを無効にし、ビートハート$480回分$のスキルハートを獲得、5回の間ボルテージゲイン効果を$+480%$し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by 64% of its max value, and increase Mood toward Happy by +12 during this section. Additionally, if Mood is Happy 100, shuffle your hand. If Mental is 200% or higher, nullify 440% of max Mental value as direct Mental damage for the rest of this stage, gain 480 Skill Hearts from Beat Hearts, increase Voltage Gain effect by +480% for 5 turns, and increase max hand size by 2 during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$64%$，本小节中，气氛值向Happy方向$+12$。并且气氛为Happy100时，将手牌洗牌，Mental为200%以上时，本场Live中，防止最大mental值$440%$的直接伤害，获得$480倍$跳心的技能心心，接下来5次获得Vo Pt.效果$+480%$，本小节中，手牌上限增加2张。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$64%$回復させる。さらに5回の間メンタルリカバー効果を$+64%$し、このセクション中、AP回復速度を-20%する。",
     "translation": {
       "en": {
@@ -112732,6 +114136,32 @@
       "en": {
         "text": "Restore Mental to $652.8%$ of its maximum value. During this stage, nullify Mental natural decay and Mental direct damage equivalent to $652.8%$ of the maximum Mental value respectively, reduce AP by 10, and decrease Voltage Pt. by -1020. Additionally, gain Skill Hearts equivalent to $653$ beats.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$67.2%$回復、このセクション中、ムード値をハッピー方向に$+13$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$462%$分のメンタル直接ダメージを無効、ハート上限を$+1176$、5回の間ラブアトラクト効果を$+504%$し、このセクション中、AP回復速度を$+16.8%$する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by 67.2% of its max value, and increase Mood toward Happy by +13 during this section. Additionally, if Mood is Happy 100, shuffle your hand. If Mental is 200% or higher, nullify 462% of max Mental value as direct Mental damage for the rest of this stage, increase Heart Cap by +1176, increase Love Attract effect by +504% for 5 turns, and increase AP Recovery Speed by +16.8% during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$67.2%$，本小节中，气氛值向Happy方向$+13$。并且气氛为Happy 100时，手牌洗牌，Mental为200%以上时，本场Live中，防止最大Mental值$462%$的Mental直接伤害，心心上限$+1176$，接下来5次LOVE+效果$+504%$，本小节中，AP回复速度$+16.8%$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$67.2%$回復、このセクション中、ムード値をハッピー方向に$+13$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$462%$分のメンタル直接ダメージを無効にし、ビートハート$504回分$のスキルハートを獲得、5回の間ボルテージゲイン効果を$+504%$し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by 67.2% of its max value, and increase Mood toward Happy by +13 during this section. Additionally, if Mood is Happy 100, shuffle your hand. If Mental is 200% or higher, nullify 462% of max Mental value as direct Mental damage for the rest of this stage, gain 504 Skill Hearts from Beat Hearts, increase Voltage Gain effect by +504% for 5 turns, and increase max hand size by 2 during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$67.2%$，本小节中，气氛值向Happy方向$+13$。并且气氛为Happy 100时，手牌洗牌，Mental为200%以上时，本场Live中，防止最大Mental值$462%$的Mental直接伤害，获得$504倍$跳心的技能心心，接下来5次获得Vo Pt.效果$+504%$，本小节中，手牌上限增加2张。",
+        "author": "glm-4.6"
       }
     }
   },
@@ -113386,6 +114816,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$70.4%$回復、このセクション中、ムード値をハッピー方向に$+14$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$484%$分のメンタル直接ダメージを無効、ハート上限を$+1232$、5回の間ラブアトラクト効果を$+528%$し、このセクション中、AP回復速度を$+17.6%$する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by 70.4% of its max value, and increase Mood toward Happy by +14 during this section. Additionally, if Mood is Happy 100, shuffle your hand. If Mental is 200% or higher, nullify 484% of max Mental value as direct Mental damage for the rest of this stage, increase Heart Cap by +1232, increase Love Attract effect by +528% for 5 turns, and increase AP Recovery Speed by +17.6% during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$70.4%$，本小节中，气氛值向Happy方向$+14$。并且气氛为Happy 100时，手牌洗牌，Mental为200%以上时，本场Live中，防止最大Mental值$484%$的Mental直接伤害，心心上限$+1232$，接下来5次LOVE+效果$+528%$，本小节中，AP回复速度$+17.6%$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$70.4%$回復、このセクション中、ムード値をハッピー方向に$+14$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$484%$分のメンタル直接ダメージを無効にし、ビートハート$528回分$のスキルハートを獲得、5回の間ボルテージゲイン効果を$+528%$し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by 70.4% of its max value, and increase Mood toward Happy by +14 during this section. Additionally, if Mood is Happy 100, shuffle your hand. If Mental is 200% or higher, nullify 484% of max Mental value as direct Mental damage for the rest of this stage, gain 528 Skill Hearts from Beat Hearts, increase Voltage Gain effect by +528% for 5 turns, and increase max hand size by 2 during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$70.4%$，本小节中，气氛值向Happy方向$+14$。并且气氛为Happy 100时，手牌洗牌，Mental为200%以上时，本场Live中，防止最大Mental值$484%$的Mental直接伤害，获得$528倍$跳心的技能心心，接下来5次获得Vo Pt.效果$+528%$，本小节中，手牌上限增加2张。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$70.4%$回復させる。さらにメンタルが100%のとき、このセクション中、ビートハートの出現個数を$+6$する。",
     "translation": {
       "zh-CN": {
@@ -113460,6 +114916,32 @@
       "en": {
         "text": "Restore Mental to 72% of its maximum value. Additionally, when Mental reaches 100% or higher, shuffle the hand, gain Skill Hearts equivalent to 180 beats, and nullify natural Mental decay equal to 33% of the maximum Mental value during this stage.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$73.6%$回復、このセクション中、ムード値をハッピー方向に$+14$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$506%$分のメンタル直接ダメージを無効、ハート上限を$+1288$、5回の間ラブアトラクト効果を$+552%$し、このセクション中、AP回復速度を$+18.4%$する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by 73.6% of its max value, and increase Mood toward Happy by +14 during this section. Additionally, if Mood is Happy 100, shuffle your hand. If Mental is 200% or higher, nullify 506% of max Mental value as direct Mental damage for the rest of this stage, increase Heart Cap by +1288, increase Love Attract effect by +552% for 5 turns, and increase AP Recovery Speed by +18.4% during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$73.6%$，本小节中，气氛值向Happy方向$+14$。并且气氛为Happy 100时，手牌洗牌，Mental为200%以上时，本场Live中，防止最大Mental值$506%$的Mental直接伤害，心心上限$+1288$，接下来5次LOVE+效果$+552%$，本小节中，AP回复速度$+18.4%$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$73.6%$回復、このセクション中、ムード値をハッピー方向に$+14$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$506%$分のメンタル直接ダメージを無効にし、ビートハート$552回分$のスキルハートを獲得、5回の間ボルテージゲイン効果を$+552%$し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by 73.6% of its max value, and increase Mood toward Happy by +14 during this section. Additionally, if Mood is Happy 100, shuffle your hand. If Mental is 200% or higher, nullify 506% of max Mental value as direct Mental damage for the rest of this stage, gain 552 Skill Hearts from Beat Hearts, increase Voltage Gain effect by +552% for 5 turns, and increase max hand size by 2 during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$73.6%$，本小节中，气氛值向Happy方向$+14$。并且气氛为Happy 100时，手牌洗牌，Mental为200%以上时，本场Live中，防止最大Mental值$506%$的Mental直接伤害，获得$552倍$跳心的技能心心，接下来5次获得Vo Pt.效果$+552%$，本小节中，手牌上限增加2张。",
+        "author": "glm-4.6"
       }
     }
   },
@@ -114162,6 +115644,32 @@
       "en": {
         "text": "Restore Mental by $8.96%$ of max value. Additionally, when Voltage Lv. is 8 or higher, restore Mental by $13.44%$ of max value, and when Voltage Lv. is 10 or higher, restore Mental by an additional $20.16%$ of max value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$80%$回復、このセクション中、ムード値をハッピー方向に$+15$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$550%$分のメンタル直接ダメージを無効、ハート上限を$+1400$、5回の間ラブアトラクト効果を$+600%$し、このセクション中、AP回復速度を$+20%$する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by 80% of its max value, and increase Mood toward Happy by +15 during this section. Additionally, if Mood is Happy 100, shuffle your hand. If Mental is 200% or higher, nullify 550% of max Mental value as direct Mental damage for the rest of this stage, increase Heart Cap by +1400, increase Love Attract effect by +600% for 5 turns, and increase AP Recovery Speed by +20% during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$80%$，本小节中，气氛值向Happy方向$+15$。并且气氛为Happy 100时，手牌洗牌，Mental为200%以上时，本场Live中，防止最大Mental值$550%$的Mental直接伤害，心心上限$+1400$，接下来5次LOVE+效果$+600%$，本小节中，AP回复速度$+20%$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$80%$回復、このセクション中、ムード値をハッピー方向に$+15$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$550%$分のメンタル直接ダメージを無効にし、ビートハート$600回分$のスキルハートを獲得、5回の間ボルテージゲイン効果を$+600%$し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental by 80% of its max value, and increase Mood toward Happy by +15 during this section. Additionally, if Mood is Happy 100, shuffle your hand. If Mental is 200% or higher, nullify 550% of max Mental value as direct Mental damage for the rest of this stage, gain 600 Skill Hearts from Beat Hearts, increase Voltage Gain effect by +600% for 5 turns, and increase max hand size by 2 during this section.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$80%$，本小节中，气氛值向Happy方向$+15$。并且气氛为Happy 100时，手牌洗牌，Mental为200%以上时，本场Live中，防止最大Mental值$550%$的Mental直接伤害，获得$600倍$跳心的技能心心，接下来5次获得Vo Pt.效果$+600%$，本小节中，手牌上限增加2张。",
+        "author": "glm-4.6"
       }
     }
   },
@@ -119934,6 +121442,188 @@
       "en": {
         "text": "Use all skills in hand. Additionally, gain Skill Hearts equivalent to $25$ beat hearts 9 times. The AP required to use this skill equals the total AP cost of all other skills in hand.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルし、このステージ中、AP回復速度を$+2.8%$する。さらにメンタルが0%のとき、このステージ中、ハート上限を$+240$する。",
+    "translation": {
+      "en": {
+        "text": "Shuffle your hand and increase AP Recovery Speed by +2.8% for the rest of this stage. Additionally, if Mental is 0%, increase Heart Cap by +240 for the rest of this stage.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "手牌洗牌，本场Live中，AP回复速度$+2.8%$。并且Mental为0%时，本场Live中，心心上限$+240$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルし、このステージ中、AP回復速度を$+3.1%$する。さらにメンタルが0%のとき、このステージ中、ハート上限を$+264$する。",
+    "translation": {
+      "en": {
+        "text": "Shuffle your hand and increase AP Recovery Speed by +3.1% for the rest of this stage. Additionally, if Mental is 0%, increase Heart Cap by +264 for the rest of this stage.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "手牌洗牌，本场Live中，AP回复速度$+3.1%$。并且Mental为0%时，本场Live中，心心上限$+264$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルし、このステージ中、AP回復速度を$+3.4%$する。さらにメンタルが0%のとき、このステージ中、ハート上限を$+288$する。",
+    "translation": {
+      "en": {
+        "text": "Shuffle your hand and increase AP Recovery Speed by +3.4% for the rest of this stage. Additionally, if Mental is 0%, increase Heart Cap by +288 for the rest of this stage.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "手牌洗牌，本场Live中，AP回复速度$+3.4%$。并且Mental为0%时，本场Live中，心心上限$+288$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルし、このステージ中、AP回復速度を$+3.7%$する。さらにメンタルが0%のとき、このステージ中、ハート上限を$+312$する。",
+    "translation": {
+      "en": {
+        "text": "Shuffle your hand and increase AP Recovery Speed by +3.7% for the rest of this stage. Additionally, if Mental is 0%, increase Heart Cap by +312 for the rest of this stage.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "手牌洗牌，本场Live中，AP回复速度$+3.7%$。并且Mental为0%时，本场Live中，心心上限$+312$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルし、このステージ中、AP回復速度を$+4%$する。さらにメンタルが0%のとき、このステージ中、ハート上限を$+336$する。",
+    "translation": {
+      "en": {
+        "text": "Shuffle your hand and increase AP Recovery Speed by $+4% for the rest of this stage. Additionally, if Mental is 0%, increase Heart Cap by $+336 for the rest of this stage.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "洗牌手牌，本场Live中，AP回复速度$+4%$。并且Mental为0%时，本场Live中，心心上限$+336$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルし、このステージ中、AP回復速度を$+4.2%$する。さらにメンタルが0%のとき、このステージ中、ハート上限を$+360$する。",
+    "translation": {
+      "en": {
+        "text": "Shuffle your hand and increase AP Recovery Speed by $+4.2% for the rest of this stage. Additionally, if Mental is 0%, increase Heart Cap by $+360 for the rest of this stage.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "洗牌手牌，本场Live中，AP回复速度$+4.2%$。并且Mental为0%时，本场Live中，心心上限$+360$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルし、このステージ中、AP回復速度を$+4.5%$する。さらにメンタルが0%のとき、このステージ中、ハート上限を$+384$する。",
+    "translation": {
+      "en": {
+        "text": "Shuffle your hand and increase AP Recovery Speed by $+4.5% for the rest of this stage. Additionally, if Mental is 0%, increase Heart Cap by $+384 for the rest of this stage.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "洗牌手牌，本场Live中，AP回复速度$+4.5%$。并且Mental为0%时，本场Live中，心心上限$+384$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルし、このステージ中、AP回復速度を$+4.8%$する。さらにメンタルが0%のとき、このステージ中、ハート上限を$+408$する。",
+    "translation": {
+      "en": {
+        "text": "Shuffle your hand and increase AP Recovery Speed by $+4.8% for the rest of this stage. Additionally, if Mental is 0%, increase Heart Cap by $+408 for the rest of this stage.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "洗牌手牌，本场Live中，AP回复速度$+4.8%$。并且Mental为0%时，本场Live中，心心上限$+408$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルし、このステージ中、AP回復速度を$+5.1%$する。さらにメンタルが0%のとき、このステージ中、ハート上限を$+432$する。",
+    "translation": {
+      "en": {
+        "text": "Shuffle your hand and increase AP Recovery Speed by $+5.1% for the rest of this stage. Additionally, if Mental is 0%, increase Heart Cap by $+432 for the rest of this stage.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "洗牌手牌，本场Live中，AP回复速度$+5.1%$。并且Mental为0%时，本场Live中，心心上限$+432$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルし、このステージ中、AP回復速度を$+5.6%$する。さらにメンタルが0%のとき、このステージ中、ハート上限を$+480$する。",
+    "translation": {
+      "en": {
+        "text": "Shuffle your hand and increase AP Recovery Speed by $+5.6% for the rest of this stage. Additionally, if Mental is 0%, increase Heart Cap by $+480 for the rest of this stage.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "洗牌手牌，本场Live中，AP回复速度$+5.6%$。并且Mental为0%时，本场Live中，心心上限$+480$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルし、このステージ中、AP回復速度を$+5.9%$する。さらにメンタルが0%のとき、このステージ中、ハート上限を$+504$する。",
+    "translation": {
+      "en": {
+        "text": "Shuffle your hand and increase AP Recovery Speed by $+5.9% for the rest of this stage. Additionally, if Mental is 0%, increase Heart Cap by $+504 for the rest of this stage.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "洗牌手牌，本场Live中，AP回复速度$+5.9%$。并且Mental为0%时，本场Live中，心心上限$+504$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルし、このステージ中、AP回復速度を$+6.2%$する。さらにメンタルが0%のとき、このステージ中、ハート上限を$+528$する。",
+    "translation": {
+      "en": {
+        "text": "Shuffle your hand and increase AP Recovery Speed by $+6.2% for the rest of this stage. Additionally, if Mental is 0%, increase Heart Cap by $+528 for the rest of this stage.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "洗牌手牌，本场Live中，AP回复速度$+6.2%$。并且Mental为0%时，本场Live中，心心上限$+528$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルし、このステージ中、AP回復速度を$+6.5%$する。さらにメンタルが0%のとき、このステージ中、ハート上限を$+552$する。",
+    "translation": {
+      "en": {
+        "text": "Shuffle your hand and increase AP Recovery Speed by $+6.5% for the rest of this stage. Additionally, if Mental is 0%, increase Heart Cap by $+552 for the rest of this stage.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "洗牌手牌，本场Live中，AP回复速度$+6.5%$。并且Mental为0%时，本场Live中，心心上限$+552$。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルし、このステージ中、AP回復速度を$+7%$する。さらにメンタルが0%のとき、このステージ中、ハート上限を$+600$する。",
+    "translation": {
+      "en": {
+        "text": "Shuffle your hand and increase AP Recovery Speed by $+7% for the rest of this stage. Additionally, if Mental is 0%, increase Heart Cap by $+600 for the rest of this stage.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "洗牌手牌，本场Live中，AP回复速度$+7%$。并且Mental为0%时，本场Live中，心心上限$+600$。",
+        "author": "glm-4.6"
       }
     }
   },

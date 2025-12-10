@@ -15535,6 +15535,19 @@
     }
   },
   {
+    "raw": "2025.10.4-5 TOKYO ～ 2025.11.8-9 AICHI ～ 2025.11.19-20 OSAKA ～ 2025.12.6-7 KANAGAWA",
+    "translation": {
+      "en": {
+        "text": "2025.10.4-5 TOKYO ~ 2025.11.8-9 AICHI ~ 2025.11.19-20 OSAKA ~ 2025.12.6-7 KANAGAWA",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "2025.10.4-5 TOKYO ～ 2025.11.8-9 AICHI ～ 2025.11.19-20 OSAKA ～ 2025.12.6-7 KANAGAWA",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "2025.11.19-20 in 大阪・大阪城ホール",
     "translation": {
       "zh-CN": {
@@ -15557,6 +15570,19 @@
       "zh-CN": {
         "text": "2025.11.8-9 in 爱知・Aichi Sky Expo（爱知县国际展示场）Hall A",
         "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "2025.12.6-7 in 神奈川・Ｋアリーナ横浜",
+    "translation": {
+      "en": {
+        "text": "2025.12.6-7 in Kanagawa・K-Arena Yokohama",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "2025.12.6-7 in 神奈川・K Arena横滨",
+        "author": "glm-4.6"
       }
     }
   },
@@ -15609,6 +15635,19 @@
       "en": {
         "text": "2025.6.7-8 in Kanagawa・K Arena Yokohama",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "20251204 #ハロめぐ",
+    "translation": {
+      "en": {
+        "text": "20251204 #Haromegu",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "20251204 #HalloMegu",
+        "author": "glm-4.6"
       }
     }
   },
@@ -15986,6 +16025,19 @@
       "en": {
         "text": "Logged in on 5th Live Tour ～4Pair Power Spread!!!!～ Mira-Cra Park! presents Heart Stage cross Bloom Days Extra ～Fes×ReC：LIVE～ performance day",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "5th Live Tour ～4Pair Power Spread!!!!～ スリーズブーケ presents Clover Stage 開催日にログイン",
+    "translation": {
+      "en": {
+        "text": "Log in on the day Cerise Bouquet presents Clover Stage during the 5th Live Tour ~4Pair Power Spread!!!!~",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "5th Live Tour ～4Pair Power Spread!!!!～ Cerise Bouquet presents Clover Stage 举办日登录",
+        "author": "glm-4.6"
       }
     }
   },
@@ -17602,6 +17654,19 @@
     }
   },
   {
+    "raw": "CD『乙女詞華集 / ガランドFlash / バイタルサイン / シアター生き様』購入特典",
+    "translation": {
+      "en": {
+        "text": "CD Purchase Bonus: Otome Shikashū / Garland Flash / Vital Sign / Theater Ikizama",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "CD『乙女词华集 / Garland Flash / Vital Sign / 剧场人生』购买特典",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "CD『以心☆電信』購入特典",
     "translation": {
       "zh-CN": {
@@ -18525,6 +18590,19 @@
     }
   },
   {
+    "raw": "Jacket『乙女詞華集 / ガランドFlash / バイタルサイン / シアター生き様』",
+    "translation": {
+      "en": {
+        "text": "Jacket for Otome Shikashū / Garland Flash / Vital Sign / Theater Ikizama",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "封面『乙女词华集 / Garland Flash / Vital Sign / 剧场人生』",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "Jacket『以心☆電信』",
     "translation": {
       "zh-CN": {
@@ -18729,6 +18807,19 @@
       "en": {
         "text": "Memory album found by Liella! during spring cleaning ~2022~ A premonition that good things will happen if you wear this title on New Year's Eve and welcome 1/1",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Link！Like！ラブライブ！100万ダウンロード達成\nありがとうございます！\nこれからもよろしくお願いします！",
+    "translation": {
+      "en": {
+        "text": "Link! Like! Love Live! 1 Million Downloads Achieved\nThank you very much!\nWe look forward to your continued support!",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Link！Like！Love Live! 100万下载达成\n非常感谢！\n今后也请多多关照！",
+        "author": "glm-4.6"
       }
     }
   },
@@ -46696,6 +46787,825 @@
     }
   },
   {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 10位",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th Term 4th Term 1st Individual Competition 10th Place",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 第105期第4届 第1回 个人战 第10名",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 10位 を称えるステッカー",
+    "translation": {
+      "en": {
+        "text": "Sticker Celebrating 10th Place Finish in the Live Grand Prix 105th Term 4th Term 1st Individual Competition",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 第105期第4届 第1回 个人战 第10名 表彰贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 10位 入賞",
+    "translation": {
+      "en": {
+        "text": "Award-Winning Sticker for 10th Place Finish in the Live Grand Prix 105th Term 4th Term 1st Individual Competition",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 第105期第4届 第1回 个人战 第10名 获奖",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 1位",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th Term 4th Term 1st Individual Competition 1st Place",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 第105期第4届 第1回 个人战 第1名",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 1位 を称えるステッカー",
+    "translation": {
+      "en": {
+        "text": "Sticker Celebrating 1st Place Finish in the Live Grand Prix 105th Term 4th Term 1st Individual Competition",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 第105期第4届 第1回 个人战 第1名 表彰贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 1位 入賞",
+    "translation": {
+      "en": {
+        "text": "Award-Winning Sticker for 1st Place Finish in the Live Grand Prix 105th Term 4th Term 1st Individual Competition",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期第4阶段 第1回 个人战 第1名 获奖",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 2位",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th Term 4th Term 1st Individual Competition 2nd Place",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期第4阶段 第1回 个人战 第2名",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 2位 を称えるステッカー",
+    "translation": {
+      "en": {
+        "text": "Sticker Celebrating 2nd Place Finish in the Live Grand Prix 105th Term 4th Term 1st Individual Competition",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 第105期第4阶段 第1回 个人战 第2名 表彰贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 2位 入賞",
+    "translation": {
+      "en": {
+        "text": "Award-Winning Sticker for 2nd Place Finish in the Live Grand Prix 105th Term 4th Term 1st Individual Competition",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期第4阶段 第1回 个人战 第2名 获奖",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 3位",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th Term 4th Term 1st Individual Competition 3rd Place",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期第4阶段 第1回 个人战 第3名",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 3位 を称えるステッカー",
+    "translation": {
+      "en": {
+        "text": "Sticker Celebrating 3rd Place Finish in the Live Grand Prix 105th Term 4th Term 1st Individual Competition",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 第105期第4阶段 第1回 个人战 第3名 表彰贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 3位 入賞",
+    "translation": {
+      "en": {
+        "text": "Award-Winning Sticker for 3rd Place Finish in the Live Grand Prix 105th Term 4th Term 1st Individual Competition",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期第4阶段 第1回 个人战 第3名 获奖",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 4位",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th Term 4th Term 1st Individual Competition 4th Place",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期第4阶段 第1回 个人战 第4名",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 4位 を称えるステッカー",
+    "translation": {
+      "en": {
+        "text": "Sticker Celebrating 4th Place Finish in the Live Grand Prix 105th Term 4th Term 1st Individual Competition",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 第105期第4阶段 第1回 个人战 第4名 表彰贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 4位 入賞",
+    "translation": {
+      "en": {
+        "text": "Award-Winning Sticker for 4th Place Finish in the Live Grand Prix 105th Term 4th Term 1st Individual Competition",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期第4阶段 第1回 个人战 第4名 获奖",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 5位",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th Term 4th Term 1st Individual Competition 5th Place",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期第4阶段 第1回 个人战 第5名",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 5位 を称えるステッカー",
+    "translation": {
+      "en": {
+        "text": "Sticker Celebrating 5th Place Finish in the Live Grand Prix 105th Term 4th Term 1st Individual Competition",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 第105期第4阶段 第1回 个人战 第5名 表彰贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 5位 入賞",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition 5th Place Winner",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期第4赛季 第1回 个人战 第5名 获奖",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 6位",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition 6th Place",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期第4赛季 第1回 个人战 第6名",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 6位 を称えるステッカー",
+    "translation": {
+      "en": {
+        "text": "Sticker Celebrating 6th Place Finish in the Live Grand Prix 105th 4th Term 1st Individual Competition",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 第105期第4赛季 第1回 个人战 第6名 表彰贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 6位 入賞",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition 6th Place Winner",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期第4赛季 第1回 个人战 第6名 获奖",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 7位",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition 7th Place",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期第4赛季 第1回 个人战 第7名",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 7位 を称えるステッカー",
+    "translation": {
+      "en": {
+        "text": "Sticker Celebrating 7th Place Finish in the Live Grand Prix 105th 4th Term 1st Individual Competition",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 第105期第4赛季 第1回 个人战 第7名 表彰贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 7位 入賞",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition 7th Place Winner",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期第4赛季 第1回 个人战 第7名 获奖",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 8位",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition 8th Place",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期第4赛季 第1回 个人战 第8名",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 8位 を称えるステッカー",
+    "translation": {
+      "en": {
+        "text": "Sticker Celebrating 8th Place Finish in the Live Grand Prix 105th 4th Term 1st Individual Competition",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 第105期第4赛季 第1回 个人战 第8名 表彰贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 8位 入賞",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition 8th Place Winner",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期第4赛季 第1回 个人战 第8名 获奖",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 9位",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition 9th Place",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期第4赛季 第1回 个人战 第9名",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 9位 を称えるステッカー",
+    "translation": {
+      "en": {
+        "text": "Sticker Celebrating 9th Place Finish in the Live Grand Prix 105th 4th Term 1st Individual Competition",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 第105期第4赛季 第1回 个人战 第9名 表彰贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 9位 入賞",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition 9th Place Winner",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 第9名 获奖",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP10000位",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP10000th Place",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP10000位",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP10000位 を称えるステッカー",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP10000th Place Commemorative Sticker",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP10000位 表彰贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP10000位 入賞",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP10000th Place Winner",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP10000位 获奖",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP1000位",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP1000th Place",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP1000位",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP1000位 を称えるステッカー",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP1000th Place Commemorative Sticker",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP1000位 表彰贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP1000位 入賞",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP1000th Place Winner",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP1000位 获奖",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP100位",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP100th Place",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP100位",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP100位 を称えるステッカー",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP100th Place Commemorative Sticker",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP100位 表彰贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP100位 入賞",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP100th Place Winner",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP100位 获奖",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP15000位",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP15000th Place",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP15000位",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP15000位 を称えるステッカー",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP15000th Place Commemorative Sticker",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP15000位 表彰贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP15000位 入賞",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP15000th Place Winner",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP15000位 获奖",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP2000位",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP2000th Place",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP2000位",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP2000位 を称えるステッカー",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP2000th Place Commemorative Sticker",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP2000位 表彰贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP2000位 入賞",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP2000th Place Winner",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP2000位 获奖",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP200位",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP200th Place",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP200位",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP200位 を称えるステッカー",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP200th Place Commemorative Sticker",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP200位 表彰贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP200位 入賞",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP200th Place Winner",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP200位 获奖",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP3000位",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP3000th Place",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP3000位",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP3000位 を称えるステッカー",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP3000th Place Commemorative Sticker",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP3000位 表彰贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP3000位 入賞",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP3000th Place Winner",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP3000位 获奖",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP5000位",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP5000th Place",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP5000位",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP5000位 を称えるステッカー",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP5000th Place Commemorative Sticker",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP5000位 表彰贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP5000位 入賞",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP5000th Place Winner",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP5000位 获奖",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP500位",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP500th Place",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP500位",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP500位 を称えるステッカー",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP500th Place Commemorative Sticker",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP500位 表彰贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP500位 入賞",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP500th Place Winner",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP500位 获奖",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP7000位",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP7000th Place",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP7000位",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP7000位 を称えるステッカー",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP7000th Place Commemorative Sticker",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP7000位 表彰贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP7000位 入賞",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition TOP7000th Place Winner",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 TOP7000位 获奖",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 参加",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition Participation",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 参与",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 参加賞のステッカー",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th 4th Term 1st Individual Competition Participation Reward Sticker",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 参与奖贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦に参加",
+    "translation": {
+      "en": {
+        "text": "Participate in Live Grand Prix 105th 4th Term 1st Individual Competition",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "参加Live Grand Prix 105期4thTerm 第1回 个人战",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "Live Grand Prix 105期OpeningTerm 個人戦 10位",
     "translation": {
       "zh-CN": {
@@ -50167,6 +51077,32 @@
     }
   },
   {
+    "raw": "Live『5th Live Tour ～4Pair Power Spread!!!!～』スリーズブーケ presents Clover Stage",
+    "translation": {
+      "en": {
+        "text": "Live '5th Live Tour ~4Pair Power Spread!!!!~' Cerise Bouquet presents Clover Stage",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live『5th Live Tour ～4Pair Power Spread!!!!～』Cerise Bouquet presents Clover Stage",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live『5th Live Tour ～4Pair Power Spread!!!!～』ライブキービジュアル",
+    "translation": {
+      "en": {
+        "text": "Live '5th Live Tour ~4Pair Power Spread!!!!~' Live Key Visual",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live『5th Live Tour ～4Pair Power Spread!!!!～』Live Key视觉图",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "Live『LoveLive! Series Presents ユニット甲子園 2024』",
     "translation": {
       "zh-CN": {
@@ -50865,6 +51801,45 @@
       "en": {
         "text": "[104th Generation, One Evening]",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[105/刹那&セラニャン]セラス 柳田 リリエンフェルト",
+    "translation": {
+      "en": {
+        "text": "[105/Setsuna & Ceranya] Ceras Yanagida Lilienfeld",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "[105/刹那&セラニャン]塞拉斯 柳田 利林费尔德",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "[105/刹那&セラニャン]セラス 柳田 リリエンフェルト を4回解放した記念のステッカー",
+    "translation": {
+      "en": {
+        "text": "[105/Setsuna & Ceranya] A sticker commemorating the 4th release of Ceras Yanagida Lilienfeld",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "[105/刹那&セラニャン]塞拉斯 柳田 利林费尔德 解放4次纪念贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "[105/刹那&セラニャン]セラス 柳田 リリエンフェルト 解放完了",
+    "translation": {
+      "en": {
+        "text": "[105/Setsuna & Ceranya] Ceras Yanagida Lilienfeld released successfully",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "[105/刹那&セラニャン]塞拉斯 柳田 利林费尔德 解放完成",
+        "author": "glm-4.6"
       }
     }
   },
@@ -55159,6 +56134,84 @@
     }
   },
   {
+    "raw": "[Hip, hip, hooray!]大沢 瑠璃乃",
+    "translation": {
+      "en": {
+        "text": "[Hip, hip, hooray!] Rurino Osawa",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "[Hip, hip, hooray!]大泽瑠璃乃",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "[Hip, hip, hooray!]大沢 瑠璃乃 を4回解放した記念のステッカー",
+    "translation": {
+      "en": {
+        "text": "[Hip, hip, hooray!] A sticker commemorating the 4th release of Rurino Osawa",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "[Hip, hip, hooray!]大泽瑠璃乃 解放4次纪念贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "[Hip, hip, hooray!]大沢 瑠璃乃 解放完了",
+    "translation": {
+      "en": {
+        "text": "[Hip, hip, hooray!] Rurino Osawa released successfully",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "[Hip, hip, hooray!]大泽瑠璃乃 解放完成",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "[Hip, hip, hooray!]安養寺 姫芽",
+    "translation": {
+      "en": {
+        "text": "[Hip, hip, hooray!] Hime Anyoji",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "[Hip, hip, hooray!]安养寺姬芽",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "[Hip, hip, hooray!]安養寺 姫芽 を4回解放した記念のステッカー",
+    "translation": {
+      "en": {
+        "text": "[Hip, hip, hooray!] A sticker commemorating the 4th release of Hime Anyoji",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "[Hip, hip, hooray!]安养寺姬芽 解放4次纪念贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "[Hip, hip, hooray!]安養寺 姫芽 解放完了",
+    "translation": {
+      "en": {
+        "text": "[Hip, hip, hooray!] Hime Anyoji released successfully",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "[Hip, hip, hooray!]安养寺姬芽 解放完成",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "[Holiday∞Holiday]乙宗 梢",
     "translation": {
       "zh-CN": {
@@ -55818,6 +56871,45 @@
       "en": {
         "text": "[Mirage Voyage]Sayaka Murano release complete",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[My Lucky Clover]百生 吟子",
+    "translation": {
+      "en": {
+        "text": "[My Lucky Clover] Ginko Momose",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "[My Lucky Clover]百生吟子",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "[My Lucky Clover]百生 吟子 を4回解放した記念のステッカー",
+    "translation": {
+      "en": {
+        "text": "[My Lucky Clover] A sticker commemorating the 4th release of Ginko Momose",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "[My Lucky Clover]百生吟子 解放4次纪念贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "[My Lucky Clover]百生 吟子 解放完了",
+    "translation": {
+      "en": {
+        "text": "[My Lucky Clover] Ginko Momose released successfully",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "[My Lucky Clover]百生吟子 解放完成",
+        "author": "glm-4.6"
       }
     }
   },
@@ -60355,6 +61447,19 @@
       "zh-CN": {
         "text": "[起始之羽音]村野沙耶香 解放完成",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[ひゃくまんダウンロード記念]花帆&さやか&瑠璃乃 with ひゃくまんさん",
+    "translation": {
+      "en": {
+        "text": "[In Commemoration of One Million Downloads] Kaho & Sayaka & Rurino with Hyakuman-san",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "[百万下载纪念]花帆&沙耶香&瑠璃乃 with 百万先生",
+        "author": "glm-4.6"
       }
     }
   },
@@ -73203,6 +74308,19 @@
     }
   },
   {
+    "raw": "「4Pair Power Spread!!!! Showdown Pack」を購入",
+    "translation": {
+      "en": {
+        "text": "Purchase the \"4Pair Power Spread!!!! Showdown Pack\"",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "「4Pair Power Spread!!!! Showdown Pack」已购买",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "「4th Live Dream ～Bloom, The Dream Believers～ 102期卒業公演記念パック！」を購入",
     "translation": {
       "zh-CN": {
@@ -74200,6 +75318,32 @@
       "en": {
         "text": "\"Ha ha ha\"",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "「ハロめぐちゃんねる！お久しぶりスペシャル～！」メモリアルサムネイル",
+    "translation": {
+      "en": {
+        "text": "\"Hello Megu Channel! Long Time No See Special!\" Memorial Thumbnail",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "「Hallo Megu-Channel！好久不见特别篇～！」纪念缩略图",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "「ハロめぐ！お久しぶりステッカーパック」を購入",
+    "translation": {
+      "en": {
+        "text": "Purchase the \"Hello Megu! Long Time No See Sticker Pack\"",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "「Hallo Megu！好久不见贴纸包」已购买",
+        "author": "glm-4.6"
       }
     }
   },
@@ -75669,6 +76813,45 @@
       "en": {
         "text": "『Hello, new dream!』 Mastery Lv. 30 Reached",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "『Hip, hip, hooray!』のマスタリーLv.を30にした記念のステッカー",
+    "translation": {
+      "en": {
+        "text": "A sticker commemorating reaching Mastery Lv. 30 for \"Hip, hip, hooray!\"",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "『Hip, hip, hooray!』掌握等级达到30级纪念贴纸",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "『Hip, hip, hooray!』マエストロ",
+    "translation": {
+      "en": {
+        "text": "\"Hip, hip, hooray!\" Maestro",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "『Hip, hip, hooray!』大师",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "『Hip, hip, hooray!』マスタリーLv.30到達",
+    "translation": {
+      "en": {
+        "text": "\"Hip, hip, hooray!\" Mastery Lv. 30 Reached",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "『Hip, hip, hooray!』掌握等级达到30级",
+        "author": "glm-4.6"
       }
     }
   },
@@ -87750,6 +88933,19 @@
     }
   },
   {
+    "raw": "ここは劇場ノンフィクション　何をしたためようか　伽藍堂の この身に宿せ　君の真像が もう一度 目覚めるまで",
+    "translation": {
+      "en": {
+        "text": "This is the Theater of Nonfiction What shall I write down In this body of Garandodo May your true image dwell within Until it awakens once more",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "这里是剧场纪实 伽蓝堂之身将书写何种篇章 寄宿于我身 直至你的真像 再次觉醒",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "こたつでぬくもるねこ",
     "translation": {
       "zh-CN": {
@@ -88643,6 +89839,19 @@
       "en": {
         "text": "Your earnest eyes",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ひゃくまんダウンロード記念プレゼント！",
+    "translation": {
+      "en": {
+        "text": "One Million Downloads Commemorative Present!",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "百万下载纪念礼物！",
+        "author": "glm-4.6"
       }
     }
   },

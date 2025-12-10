@@ -1885,6 +1885,188 @@
     }
   },
   {
+    "raw": "このカードのスキル発動回数が1回以下の時、合計アピール値の$1098.9%$のスコアを獲得／このカードのスキル発動回数が2回以下の時、合計アピール値の$989.01%$のスコアを獲得／このカードのスキル発動回数が3回以下の時、合計アピール値の$879.12%$のスコアを獲得／合計アピール値の$549.45%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, acquire a score equal to $1098.9%$ of the total Appeal Value / When this card's skill activation count is 2 or less, acquire a score equal to $989.01%$ of the total Appeal Value / When this card's skill activation count is 3 or less, acquire a score equal to $879.12%$ of the total Appeal Value / Acquire a score equal to $549.45%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，获得总分值$1098.9%$的分数／此卡技能发动2次以下时，获得总分值$989.01%$的分数／此卡技能发动3次以下时，获得总分值$879.12%$的分数／获得总分值$549.45%$的分数",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が1回以下の時、合計アピール値の$1198.8%$のスコアを獲得／このカードのスキル発動回数が2回以下の時、合計アピール値の$1078.92%$のスコアを獲得／このカードのスキル発動回数が3回以下の時、合計アピール値の$959.04%$のスコアを獲得／合計アピール値の$599.4%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, acquire a score equal to $1198.8%$ of the total Appeal Value / When this card's skill activation count is 2 or less, acquire a score equal to $1078.92%$ of the total Appeal Value / When this card's skill activation count is 3 or less, acquire a score equal to $959.04%$ of the total Appeal Value / Acquire a score equal to $599.4%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，获得总分值$1198.8%$的分数／此卡技能发动2次以下时，获得总分值$1078.92%$的分数／此卡技能发动3次以下时，获得总分值$959.04%$的分数／获得总分值$599.4%$的分数",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が1回以下の時、合計アピール値の$1298.7%$のスコアを獲得／このカードのスキル発動回数が2回以下の時、合計アピール値の$1168.83%$のスコアを獲得／このカードのスキル発動回数が3回以下の時、合計アピール値の$1038.96%$のスコアを獲得／合計アピール値の$649.35%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, acquire a score equal to $1298.7%$ of the total Appeal Value / When this card's skill activation count is 2 or less, acquire a score equal to $1168.83%$ of the total Appeal Value / When this card's skill activation count is 3 or less, acquire a score equal to $1038.96%$ of the total Appeal Value / Acquire a score equal to $649.35%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，获得总分值$1298.7%$的分数／此卡技能发动2次以下时，获得总分值$1168.83%$的分数／此卡技能发动3次以下时，获得总分值$1038.96%$的分数／获得总分值$649.35%$的分数",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が1回以下の時、合計アピール値の$1498.5%$のスコアを獲得／このカードのスキル発動回数が2回以下の時、合計アピール値の$1348.65%$のスコアを獲得／このカードのスキル発動回数が3回以下の時、合計アピール値の$1198.8%$のスコアを獲得／合計アピール値の$749.25%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, acquire a score equal to $1498.5%$ of the total Appeal Value / When this card's skill activation count is 2 or less, acquire a score equal to $1348.65%$ of the total Appeal Value / When this card's skill activation count is 3 or less, acquire a score equal to $1198.8%$ of the total Appeal Value / Acquire a score equal to $749.25%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，获得总分值$1498.5%$的分数／此卡技能发动2次以下时，获得总分值$1348.65%$的分数／此卡技能发动3次以下时，获得总分值$1198.8%$的分数／获得总分值$749.25%$的分数",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が1回以下の時、合計アピール値の$499.5%$のスコアを獲得／このカードのスキル発動回数が2回以下の時、合計アピール値の$449.55%$のスコアを獲得／このカードのスキル発動回数が3回以下の時、合計アピール値の$399.6%$のスコアを獲得／合計アピール値の$249.75%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, acquire a score equal to $499.5%$ of the total Appeal Value / When this card's skill activation count is 2 or less, acquire a score equal to $449.55%$ of the total Appeal Value / When this card's skill activation count is 3 or less, acquire a score equal to $399.6%$ of the total Appeal Value / Acquire a score equal to $249.75%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，获得总分值$499.5%$的分数／此卡技能发动2次以下时，获得总分值$449.55%$的分数／此卡技能发动3次以下时，获得总分值$399.6%$的分数／获得总分值$249.75%$的分数",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が1回以下の時、合計アピール値の$549.45%$のスコアを獲得／このカードのスキル発動回数が2回以下の時、合計アピール値の$494.5%$のスコアを獲得／このカードのスキル発動回数が3回以下の時、合計アピール値の$439.56%$のスコアを獲得／合計アピール値の$274.72%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, acquire a score equal to $549.45%$ of the total Appeal Value / When this card's skill activation count is 2 or less, acquire a score equal to $494.5%$ of the total Appeal Value / When this card's skill activation count is 3 or less, acquire a score equal to $439.56%$ of the total Appeal Value / Acquire a score equal to $274.72%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，获得总分值$549.45%$的分数／此卡技能发动2次以下时，获得总分值$494.5%$的分数／此卡技能发动3次以下时，获得总分值$439.56%$的分数／获得总分值$274.72%$的分数",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が1回以下の時、合計アピール値の$599.4%$のスコアを獲得／このカードのスキル発動回数が2回以下の時、合計アピール値の$539.46%$のスコアを獲得／このカードのスキル発動回数が3回以下の時、合計アピール値の$479.52%$のスコアを獲得／合計アピール値の$299.7%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, acquire a score equal to $599.4%$ of the total Appeal Value / When this card's skill activation count is 2 or less, acquire a score equal to $539.46%$ of the total Appeal Value / When this card's skill activation count is 3 or less, acquire a score equal to $479.52%$ of the total Appeal Value / Acquire a score equal to $299.7%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，获得总分值$599.4%$的分数／此卡技能发动2次以下时，获得总分值$539.46%$的分数／此卡技能发动3次以下时，获得总分值$479.52%$的分数／获得总分值$299.7%$的分数",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が1回以下の時、合計アピール値の$649.35%$のスコアを獲得／このカードのスキル発動回数が2回以下の時、合計アピール値の$584.41%$のスコアを獲得／このカードのスキル発動回数が3回以下の時、合計アピール値の$519.48%$のスコアを獲得／合計アピール値の$324.67%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, acquire a score equal to $649.35%$ of the total Appeal Value / When this card's skill activation count is 2 or less, acquire a score equal to $584.41%$ of the total Appeal Value / When this card's skill activation count is 3 or less, acquire a score equal to $519.48%$ of the total Appeal Value / Acquire a score equal to $324.67%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，获得总分值$649.35%$的分数／此卡技能发动2次以下时，获得总分值$584.41%$的分数／此卡技能发动3次以下时，获得总分值$519.48%$的分数／获得总分值$324.67%$的分数",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が1回以下の時、合計アピール値の$699.3%$のスコアを獲得／このカードのスキル発動回数が2回以下の時、合計アピール値の$629.37%$のスコアを獲得／このカードのスキル発動回数が3回以下の時、合計アピール値の$559.44%$のスコアを獲得／合計アピール値の$349.65%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, acquire a score equal to $699.3%$ of the total Appeal Value / When this card's skill activation count is 2 or less, acquire a score equal to $629.37%$ of the total Appeal Value / When this card's skill activation count is 3 or less, acquire a score equal to $559.44%$ of the total Appeal Value / Acquire a score equal to $349.65%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，获得总分值$699.3%$的分数／此卡技能发动2次以下时，获得总分值$629.37%$的分数／此卡技能发动3次以下时，获得总分值$559.44%$的分数／获得总分值$349.65%$的分数",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が1回以下の時、合計アピール値の$749.25%$のスコアを獲得／このカードのスキル発動回数が2回以下の時、合計アピール値の$674.32%$のスコアを獲得／このカードのスキル発動回数が3回以下の時、合計アピール値の$599.4%$のスコアを獲得／合計アピール値の$374.62%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, acquire a score equal to $749.25%$ of the total Appeal Value / When this card's skill activation count is 2 or less, acquire a score equal to $674.32%$ of the total Appeal Value / When this card's skill activation count is 3 or less, acquire a score equal to $599.4%$ of the total Appeal Value / Acquire a score equal to $374.62%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，获得总分值$749.25%$的分数／此卡技能发动2次以下时，获得总分值$674.32%$的分数／此卡技能发动3次以下时，获得总分值$599.4%$的分数／获得总分值$374.62%$的分数",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が1回以下の時、合計アピール値の$799.2%$のスコアを獲得／このカードのスキル発動回数が2回以下の時、合計アピール値の$719.28%$のスコアを獲得／このカードのスキル発動回数が3回以下の時、合計アピール値の$639.36%$のスコアを獲得／合計アピール値の$399.6%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, acquire a score equal to $799.2%$ of the total Appeal Value / When this card's skill activation count is 2 or less, acquire a score equal to $719.28%$ of the total Appeal Value / When this card's skill activation count is 3 or less, acquire a score equal to $639.36%$ of the total Appeal Value / Acquire a score equal to $399.6%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，获得总分值$799.2%$的分数／此卡技能发动2次以下时，获得总分值$719.28%$的分数／此卡技能发动3次以下时，获得总分值$639.36%$的分数／获得总分值$399.6%$的分数",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が1回以下の時、合計アピール値の$849.15%$のスコアを獲得／このカードのスキル発動回数が2回以下の時、合計アピール値の$764.23%$のスコアを獲得／このカードのスキル発動回数が3回以下の時、合計アピール値の$679.32%$のスコアを獲得／合計アピール値の$424.57%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, acquire a score equal to $849.15%$ of the total Appeal Value / When this card's skill activation count is 2 or less, acquire a score equal to $764.23%$ of the total Appeal Value / When this card's skill activation count is 3 or less, acquire a score equal to $679.32%$ of the total Appeal Value / Acquire a score equal to $424.57%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，获得总分值$849.15%$的分数／此卡技能发动2次以下时，获得总分值$764.23%$的分数／此卡技能发动3次以下时，获得总分值$679.32%$的分数／获得总分值$424.57%$的分数",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が1回以下の時、合計アピール値の$899.1%$のスコアを獲得／このカードのスキル発動回数が2回以下の時、合計アピール値の$809.19%$のスコアを獲得／このカードのスキル発動回数が3回以下の時、合計アピール値の$719.28%$のスコアを獲得／合計アピール値の$449.55%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, acquire a score equal to $899.1%$ of the total Appeal Value / When this card's skill activation count is 2 or less, acquire a score equal to $809.19%$ of the total Appeal Value / When this card's skill activation count is 3 or less, acquire a score equal to $719.28%$ of the total Appeal Value / Acquire a score equal to $449.55%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，获得总分值$899.1%$的分数／此卡技能发动2次以下时，获得总分值$809.19%$的分数／此卡技能发动3次以下时，获得总分值$719.28%$的分数／获得总分值$449.55%$的分数",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が1回以下の時、合計アピール値の$999%$のスコアを獲得／このカードのスキル発動回数が2回以下の時、合計アピール値の$899.1%$のスコアを獲得／このカードのスキル発動回数が3回以下の時、合計アピール値の$799.2%$のスコアを獲得／合計アピール値の$499.5%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 1 or less, acquire a score equal to $999%$ of the total Appeal Value / When this card's skill activation count is 2 or less, acquire a score equal to $899.1%$ of the total Appeal Value / When this card's skill activation count is 3 or less, acquire a score equal to $799.2%$ of the total Appeal Value / Acquire a score equal to $499.5%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动1次以下时，获得总分值$999%$的分数／此卡技能发动2次以下时，获得总分值$899.1%$的分数／此卡技能发动3次以下时，获得总分值$799.2%$的分数／获得总分值$499.5%$的分数",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "このカードのスキル発動回数が2回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$103.27%$上昇／このカードのスキル発動回数が3回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$80.32%$上昇",
     "translation": {
       "zh-CN": {
@@ -6136,6 +6318,19 @@
     }
   },
   {
+    "raw": "スコア獲得効果スキルによるスコア獲得量が、1回の間$116.25%$上昇／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$116.25%$上昇／スキルの合計発動回数が15回以上の時、APを$3$回復",
+    "translation": {
+      "en": {
+        "text": "The score acquisition effect skill increases score acquisition by $116.25%$ for one turn / The voltage acquisition effect skill increases voltage acquisition by $116.25%$ for one turn / When the total number of skill activations is 15 or more, restore $3$ AP",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得分数效果技能获得的分数值单次提升$116.25%$／获得Voltage效果技能的Voltage获得量单次提升$116.25%$／技能总发动次数15次以上时，AP回复$3$",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "スコア獲得効果スキルによるスコア獲得量が、1回の間$116.25%$上昇／メンタルが最大値の100％以上の時、ボルテージPt.を$209pt$獲得／APを$3$回復／このカードを除外する",
     "translation": {
       "zh-CN": {
@@ -6669,6 +6864,19 @@
     }
   },
   {
+    "raw": "スコア獲得効果スキルによるスコア獲得量が、1回の間$127.87%$上昇／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$127.87%$上昇／スキルの合計発動回数が15回以上の時、APを$3$回復",
+    "translation": {
+      "en": {
+        "text": "The score acquisition effect skill increases score acquisition by $127.87%$ for one turn / The voltage acquisition effect skill increases voltage acquisition by $127.87%$ for one turn / When the total number of skill activations is 15 or more, restore $3$ AP",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得分数效果技能获得的分数值单次提升$127.87%$／获得Voltage效果技能的Voltage获得量单次提升$127.87%$／技能总发动次数15次以上时，AP回复$3$",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "スコア獲得効果スキルによるスコア獲得量が、1回の間$127.87%$上昇／メンタルが最大値の100％以上の時、ボルテージPt.を$230pt$獲得／APを$3$回復／このカードを除外する",
     "translation": {
       "zh-CN": {
@@ -6951,6 +7159,19 @@
       "en": {
         "text": "Score acquisition effect skills increase score acquisition by $139.5%$ for one time",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "スコア獲得効果スキルによるスコア獲得量が、1回の間$139.5%$上昇／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$139.5%$上昇／スキルの合計発動回数が15回以上の時、APを$4$回復",
+    "translation": {
+      "en": {
+        "text": "The score acquisition effect skill increases score acquisition by $139.5%$ for one turn / The voltage acquisition effect skill increases voltage acquisition by $139.5%$ for one turn / When the total number of skill activations is 15 or more, restore $4$ AP",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得分数效果技能获得的分数值单次提升$139.5%$／获得Voltage效果技能的Voltage获得量单次提升$139.5%$／技能总发动次数15次以上时，AP回复$4$",
+        "author": "glm-4.6"
       }
     }
   },
@@ -7332,6 +7553,19 @@
     }
   },
   {
+    "raw": "スコア獲得効果スキルによるスコア獲得量が、1回の間$151.12%$上昇／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$151.12%$上昇／スキルの合計発動回数が15回以上の時、APを$4$回復",
+    "translation": {
+      "en": {
+        "text": "The score acquisition effect skill increases score acquisition by $151.12%$ for one turn / The voltage acquisition effect skill increases voltage acquisition by $151.12%$ for one turn / When the total number of skill activations is 15 or more, restore $4$ AP",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得分数效果技能获得的分数值单次提升$151.12%$／获得Voltage效果技能的Voltage获得量单次提升$151.12%$／技能总发动次数15次以上时，AP回复$4$",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "スコア獲得効果スキルによるスコア獲得量が、1回の間$151.12%$上昇／メンタルが最大値の100％以上の時、ボルテージPt.を$272pt$獲得／APを$4$回復／このカードを除外する",
     "translation": {
       "zh-CN": {
@@ -7497,6 +7731,19 @@
       "en": {
         "text": "Score gain from score acquisition effect skills increases by $162.75%$ for one activation",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "スコア獲得効果スキルによるスコア獲得量が、1回の間$162.75%$上昇／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$162.75%$上昇／スキルの合計発動回数が15回以上の時、APを$4$回復",
+    "translation": {
+      "en": {
+        "text": "The score acquisition effect skill increases score acquisition by $162.75%$ for one turn / The voltage acquisition effect skill increases voltage acquisition by $162.75%$ for one turn / When the total number of skill activations is 15 or more, restore $4$ AP",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得分数效果技能获得的分数值单次提升$162.75%$／获得Voltage效果技能的Voltage获得量单次提升$162.75%$／技能总发动次数15次以上时，AP回复$4$",
+        "author": "glm-4.6"
       }
     }
   },
@@ -7774,6 +8021,19 @@
     }
   },
   {
+    "raw": "スコア獲得効果スキルによるスコア獲得量が、1回の間$174.37%$上昇／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$174.37%$上昇／スキルの合計発動回数が15回以上の時、APを$5$回復",
+    "translation": {
+      "en": {
+        "text": "The score acquisition effect skill increases score acquisition by $174.37%$ for one turn / The voltage acquisition effect skill increases voltage acquisition by $174.37%$ for one turn / When the total number of skill activations is 15 or more, restore $5$ AP",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得分数效果技能获得的分数值单次提升$174.37%$／获得Voltage效果技能的Voltage获得量单次提升$174.37%$／技能总发动次数15次以上时，AP回复$5$",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "スコア獲得効果スキルによるスコア獲得量が、1回の間$174.37%$上昇／メンタルが最大値の100％以上の時、ボルテージPt.を$313pt$獲得／APを$5$回復／このカードを除外する",
     "translation": {
       "zh-CN": {
@@ -7917,6 +8177,19 @@
     }
   },
   {
+    "raw": "スコア獲得効果スキルによるスコア獲得量が、1回の間$186%$上昇／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$186%$上昇／スキルの合計発動回数が15回以上の時、APを$5$回復",
+    "translation": {
+      "en": {
+        "text": "The score acquisition effect skill increases score acquisition by $186%$ for one turn / The voltage acquisition effect skill increases voltage acquisition by $186%$ for one turn / When the total number of skill activations is 15 or more, restore $5$ AP",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得分数效果技能获得的分数值单次提升$186%$／获得Voltage效果技能的Voltage获得量单次提升$186%$／技能总发动次数15次以上时，AP回复$5$",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "スコア獲得効果スキルによるスコア獲得量が、1回の間$186%$上昇／メンタルが最大値の100％以上の時、ボルテージPt.を$334pt$獲得／APを$5$回復／このカードを除外する",
     "translation": {
       "zh-CN": {
@@ -8030,6 +8303,19 @@
       "en": {
         "text": "Score acquisition effect skills' score gain increases by $197.62%$ for one time",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "スコア獲得効果スキルによるスコア獲得量が、1回の間$197.62%$上昇／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$197.62%$上昇／スキルの合計発動回数が15回以上の時、APを$5$回復",
+    "translation": {
+      "en": {
+        "text": "The score acquisition effect skill increases score acquisition by $197.62%$ for one turn / The voltage acquisition effect skill increases voltage acquisition by $197.62%$ for one turn / When the total number of skill activations is 15 or more, restore $5$ AP",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得分数效果技能获得的分数值单次提升$197.62%$／获得Voltage效果技能的Voltage获得量单次提升$197.62%$／技能总发动次数15次以上时，AP回复$5$",
+        "author": "glm-4.6"
       }
     }
   },
@@ -8203,6 +8489,19 @@
     }
   },
   {
+    "raw": "スコア獲得効果スキルによるスコア獲得量が、1回の間$209.25%$上昇／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$209.25%$上昇／スキルの合計発動回数が15回以上の時、APを$6$回復",
+    "translation": {
+      "en": {
+        "text": "The score acquisition effect skill increases score acquisition by $209.25%$ for one turn / The voltage acquisition effect skill increases voltage acquisition by $209.25%$ for one turn / When the total number of skill activations is 15 or more, restore $6$ AP",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得分数效果技能获得的分数值单次提升$209.25%$／获得Voltage效果技能的Voltage获得量单次提升$209.25%$／技能总发动次数15次以上时，AP回复$6$",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "スコア獲得効果スキルによるスコア獲得量が、1回の間$209.25%$上昇／メンタルが最大値の100％以上の時、ボルテージPt.を$376pt$獲得／APを$6$回復／このカードを除外する",
     "translation": {
       "zh-CN": {
@@ -8290,6 +8589,19 @@
       "en": {
         "text": "Score gain from score-obtaining effect skills increases by $232.5%$ for one activation",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "スコア獲得効果スキルによるスコア獲得量が、1回の間$232.5%$上昇／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$232.5%$上昇／スキルの合計発動回数が15回以上の時、APを$6$回復",
+    "translation": {
+      "en": {
+        "text": "The score acquisition effect skill increases score acquisition by $232.5%$ for one turn / The voltage acquisition effect skill increases voltage acquisition by $232.5%$ for one turn / When the total number of skill activations is 15 or more, restore $6$ AP",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得分数效果技能获得的分数值单次提升$232.5%$／获得Voltage效果技能的Voltage获得量单次提升$232.5%$／技能总发动次数15次以上时，AP回复$6$",
+        "author": "glm-4.6"
       }
     }
   },
@@ -8446,6 +8758,19 @@
       "en": {
         "text": "Score gain from score-obtaining effect skills increases by $255.75%$ for one activation",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "スコア獲得効果スキルによるスコア獲得量が、1回の間$255.75%$上昇／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$255.75%$上昇／スキルの合計発動回数が15回以上の時、APを$7$回復",
+    "translation": {
+      "en": {
+        "text": "Score acquisition effect skill increases score acquisition by $255.75%$ for one turn / Voltage acquisition effect skill increases voltage acquisition by $255.75%$ for one turn / When the total number of skill activations is 15 or more, restore $7$ AP",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得分数效果技能获得的分数值单次提升$255.75%$／获得Voltage效果技能的Voltage获得量单次提升$255.75%$／技能总发动次数15次以上时，AP回复$7$",
+        "author": "glm-4.6"
       }
     }
   },
@@ -8658,6 +8983,19 @@
     }
   },
   {
+    "raw": "スコア獲得効果スキルによるスコア獲得量が、1回の間$279%$上昇／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$279%$上昇／スキルの合計発動回数が15回以上の時、APを$8$回復",
+    "translation": {
+      "en": {
+        "text": "Score acquisition effect skill increases score acquisition by $279%$ for one turn / Voltage acquisition effect skill increases voltage acquisition by $279%$ for one turn / When the total number of skill activations is 15 or more, restore $8$ AP",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得分数效果技能获得的分数值单次提升$279%$／获得Voltage效果技能的Voltage获得量单次提升$279%$／技能总发动次数15次以上时，AP回复$8$",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "スコア獲得効果スキルによるスコア獲得量が、1回の間$279%$上昇／メンタルが最大値の100％以上の時、ボルテージPt.を$502pt$獲得／APを$8$回復／このカードを除外する",
     "translation": {
       "zh-CN": {
@@ -8836,6 +9174,19 @@
       "en": {
         "text": "Score gain from score-gaining effect skills increases by $302.25%$ for one activation",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "スコア獲得効果スキルによるスコア獲得量が、1回の間$302.25%$上昇／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$302.25%$上昇／スキルの合計発動回数が15回以上の時、APを$8$回復",
+    "translation": {
+      "en": {
+        "text": "Score acquisition effect skill increases score acquisition by $302.25%$ for one turn / Voltage acquisition effect skill increases voltage acquisition by $302.25%$ for one turn / When the total number of skill activations is 15 or more, restore $8$ AP",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得分数效果技能获得的分数值单次提升$302.25%$／获得Voltage效果技能的Voltage获得量单次提升$302.25%$／技能总发动次数15次以上时，AP回复$8$",
+        "author": "glm-4.6"
       }
     }
   },
@@ -9083,6 +9434,19 @@
       "en": {
         "text": "Score gain from score-gaining effect skills increases by $348.75%$ for one activation",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "スコア獲得効果スキルによるスコア獲得量が、1回の間$348.75%$上昇／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$348.75%$上昇／スキルの合計発動回数が15回以上の時、APを$10$回復",
+    "translation": {
+      "en": {
+        "text": "Score acquisition effect skill increases score acquisition by $348.75%$ for one turn / Voltage acquisition effect skill increases voltage acquisition by $348.75%$ for one turn / When the total number of skill activations is 15 or more, restore $10$ AP",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "获得分数效果技能获得的分数值单次提升$348.75%$／获得Voltage效果技能的Voltage获得量单次提升$348.75%$／技能总发动次数15次以上时，AP回复$10$",
+        "author": "glm-4.6"
       }
     }
   },
@@ -14621,6 +14985,19 @@
       "zh-CN": {
         "text": "分数获得量提升&Mental回复",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "デッキリセット&ボルテージ獲得量アップ",
+    "translation": {
+      "en": {
+        "text": "Deck Reset & Voltage Acquisition Up",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "卡组重置&Voltage获得量提升",
+        "author": "glm-4.6"
       }
     }
   },
@@ -41392,6 +41769,19 @@
     }
   },
   {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$315%$上昇／合計アピール値の$210%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $315%$ for one turn / Acquire a score equal to $210%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$315%$／获得总分值$210%$的分数",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$315.56%$上昇／最大値の$25%$分のメンタルを回復",
     "translation": {
       "en": {
@@ -41414,6 +41804,19 @@
       "zh-CN": {
         "text": "Mental在最大值10%以下时，获得分数效果技能获得的分数值单次提升$344.25%$／回复最大值$25%$的Mental",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$346.5%$上昇／合計アピール値の$231%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $346.5%$ for one turn / Acquire a score equal to $231%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$346.5%$／获得总分值$231%$的分数",
+        "author": "glm-4.6"
       }
     }
   },
@@ -41444,6 +41847,19 @@
     }
   },
   {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$378%$上昇／合計アピール値の$252%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $378%$ for one turn / Acquire a score equal to $252%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$378%$／获得总分值$252%$的分数",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$401.62%$上昇／最大値の$25%$分のメンタルを回復",
     "translation": {
       "en": {
@@ -41453,6 +41869,19 @@
       "zh-CN": {
         "text": "Mental在最大值10%以下时，获得分数效果技能获得的分数值单次提升$401.62%$／回复最大值$25%$的Mental",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$409.5%$上昇／合計アピール値の$273%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $409.5%$ for one turn / Acquire a score equal to $273%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$409.5%$／获得总分值$273%$的分数",
+        "author": "glm-4.6"
       }
     }
   },
@@ -41470,6 +41899,19 @@
     }
   },
   {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$441%$上昇／合計アピール値の$294%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $441%$ for one turn / Acquire a score equal to $294%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$441%$／获得总分值$294%$的分数",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$459%$上昇／最大値の$25%$分のメンタルを回復",
     "translation": {
       "en": {
@@ -41479,6 +41921,19 @@
       "zh-CN": {
         "text": "Mental在最大值10%以下时，获得分数效果技能获得的分数值单次提升$459%$／回复最大值$25%$的Mental",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$472.5%$上昇／合計アピール値の$315%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $472.5%$ for one turn / Acquire a score equal to $315%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$472.5%$／获得总分值$315%$的分数",
+        "author": "glm-4.6"
       }
     }
   },
@@ -41496,6 +41951,19 @@
     }
   },
   {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$504%$上昇／合計アピール値の$336%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $504%$ for one turn / Acquire a score equal to $336%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$504%$／获得总分值$336%$的分数",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$516.37%$上昇／最大値の$25%$分のメンタルを回復",
     "translation": {
       "en": {
@@ -41509,6 +41977,32 @@
     }
   },
   {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$535.5%$上昇／合計アピール値の$357%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $535.5%$ for one turn / Acquire a score equal to $357%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$535.5%$／获得总分值$357%$的分数",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$567%$上昇／合計アピール値の$378%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $567%$ for one turn / Acquire a score equal to $378%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$567%$／获得总分值$378%$的分数",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$573.75%$上昇／最大値の$25%$分のメンタルを回復",
     "translation": {
       "en": {
@@ -41518,6 +42012,19 @@
       "zh-CN": {
         "text": "Mental在最大值10%以下时，获得分数效果技能获得的分数值单次提升$573.75%$／回复最大值$25%$的Mental",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$630%$上昇／合計アピール値の$420%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $630%$ for one turn / Acquire a score equal to $420%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$630%$／获得总分值$420%$的分数",
+        "author": "glm-4.6"
       }
     }
   },
@@ -41548,6 +42055,19 @@
     }
   },
   {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$693%$上昇／合計アピール値の$462%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $693%$ for one turn / Acquire a score equal to $462%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$693%$／获得总分值$462%$的分数",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$745.87%$上昇／最大値の$25%$分のメンタルを回復",
     "translation": {
       "en": {
@@ -41557,6 +42077,32 @@
       "zh-CN": {
         "text": "Mental在最大值10%以下时，获得分数效果技能获得的分数值单次提升$745.87%$／回复最大值$25%$的Mental",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$756%$上昇／合計アピール値の$504%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $756%$ for one turn / Acquire a score equal to $504%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$756%$／获得总分值$504%$的分数",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$819%$上昇／合計アピール値の$546%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $819%$ for one turn / Acquire a score equal to $546%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$819%$／获得总分值$546%$的分数",
+        "author": "glm-4.6"
       }
     }
   },
@@ -41596,6 +42142,19 @@
       "en": {
         "text": "When Mental is at 10% or below of maximum value, score acquisition effect skills increase score acquisition amount by $92.81%$ for one time / When Mental is at 10% or below of maximum value, Voltage acquisition effect skills increase Voltage acquisition amount by $92.81%$ for one time / When Mental is at 10% or below of maximum value, recover 10 AP / Decrease Mental by $50%$ of maximum value (this effect does not reduce Mental to 0)",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の10％以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$945%$上昇／合計アピール値の$630%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 10% or less of its maximum value, the score acquisition effect skill increases score acquisition by $945%$ for one turn / Acquire a score equal to $630%$ of the total Appeal Value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Mental为最大值的10%以下时，获得分数效果技能获得的分数值单次提升$945%$／获得总分值$630%$的分数",
+        "author": "glm-4.6"
       }
     }
   },
@@ -61772,6 +62331,188 @@
       "en": {
         "text": "Reduce Mental by $30%$ of maximum value (Mental cannot reach 0 with this effect)／When this card's skill has been activated 3 or more times, exclude this card",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、このカードを除外する／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$10.8%$上昇",
+    "translation": {
+      "en": {
+        "text": "Returns the next skills to activate to the deck from the first card in order (removed cards are not returned) / When this card's skill activation count is 5 or more, remove this card from play / Voltage acquisition effect skill increases voltage acquisition by $10.8%$ for one turn",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，移除此卡／获得Voltage效果技能的Voltage获得量单次提升$10.8%$",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、このカードを除外する／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$11.7%$上昇",
+    "translation": {
+      "en": {
+        "text": "Returns the next skills to activate to the deck from the first card in order (removed cards are not returned) / When this card's skill activation count is 5 or more, remove this card from play / Voltage acquisition effect skill increases voltage acquisition by $11.7%$ for one turn",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，移除此卡／获得Voltage效果技能的Voltage获得量单次提升$11.7%$",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、このカードを除外する／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$13.5%$上昇",
+    "translation": {
+      "en": {
+        "text": "Returns the next skills to activate to the deck from the first card in order (removed cards are not returned) / When this card's skill activation count is 5 or more, remove this card from play / Voltage acquisition effect skill increases voltage acquisition by $13.5%$ for one turn",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，移除此卡／获得Voltage效果技能的Voltage获得量单次提升$13.5%$",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、このカードを除外する／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$4.5%$上昇",
+    "translation": {
+      "en": {
+        "text": "Returns the next skills to activate to the deck from the first card in order (removed cards are not returned) / When this card's skill activation count is 5 or more, remove this card from play / Voltage acquisition effect skill increases voltage acquisition by $4.5%$ for one turn",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，移除此卡／获得Voltage效果技能的Voltage获得量单次提升$4.5%$",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、このカードを除外する／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$4.95%$上昇",
+    "translation": {
+      "en": {
+        "text": "Returns the next skills to activate to the deck from the first card in order (removed cards are not returned) / When this card's skill activation count is 5 or more, remove this card from play / Voltage acquisition effect skill increases voltage acquisition by $4.95%$ for one turn",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，移除此卡／获得Voltage效果技能的Voltage获得量单次提升$4.95%$",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、このカードを除外する／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$5.4%$上昇",
+    "translation": {
+      "en": {
+        "text": "Return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, remove this card from play / The voltage acquisition effect skill increases voltage acquisition by $5.4%$ for one turn",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，移除此卡／获得Voltage效果技能的Voltage获得量单次提升$5.4%$",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、このカードを除外する／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$5.85%$上昇",
+    "translation": {
+      "en": {
+        "text": "Return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, remove this card from play / The voltage acquisition effect skill increases voltage acquisition by $5.85%$ for one turn",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，移除此卡／获得Voltage效果技能的Voltage获得量单次提升$5.85%$",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、このカードを除外する／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$6.3%$上昇",
+    "translation": {
+      "en": {
+        "text": "Return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, remove this card from play / The voltage acquisition effect skill increases voltage acquisition by $6.3%$ for one turn",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，移除此卡／获得Voltage效果技能的Voltage获得量单次提升$6.3%$",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、このカードを除外する／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$6.75%$上昇",
+    "translation": {
+      "en": {
+        "text": "Return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, remove this card from play / The voltage acquisition effect skill increases voltage acquisition by $6.75%$ for one turn",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，移除此卡／获得Voltage效果技能的Voltage获得量单次提升$6.75%$",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、このカードを除外する／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$7.2%$上昇",
+    "translation": {
+      "en": {
+        "text": "Return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, remove this card from play / The voltage acquisition effect skill increases voltage acquisition by $7.2%$ for one turn",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，移除此卡／获得Voltage效果技能的Voltage获得量单次提升$7.2%$",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、このカードを除外する／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$7.65%$上昇",
+    "translation": {
+      "en": {
+        "text": "Return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, remove this card from play / The voltage acquisition effect skill increases voltage acquisition by $7.65%$ for one turn",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，移除此卡／获得Voltage效果技能的Voltage获得量单次提升$7.65%$",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、このカードを除外する／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$8.1%$上昇",
+    "translation": {
+      "en": {
+        "text": "Return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, remove this card from play / The voltage acquisition effect skill increases voltage acquisition by $8.1%$ for one turn",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，移除此卡／获得Voltage效果技能的Voltage获得量单次提升$8.1%$",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、このカードを除外する／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$9%$上昇",
+    "translation": {
+      "en": {
+        "text": "Return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, remove this card from play / The voltage acquisition effect skill increases voltage acquisition by $9%$ for one turn",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，移除此卡／获得Voltage效果技能的Voltage获得量单次提升$9%$",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、このカードを除外する／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$9.9%$上昇",
+    "translation": {
+      "en": {
+        "text": "Return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, remove this card from play / The voltage acquisition effect skill increases voltage acquisition by $9.9%$ for one turn",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，移除此卡／获得Voltage效果技能的Voltage获得量单次提升$9.9%$",
+        "author": "glm-4.6"
       }
     }
   }

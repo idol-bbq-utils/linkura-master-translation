@@ -2172,6 +2172,12 @@
             "RequirementText": "[Poupée en Lotus]大沢 瑠璃乃 解放完了"
         },
         {
+            "Id": 10335311,
+            "Name": "[Hip, hip, hooray!]大沢 瑠璃乃",
+            "Text": "[Hip, hip, hooray!]大沢 瑠璃乃 を4回解放した記念のステッカー",
+            "RequirementText": "[Hip, hip, hooray!]大沢 瑠璃乃 解放完了"
+        },
+        {
             "Id": 10338011,
             "Name": "[Prism Echo]大沢 瑠璃乃",
             "Text": "[Prism Echo]大沢 瑠璃乃 を4回解放した記念のステッカー",
@@ -2266,6 +2272,12 @@
             "Name": "[Poupée en Lotus]百生 吟子",
             "Text": "[Poupée en Lotus]百生 吟子 を4回解放した記念のステッカー",
             "RequirementText": "[Poupée en Lotus]百生 吟子 解放完了"
+        },
+        {
+            "Id": 10414051,
+            "Name": "[My Lucky Clover]百生 吟子",
+            "Text": "[My Lucky Clover]百生 吟子 を4回解放した記念のステッカー",
+            "RequirementText": "[My Lucky Clover]百生 吟子 解放完了"
         },
         {
             "Id": 10415011,
@@ -2790,6 +2802,12 @@
             "RequirementText": "[はじまりの羽音]安養寺 姫芽 解放完了"
         },
         {
+            "Id": 10435211,
+            "Name": "[Hip, hip, hooray!]安養寺 姫芽",
+            "Text": "[Hip, hip, hooray!]安養寺 姫芽 を4回解放した記念のステッカー",
+            "RequirementText": "[Hip, hip, hooray!]安養寺 姫芽 解放完了"
+        },
+        {
             "Id": 10438011,
             "Name": "[Ether Aria]安養寺 姫芽",
             "Text": "[Ether Aria]安養寺 姫芽 を4回解放した記念のステッカー",
@@ -2992,6 +3010,12 @@
             "Name": "[シアター生き様]セラス 柳田 リリエンフェルト",
             "Text": "[シアター生き様]セラス 柳田 リリエンフェルト を4回解放した記念のステッカー",
             "RequirementText": "[シアター生き様]セラス 柳田 リリエンフェルト 解放完了"
+        },
+        {
+            "Id": 10525081,
+            "Name": "[105/刹那&セラニャン]セラス 柳田 リリエンフェルト",
+            "Text": "[105/刹那&セラニャン]セラス 柳田 リリエンフェルト を4回解放した記念のステッカー",
+            "RequirementText": "[105/刹那&セラニャン]セラス 柳田 リリエンフェルト 解放完了"
         },
         {
             "Id": 10528011,
@@ -10416,6 +10440,132 @@
             "RequirementText": "Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦に参加"
         },
         {
+            "Id": 20350901,
+            "Name": "Live Grand Prix 105期4thTerm 第1回 個人戦 1位",
+            "Text": "Live Grand Prix 105期4thTerm 第1回 個人戦 1位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期4thTerm 第1回 個人戦 1位 入賞"
+        },
+        {
+            "Id": 20350902,
+            "Name": "Live Grand Prix 105期4thTerm 第1回 個人戦 2位",
+            "Text": "Live Grand Prix 105期4thTerm 第1回 個人戦 2位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期4thTerm 第1回 個人戦 2位 入賞"
+        },
+        {
+            "Id": 20350903,
+            "Name": "Live Grand Prix 105期4thTerm 第1回 個人戦 3位",
+            "Text": "Live Grand Prix 105期4thTerm 第1回 個人戦 3位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期4thTerm 第1回 個人戦 3位 入賞"
+        },
+        {
+            "Id": 20350904,
+            "Name": "Live Grand Prix 105期4thTerm 第1回 個人戦 4位",
+            "Text": "Live Grand Prix 105期4thTerm 第1回 個人戦 4位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期4thTerm 第1回 個人戦 4位 入賞"
+        },
+        {
+            "Id": 20350905,
+            "Name": "Live Grand Prix 105期4thTerm 第1回 個人戦 5位",
+            "Text": "Live Grand Prix 105期4thTerm 第1回 個人戦 5位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期4thTerm 第1回 個人戦 5位 入賞"
+        },
+        {
+            "Id": 20350906,
+            "Name": "Live Grand Prix 105期4thTerm 第1回 個人戦 6位",
+            "Text": "Live Grand Prix 105期4thTerm 第1回 個人戦 6位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期4thTerm 第1回 個人戦 6位 入賞"
+        },
+        {
+            "Id": 20350907,
+            "Name": "Live Grand Prix 105期4thTerm 第1回 個人戦 7位",
+            "Text": "Live Grand Prix 105期4thTerm 第1回 個人戦 7位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期4thTerm 第1回 個人戦 7位 入賞"
+        },
+        {
+            "Id": 20350908,
+            "Name": "Live Grand Prix 105期4thTerm 第1回 個人戦 8位",
+            "Text": "Live Grand Prix 105期4thTerm 第1回 個人戦 8位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期4thTerm 第1回 個人戦 8位 入賞"
+        },
+        {
+            "Id": 20350909,
+            "Name": "Live Grand Prix 105期4thTerm 第1回 個人戦 9位",
+            "Text": "Live Grand Prix 105期4thTerm 第1回 個人戦 9位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期4thTerm 第1回 個人戦 9位 入賞"
+        },
+        {
+            "Id": 20350910,
+            "Name": "Live Grand Prix 105期4thTerm 第1回 個人戦 10位",
+            "Text": "Live Grand Prix 105期4thTerm 第1回 個人戦 10位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期4thTerm 第1回 個人戦 10位 入賞"
+        },
+        {
+            "Id": 20350911,
+            "Name": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP100位",
+            "Text": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP100位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP100位 入賞"
+        },
+        {
+            "Id": 20350912,
+            "Name": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP200位",
+            "Text": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP200位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP200位 入賞"
+        },
+        {
+            "Id": 20350913,
+            "Name": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP500位",
+            "Text": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP500位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP500位 入賞"
+        },
+        {
+            "Id": 20350914,
+            "Name": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP1000位",
+            "Text": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP1000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP1000位 入賞"
+        },
+        {
+            "Id": 20350915,
+            "Name": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP2000位",
+            "Text": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP2000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP2000位 入賞"
+        },
+        {
+            "Id": 20350916,
+            "Name": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP3000位",
+            "Text": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP3000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP3000位 入賞"
+        },
+        {
+            "Id": 20350917,
+            "Name": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP5000位",
+            "Text": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP5000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP5000位 入賞"
+        },
+        {
+            "Id": 20350918,
+            "Name": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP7000位",
+            "Text": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP7000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP7000位 入賞"
+        },
+        {
+            "Id": 20350919,
+            "Name": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP10000位",
+            "Text": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP10000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP10000位 入賞"
+        },
+        {
+            "Id": 20350920,
+            "Name": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP15000位",
+            "Text": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP15000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期4thTerm 第1回 個人戦 TOP15000位 入賞"
+        },
+        {
+            "Id": 20350921,
+            "Name": "Live Grand Prix 105期4thTerm 第1回 個人戦 参加",
+            "Text": "Live Grand Prix 105期4thTerm 第1回 個人戦 参加賞のステッカー",
+            "RequirementText": "Live Grand Prix 105期4thTerm 第1回 個人戦に参加"
+        },
+        {
             "Id": 40103101,
             "Name": "『Dream Believers（4人Ver.）』マエストロ",
             "Text": "『Dream Believers（4人Ver.）』のマスタリーLv.を30にした記念のステッカー",
@@ -11640,6 +11790,12 @@
             "RequirementText": "『チャーミングな花束を！』マスタリーLv.30到達"
         },
         {
+            "Id": 40405127,
+            "Name": "『Hip, hip, hooray!』マエストロ",
+            "Text": "『Hip, hip, hooray!』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『Hip, hip, hooray!』マスタリーLv.30到達"
+        },
+        {
             "Id": 40405201,
             "Name": "『テレパシ』マエストロ",
             "Text": "『テレパシ』のマスタリーLv.を30にした記念のステッカー",
@@ -12510,6 +12666,18 @@
             "RequirementText": "「PRINCESS KNIGHT 泉 大冒険セット」を購入"
         },
         {
+            "Id": 90000140,
+            "Name": "「ハロめぐちゃんねる！お久しぶりスペシャル～！」メモリアルサムネイル",
+            "Text": "20251204 #ハロめぐ",
+            "RequirementText": "「ハロめぐ！お久しぶりステッカーパック」を購入"
+        },
+        {
+            "Id": 90000141,
+            "Name": "[ひゃくまんダウンロード記念]花帆&さやか&瑠璃乃 with ひゃくまんさん",
+            "Text": "Link！Like！ラブライブ！100万ダウンロード達成\nありがとうございます！\nこれからもよろしくお願いします！",
+            "RequirementText": "ひゃくまんダウンロード記念プレゼント！"
+        },
+        {
             "Id": 90010210,
             "Name": "Kozue Birthday 2023",
             "Text": "Happy 17th Birthday to Dear Kozue!",
@@ -12882,6 +13050,12 @@
             "RequirementText": "CD『片翼のトリバガ』購入特典"
         },
         {
+            "Id": 90405117,
+            "Name": "Jacket『乙女詞華集 / ガランドFlash / バイタルサイン / シアター生き様』",
+            "Text": "ここは劇場ノンフィクション　何をしたためようか　伽藍堂の この身に宿せ　君の真像が もう一度 目覚めるまで",
+            "RequirementText": "CD『乙女詞華集 / ガランドFlash / バイタルサイン / シアター生き様』購入特典"
+        },
+        {
             "Id": 90405122,
             "Name": "Jacket『ちょ、尊いLOVE / Nεw Black』",
             "Text": "オギャッと⽣まれた平成ギャルズ\nIcHiGo milKに染まれ 甘い夢を一緒に見よう",
@@ -13246,6 +13420,18 @@
             "Name": "Live『5th Live Tour ～4Pair Power Spread!!!!～』Edel Note presents Spade Stage",
             "Text": "2025.11.19-20 in 大阪・大阪城ホール",
             "RequirementText": "5th Live Tour ～4Pair Power Spread!!!!～ Edel Note presents Spade Stage 開催日にログイン"
+        },
+        {
+            "Id": 92000056,
+            "Name": "Live『5th Live Tour ～4Pair Power Spread!!!!～』スリーズブーケ presents Clover Stage",
+            "Text": "2025.12.6-7 in 神奈川・Ｋアリーナ横浜",
+            "RequirementText": "5th Live Tour ～4Pair Power Spread!!!!～ スリーズブーケ presents Clover Stage 開催日にログイン"
+        },
+        {
+            "Id": 92000057,
+            "Name": "Live『5th Live Tour ～4Pair Power Spread!!!!～』ライブキービジュアル",
+            "Text": "2025.10.4-5 TOKYO ～ 2025.11.8-9 AICHI ～ 2025.11.19-20 OSAKA ～ 2025.12.6-7 KANAGAWA",
+            "RequirementText": "「4Pair Power Spread!!!! Showdown Pack」を購入"
         },
         {
             "Id": 93001001,

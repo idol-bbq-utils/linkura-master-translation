@@ -572,6 +572,19 @@
     }
   },
   {
+    "raw": "スキルを4回使用するたび、メンタルを最大値の30%減少させ、またEdel Noteのスキルを使用するたび、このステージ中、獲得するLOVEを+800%し、ボルテージを+1500する。",
+    "translation": {
+      "en": {
+        "text": "Each time a skill is used 4 times, decrease Mental by 30% of its max value, and each time an Edel Note skill is used, increase the LOVE gained by +800% and gain +1500 Voltage for the remainder of the stage.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "每使用4次技能时，使Mental减少最大值的30%，此外每使用Edel Note的技能时，在本阶段获得的LOVE增加800%，Voltage增加1500点。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "スキルを50回使用するたび、メイン効果がトークンカード追加であるデッキの全てのカードの消費APをステージ中常に-1する。",
     "translation": {
       "zh-CN": {
@@ -962,6 +975,19 @@
     }
   },
   {
+    "raw": "ステージ開始時、デッキの全てのカードの消費APをステージ中常に+3し、スキルを1回使用するたび、APを5回復する。",
+    "translation": {
+      "en": {
+        "text": "At stage start, all cards in the deck have their AP cost increased by +3 throughout the stage, and gain 5 AP each time a skill is used.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live开始时，使牌组中所有卡牌的消耗AP在本阶段始终增加3，且每使用1次技能时，恢复5点AP。",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "ステージ開始時、デッキの全てのカードの消費APをステージ中常に+5し、スキルを1回使用するたび、APを5回復し、メンタルを最大値の5%回復させる。",
     "translation": {
       "en": {
@@ -1283,6 +1309,19 @@
       "zh-CN": {
         "text": "每次使用主效果为Mental回复的技能时，AP回复5，每使用3次技能，AP减少5。",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メイン効果がメンタル回復のスキルを使用するたび、ボルテージを+1000し、スキルを4回使用するたび、手札を全て捨てて、山札から手札上限まで引き直し、ステージ中、APの回復速度を-2%する。",
+    "translation": {
+      "en": {
+        "text": "Each time a Mental-recovery skill is used, gain +1000 Voltage, and after using 4 skills, discard all cards in hand and redraw up to the hand limit from the deck, decreasing the AP recovery rate by -2% for the remainder of the stage.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "每当使用主要效果为恢复Mental值的技能时，Voltage增加1000点，且每使用4次技能时，丢弃所有手牌，从牌库重新抽取直到达到手牌上限，在本阶段内将AP的恢复速度降低2%。",
+        "author": "gemini-3-pro-preview"
       }
     }
   },

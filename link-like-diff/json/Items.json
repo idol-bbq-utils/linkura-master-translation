@@ -1086,6 +1086,12 @@
             "Description": "特定のカードパックガチャ（10連）を利用することができるチケット。"
         },
         {
+            "Id": 3002213,
+            "Name": "10連カードパックチケット（2025 STANDARD COLLECTION MEGA）",
+            "NameFurigana": "じゅうれんかーどぱっくちけっとにせんにじゅうごすたんだーどこれくしょんめが",
+            "Description": "特定のカードパックガチャ（10連）を利用することができるチケット。"
+        },
+        {
             "Id": 3003001,
             "Name": "事前登録プレゼントURカードセレクトチケット",
             "NameFurigana": "じぜんとうろくぷれぜんとうるとられあかーどせれくとちけっと",
@@ -4080,6 +4086,12 @@
             "Description": "スタイル解放素材(大沢 瑠璃乃)"
         },
         {
+            "Id": 4033531,
+            "Name": "[Hip, hip, hooray!]大沢 瑠璃乃 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(大沢 瑠璃乃)"
+        },
+        {
             "Id": 4033801,
             "Name": "[Prism Echo]大沢 瑠璃乃  解放Pt.",
             "NameFurigana": "かいほうぽいんと",
@@ -4154,6 +4166,12 @@
         {
             "Id": 4041404,
             "Name": "[Poupée en Lotus]百生 吟子 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(百生 吟子)"
+        },
+        {
+            "Id": 4041405,
+            "Name": "[My Lucky Clover]百生 吟子 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
             "Description": "スタイル解放素材(百生 吟子)"
         },
@@ -4656,6 +4674,12 @@
             "Description": "スタイル解放素材(安養寺 姫芽)"
         },
         {
+            "Id": 4043521,
+            "Name": "[Hip, hip, hooray!]安養寺 姫芽 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(安養寺 姫芽)"
+        },
+        {
             "Id": 4043801,
             "Name": "[Ether Aria]安養寺 姫芽 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
@@ -4838,6 +4862,12 @@
         {
             "Id": 4052507,
             "Name": "[シアター生き様]セラス 柳田 リリエンフェルト 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(セラス 柳田 リリエンフェルト)"
+        },
+        {
+            "Id": 4052508,
+            "Name": "[105/刹那&セラニャン]セラス 柳田 リリエンフェルト 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
             "Description": "スタイル解放素材(セラス 柳田 リリエンフェルト)"
         },

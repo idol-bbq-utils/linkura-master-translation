@@ -139,7 +139,7 @@ Example format: ["translated text 1", "translated text 2", ...]
             
         except json.JSONDecodeError as e:
             print(f"Error parsing JSON response for chunk {chunk_idx + 1}: {e}")
-            print(f"Response content: {response}")
+            print(f"Response content: \n{response}")
             continue
         except Exception as e:
             print(f"Error processing chunk {chunk_idx + 1}: {e}")

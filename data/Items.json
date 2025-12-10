@@ -104,6 +104,19 @@
     }
   },
   {
+    "raw": "10連カードパックチケット（2025 STANDARD COLLECTION MEGA）",
+    "translation": {
+      "en": {
+        "text": "10-Card Pack Ticket (2025 STANDARD COLLECTION MEGA)",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "10连卡包券（2025 STANDARD COLLECTION MEGA）",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "10連カードパックチケット（2025/H1）",
     "translation": {
       "zh-CN": {
@@ -620,6 +633,19 @@
       "en": {
         "text": "[104/⊿TRiEDGE]Hime Anyoji Release Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[105/刹那&セラニャン]セラス 柳田 リリエンフェルト 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[105/Setsuna & Cerisyan] Ceras Yanagida Lilienfeld Liberation Pt.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "[105/刹那&セラニャン]塞拉斯 柳田 利林费尔德 解放Pt.",
+        "author": "gemini-3-pro-preview"
       }
     }
   },
@@ -1742,6 +1768,32 @@
     }
   },
   {
+    "raw": "[Hip, hip, hooray!]大沢 瑠璃乃 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[Hip, hip, hooray!] Rurino Osawa Liberation Pt.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "[Hip, hip, hooray!]大泽瑠璃乃 解放Pt.",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "[Hip, hip, hooray!]安養寺 姫芽 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[Hip, hip, hooray!] Hime Anyoji Liberation Pt.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "[Hip, hip, hooray!]安养寺姬芽 解放Pt.",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "[Holiday∞Holiday]乙宗 梢 解放Pt.",
     "translation": {
       "zh-CN": {
@@ -1959,6 +2011,19 @@
       "en": {
         "text": "[Mirage Voyage]Sayaka Murano Liberation Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[My Lucky Clover]百生 吟子 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[My Lucky Clover] Ginko Momose Liberation Pt.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "[My Lucky Clover]百生吟子 解放Pt.",
+        "author": "gemini-3-pro-preview"
       }
     }
   },
@@ -8108,6 +8173,19 @@
       "en": {
         "text": "Ten-draw Card Pack Ticket 2025 A-1",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "じゅうれんかーどぱっくちけっとにせんにじゅうごすたんだーどこれくしょんめが",
+    "translation": {
+      "en": {
+        "text": "juurenkaadopakuchiketto nisen nijugo sutaandaado korekushon mega",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "10连卡包券（2025 STANDARD COLLECTION MEGA）",
+        "author": "gemini-3-pro-preview"
       }
     }
   },

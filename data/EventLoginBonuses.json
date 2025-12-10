@@ -260,6 +260,19 @@
     }
   },
   {
+    "raw": "5th Live Tour ～4Pair Power Spread!!!!～ スリーズブーケ presents Clover Stage 開催記念プレゼント！",
+    "translation": {
+      "en": {
+        "text": "5th Live Tour ~4Pair Power Spread!!!!~ Cerise Bouquet presents Clover Stage Commemorative Gift!",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "5th Live Tour ～4Pair Power Spread!!!!～ Cerise Bouquet presents Clover Stage 举办纪念礼物！",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "BLACK COLLECTION by ZOZOTOWN コラボ記念！ログインキャンペーン！",
     "translation": {
       "en": {
@@ -412,6 +425,19 @@
       "en": {
         "text": "\"Hasunosora Girls' High School School Idol Club\" × Don Quijote Collaboration Commemoration Present!",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ひゃくまんダウンロード記念！ログインキャンペーン",
+    "translation": {
+      "en": {
+        "text": "Million Download Commemoration! Login Campaign",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "百万下载纪念！登录活动",
+        "author": "gemini-3-pro-preview"
       }
     }
   },

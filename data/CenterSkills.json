@@ -11258,6 +11258,19 @@
     }
   },
   {
+    "raw": "【ライブ終了時に発動】合計アピール値の$292.5%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the end of the live】Gain a score of 292.5% of total appeal value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "【Live结束时发动】获得合计Appeal值$292.5%$的分数",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "【ライブ終了時に発動】合計アピール値の$301.32%$のスコアを獲得",
     "translation": {
       "zh-CN": {
@@ -11293,6 +11306,19 @@
       "en": {
         "text": "【Activated at Live End】Gain score equal to $306.9%$ of total Appeal value",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【ライブ終了時に発動】合計アピール値の$321.75%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the end of the live】Gain a score of 321.75% of total appeal value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "【Live结束时发动】获得合计Appeal值$321.75%$的分数",
+        "author": "gemini-3-pro-preview"
       }
     }
   },
@@ -11336,6 +11362,19 @@
     }
   },
   {
+    "raw": "【ライブ終了時に発動】合計アピール値の$351%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the end of the live】Gain a score of 351% of total appeal value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "【Live结束时发动】获得合计Appeal值$351%$的分数",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "【ライブ終了時に発動】合計アピール値の$362.7%$のスコアを獲得",
     "translation": {
       "zh-CN": {
@@ -11362,6 +11401,19 @@
     }
   },
   {
+    "raw": "【ライブ終了時に発動】合計アピール値の$380.25%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the end of the live】Gain a score of 380.25% of total appeal value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "【Live结束时发动】获得合计Appeal值$380.25%$的分数",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "【ライブ終了時に発動】合計アピール値の$382.5%$のスコアを獲得",
     "translation": {
       "zh-CN": {
@@ -11384,6 +11436,19 @@
       "en": {
         "text": "【Activated at Live End】Gain score equal to $401.76%$ of total Appeal value",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【ライブ終了時に発動】合計アピール値の$409.5%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the end of the live】Gain a score of 409.5% of total appeal value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "【Live结束时发动】获得合计Appeal值$409.5%$的分数",
+        "author": "gemini-3-pro-preview"
       }
     }
   },
@@ -11427,6 +11492,19 @@
     }
   },
   {
+    "raw": "【ライブ終了時に発動】合計アピール値の$438.75%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the end of the live】Gain a score of 438.75% of total appeal value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "【Live结束时发动】获得合计Appeal值$438.75%$的分数",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "【ライブ終了時に発動】合計アピール値の$459%$のスコアを獲得",
     "translation": {
       "zh-CN": {
@@ -11436,6 +11514,19 @@
       "en": {
         "text": "【Activates at live end】Gain score equal to $459%$ of total Appeal value",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【ライブ終了時に発動】合計アピール値の$468%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the end of the live】Gain a score of 468% of total appeal value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "【Live结束时发动】获得合计Appeal值$468%$的分数",
+        "author": "gemini-3-pro-preview"
       }
     }
   },
@@ -11488,6 +11579,19 @@
       "en": {
         "text": "【Activates at live end】Gain score equal to $502.2%$ of total Appeal value",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【ライブ終了時に発動】合計アピール値の$526.5%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the end of the live】Gain a score of 526.5% of total appeal value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "【Live结束时发动】获得合计Appeal值$526.5%$的分数",
+        "author": "gemini-3-pro-preview"
       }
     }
   },
@@ -11570,6 +11674,19 @@
     }
   },
   {
+    "raw": "【ライブ終了時に発動】合計アピール値の$585%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the end of the live】Gain a score of 585% of total appeal value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "【Live结束时发动】获得合计Appeal值$585%$的分数",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "【ライブ終了時に発動】合計アピール値の$61.38%$のスコアを獲得",
     "translation": {
       "zh-CN": {
@@ -11605,6 +11722,19 @@
       "en": {
         "text": "【Activates at live end】Gain score equal to $63.88%$ of total Appeal value / When Voltage Lv. is 4 or higher, gain score equal to $89.43%$ of total Appeal value",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【ライブ終了時に発動】合計アピール値の$643.5%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the end of the live】Gain a score of 643.5% of total appeal value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "【Live结束时发动】获得合计Appeal值$643.5%$的分数",
+        "author": "gemini-3-pro-preview"
       }
     }
   },
@@ -11674,6 +11804,19 @@
     }
   },
   {
+    "raw": "【ライブ終了時に発動】合計アピール値の$702%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the end of the live】Gain a score of 702% of total appeal value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "【Live结束时发动】获得合计Appeal值$702%$的分数",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "【ライブ終了時に発動】合計アピール値の$72.54%$のスコアを獲得",
     "translation": {
       "zh-CN": {
@@ -11735,6 +11878,19 @@
       "en": {
         "text": "【Activates at live end】Gain score equal to $75.07%$ of total Appeal value / When Voltage Lv. is 4 or higher, gain score equal to $105.1%$ of total Appeal value",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【ライブ終了時に発動】合計アピール値の$760.5%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the end of the live】Gain a score of 760.5% of total appeal value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "【Live结束时发动】获得合计Appeal值$760.5%$的分数",
+        "author": "gemini-3-pro-preview"
       }
     }
   },
@@ -11839,6 +11995,19 @@
       "en": {
         "text": "【Activates at live end】Gain score equal to $83.7%$ of total Appeal value",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【ライブ終了時に発動】合計アピール値の$877.5%$のスコアを獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the end of the live】Gain a score of 877.5% of total appeal value",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "【Live结束时发动】获得合计Appeal值$877.5%$的分数",
+        "author": "gemini-3-pro-preview"
       }
     }
   },

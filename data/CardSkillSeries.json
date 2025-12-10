@@ -806,6 +806,19 @@
     }
   },
   {
+    "raw": "みらくらチアリング",
+    "translation": {
+      "en": {
+        "text": "Mira-Cra Cheering",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "奇迹拉拉队",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "みらくらメディスン",
     "translation": {
       "en": {
@@ -1777,6 +1790,19 @@
       "en": {
         "text": "Initiative",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "イミテーションO.N.G.E.K.I.",
+    "translation": {
+      "en": {
+        "text": "Imitation O.N.G.E.K.I.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "模仿O.N.G.E.K.I.",
+        "author": "glm-4.6"
       }
     }
   },
@@ -2808,6 +2834,32 @@
     }
   },
   {
+    "raw": "エンジェリックエール",
+    "translation": {
+      "en": {
+        "text": "Angel Cheer",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "天使声援",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "エンジェリックヒーロー",
+    "translation": {
+      "en": {
+        "text": "Angelic Hero",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "天使英雄",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "エンジェリックブライト",
     "translation": {
       "en": {
@@ -3727,6 +3779,19 @@
       "zh-CN": {
         "text": "少女诗歌",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ギルティアタック",
+    "translation": {
+      "en": {
+        "text": "Guilty Attack",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "罪恶攻击",
+        "author": "glm-4.6"
       }
     }
   },
@@ -8394,6 +8459,19 @@
       "en": {
         "text": "Draw：Wide Heart",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ドロー：刹那&セラニャン",
+    "translation": {
+      "en": {
+        "text": "Draw: Setsuna & Ceranyan",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "抽卡：刹那&塞拉斯喵",
+        "author": "glm-4.6"
       }
     }
   },

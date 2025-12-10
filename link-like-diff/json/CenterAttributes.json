@@ -5501,6 +5501,21 @@
             "Description": "全メンバーのアピール値が80％上昇"
         },
         {
+            "Id": 20335311,
+            "CenterAttributeName": "アピールアップ（みらくらぱーく！）",
+            "Description": "みらくらぱーく！に所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20335312,
+            "CenterAttributeName": "アピールアップ（みらくらぱーく！）",
+            "Description": "みらくらぱーく！に所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20335313,
+            "CenterAttributeName": "アピールアップ（みらくらぱーく！）",
+            "Description": "みらくらぱーく！に所属するメンバーのアピール値が200％上昇"
+        },
+        {
             "Id": 20338011,
             "CenterAttributeName": "アピールアップ（みらくらぱーく！）&APレデュース&CTレデュース",
             "Description": "みらくらぱーく！に所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少"
@@ -5722,6 +5737,21 @@
         },
         {
             "Id": 20414043,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が54％上昇"
+        },
+        {
+            "Id": 20414051,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が54％上昇"
+        },
+        {
+            "Id": 20414052,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が54％上昇"
+        },
+        {
+            "Id": 20414053,
             "CenterAttributeName": "アピールアップ",
             "Description": "全メンバーのアピール値が54％上昇"
         },
@@ -7026,6 +7056,21 @@
             "Description": "全メンバーのアピール値が72％上昇"
         },
         {
+            "Id": 20435211,
+            "CenterAttributeName": "アピールアップ（みらくらぱーく！）",
+            "Description": "みらくらぱーく！に所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20435212,
+            "CenterAttributeName": "アピールアップ（みらくらぱーく！）",
+            "Description": "みらくらぱーく！に所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20435213,
+            "CenterAttributeName": "アピールアップ（みらくらぱーく！）",
+            "Description": "みらくらぱーく！に所属するメンバーのアピール値が200％上昇"
+        },
+        {
             "Id": 20438011,
             "CenterAttributeName": "アピールアップ（みらくらぱーく！）&APレデュース&CTレデュース",
             "Description": "みらくらぱーく！に所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少"
@@ -7504,6 +7549,21 @@
             "Id": 20525073,
             "CenterAttributeName": "アピールアップ（Edel Note）",
             "Description": "Edel Noteに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20525081,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "桂城泉／セラスのアピール値が200％上昇"
+        },
+        {
+            "Id": 20525082,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "桂城泉／セラスのアピール値が200％上昇"
+        },
+        {
+            "Id": 20525083,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "桂城泉／セラスのアピール値が200％上昇"
         },
         {
             "Id": 20528011,

@@ -468,6 +468,19 @@
     }
   },
   {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th Term 4th Term Round 1 Individual Competition",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 第105期第4赛季 第1回 个人战",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "Live Grand Prix 105期OpeningTerm 個人戦",
     "translation": {
       "zh-CN": {

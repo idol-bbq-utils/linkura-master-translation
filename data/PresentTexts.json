@@ -5915,6 +5915,19 @@
     }
   },
   {
+    "raw": "5th Live Tour ～4Pair Power Spread!!!!～ スリーズブーケ presents Clover Stage 開催記念プレゼントです。",
+    "translation": {
+      "en": {
+        "text": "5th Live Tour ～4Pair Power Spread!!!!～ Cerise Bouquet presents Clover Stage: A commemorative gift for the event.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "5th Live Tour ～4Pair Power Spread!!!!～ スリーズブーケ presents Clover Stage 開催纪念礼物。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "BLACK COLLECTION by ZOZOTOWN コラボ記念！ログインボーナス 1日目のプレゼントです！",
     "translation": {
       "en": {
@@ -6444,6 +6457,19 @@
       "en": {
         "text": "CD 『ユメワズライ』 serial code bonus.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "CD『乙女詞華集 / ガランドFlash / バイタルサイン / シアター生き様』シリアルコード特典です。",
+    "translation": {
+      "en": {
+        "text": "A serial code bonus for the CD 'Otome Shika / Garand Flash / Vital Sign / Theater Ikizama'.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "CD『乙女詞華集 / ガランドFlash / バイタルサイン / シアター生き様』序列码特典。",
+        "author": "glm-4.6"
       }
     }
   },
@@ -13195,6 +13221,292 @@
     }
   },
   {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 10001位～15000位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 10001st-15000th in the Live Grand Prix 105 Season 4, 1st Tournament, Individual Competition.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 10001位～15000位的奖品。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 1001位～2000位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 1001st-2000th in the Live Grand Prix 105 Season 4, 1st Tournament, Individual Competition.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 1001位～2000位的奖品。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 101位～200位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 101st-200th in the Live Grand Prix 105 Season 4, 1st Tournament, Individual Competition.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 101位～200位的奖品。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 10位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 10th in the Live Grand Prix 105 Season 4, 1st Tournament, Individual Competition.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 第10位的奖品。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 11位～100位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 11th-100th in the Live Grand Prix 105 Season 4, 1st Tournament, Individual Competition.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 11位～100位的奖品。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 15001位～のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 15001st or higher in the Live Grand Prix 105 Season 4, 1st Tournament, Individual Competition.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 15001位及以上的奖品。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 1位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 1st in the Live Grand Prix 105 Season 4, 1st Tournament, Individual Competition.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 第1位的奖品。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 1位～200位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 1st-200th in the Live Grand Prix 105 Season 4, 1st Tournament, Individual Competition.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 1位～200位的奖品。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 2001位～3000位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 2001st-3000th in the Live Grand Prix 105 Season 4, 1st Tournament, Individual Competition.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 2001位～3000位的奖品。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 201位～500位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 201st-500th in the Live Grand Prix 105 Season 4, 1st Tournament, Individual Competition.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 201位～500位的奖品。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 2位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 2nd in the Live Grand Prix 105 Season 4, 1st Tournament, Individual Competition.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 第2名的奖品。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 3001位～5000位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 3001st-5000th in the Live Grand Prix 105 Season 4, 1st Tournament, Individual Competition.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 第3001名～5000名的奖品。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 3位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 3rd in the Live Grand Prix 105 Season 4, 1st Tournament, Individual Competition.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 第3名的奖品。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 4位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 4th in the Live Grand Prix 105 Season 4, 1st Tournament, Individual Competition.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 第4名的奖品。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 5001位～7000位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 5001st-7000th in the Live Grand Prix 105 Season 4, 1st Tournament, Individual Competition.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 第5001名～7000名的奖品。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 501位～1000位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 501st-1000th in the Live Grand Prix 105 Season 4, 1st Tournament, Individual Competition.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 第501名～1000名的奖品。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 5位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 5th in the Live Grand Prix 105 Season 4, 1st Tournament, Individual Competition.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 第5名的奖品。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 6位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 6th in the Live Grand Prix 105 Season 4, 1st Tournament, Individual Competition.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 第6名的奖品。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 7001位～10000位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 7001st-10000th in the Live Grand Prix 105 Season 4, 1st Tournament, Individual Competition.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 第7001名～10000名的奖品。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 7位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 7th in the Live Grand Prix 105 Season 4, 1st Tournament, Individual Competition.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 第7名的奖品。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 8位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 8th in the Live Grand Prix 105 Season 4, 1st Tournament, Individual Competition.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 第8名的奖品。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期4thTerm 第1回 個人戦 9位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 9th in the Live Grand Prix 105 Season 4, 1st Tournament, Individual Competition.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期4thTerm 第1回 个人战 第9名的奖品。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "Live Grand Prix 105期OpeningTerm 個人戦 10001位～15000位のプライズです。",
     "translation": {
       "zh-CN": {
@@ -14612,6 +14924,19 @@
     }
   },
   {
+    "raw": "「4Pair Power Spread!!!! Showdown Pack」を購入して獲得したアイテムです。",
+    "translation": {
+      "en": {
+        "text": "Items obtained by purchasing the '4Pair Power Spread!!!! Showdown Pack'.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "购买「4Pair Power Spread!!!! Showdown Pack」获得的道具。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "「4th Live Dream ～Bloom, The Dream Believers～ 石川公演記念パック！」を購入して獲得したアイテムです。",
     "translation": {
       "zh-CN": {
@@ -15717,6 +16042,19 @@
     }
   },
   {
+    "raw": "「ハロめぐ！お久しぶりステッカーパック」を購入して獲得したアイテムです。",
+    "translation": {
+      "en": {
+        "text": "Items obtained by purchasing the 'Haromeg! Ohisashiburi Sticker Pack'.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "购买「你好慈！好久不见贴纸包」获得的道具。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "「ハロウィンフェア♪Trick ＆ Cute♡DOLLCHESTRAパック」を購入して獲得したアイテムです。",
     "translation": {
       "en": {
@@ -16454,6 +16792,136 @@
       "en": {
         "text": "Thank you for always supporting Link!Like!!",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ひゃくまんダウンロード記念！ログインキャンペーン 10日目のプレゼントです！",
+    "translation": {
+      "en": {
+        "text": "1,000,000 Downloads Commemoration! Login Campaign: Day 10's Gift!",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "百万下载纪念！登录活动第10天的礼物！",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "ひゃくまんダウンロード記念！ログインキャンペーン 1日目のプレゼントです！",
+    "translation": {
+      "en": {
+        "text": "1,000,000 Downloads Commemoration! Login Campaign: Day 1's Gift!",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "百万下载纪念！登录活动第1天的礼物！",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "ひゃくまんダウンロード記念！ログインキャンペーン 2日目のプレゼントです！",
+    "translation": {
+      "en": {
+        "text": "1,000,000 Downloads Commemoration! Login Campaign: Day 2's Gift!",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "百万下载纪念！登录活动第2天的礼物！",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "ひゃくまんダウンロード記念！ログインキャンペーン 3日目のプレゼントです！",
+    "translation": {
+      "en": {
+        "text": "1,000,000 Downloads Commemoration! Login Campaign: Day 3's Gift!",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "百万下载纪念！登录活动第3天的礼物！",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "ひゃくまんダウンロード記念！ログインキャンペーン 4日目のプレゼントです！",
+    "translation": {
+      "en": {
+        "text": "1,000,000 Downloads Commemoration! Login Campaign: Day 4's Gift!",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "百万下载纪念！登录活动第4天的礼物！",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "ひゃくまんダウンロード記念！ログインキャンペーン 5日目のプレゼントです！",
+    "translation": {
+      "en": {
+        "text": "1,000,000 Downloads Commemoration! Login Campaign: Day 5's Gift!",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "百万下载纪念！登录活动第5天的礼物！",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "ひゃくまんダウンロード記念！ログインキャンペーン 6日目のプレゼントです！",
+    "translation": {
+      "en": {
+        "text": "1,000,000 Downloads Commemoration! Login Campaign: Day 6's Gift!",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "百万下载纪念！登录活动第6天的礼物！",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "ひゃくまんダウンロード記念！ログインキャンペーン 7日目のプレゼントです！",
+    "translation": {
+      "en": {
+        "text": "1,000,000 Downloads Commemoration! Login Campaign: Day 7's Gift!",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "百万下载纪念！登录活动第7天的礼物！",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "ひゃくまんダウンロード記念！ログインキャンペーン 8日目のプレゼントです！",
+    "translation": {
+      "en": {
+        "text": "1,000,000 Downloads Commemoration! Login Campaign: Day 8's Gift!",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "百万下载纪念！登录活动第8天的礼物！",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "ひゃくまんダウンロード記念！ログインキャンペーン 9日目のプレゼントです！",
+    "translation": {
+      "en": {
+        "text": "1,000,000 Downloads Commemoration! Login Campaign: Day 9's Gift!",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "百万下载纪念！登录活动第9天的礼物！",
+        "author": "glm-4.6"
       }
     }
   },

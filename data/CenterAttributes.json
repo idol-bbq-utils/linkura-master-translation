@@ -988,6 +988,19 @@
     }
   },
   {
+    "raw": "桂城泉／セラスのアピール値が200％上昇",
+    "translation": {
+      "en": {
+        "text": "Izumi Katsuragi/Ceras's Appeal values increase by 200%",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "桂城泉/塞拉斯的表现值提升200%",
+        "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
     "raw": "百生吟子のアピール値が320％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少",
     "translation": {
       "zh-CN": {

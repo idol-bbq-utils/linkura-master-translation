@@ -247,6 +247,19 @@
     }
   },
   {
+    "raw": "APの回復速度を-75%する。",
+    "translation": {
+      "en": {
+        "text": "Decreases AP recovery speed by 75%.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "AP的恢复速度-75%。",
+        "author": "glm-4.6"
+      }
+    }
+  },
+  {
     "raw": "APの回復速度を-9999%する。",
     "translation": {
       "zh-CN": {
@@ -1881,6 +1894,19 @@
       "en": {
         "text": "Increase AP cost by 2.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "消費APを+3する。",
+    "translation": {
+      "en": {
+        "text": "Increases AP consumption by +3.",
+        "author": "glm-4.6"
+      },
+      "zh-CN": {
+        "text": "消耗AP+3。",
+        "author": "glm-4.6"
       }
     }
   },
