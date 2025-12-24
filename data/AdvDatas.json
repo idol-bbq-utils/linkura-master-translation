@@ -533,6 +533,19 @@
     }
   },
   {
+    "raw": "第9話『ALL Link to YOU』",
+    "translation": {
+      "en": {
+        "text": "Episode 9: 'ALL Link to YOU'",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "第9话『ALL Link to YOU』",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "第9話『みらくる・ざ・ゆにばーす！』",
     "translation": {
       "zh-CN": {

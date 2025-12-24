@@ -6261,6 +6261,21 @@
             "Description": "全メンバーのアピール値が54％上昇"
         },
         {
+            "Id": 20424051,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が60％上昇"
+        },
+        {
+            "Id": 20424052,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が60％上昇"
+        },
+        {
+            "Id": 20424053,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が60％上昇"
+        },
+        {
             "Id": 20425011,
             "CenterAttributeName": "アピールアップ",
             "Description": "全メンバーのアピール値が80％上昇"
@@ -7331,6 +7346,21 @@
             "Description": "Edel Noteに所属するメンバーのアピール値が200％上昇"
         },
         {
+            "Id": 20515091,
+            "CenterAttributeName": "アピールアップ（Edel Note）",
+            "Description": "Edel Noteに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20515092,
+            "CenterAttributeName": "アピールアップ（Edel Note）",
+            "Description": "Edel Noteに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20515093,
+            "CenterAttributeName": "アピールアップ（Edel Note）",
+            "Description": "Edel Noteに所属するメンバーのアピール値が200％上昇"
+        },
+        {
             "Id": 20518011,
             "CenterAttributeName": "アピールアップ（桂城泉）&APレデュース&CTレデュース",
             "Description": "桂城泉のアピール値が320％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少"
@@ -7564,6 +7594,21 @@
             "Id": 20525083,
             "CenterAttributeName": "アピールアップ",
             "Description": "桂城泉／セラスのアピール値が200％上昇"
+        },
+        {
+            "Id": 20525091,
+            "CenterAttributeName": "アピールアップ（Edel Note）",
+            "Description": "Edel Noteに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20525092,
+            "CenterAttributeName": "アピールアップ（Edel Note）",
+            "Description": "Edel Noteに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20525093,
+            "CenterAttributeName": "アピールアップ（Edel Note）",
+            "Description": "Edel Noteに所属するメンバーのアピール値が200％上昇"
         },
         {
             "Id": 20528011,

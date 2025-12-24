@@ -66,6 +66,18 @@
             "Description": "ステージC"
         },
         {
+            "Id": 7051091,
+            "Description": "ステージA"
+        },
+        {
+            "Id": 7051092,
+            "Description": "ステージB"
+        },
+        {
+            "Id": 7051093,
+            "Description": "ステージC"
+        },
+        {
             "Id": 8051041,
             "Description": "ステージA"
         },

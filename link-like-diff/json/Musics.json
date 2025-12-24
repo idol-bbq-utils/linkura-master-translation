@@ -1441,9 +1441,23 @@
             "ReleaseConditionText": "初めから習得"
         },
         {
+            "Id": 405128,
+            "Title": "令嬢モブ！",
+            "TitleFurigana": "れいじょうもぶ",
+            "Description": "Edel Note",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
             "Id": 405201,
             "Title": "テレパシ",
             "TitleFurigana": "てらぱし",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 405202,
+            "Title": "BOW AND ARROW",
+            "TitleFurigana": "ぼうあんどあろう",
             "Description": "一般カバー",
             "ReleaseConditionText": "ミュージックPt. を使用して習得"
         },

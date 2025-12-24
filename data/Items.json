@@ -2964,6 +2964,19 @@
     }
   },
   {
+    "raw": "[diamondz]徒町 小鈴 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[diamondz] Kachimachi Kosuzu Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[diamondz]徒町 小铃 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[lucky train!]日野下 花帆 解放Pt.",
     "translation": {
       "zh-CN": {
@@ -4793,6 +4806,32 @@
       "zh-CN": {
         "text": "[乙女詞華集]百生吟子 解放Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[令嬢モブ！]セラス 柳田 リリエンフェルト 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[Ojou-Mob!] Ceras Yanagida Lilienfeld Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[令嬢モブ！]塞拉斯 柳田 利林费尔德 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[令嬢モブ！]桂城 泉 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[Ojou-Mob!] Izumi Katsuragi Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[令嬢モブ！]桂城 泉 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -8966,6 +9005,32 @@
       "en": {
         "text": "Bouquet Mini",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "はやすぎ☆びっクリ鏡餅",
+    "translation": {
+      "en": {
+        "text": "Too Fast☆Shocking Kagami Mochi",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "快到☆飞起镜饼",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "はやすぎびっくりかがみもち",
+    "translation": {
+      "en": {
+        "text": "hayasugi bikkuri kagami mochi",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "快到飞起镜饼",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -15713,6 +15778,19 @@
       "zh-CN": {
         "text": "能冲泡出有深度浓郁口感的咖啡豆。那\\n确实的苦味，连能品出差异的学园偶像也会一下子被迷住。",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "餅を神仏に供える日本の伝統的な正月飾りです。\\n飾り始めるのは12月28日が最適であるとされています。",
+    "translation": {
+      "en": {
+        "text": "A traditional Japanese New Year's decoration where rice cakes are offered to gods and Buddha.\\nIt is said that the best day to start displaying it is December 28th.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将年糕供奉给神佛的日本传统新年装饰。\\n一般认为12月28日开始装饰最为合适。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

@@ -1248,6 +1248,84 @@
     }
   },
   {
+    "raw": "ユーザー50人にフォローされよう",
+    "translation": {
+      "en": {
+        "text": "Get followed by 50 users",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "被50位用户关注吧",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ユーザーを10人フォローしよう",
+    "translation": {
+      "en": {
+        "text": "Follow 10 users",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "关注10位用户吧",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ユーザーを1人フォローしよう",
+    "translation": {
+      "en": {
+        "text": "Follow 1 user",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "关注1位用户吧",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ユーザーを20人フォローしよう",
+    "translation": {
+      "en": {
+        "text": "Follow 20 users",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "关注20位用户吧",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ユーザーを3人フォローしよう",
+    "translation": {
+      "en": {
+        "text": "Follow 3 users",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "关注3位用户吧",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ユーザーを5人フォローしよう",
+    "translation": {
+      "en": {
+        "text": "Follow 5 users",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "关注5位用户吧",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ライブを100回クリアしよう（スキップ可）",
     "translation": {
       "zh-CN": {

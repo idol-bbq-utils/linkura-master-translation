@@ -975,6 +975,19 @@
     }
   },
   {
+    "raw": "メイン効果がハートキャプチャのスキルの消費APを-5する。",
+    "translation": {
+      "en": {
+        "text": "Main effect decreases the AP consumed by skills with Heart Capture by -5.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "使主要效果为心心捕获的技能的消耗AP-5。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メイン効果がハート上限変動のスキルの消費APを+3する。",
     "translation": {
       "zh-CN": {

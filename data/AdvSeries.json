@@ -13,6 +13,19 @@
     }
   },
   {
+    "raw": "Bloom Garden Partyに102期生が参加決定！ 喜\nびに沸きつつ、Starring Bloomは失敗できないと\n気を引き締める一同だが、次々と難題が……。",
+    "translation": {
+      "en": {
+        "text": "The 102nd class has been confirmed to participate in the Bloom Garden Party! While celebrating with joy, the members of Starring Bloom steel themselves knowing they cannot fail, but one challenge after another arises…",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "102期生确定参加Bloom Garden Party!在欢喜雀跃的同时，Starring Bloom的众人意识到不能失败而更加紧张，但难题却接踵而至……。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "「そこは、夢のおとぎ話のような場所でした。\n光が瞬くように。星が流れるように。すべては、\nあっという間の出来事で……」",
     "translation": {
       "zh-CN": {
@@ -932,6 +945,19 @@
       "zh-CN": {
         "text": "第8话《今仍遥远处微弱之光》",
         "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "第9話『ALL Link to YOU』",
+    "translation": {
+      "en": {
+        "text": "Episode 9: 'ALL Link to YOU'",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "第9话《ALL Link to YOU》",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

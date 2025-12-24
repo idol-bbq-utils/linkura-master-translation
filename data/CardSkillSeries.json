@@ -208,6 +208,19 @@
     }
   },
   {
+    "raw": "APレデュース：ハイメンタル & ブレイブ：メンタルリカバー & リカバーブースト：さやか",
+    "translation": {
+      "en": {
+        "text": "AP Reduce: High Mental & Brave: Mental Recover & Recover Boost: Sayaka",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "AP Reduce：High Mental & Brave：Mental Recover & Recover Boost：沙耶香",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "APレデュース：ハイメンタル & リカバーブースト：さやか",
     "translation": {
       "zh-CN": {
@@ -286,6 +299,19 @@
     }
   },
   {
+    "raw": "APレデュース：メンタル & チアフル：アトラクトブースト",
+    "translation": {
+      "en": {
+        "text": "AP Reduce: Mental & Cheerful: Attract Boost",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "AP Reduce：Mental & Cheerful：Attract Boost",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "APレデュース：メンタル & チアフル：ハートキャプチャ",
     "translation": {
       "zh-CN": {
@@ -308,6 +334,32 @@
       "en": {
         "text": "AP Reduce：Mental & Cheerful：Voltage Gain",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "APレデュース：メンタル & チアフル：ボルテージゲイン & ハートブースト",
+    "translation": {
+      "en": {
+        "text": "AP Reduce: Mental & Cheerful: Voltage Gain & Heart Boost",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "AP Reduce：Mental & Cheerful：Voltage Gain & Heart Boost",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "APレデュース：メンタル & チアフル：ボルテージブースト",
+    "translation": {
+      "en": {
+        "text": "AP Reduce: Mental & Cheerful: Voltage Boost",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "AP Reduce：Mental & Cheerful：Voltage Boost",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -1560,6 +1612,19 @@
     }
   },
   {
+    "raw": "アブダクション",
+    "translation": {
+      "en": {
+        "text": "Abduction",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Abduction",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "アルターエゴ",
     "translation": {
       "zh-CN": {
@@ -1859,6 +1924,19 @@
     }
   },
   {
+    "raw": "イミテーションスパイ",
+    "translation": {
+      "en": {
+        "text": "Imitation Spy",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Imitation Spy",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "イミテーションハート",
     "translation": {
       "zh-CN": {
@@ -1920,6 +1998,19 @@
       "zh-CN": {
         "text": "模拟刷新保护",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "イミテーションレディ",
+    "translation": {
+      "en": {
+        "text": "Imitation Lady",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Imitation Lady",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -2028,6 +2119,19 @@
     }
   },
   {
+    "raw": "インスタンス & コレクト：APサポート：スリーズブーケ",
+    "translation": {
+      "en": {
+        "text": "Instance & Collect: AP Support: Cerise Bouquet",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Instance & Collect：AP Support：Cerise Bouquet",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "インスタンス & ドロー：アトラクトブースト",
     "translation": {
       "zh-CN": {
@@ -2050,6 +2154,19 @@
       "zh-CN": {
         "text": "瞬间 & 抽取：魅力提升：Mira-Cra Park!",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "インスタンス & ドロー：アバンダンス/ハートブースト& アトラクトブースト：ドレス",
+    "translation": {
+      "en": {
+        "text": "Instance & Draw: Abundance/Heart Boost & Attract Boost: Dress",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Instance & Draw：Abundance/Heart Boost & Attract Boost：Dress",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -2223,6 +2340,19 @@
     }
   },
   {
+    "raw": "インタープリテーション & チェイン：慈 & ドロー：ハッピーアンビエンス & ハッピー/アトラクトブースト：慈",
+    "translation": {
+      "en": {
+        "text": "Interpretation & Chain: Megumi & Draw: Happy Ambience & Happy/Attract Boost: Megumi",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Interpretation & Chain：慈 & Draw：Happy Ambience & Happy/Attract Boost：慈",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "インタープリテーション & チェイン：梢 & ドロー：ハッピー/アトラクトブースト：梢",
     "translation": {
       "zh-CN": {
@@ -2232,6 +2362,19 @@
       "en": {
         "text": "Interpretation & Chain: Kozue & Draw: Happy/Attract Boost: Kozue",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "インタープリテーション & チェイン：梢 & ドロー：ハッピーアンビエンス & ハッピー/アトラクトブースト：梢",
+    "translation": {
+      "en": {
+        "text": "Interpretation & Chain: Kozue & Draw: Happy Ambience & Happy/Attract Boost: Kozue",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Interpretation & Chain：梢 & Draw：Happy Ambience & Happy/Attract Boost：梢",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -2297,6 +2440,19 @@
       "en": {
         "text": "Interpretation & Draw: Happy/Heart Boost",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "インタープリテーション & ドロー：ハッピー/ハートブースト & ハッピーアンビエンス",
+    "translation": {
+      "en": {
+        "text": "Interpretation & Draw: Happy/Heart Boost & Happy Ambience",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Interpretation & Draw：Happy/Heart Boost & Happy Ambience",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -2834,6 +2990,19 @@
     }
   },
   {
+    "raw": "エロープ",
+    "translation": {
+      "en": {
+        "text": "Elope",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Elope",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "エンジェリックエール",
     "translation": {
       "en": {
@@ -3016,6 +3185,19 @@
     }
   },
   {
+    "raw": "オーバーセクション：APレデュース & アグレッシブ & バイブス",
+    "translation": {
+      "en": {
+        "text": "Over Section: AP Reduce & Aggressive & Vibes",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Over Section：AP Reduce & Aggressive & Vibes",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "オーバーセクション：APレデュース & ハートキャプチャ：花帆",
     "translation": {
       "zh-CN": {
@@ -3038,6 +3220,45 @@
       "en": {
         "text": "Over Section: AP Reduce & Heart Boost",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "オーバーセクション：APレデュース & バイブス & ラブアトラクト：梢",
+    "translation": {
+      "en": {
+        "text": "Over Section: AP Reduce & Vibes & Love Attract: Kozue",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Over Section：AP Reduce & Vibes & Love Attract：梢",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "オーバーセクション：APレデュース & マチュレーション & オールラウンドブースト：瑠璃乃 & ボルテージゲイン：瑠璃乃",
+    "translation": {
+      "en": {
+        "text": "Over Section: AP Reduce & Maturation & All Round Boost: Rurino & Voltage Gain: Rurino",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Over Section：AP Reduce & Maturation & All Round Boost：瑠璃乃 & Voltage Gain：瑠璃乃",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "オーバーセクション：APレデュース & マチュレーション & オールラウンドブースト：花帆 & メンタルリカバー：花帆",
+    "translation": {
+      "en": {
+        "text": "Over Section: AP Reduce & Maturation & All Round Boost: Kaho & Mental Recover: Kaho",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Over Section：AP Reduce & Maturation & All Round Boost：花帆 & Mental Recover：花帆",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -3181,6 +3402,19 @@
       "en": {
         "text": "Over Section: Heart Capture & Extend Hand: 1",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "オーバーセクション：ハートキャプチャ & バイブス & メンタルプロテクト：綴理",
+    "translation": {
+      "en": {
+        "text": "Over Section: Heart Capture & Vibes & Mental Protect: Tsuzuri",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Over Section：Heart Capture & Vibes & Mental Protect：缀理",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -3779,6 +4013,19 @@
       "zh-CN": {
         "text": "少女诗歌",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "キングワイドハッピー",
+    "translation": {
+      "en": {
+        "text": "King Wide Happy",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "King Wide Happy",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -4888,6 +5135,19 @@
     }
   },
   {
+    "raw": "サーチ：吟子 & ショット：APゲイン & レイトドロー：4/APサポート",
+    "translation": {
+      "en": {
+        "text": "Search: Ginko & Shot: AP Gain & Late Draw: 4/AP Support",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Search：吟子 & Shot：AP Gain & Late Draw：4/AP Support",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "サーチ：姫芽 & ショット：APゲイン",
     "translation": {
       "zh-CN": {
@@ -4901,6 +5161,19 @@
     }
   },
   {
+    "raw": "サーチ：姫芽 & ショット：APゲイン & レイトドロー：4/APサポート",
+    "translation": {
+      "en": {
+        "text": "Search: Hime & Shot: AP Gain & Late Draw: 4/AP Support",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Search：姬芽 & Shot：AP Gain & Late Draw：4/AP Support",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "サーチ：小鈴 & ショット：APゲイン",
     "translation": {
       "zh-CN": {
@@ -4910,6 +5183,19 @@
       "en": {
         "text": "Search: Kosuzu & Shot: AP Gain",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サーチ：小鈴 & ショット：APゲイン & レイトドロー：4/APサポート",
+    "translation": {
+      "en": {
+        "text": "Search: Kosuzu & Shot: AP Gain & Late Draw: 4/AP Support",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Search：小铃 & Shot：AP Gain & Late Draw：4/AP Support",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -5148,6 +5434,19 @@
     }
   },
   {
+    "raw": "ジャストドロー：1/ビリーフ & アグレッシブ & APレデュース",
+    "translation": {
+      "en": {
+        "text": "Just Draw: 1/Belief & Aggressive & AP Reduce",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Just Draw：1/Belief & Aggressive & AP Reduce",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ジャストドロー：2/APレデュース",
     "translation": {
       "zh-CN": {
@@ -5200,6 +5499,19 @@
     }
   },
   {
+    "raw": "ジャストドロー：フィーバー/APゲイン & ハートブースト & アトラクトブースト：さやか & ハートキャプチャ",
+    "translation": {
+      "en": {
+        "text": "Just Draw: Fever/AP Gain & Heart Boost & Attract Boost: Sayaka & Heart Capture",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Just Draw：Fever/AP Gain & Heart Boost & Attract Boost：沙耶香 & Heart Capture",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ジャストドロー：フィーバー/APロス & APレデュース & ハートブースト & アトラクトブースト：小鈴",
     "translation": {
       "zh-CN": {
@@ -5222,6 +5534,19 @@
       "zh-CN": {
         "text": "Just Draw：Fever/Ritardando & Vibes & Ambience",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ジャックボルテージメロウ",
+    "translation": {
+      "en": {
+        "text": "Jack Voltage Mellow",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Jack Voltage Mellow",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -5261,6 +5586,19 @@
       "en": {
         "text": "Switch Voltage",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "スウィートトラップ",
+    "translation": {
+      "en": {
+        "text": "Sweet Trap",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Sweet Trap",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -5469,6 +5807,19 @@
       "en": {
         "text": "Second Sight",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "セカンドステージ",
+    "translation": {
+      "en": {
+        "text": "Second Stage",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Second Stage",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -6149,6 +6500,19 @@
     }
   },
   {
+    "raw": "チェイン：慈 & ドロー：ボルテージブースト：慈 & チアフル：リカバーブースト：慈",
+    "translation": {
+      "en": {
+        "text": "Chain: Megumi & Draw: Voltage Boost: Megumi & Cheerful: Recover Boost: Megumi",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Chain：慈 & Draw：Voltage Up：慈 & Cheerful：Recover Up：慈",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "チェイン：慈 & ドロー：リカバーブースト：慈",
     "translation": {
       "zh-CN": {
@@ -6262,6 +6626,19 @@
       "en": {
         "text": "Chain: Rurino & Draw: Voltage Boost",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "チェイン：瑠璃乃 & ドロー：ボルテージブースト & チアフル：エクステンドハンド",
+    "translation": {
+      "en": {
+        "text": "Chain: Rurino & Draw: Voltage Boost & Cheerful: Extend Hand",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Chain：瑠璃乃 & Draw：Voltage Up & Cheerful：Extend Hand",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -7215,6 +7592,19 @@
     }
   },
   {
+    "raw": "ドレス《My Lucky Clover》",
+    "translation": {
+      "en": {
+        "text": "Dress 《My Lucky Clover》",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "服装《My Lucky Clover》",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ドレス《PASSION!!!!!!》",
     "translation": {
       "zh-CN": {
@@ -7579,6 +7969,19 @@
     }
   },
   {
+    "raw": "ドロー：APレデュース & アトラクトブースト：慈 & チアフル：アトラクトブースト",
+    "translation": {
+      "en": {
+        "text": "Draw: AP Reduce & Attract Boost: Megumi & Cheerful: Attract Boost",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Draw：AP Reduce & Attract Up：慈 & Cheerful：Attract Up",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ドロー：APレデュース & サーチ：慈",
     "translation": {
       "zh-CN": {
@@ -7640,6 +8043,19 @@
       "en": {
         "text": "Draw：AP Reduce：Groovy & Cheerful",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ドロー：APレデュース：グルーヴィ＆チアフル & ボルテージブースト & リカバーブースト",
+    "translation": {
+      "en": {
+        "text": "Draw: AP Reduce: Groovy & Cheerful & Voltage Boost & Recover Boost",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Draw：AP Reduce：Groovy&Cheerful & Voltage Up & Recover Up",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -7770,6 +8186,19 @@
       "en": {
         "text": "Draw: Calm Down & Attract Boost",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ドロー：カームダウン & アトラクトブースト & APサポート：瑠璃乃",
+    "translation": {
+      "en": {
+        "text": "Draw: Calm Down & Attract Boost & AP Support: Rurino",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Draw：Calm Down & Attract Up & AP Support：瑠璃乃",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -7943,6 +8372,19 @@
     }
   },
   {
+    "raw": "ドロー：ハートキャプチャ & ハッピーアンビエンス & ハッピー/マチュレーション",
+    "translation": {
+      "en": {
+        "text": "Draw: Heart Capture & Happy Ambience & Happy/Maturation",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Draw：Love Attract & Happy Ambience & Happy/Maturation",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ドロー：ハートブースト",
     "translation": {
       "zh-CN": {
@@ -8073,6 +8515,19 @@
     }
   },
   {
+    "raw": "ドロー：ボルテージゲイン & ブレイブ：アトラクトブースト：さやか",
+    "translation": {
+      "en": {
+        "text": "Draw: Voltage Gain & Brave: Attract Boost: Sayaka",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Draw：Voltage Gain & Brave：Attract Up：沙耶香",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ドロー：ボルテージゲイン & ブレイブ：リカバーブースト",
     "translation": {
       "zh-CN": {
@@ -8121,6 +8576,32 @@
       "en": {
         "text": "Draw: Voltage Boost & AP Reduce: Groovy & Cheerful",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ドロー：ボルテージブースト＆APレデュース：グルーヴィ＆チアフル & ボルテージブースト",
+    "translation": {
+      "en": {
+        "text": "Draw: Voltage Boost & AP Reduce: Groovy & Cheerful & Voltage Boost",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Draw：Voltage Up&AP Reduce：Groovy&Cheerful & Voltage Up",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ドロー：ボルテージブースト＆APレデュース：グルーヴィ＆チアフル & リカバーブースト",
+    "translation": {
+      "en": {
+        "text": "Draw: Voltage Boost & AP Reduce: Groovy & Cheerful & Recover Boost",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Draw：Voltage Up&AP Reduce：Groovy&Cheerful & Recover Up",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -8931,6 +9412,19 @@
     }
   },
   {
+    "raw": "ハートコレクト：ワイドブースト",
+    "translation": {
+      "en": {
+        "text": "Heart Collect: Wide Boost",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Heart Collect：Wide Up",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ハートスプリンクル",
     "translation": {
       "zh-CN": {
@@ -9373,6 +9867,19 @@
     }
   },
   {
+    "raw": "フェイバリット：1 & ジャストドロー：1/リカバーブースト：みらくらぱーく！ & APレデュース",
+    "translation": {
+      "en": {
+        "text": "Favorite: 1 & Just Draw: 1/Recover Boost: Mira-Cra Park! & AP Reduce",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Favorite：1 & Just Draw：1/Recover Up：Mira-Cra Park! & AP Reduce",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "フェイバリット：2 & ジャストドロー：2/APレデュース",
     "translation": {
       "zh-CN": {
@@ -9551,6 +10058,19 @@
       "en": {
         "text": "Favorite: Fever & Draw: Heart Boost",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "フォースステージ",
+    "translation": {
+      "en": {
+        "text": "Fourth Stage",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Force Stage",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -10088,6 +10608,19 @@
     }
   },
   {
+    "raw": "ブーステッドハートゲイン：スリーズブーケ & APレデュース：スリーズブーケ",
+    "translation": {
+      "en": {
+        "text": "Boosted Heart Gain: Cerise Bouquet & AP Reduce: Cerise Bouquet",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Boosted Heart Gain：Cerise Bouquet & AP Reduce：Cerise Bouquet",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ブーステッドフィール",
     "translation": {
       "zh-CN": {
@@ -10374,6 +10907,32 @@
     }
   },
   {
+    "raw": "ミッション#Ce",
+    "translation": {
+      "en": {
+        "text": "Mission #Ce",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mission#Ce",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ミッション#Iz",
+    "translation": {
+      "en": {
+        "text": "Mission #Iz",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mission#Iz",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ミッドドロー：2〜4/APレデュース＆アザードロー：ハートブースト",
     "translation": {
       "zh-CN": {
@@ -10656,6 +11215,19 @@
       "zh-CN": {
         "text": "Love Flavor",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ランナウェイ",
+    "translation": {
+      "en": {
+        "text": "Runaway",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Runaway",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

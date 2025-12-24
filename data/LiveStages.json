@@ -299,6 +299,19 @@
     }
   },
   {
+    "raw": "スキルを1回使用するたび、メンタルを最大値の10%回復し、スキルを2回使用するたび、ステージ中、APの回復速度を-1%する。",
+    "translation": {
+      "en": {
+        "text": "Each time a skill is used, restore Mental by 10% of its max value, and after using 2 skills, decrease the AP recovery rate by -1% for the remainder of the stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "每使用1次技能时,恢复最大Mental值的10%,且每使用2次技能时,在本阶段内将AP的恢复速度降低1%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "スキルを20回使用するたび、デッキの全てのDOLLCHESTRAの消費APをステージ中常に-1し、ステージ開始時、メイン効果がリシャッフルであるデッキの全てのカードの消費APをステージ中常に+3する。",
     "translation": {
       "zh-CN": {
@@ -1235,6 +1248,19 @@
     }
   },
   {
+    "raw": "メイン効果がトークンカード追加またはハートキャプチャのスキルを使用するたび、ボルテージを+1500し、またメイン効果がボルテージ増加またはメンタルプロテクトのスキルを使用するたび、ボルテージを-3000する。",
+    "translation": {
+      "en": {
+        "text": "Each time a Token Card Addition or Heart Capture skill is used, gain +1500 Voltage, and each time a Voltage Increase or Mental Protect skill is used, lose -3000 Voltage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "每当使用主要效果为追加Token卡牌或心心捕获的技能时,Voltage增加1500点,此外每当使用主要效果为增加Voltage或Mental护盾的技能时,Voltage减少3000点。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メイン効果がハート上限変動のスキルを使用するたび、APが3回復する。",
     "translation": {
       "zh-CN": {
@@ -1309,6 +1335,19 @@
       "zh-CN": {
         "text": "每次使用主效果为Mental回复的技能时，AP回复5，每使用3次技能，AP减少5。",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メイン効果がメンタル回復のスキルを使用するたび、デッキの全てのカードの消費APを-5し、また山札が切れるたび、デッキの全てのカードの消費APを+3する。",
+    "translation": {
+      "en": {
+        "text": "Each time a Mental-recovery skill is used, decrease the AP cost of all cards in the deck by -5, and each time the deck runs out, increase the AP cost of all cards in the deck by +3.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "每当使用主要效果为恢复Mental值的技能时,牌组中所有卡牌的消耗AP减少5点,此外每当牌库用完时,牌组中所有卡牌的消耗AP增加3点。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
