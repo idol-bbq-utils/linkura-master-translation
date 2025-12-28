@@ -254,6 +254,11 @@
             "Id": 4030033,
             "ExchangeTicketName": "【夏コミ106出展記念！】《LIMITED》URセレクトチケット",
             "Description": "特定のLIMITEDのURカードから1枚を選んで獲得できるチケットです。"
+        },
+        {
+            "Id": 4030034,
+            "ExchangeTicketName": "【2026謹賀新年】《LIMITED》URセレクトチケット",
+            "Description": "特定のLIMITEDのURカードから1枚を選んで獲得できるチケットです。"
         }
     ]
 }

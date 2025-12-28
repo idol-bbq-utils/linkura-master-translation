@@ -1157,6 +1157,19 @@
     }
   },
   {
+    "raw": "メイン効果がメンタル回復のスキルの消費APを-5する。",
+    "translation": {
+      "en": {
+        "text": "Main effect decreases the AP consumed by skills with Mental recovery by -5.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "使主要效果为恢复Mental的技能的消耗AP-5。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メイン効果がリシャッフルのスキルの消費APを+4する。",
     "translation": {
       "en": {

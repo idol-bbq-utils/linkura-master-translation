@@ -5941,6 +5941,188 @@
     }
   },
   {
+    "raw": "5回の間ボルテージゲイン効果を$+10.2%$する。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Increase the Voltage Gain effect by $+10.2%$ for 5 turns. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for 200x amplification. Additionally, if the number of excluded cards is 20 or more, shuffle the hand back into the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "接下来5次获得Vo Pt.效果$+10.2%$。每除外10张卡牌，效果量增加，最大100张时增加至200倍。并且除外卡牌数为20张以上时，将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "5回の間ボルテージゲイン効果を$+10.8%$する。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Increase the Voltage Gain effect by $+10.8%$ for 5 turns. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for 200x amplification. Additionally, if the number of excluded cards is 20 or more, shuffle the hand back into the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "接下来5次获得Vo Pt.效果$+10.8%$。每除外10张卡牌，效果量增加，最大100张时增加至200倍。并且除外卡牌数为20张以上时，将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "5回の間ボルテージゲイン効果を$+12%$する。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Increase the Voltage Gain effect by $+12%$ for 5 turns. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for 200x amplification. Additionally, if the number of excluded cards is 20 or more, shuffle the hand back into the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "接下来5次获得Vo Pt.效果$+12%$。每除外10张卡牌，效果量增加，最大100张时增加至200倍。并且除外卡牌数为20张以上时，将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "5回の間ボルテージゲイン効果を$+12.6%$する。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Increase the Voltage Gain effect by $+12.6%$ for 5 turns. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for 200x amplification. Additionally, if the number of excluded cards is 20 or more, shuffle the hand back into the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "接下来5次获得Vo Pt.效果$+12.6%$。每除外10张卡牌，效果量增加，最大100张时增加至200倍。并且除外卡牌数为20张以上时，将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "5回の間ボルテージゲイン効果を$+13.2%$する。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Increase the Voltage Gain effect by $+13.2%$ for 5 turns. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for 200x amplification. Additionally, if the number of excluded cards is 20 or more, shuffle the hand back into the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "接下来5次获得Vo Pt.效果$+13.2%$。每除外10张卡牌，效果量增加，最大100张时增加至200倍。并且除外卡牌数为20张以上时，将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "5回の間ボルテージゲイン効果を$+13.8%$する。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Increase the Voltage Gain effect by $+13.8%$ for 5 turns. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for 200x amplification. Additionally, if the number of excluded cards is 20 or more, shuffle the hand back into the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "接下来5次获得Vo Pt.效果$+13.8%$。每除外10张卡牌，效果量增加，最大100张时增加至200倍。并且除外卡牌数为20张以上时，将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "5回の間ボルテージゲイン効果を$+15%$する。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Increase the Voltage Gain effect by $+15%$ for 5 turns. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for 200x amplification. Additionally, if the number of excluded cards is 20 or more, shuffle the hand back into the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "接下来5次获得Vo Pt.效果$+15%$。每除外10张卡牌，效果量增加，最大100张时增加至200倍。并且除外卡牌数为20张以上时，将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "5回の間ボルテージゲイン効果を$+6%$する。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Increase the Voltage Gain effect by $+6%$ for 5 turns. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for 200x amplification. Additionally, if the number of excluded cards is 20 or more, shuffle the hand back into the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "接下来5次获得Vo Pt.效果$+6%$。每除外10张卡牌，效果量增加，最大100张时增加至200倍。并且除外卡牌数为20张以上时，将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "5回の間ボルテージゲイン効果を$+6.6%$する。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Increase the Voltage Gain effect by $+6.6%$ for 5 turns. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for 200x amplification. Additionally, if the number of excluded cards is 20 or more, shuffle the hand back into the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "接下来5次获得Vo Pt.效果$+6.6%$。每除外10张卡牌，效果量增加，最大100张时增加至200倍。并且除外卡牌数为20张以上时，将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "5回の間ボルテージゲイン効果を$+7.2%$する。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Increase the Voltage Gain effect by $+7.2%$ for 5 turns. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for 200x amplification. Additionally, if the number of excluded cards is 20 or more, shuffle the hand back into the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "接下来5次获得Vo Pt.效果$+7.2%$。每除外10张卡牌，效果量增加，最大100张时增加至200倍。并且除外卡牌数为20张以上时，将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "5回の間ボルテージゲイン効果を$+7.8%$する。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Increase the Voltage Gain effect by $+7.8%$ for 5 turns. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for 200x amplification. Additionally, if the number of excluded cards is 20 or more, shuffle the hand back into the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "接下来5次获得Vo Pt.效果$+7.8%$。每除外10张卡牌，效果量增加，最大100张时增加至200倍。并且除外卡牌数为20张以上时，将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "5回の間ボルテージゲイン効果を$+8.4%$する。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Increase the Voltage Gain effect by $+8.4%$ for 5 turns. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for 200x amplification. Additionally, if the number of excluded cards is 20 or more, shuffle the hand back into the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "接下来5次获得Vo Pt.效果$+8.4%$。每除外10张卡牌，效果量增加，最大100张时增加至200倍。并且除外卡牌数为20张以上时，将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "5回の間ボルテージゲイン効果を$+9%$する。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Increase the Voltage Gain effect by $+9%$ for 5 turns. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for 200x amplification. Additionally, if the number of excluded cards is 20 or more, shuffle the hand back into the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "接下来5次获得Vo Pt.效果$+9%$。每除外10张卡牌，效果量增加，最大100张时增加至200倍。并且除外卡牌数为20张以上时，将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "5回の間ボルテージゲイン効果を$+9.6%$する。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "Increase the Voltage Gain effect by $+9.6%$ for 5 turns. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for 200x amplification. Additionally, if the number of excluded cards is 20 or more, shuffle the hand back into the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "接下来5次获得Vo Pt.效果$+9.6%$。每除外10张卡牌，效果量增加，最大100张时增加至200倍。并且除外卡牌数为20张以上时，将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "5回の間ラブアトラクト効果を$+10.4%$する。さらにメンタルを最大値の25％減少させる。",
     "translation": {
       "zh-CN": {
@@ -26897,6 +27079,188 @@
     }
   },
   {
+    "raw": "このステージ中、吟子/花帆/小鈴/さやか/姫芽/瑠璃乃/セラス/泉のスキルを全員使用するたび、ボルテージPt.を$+200$、このステージ中、AP回復速度を$+12%$、メンタルの最大値の$120%$分のメンタル直接ダメージを無効にする。消費APの合計に応じてボルテージゲイン効果の効果量が変化する。各メンバーのスキルを重複した際、消費APの記録を上書きする。",
+    "translation": {
+      "en": {
+        "text": "During this stage, each time a skill from all members (Ginko/Kaho/Kosuzu/Sayaka/Hime/Rurino/Ceras/Izumi) is used, increase Voltage Pt. by $+200$, increase AP Recovery Speed by $+12%$ during this stage, and nullify $120%$ of the maximum Mental value as direct Mental damage. The effect amount of the Voltage Gain effect changes according to the total AP consumed. When a skill of each member is used multiple times, the AP consumption record is overwritten.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，每次使用全部吟子/花帆/小铃/沙耶香/姬芽/瑠璃乃/塞拉斯/泉的技能后，Vo Pt.$+200$，本场Live中，AP回复速度$+12%$，防止最大Mental值$120%$的直接伤害。根据消费AP的合计值，获得Vo Pt.效果的效果量会发生变化。重复使用各成员的技能时，覆盖消费AP的记录。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、吟子/花帆/小鈴/さやか/姫芽/瑠璃乃/セラス/泉のスキルを全員使用するたび、ボルテージPt.を$+220$、このステージ中、AP回復速度を$+13.2%$、メンタルの最大値の$132%$分のメンタル直接ダメージを無効にする。消費APの合計に応じてボルテージゲイン効果の効果量が変化する。各メンバーのスキルを重複した際、消費APの記録を上書きする。",
+    "translation": {
+      "en": {
+        "text": "During this stage, each time a skill from all members (Ginko/Kaho/Kosuzu/Sayaka/Hime/Rurino/Ceras/Izumi) is used, increase Voltage Pt. by $+220$, increase AP Recovery Speed by $+13.2%$ during this stage, and nullify $132%$ of the maximum Mental value as direct Mental damage. The effect amount of the Voltage Gain effect changes according to the total AP consumed. When a skill of each member is used multiple times, the AP consumption record is overwritten.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，每次使用全部吟子/花帆/小铃/沙耶香/姬芽/瑠璃乃/塞拉斯/泉的技能后，Vo Pt.$+220$，本场Live中，AP回复速度$+13.2%$，防止最大Mental值$132%$的直接伤害。根据消费AP的合计值，获得Vo Pt.效果的效果量会发生变化。重复使用各成员的技能时，覆盖消费AP的记录。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、吟子/花帆/小鈴/さやか/姫芽/瑠璃乃/セラス/泉のスキルを全員使用するたび、ボルテージPt.を$+240$、このステージ中、AP回復速度を$+14.4%$、メンタルの最大値の$144%$分のメンタル直接ダメージを無効にする。消費APの合計に応じてボルテージゲイン効果の効果量が変化する。各メンバーのスキルを重複した際、消費APの記録を上書きする。",
+    "translation": {
+      "en": {
+        "text": "During this stage, each time a skill from all members (Ginko/Kaho/Kosuzu/Sayaka/Hime/Rurino/Ceras/Izumi) is used, increase Voltage Pt. by $+240$, increase AP Recovery Speed by $+14.4%$ during this stage, and nullify $144%$ of the maximum Mental value as direct Mental damage. The effect amount of the Voltage Gain effect changes according to the total AP consumed. When a skill of each member is used multiple times, the AP consumption record is overwritten.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，每次使用全部吟子/花帆/小铃/沙耶香/姬芽/瑠璃乃/塞拉斯/泉的技能后，Vo Pt.$+240$，本场Live中，AP回复速度$+14.4%$，防止最大Mental值$144%$的直接伤害。根据消费AP的合计值，获得Vo Pt.效果的效果量会发生变化。重复使用各成员的技能时，覆盖消费AP的记录。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、吟子/花帆/小鈴/さやか/姫芽/瑠璃乃/セラス/泉のスキルを全員使用するたび、ボルテージPt.を$+260$、このステージ中、AP回復速度を$+15.6%$、メンタルの最大値の$156%$分のメンタル直接ダメージを無効にする。消費APの合計に応じてボルテージゲイン効果の効果量が変化する。各メンバーのスキルを重複した際、消費APの記録を上書きする。",
+    "translation": {
+      "en": {
+        "text": "During this stage, each time a skill from all members (Ginko/Kaho/Kosuzu/Sayaka/Hime/Rurino/Ceras/Izumi) is used, increase Voltage Pt. by $+260$, increase AP Recovery Speed by $+15.6%$ during this stage, and nullify $156%$ of the maximum Mental value as direct Mental damage. The effect amount of the Voltage Gain effect changes according to the total AP consumed. When a skill of each member is used multiple times, the AP consumption record is overwritten.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，每次使用全部吟子/花帆/小铃/沙耶香/姬芽/瑠璃乃/塞拉斯/泉的技能后，Vo Pt.$+260$，本场Live中，AP回复速度$+15.6%$，防止最大Mental值$156%$的直接伤害。根据消费AP的合计值，获得Vo Pt.效果的效果量会发生变化。重复使用各成员的技能时，覆盖消费AP的记录。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、吟子/花帆/小鈴/さやか/姫芽/瑠璃乃/セラス/泉のスキルを全員使用するたび、ボルテージPt.を$+280$、このステージ中、AP回復速度を$+16.8%$、メンタルの最大値の$168%$分のメンタル直接ダメージを無効にする。消費APの合計に応じてボルテージゲイン効果の効果量が変化する。各メンバーのスキルを重複した際、消費APの記録を上書きする。",
+    "translation": {
+      "en": {
+        "text": "During this stage, each time a skill from all members (Ginko/Kaho/Kosuzu/Sayaka/Hime/Rurino/Ceras/Izumi) is used, increase Voltage Pt. by $+280$, increase AP Recovery Speed by $+16.8%$ during this stage, and nullify $168%$ of the maximum Mental value as direct Mental damage. The effect amount of the Voltage Gain effect changes according to the total AP consumed. When a skill of each member is used multiple times, the AP consumption record is overwritten.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，每次使用全部吟子/花帆/小铃/沙耶香/姬芽/瑠璃乃/塞拉斯/泉的技能后，Vo Pt.$+280$，本场Live中，AP回复速度$+16.8%$，防止最大Mental值$168%$的直接伤害。根据消费AP的合计值，获得Vo Pt.效果的效果量会发生变化。重复使用各成员的技能时，覆盖消费AP的记录。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、吟子/花帆/小鈴/さやか/姫芽/瑠璃乃/セラス/泉のスキルを全員使用するたび、ボルテージPt.を$+300$、このステージ中、AP回復速度を$+18%$、メンタルの最大値の$180%$分のメンタル直接ダメージを無効にする。消費APの合計に応じてボルテージゲイン効果の効果量が変化する。各メンバーのスキルを重複した際、消費APの記録を上書きする。",
+    "translation": {
+      "en": {
+        "text": "During this stage, each time a skill from all members (Ginko/Kaho/Kosuzu/Sayaka/Hime/Rurino/Ceras/Izumi) is used, increase Voltage Pt. by $+300$, increase AP Recovery Speed by $+18%$ during this stage, and nullify $180%$ of the maximum Mental value as direct Mental damage. The effect amount of the Voltage Gain effect changes according to the total AP consumed. When a skill of each member is used multiple times, the AP consumption record is overwritten.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，每次使用全部吟子/花帆/小铃/沙耶香/姬芽/瑠璃乃/塞拉斯/泉的技能后，Vo Pt.$+300$，本场Live中，AP回复速度$+18%$，防止最大Mental值$180%$的直接伤害。根据消费AP的合计值，获得Vo Pt.效果的效果量会发生变化。重复使用各成员的技能时，覆盖消费AP的记录。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、吟子/花帆/小鈴/さやか/姫芽/瑠璃乃/セラス/泉のスキルを全員使用するたび、ボルテージPt.を$+320$、このステージ中、AP回復速度を$+19.2%$、メンタルの最大値の$192%$分のメンタル直接ダメージを無効にする。消費APの合計に応じてボルテージゲイン効果の効果量が変化する。各メンバーのスキルを重複した際、消費APの記録を上書きする。",
+    "translation": {
+      "en": {
+        "text": "During this stage, each time a skill from all members (Ginko/Kaho/Kosuzu/Sayaka/Hime/Rurino/Ceras/Izumi) is used, increase Voltage Pt. by $+320$, increase AP Recovery Speed by $+19.2%$ during this stage, and nullify $192%$ of the maximum Mental value as direct Mental damage. The effect amount of the Voltage Gain effect changes according to the total AP consumed. When a skill of each member is used multiple times, the AP consumption record is overwritten.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，每次使用全部吟子/花帆/小铃/沙耶香/姬芽/瑠璃乃/塞拉斯/泉的技能后，Vo Pt.$+320$，本场Live中，AP回复速度$+19.2%$，防止最大Mental值$192%$的直接伤害。根据消费AP的合计值，获得Vo Pt.效果的效果量会发生变化。重复使用各成员的技能时，覆盖消费AP的记录。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、吟子/花帆/小鈴/さやか/姫芽/瑠璃乃/セラス/泉のスキルを全員使用するたび、ボルテージPt.を$+340$、このステージ中、AP回復速度を$+20.4%$、メンタルの最大値の$204%$分のメンタル直接ダメージを無効にする。消費APの合計に応じてボルテージゲイン効果の効果量が変化する。各メンバーのスキルを重複した際、消費APの記録を上書きする。",
+    "translation": {
+      "en": {
+        "text": "During this stage, each time a skill from all members (Ginko/Kaho/Kosuzu/Sayaka/Hime/Rurino/Ceras/Izumi) is used, increase Voltage Pt. by $+340$, increase AP Recovery Speed by $+20.4%$ during this stage, and nullify $204%$ of the maximum Mental value as direct Mental damage. The effect amount of the Voltage Gain effect changes according to the total AP consumed. When a skill of each member is used multiple times, the AP consumption record is overwritten.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，每次使用全部吟子/花帆/小铃/沙耶香/姬芽/瑠璃乃/塞拉斯/泉的技能后，Vo Pt.$+340$，本场Live中，AP回复速度$+20.4%$，防止最大Mental值$204%$的直接伤害。根据消费AP的合计值，获得Vo Pt.效果的效果量会发生变化。重复使用各成员的技能时，覆盖消费AP的记录。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、吟子/花帆/小鈴/さやか/姫芽/瑠璃乃/セラス/泉のスキルを全員使用するたび、ボルテージPt.を$+360$、このステージ中、AP回復速度を$+21.6%$、メンタルの最大値の$216%$分のメンタル直接ダメージを無効にする。消費APの合計に応じてボルテージゲイン効果の効果量が変化する。各メンバーのスキルを重複した際、消費APの記録を上書きする。",
+    "translation": {
+      "en": {
+        "text": "During this stage, each time a skill from all members (Ginko/Kaho/Kosuzu/Sayaka/Hime/Rurino/Ceras/Izumi) is used, increase Voltage Pt. by $+360$, increase AP Recovery Speed by $+21.6%$ during this stage, and nullify $216%$ of the maximum Mental value as direct Mental damage. The effect amount of the Voltage Gain effect changes according to the total AP consumed. When a skill of each member is used multiple times, the AP consumption record is overwritten.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，每次使用全部吟子/花帆/小铃/沙耶香/姬芽/瑠璃乃/塞拉斯/泉的技能后，Vo Pt.$+360$，本场Live中，AP回复速度$+21.6%$，防止最大Mental值$216%$的直接伤害。根据消费AP的合计值，获得Vo Pt.效果的效果量会发生变化。重复使用各成员的技能时，覆盖消费AP的记录。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、吟子/花帆/小鈴/さやか/姫芽/瑠璃乃/セラス/泉のスキルを全員使用するたび、ボルテージPt.を$+400$、このステージ中、AP回復速度を$+24%$、メンタルの最大値の$240%$分のメンタル直接ダメージを無効にする。消費APの合計に応じてボルテージゲイン効果の効果量が変化する。各メンバーのスキルを重複した際、消費APの記録を上書きする。",
+    "translation": {
+      "en": {
+        "text": "During this stage, each time a skill from all members (Ginko/Kaho/Kosuzu/Sayaka/Hime/Rurino/Ceras/Izumi) is used, increase Voltage Pt. by $+400$, increase AP Recovery Speed by $+24%$ during this stage, and nullify $240%$ of the maximum Mental value as direct Mental damage. The effect amount of the Voltage Gain effect changes according to the total AP consumed. When a skill of each member is used multiple times, the AP consumption record is overwritten.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，每次使用全部吟子/花帆/小铃/沙耶香/姬芽/瑠璃乃/塞拉斯/泉的技能后，Vo Pt.$+400$，本场Live中，AP回复速度$+24%$，防止最大Mental值$240%$的直接伤害。根据消费AP的合计值，获得Vo Pt.效果的效果量会发生变化。重复使用各成员的技能时，覆盖消费AP的记录。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、吟子/花帆/小鈴/さやか/姫芽/瑠璃乃/セラス/泉のスキルを全員使用するたび、ボルテージPt.を$+420$、このステージ中、AP回復速度を$+25.2%$、メンタルの最大値の$252%$分のメンタル直接ダメージを無効にする。消費APの合計に応じてボルテージゲイン効果の効果量が変化する。各メンバーのスキルを重複した際、消費APの記録を上書きする。",
+    "translation": {
+      "en": {
+        "text": "During this stage, whenever skills from all of Ginko/Kaho/Kosuzu/Sayaka/Hime/Rurino/Ceras/Izumi are used, increase Voltage Pt. by +420, increase AP Recovery Speed by +25.2% for this stage, and nullify 252% of max Mental value as direct Mental damage. The Voltage Gain effect amount changes according to the total AP consumed. When each member's skill overlaps, overwrite the AP consumption record.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，每次使用吟子/花帆/小铃/沙耶香/姬芽/瑠璃乃/塞拉斯/泉全员的技能时，Vo Pt.$+420$，本场Live中，AP回复速度$+25.2%$，防止最大Mental值$252%$的Mental直接伤害。根据消费AP的合计，获得Vo Pt.效果的效果量会发生变化。各成员的技能重复使用时，消费AP的记录将被覆盖。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、吟子/花帆/小鈴/さやか/姫芽/瑠璃乃/セラス/泉のスキルを全員使用するたび、ボルテージPt.を$+440$、このステージ中、AP回復速度を$+26.4%$、メンタルの最大値の$264%$分のメンタル直接ダメージを無効にする。消費APの合計に応じてボルテージゲイン効果の効果量が変化する。各メンバーのスキルを重複した際、消費APの記録を上書きする。",
+    "translation": {
+      "en": {
+        "text": "During this stage, whenever skills from all of Ginko/Kaho/Kosuzu/Sayaka/Hime/Rurino/Ceras/Izumi are used, increase Voltage Pt. by +440, increase AP Recovery Speed by +26.4% for this stage, and nullify 264% of max Mental value as direct Mental damage. The Voltage Gain effect amount changes according to the total AP consumed. When each member's skill overlaps, overwrite the AP consumption record.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，每次使用吟子/花帆/小铃/沙耶香/姬芽/瑠璃乃/塞拉斯/泉全员的技能时，Vo Pt.$+440$，本场Live中，AP回复速度$+26.4%$，防止最大Mental值$264%$的Mental直接伤害。根据消费AP的合计，获得Vo Pt.效果的效果量会发生变化。各成员的技能重复使用时，消费AP的记录将被覆盖。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、吟子/花帆/小鈴/さやか/姫芽/瑠璃乃/セラス/泉のスキルを全員使用するたび、ボルテージPt.を$+460$、このステージ中、AP回復速度を$+27.6%$、メンタルの最大値の$276%$分のメンタル直接ダメージを無効にする。消費APの合計に応じてボルテージゲイン効果の効果量が変化する。各メンバーのスキルを重複した際、消費APの記録を上書きする。",
+    "translation": {
+      "en": {
+        "text": "During this stage, whenever skills from all of Ginko/Kaho/Kosuzu/Sayaka/Hime/Rurino/Ceras/Izumi are used, increase Voltage Pt. by +460, increase AP Recovery Speed by +27.6% for this stage, and nullify 276% of max Mental value as direct Mental damage. The Voltage Gain effect amount changes according to the total AP consumed. When each member's skill overlaps, overwrite the AP consumption record.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，每次使用吟子/花帆/小铃/沙耶香/姬芽/瑠璃乃/塞拉斯/泉全员的技能时，Vo Pt.$+460$，本场Live中，AP回复速度$+27.6%$，防止最大Mental值$276%$的Mental直接伤害。根据消费AP的合计，获得Vo Pt.效果的效果量会发生变化。各成员的技能重复使用时，消费AP的记录将被覆盖。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、吟子/花帆/小鈴/さやか/姫芽/瑠璃乃/セラス/泉のスキルを全員使用するたび、ボルテージPt.を$+500$、このステージ中、AP回復速度を$+30%$、メンタルの最大値の$300%$分のメンタル直接ダメージを無効にする。消費APの合計に応じてボルテージゲイン効果の効果量が変化する。各メンバーのスキルを重複した際、消費APの記録を上書きする。",
+    "translation": {
+      "en": {
+        "text": "During this stage, whenever skills from all of Ginko/Kaho/Kosuzu/Sayaka/Hime/Rurino/Ceras/Izumi are used, increase Voltage Pt. by +500, increase AP Recovery Speed by +30% for this stage, and nullify 300% of max Mental value as direct Mental damage. The Voltage Gain effect amount changes according to the total AP consumed. When each member's skill overlaps, overwrite the AP consumption record.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，每次使用吟子/花帆/小铃/沙耶香/姬芽/瑠璃乃/塞拉斯/泉全员的技能时，Vo Pt.$+500$，本场Live中，AP回复速度$+30%$，防止最大Mental值$300%$的Mental直接伤害。根据消费AP的合计，获得Vo Pt.效果的效果量会发生变化。各成员的技能重复使用时，消费AP的记录将被覆盖。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、吟子/花帆/小鈴/さやか/姫芽/瑠璃乃/泉/セラスのスキルを全員使用するたび、このセクション中、獲得するLOVEを$+3555.2%$、ビートハートの出現個数を$+3$、ハート上限を$+355$する。消費APの合計に応じてアトラクト効果の効果量が変化する。各メンバーのスキルを重複した際、消費APの記録を上書きする。",
     "translation": {
       "zh-CN": {
@@ -46618,6 +46982,123 @@
     }
   },
   {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$2100$ptずつ増加する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 2100 pt every second. The effect amount increases for every 10 excluded cards, up to a maximum of 20x at 100 cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每1秒增加$2100$pt。每除外10张卡，最多100张20倍为止，效果量增加。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$2310$ptずつ増加する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 2310 pt every second. The effect amount increases for every 10 excluded cards, up to a maximum of 20x at 100 cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每1秒增加$2310$pt。每除外10张卡，最多100张20倍为止，效果量增加。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$2520$ptずつ増加する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 2520 pt every second. The effect amount increases for every 10 excluded cards, up to a maximum of 20x at 100 cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每1秒增加$2520$pt。每除外10张卡，最多100张20倍为止，效果量增加。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$2730$ptずつ増加する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 2730 pt every second. The effect amount increases for every 10 excluded cards, up to a maximum of 20x at 100 cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每1秒增加$2730$pt。每除外10张卡，最多100张20倍为止，效果量增加。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$2940$ptずつ増加する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 2940 pt every second. The effect amount increases for every 10 excluded cards, up to a maximum of 20x at 100 cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每1秒增加$2940$pt。每除外10张卡，最多100张20倍为止，效果量增加。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$3150$ptずつ増加する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 3150 pt every second. The effect amount increases for every 10 excluded cards, up to a maximum of 20x at 100 cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每1秒增加$3150$pt。每除外10张卡，最多100张20倍为止，效果量增加。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$3360$ptずつ増加する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 3360 pt every second. The effect amount increases for every 10 excluded cards, up to a maximum of 20x at 100 cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每1秒增加$3360$pt。每除外10张卡，最多100张20倍为止，效果量增加。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$3570$ptずつ増加する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 3570 pt every second. The effect amount increases for every 10 excluded cards, up to a maximum of 20x at 100 cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每1秒增加$3570$pt。每除外10张卡，最多100张20倍为止，效果量增加。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$3780$ptずつ増加する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 3780 pt every second. The effect amount increases for every 10 excluded cards, up to a maximum of 20x at 100 cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每1秒增加$3780$pt。每除外10张卡，最多100张20倍为止，效果量增加。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ボルテージPt.が1秒ごとに$40800$ptずつ増加し、手札の上限枚数を3枚減少する。",
     "translation": {
       "zh-CN": {
@@ -46626,6 +47107,32 @@
       },
       "en": {
         "text": "During this section, Voltage Pt. increases by 40800 pt every second and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$4200$ptずつ増加する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 4200 pt every second. The effect amount increases for every 10 excluded cards, up to a maximum of 20x at 100 cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每1秒增加$4200$pt。每除外10张卡，最多100张20倍为止，效果量增加。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$4410$ptずつ増加する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 4410 pt every second. The effect amount increases for every 10 excluded cards, up to a maximum of 20x at 100 cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每1秒增加$4410$pt。每除外10张卡，最多100张20倍为止，效果量增加。",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -46644,6 +47151,32 @@
     }
   },
   {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$4620$ptずつ増加する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 4620 pt every second. The effect amount increases for every 10 excluded cards, up to a maximum of 20x at 100 cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每1秒增加$4620$pt。每除外10张卡，最多100张20倍为止，效果量增加。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$4830$ptずつ増加する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 4830 pt every second. The effect amount increases for every 10 excluded cards, up to a maximum of 20x at 100 cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每1秒增加$4830$pt。每除外10张卡，最多100张20倍为止，效果量增加。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ボルテージPt.が1秒ごとに$48960$ptずつ増加し、手札の上限枚数を3枚減少する。",
     "translation": {
       "zh-CN": {
@@ -46652,6 +47185,19 @@
       },
       "en": {
         "text": "During this section, Voltage Pt. increases by 48960 pt every second and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージPt.が1秒ごとに$5250$ptずつ増加する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Voltage Pt. increases by 5250 pt every second. The effect amount increases for every 10 excluded cards, up to a maximum of 20x at 100 cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Vo Pt.每1秒增加$5250$pt。每除外10张卡，最多100张20倍为止，效果量增加。",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -51051,6 +51597,123 @@
     }
   },
   {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$21%$回復する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Mental recovers by 21% of its maximum value every second. The effect amount increases for every 10 excluded cards, up to a maximum of 20x at 100 cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental每1秒恢复最大值的$21%$。每除外10张卡，最多100张20倍为止，效果量增加。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$23.1%$回復する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Mental recovers by 23.1% of its maximum value every second. The effect amount increases for every 10 excluded cards, up to a maximum of 20x at 100 cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental每1秒恢复最大值的$23.1%$。每除外10张卡，最多100张20倍为止，效果量增加。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$25.2%$回復する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Mental recovers by 25.2% of its maximum value every second. The effect amount increases for every 10 excluded cards, up to a maximum of 20x at 100 cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental每1秒恢复最大值的$25.2%$。每除外10张卡，最多100张20倍为止，效果量增加。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$27.3%$回復する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Mental recovers by 27.3% of its maximum value every second. The effect amount increases for every 10 excluded cards, up to a maximum of 20x at 100 cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental每1秒恢复最大值的$27.3%$。每除外10张卡，最多100张20倍为止，效果量增加。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$29.4%$回復する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Mental recovers by 29.4% of its maximum value every second. The effect amount increases for every 10 excluded cards, up to a maximum of 20x at 100 cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental每1秒恢复最大值的$29.4%$。每除外10张卡，最多100张20倍为止，效果量增加。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$31.5%$回復する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Mental recovers by 31.5% of its maximum value every second. The effect amount increases for every 10 excluded cards, up to a maximum of 20x at 100 cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental每1秒恢复最大值的$31.5%$。每除外10张卡，最多100张20倍为止，效果量增加。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$33.6%$回復する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Mental recovers by $33.6% of its maximum value every second. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for a 20x multiplier.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental每秒恢复最大值的$33.6%$。每除外10张卡牌，效果量增加，最多100张卡牌时增加至20倍。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$35.7%$回復する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Mental recovers by $35.7% of its maximum value every second. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for a 20x multiplier.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental每秒恢复最大值的$35.7%$。每除外10张卡牌，效果量增加，最多100张卡牌时增加至20倍。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$37.8%$回復する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Mental recovers by $37.8% of its maximum value every second. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for a 20x multiplier.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental每秒恢复最大值的$37.8%$。每除外10张卡牌，效果量增加，最多100张卡牌时增加至20倍。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、メンタルが1秒ごとに最大値の$40.8%$回復し、手札の上限枚数を3枚減少する。",
     "translation": {
       "zh-CN": {
@@ -51059,6 +51722,32 @@
       },
       "en": {
         "text": "During this section, Mental recovers by 40.8% of its maximum value every second and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$42%$回復する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Mental recovers by $42% of its maximum value every second. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for a 20x multiplier.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental每秒恢复最大值的$42%$。每除外10张卡牌，效果量增加，最多100张卡牌时增加至20倍。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$44.1%$回復する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Mental recovers by $44.1% of its maximum value every second. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for a 20x multiplier.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental每秒恢复最大值的$44.1%$。每除外10张卡牌，效果量增加，最多100张卡牌时增加至20倍。",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -51077,6 +51766,32 @@
     }
   },
   {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$46.2%$回復する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Mental recovers by $46.2% of its maximum value every second. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for a 20x multiplier.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental每秒恢复最大值的$46.2%$。每除外10张卡牌，效果量增加，最多100张卡牌时增加至20倍。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$48.3%$回復する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Mental recovers by $48.3% of its maximum value every second. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for a 20x multiplier.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental每秒恢复最大值的$48.3%$。每除外10张卡牌，效果量增加，最多100张卡牌时增加至20倍。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、メンタルが1秒ごとに最大値の$49%$回復し、手札の上限枚数を3枚減少する。",
     "translation": {
       "zh-CN": {
@@ -51085,6 +51800,19 @@
       },
       "en": {
         "text": "During this section, Mental recovers by 49% of its maximum value every second and reduce the maximum number of cards in hand by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが1秒ごとに最大値の$52.5%$回復する。除外枚数10枚ごと、最大100枚20倍まで効果量が増加する。",
+    "translation": {
+      "en": {
+        "text": "During this section, Mental recovers by $52.5% of its maximum value every second. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for a 20x multiplier.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，Mental每秒恢复最大值的$52.5%$。每除外10张卡牌，效果量增加，最多100张卡牌时增加至20倍。",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -70014,6 +70742,19 @@
       "en": {
         "text": "When drawn, reduce AP cost of Rurino's skills in deck by 9. Additionally, when using Rurino's skills while this card is in hand with mood at Happy or Mellow 22 or higher, increase AP recovery speed by +22% during this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ドローしたとき、デッキ内のスノーフレークカードのスキルの消費APを-8する。さらにこのスキルを使用すると、このステージ中、AP回復速度を+1%し、デッキから除外される。",
+    "translation": {
+      "en": {
+        "text": "When drawn, reduce the AP cost of Snowflake Card skills in the deck by -8. Additionally, when this skill is used, increase AP Recovery Speed by +1% for the rest of this stage and exclude from the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "抽到时，卡组中雪花卡牌的技能消费AP-8。并且使用此技能时，本场Live中，AP回复速度+1%，并从卡组中除外。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -113464,6 +114205,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$2%$回復させる。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、このセクション中、手札の上限枚数を5枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $2% of its maximum value. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for a 200x multiplier. Additionally, when the number of excluded cards is 20 or more, increase the maximum number of cards in hand by 5 during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$2%$。每除外10张卡牌，效果量增加，最多100张卡牌时增加至200倍。并且除外数量为20张以上时，本小节中，手牌上限增加5张。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$2.04%$回復し、ボルテージPt.を$+9$する。さらに次に使用するラブアトラクト効果を$+14.7%$する。",
     "translation": {
       "zh-CN": {
@@ -113503,6 +114257,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$2.2%$回復させる。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、このセクション中、手札の上限枚数を5枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $2.2% of its maximum value. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for a 200x multiplier. Additionally, when the number of excluded cards is 20 or more, increase the maximum number of cards in hand by 5 during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$2.2%$。每除外10张卡牌，效果量增加，最多100张卡牌时增加至200倍。并且除外数量为20张以上时，本小节中，手牌上限增加5张。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$2.24%$回復させる。",
     "translation": {
       "zh-CN": {
@@ -113525,6 +114292,19 @@
       "en": {
         "text": "Recover Mental by $2.4%$ of maximum value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$2.4%$回復させる。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、このセクション中、手札の上限枚数を5枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $2.4% of its maximum value. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for a 200x multiplier. Additionally, when the number of excluded cards is 20 or more, increase the maximum number of cards in hand by 5 during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$2.4%$。每除外10张卡牌，效果量增加，最多100张卡牌时增加至200倍。并且除外数量为20张以上时，本小节中，手牌上限增加5张。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -113564,6 +114344,19 @@
       "en": {
         "text": "Recover Mental by $2.56%$ of maximum value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$2.6%$回復させる。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、このセクション中、手札の上限枚数を5枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $2.6% of its maximum value. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for a 200x multiplier. Additionally, when the number of excluded cards is 20 or more, increase the maximum number of cards in hand by 5 during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$2.6%$。每除外10张卡牌，效果量增加，最多100张卡牌时增加至200倍。并且除外数量为20张以上时，本小节中，手牌上限增加5张。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -113616,6 +114409,19 @@
       "en": {
         "text": "Recover Mental by $2.8%$ of maximum value. Additionally, gain $+3$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$2.8%$回復させる。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、このセクション中、手札の上限枚数を5枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $2.8% of its maximum value. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for a 200x multiplier. Additionally, when the number of excluded cards is 20 or more, increase the maximum number of cards in hand by 5 during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$2.8%$。每除外10张卡牌，效果量增加，最多100张卡牌时增加至200倍。并且除外数量为20张以上时，本小节中，手牌上限增加5张。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -114933,6 +115739,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$3%$回復させる。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、このセクション中、手札の上限枚数を5枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $3% of its maximum value. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for a 200x multiplier. Additionally, when the number of excluded cards is 20 or more, increase the maximum number of cards in hand by 5 during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$3%$。每除外10张卡牌，效果量增加，最多100张卡牌时增加至200倍。并且除外数量为20张以上时，本小节中，手牌上限增加5张。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$3%$回復し、ボルテージPt.を$+13$する。さらに次に使用するラブアトラクト効果を$+21.6%$する。",
     "translation": {
       "zh-CN": {
@@ -114972,6 +115791,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$3.2%$回復させる。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、このセクション中、手札の上限枚数を5枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $3.2% of its maximum value. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for a 200x multiplier. Additionally, when the number of excluded cards is 20 or more, increase the maximum number of cards in hand by 5 during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$3.2%$。每除外10张卡牌，效果量增加，最多100张卡牌时增加至200倍。并且除外数量为20张以上时，本小节中，手牌上限增加5张。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$3.36%$回復させる。",
     "translation": {
       "zh-CN": {
@@ -114998,6 +115830,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$3.4%$回復させる。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、このセクション中、手札の上限枚数を5枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $3.4% of its maximum value. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for a 200x multiplier. Additionally, when the number of excluded cards is 20 or more, increase the maximum number of cards in hand by 5 during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$3.4%$。每除外10张卡牌，效果量增加，最多100张卡牌时增加至200倍。并且除外数量为20张以上时，本小节中，手牌上限增加5张。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$3.52%$回復させる。",
     "translation": {
       "zh-CN": {
@@ -115007,6 +115852,19 @@
       "en": {
         "text": "Restore Mental by $3.52%$ of maximum value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$3.6%$回復させる。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、このセクション中、手札の上限枚数を5枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $3.6% of its maximum value. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for a 200x multiplier. Additionally, when the number of excluded cards is 20 or more, increase the maximum number of cards in hand by 5 during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$3.6%$。每除外10张卡牌，效果量增加，最多100张卡牌时增加至200倍。并且除外数量为20张以上时，本小节中，手牌上限增加5张。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -115596,6 +116454,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$4%$回復させる。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、このセクション中、手札の上限枚数を5枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $4% of its maximum value. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for a 200x multiplier. Additionally, when the number of excluded cards is 20 or more, increase the maximum number of cards in hand by 5 during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$4%$。每除外10张卡牌，效果量增加，最多100张卡牌时增加至200倍。并且除外数量为20张以上时，本小节中，手牌上限增加5张。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$4.16%$回復させる。",
     "translation": {
       "zh-CN": {
@@ -115618,6 +116489,19 @@
       "en": {
         "text": "Restore Mental by $4.2%$ of maximum value. Additionally, gain $+5$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$4.2%$回復させる。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、このセクション中、手札の上限枚数を5枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $4.2% of its maximum value. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for a 200x multiplier. Additionally, when the number of excluded cards is 20 or more, increase the maximum number of cards in hand by 5 during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$4.2%$。每除外10张卡牌，效果量增加，最多100张卡牌时增加至200倍。并且除外数量为20张以上时，本小节中，手牌上限增加5张。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -115674,6 +116558,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$4.4%$回復させる。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、このセクション中、手札の上限枚数を5枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $4.4% of its maximum value. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for a 200x multiplier. Additionally, when the number of excluded cards is 20 or more, increase the maximum number of cards in hand by 5 during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$4.4%$。每除外10张卡牌，效果量增加，最多100张卡牌时增加至200倍。并且除外数量为20张以上时，本小节中，手牌上限增加5张。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$4.48%$回復させる。",
     "translation": {
       "zh-CN": {
@@ -115696,6 +116593,19 @@
       "en": {
         "text": "Restore Mental by $4.48%$ of maximum value. Additionally, gain $+5$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$4.6%$回復させる。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、このセクション中、手札の上限枚数を5枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $4.6% of its maximum value. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for a 200x multiplier. Additionally, when the number of excluded cards is 20 or more, increase the maximum number of cards in hand by 5 during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$4.6%$。每除外10张卡牌，效果量增加，最多100张卡牌时增加至200倍。并且除外数量为20张以上时，本小节中，手牌上限增加5张。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -116281,6 +117191,19 @@
       "en": {
         "text": "Recover Mental by $49.28%$ of maximum value. Additionally, when Mental is at 100%, increase Beat Heart appearance count by $+4$ during this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$5%$回復させる。除外枚数10枚ごと、最大100枚200倍まで効果量が増加する。さらに除外枚数が20枚以上のとき、このセクション中、手札の上限枚数を5枚増加する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $5% of its maximum value. The effect amount increases for every 10 excluded cards, up to a maximum of 100 cards for a 200x multiplier. Additionally, when the number of excluded cards is 20 or more, increase the maximum number of cards in hand by 5 during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$5%$。每除外10张卡牌，效果量增加，最多100张卡牌时增加至200倍。并且除外数量为20张以上时，本小节中，手牌上限增加5张。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -124912,6 +125835,162 @@
       },
       "en": {
         "text": "Reduce the AP cost of all skills in hand by -3. Additionally, during this stage, increase LOVE gained by $+3.2%$, increase Volts Pt. by $+16$, and nullify $4%$ of the maximum Mental value as natural Mental decrease.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札の全てのスキルを使用する。このスキル使用に必要なAPは、他の手札の全てのスキルのAPの合計値になる。",
+    "translation": {
+      "en": {
+        "text": "Use all skills in hand. The AP required for using this skill equals the total AP of all other skills in hand.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "使用手牌中的所有技能。此技能使用所需的AP为其他所有手牌技能的AP合计值。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札の全てのスキルを使用する。さらにAPを$10$回復する。このスキル使用に必要なAPは、他の手札の全てのスキルのAPの合計から除外枚数を引いた値になる。",
+    "translation": {
+      "en": {
+        "text": "Use all skills in hand. Additionally, restore AP by $10$. The AP required to use this skill is equal to the total AP of all other skills in hand minus the number of excluded cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "使用手牌中的所有技能。并且AP回复$10$。使用该技能所需的AP为手牌中其它所有技能的AP合计减去除外数量的值。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札の全てのスキルを使用する。さらにAPを$11$回復する。このスキル使用に必要なAPは、他の手札の全てのスキルのAPの合計から除外枚数を引いた値になる。",
+    "translation": {
+      "en": {
+        "text": "Use all skills in hand. Additionally, restore AP by $11$. The AP required to use this skill is equal to the total AP of all other skills in hand minus the number of excluded cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "使用手牌中的所有技能。并且AP回复$11$。使用该技能所需的AP为手牌中其它所有技能的AP合计减去除外数量的值。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札の全てのスキルを使用する。さらにAPを$12$回復する。このスキル使用に必要なAPは、他の手札の全てのスキルのAPの合計から除外枚数を引いた値になる。",
+    "translation": {
+      "en": {
+        "text": "Use all skills in hand. Additionally, restore AP by $12$. The AP required to use this skill is equal to the total AP of all other skills in hand minus the number of excluded cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "使用手牌中的所有技能。并且AP回复$12$。使用该技能所需的AP为手牌中其它所有技能的AP合计减去除外数量的值。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札の全てのスキルを使用する。さらにAPを$13$回復する。このスキル使用に必要なAPは、他の手札の全てのスキルのAPの合計から除外枚数を引いた値になる。",
+    "translation": {
+      "en": {
+        "text": "Use all skills in hand. Additionally, restore AP by $13$. The AP required to use this skill is equal to the total AP of all other skills in hand minus the number of excluded cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "使用手牌中的所有技能。并且AP回复$13$。使用该技能所需的AP为手牌中其它所有技能的AP合计减去除外数量的值。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札の全てのスキルを使用する。さらにAPを$14$回復する。このスキル使用に必要なAPは、他の手札の全てのスキルのAPの合計から除外枚数を引いた値になる。",
+    "translation": {
+      "en": {
+        "text": "Use all skills in hand. Additionally, restore AP by $14$. The AP required to use this skill is equal to the total AP of all other skills in hand minus the number of excluded cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "使用手牌中的所有技能。并且AP回复$14$。使用该技能所需的AP为手牌中其它所有技能的AP合计减去除外数量的值。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札の全てのスキルを使用する。さらにAPを$16$回復する。このスキル使用に必要なAPは、他の手札の全てのスキルのAPの合計から除外枚数を引いた値になる。",
+    "translation": {
+      "en": {
+        "text": "Use all skills in hand. Additionally, restore AP by $16$. The AP required to use this skill is equal to the total AP of all other skills in hand minus the number of excluded cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "使用手牌中的所有技能。并且AP回复$16$。使用该技能所需的AP为手牌中其它所有技能的AP合计减去除外数量的值。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札の全てのスキルを使用する。さらにAPを$17$回復する。このスキル使用に必要なAPは、他の手札の全てのスキルのAPの合計から除外枚数を引いた値になる。",
+    "translation": {
+      "en": {
+        "text": "Use all skills in hand. Additionally, restore AP by $17$. The AP required to use this skill is equal to the total AP of all other skills in hand minus the number of excluded cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "使用手牌中的所有技能。并且AP回复$17$。使用该技能所需的AP为手牌中其它所有技能的AP合计减去除外数量的值。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札の全てのスキルを使用する。さらにAPを$18$回復する。このスキル使用に必要なAPは、他の手札の全てのスキルのAPの合計から除外枚数を引いた値になる。",
+    "translation": {
+      "en": {
+        "text": "Use all skills in hand. Additionally, restore AP by $18$. The AP required to use this skill is equal to the total AP of all other skills in hand minus the number of excluded cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "使用手牌中的所有技能。并且AP回复$18$。使用该技能所需的AP为手牌中其它所有技能的AP合计减去除外数量的值。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札の全てのスキルを使用する。さらにAPを$20$回復する。このスキル使用に必要なAPは、他の手札の全てのスキルのAPの合計から除外枚数を引いた値になる。",
+    "translation": {
+      "en": {
+        "text": "Use all skills in hand. Additionally, restore AP by $20$. The AP required to use this skill is equal to the total AP of all other skills in hand minus the number of excluded cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "使用手牌中的所有技能。并且AP回复$20$。使用该技能所需的AP为手牌中其它所有技能的AP合计减去除外数量的值。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札の全てのスキルを使用する。さらにAPを$8$回復する。このスキル使用に必要なAPは、他の手札の全てのスキルのAPの合計から除外枚数を引いた値になる。",
+    "translation": {
+      "en": {
+        "text": "Use all skills in hand. Additionally, restore AP by $8$. The AP required to use this skill is equal to the total AP of all other skills in hand minus the number of excluded cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "使用手牌中的所有技能。并且AP回复$8$。使用该技能所需的AP为手牌中其它所有技能的AP合计减去除外数量的值。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札の全てのスキルを使用する。さらにAPを$9$回復する。このスキル使用に必要なAPは、他の手札の全てのスキルのAPの合計から除外枚数を引いた値になる。",
+    "translation": {
+      "en": {
+        "text": "Use all skills in hand. Additionally, restore AP by $9$. The AP required to use this skill is equal to the total AP of all other skills in hand minus the number of excluded cards.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "使用手牌中的所有技能。并且AP回复$9$。使用该技能所需的AP为手牌中其它所有技能的AP合计减去除外数量的值。",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -148963,6 +150042,45 @@
       "en": {
         "text": "Based on the amount of Love Attract effects currently applied, reduce the AP cost of this skill in hand (maximum -5)",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "除外枚数が30枚未満でスキルを使用したとき、スノーフレークカードを1種類(合計1枚)山札に追加し、このステージ中、AP回復速度を-1%し、除外枚数が30枚以上で手札にある状態でハートを100000個回収したとき、ビートハート105回分のスキルハートを獲得し、ボルテージPt.を+1050する。さらにドローしたとき、デッキ内の花帆のスキルの消費APを-8する。",
+    "translation": {
+      "en": {
+        "text": "When a skill is used while the number of excluded cards is less than 30, add 1 type of Snowflake Card (1 card total) to the deck and reduce AP Recovery Speed by -1% for the rest of this stage. When 100,000 Hearts are collected while the number of excluded cards is 30 or more and this card is in hand, gain 105 Skill Hearts from Beat Hearts and increase Voltage Pt. by +1050. Additionally, when drawn, reduce the AP cost of Kaho's skills in the deck by -8.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "除外数量未满30张时使用技能，将1种雪花卡牌(合计1张)加入牌组，本场Live中，AP回复速度-1%，除外数量达到30张以上且在手牌中时回收100000个心心，获得105倍跳心的技能心心，Vo Pt.$+1050$。并且抽到时，卡组中花帆的技能消费AP-8。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "除外枚数が40枚未満でスキルを使用したとき、スノーフレークカードを1種類(合計3枚)山札に追加し、このステージ中、AP回復速度を-2%し、除外枚数が40枚以上で手札にある状態でハートを200000個回収したとき、ビートハート300回分のスキルハートを獲得し、このステージ中、メンタルの最大値の105%分のメンタル自然減少を無効にする。さらにドローしたとき、デッキ内の花帆のスキルの消費APを-8する。",
+    "translation": {
+      "en": {
+        "text": "When a skill is used while the number of excluded cards is less than 40, add 1 type of Snowflake Card (3 cards total) to the deck and reduce AP Recovery Speed by -2% for the rest of this stage. When 200,000 Hearts are collected while the number of excluded cards is 40 or more and this card is in hand, gain 300 Skill Hearts from Beat Hearts and nullify 105% of max Mental value as natural Mental decay for the rest of this stage. Additionally, when drawn, reduce the AP cost of Kaho's skills in the deck by -8.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "除外数量未满40张时使用技能，将1种雪花卡牌(合计3张)加入牌组，本场Live中，AP回复速度-2%，除外数量达到40张以上且在手牌中时回收200000个心心，获得300倍跳心的技能心心，本场Live中，使Mental自然减少量无效化，其数值为Mental最大值的105%。并且抽到时，卡组中花帆的技能消费AP-8。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "除外枚数が50枚未満でスキルを使用したとき、スノーフレークカードを1種類(合計5枚)山札に追加し、このステージ中、AP回復速度を-3%する。さらに除外枚数が50枚以上で手札にある状態でハートを300000個回収したとき、ビートハート1050回分のスキルハートを獲得し、APを5回復する。",
+    "translation": {
+      "en": {
+        "text": "When a skill is used while the number of excluded cards is less than 50, add 1 type of Snowflake Card (5 cards total) to the deck and reduce AP Recovery Speed by -3% for the rest of this stage. Additionally, when 300,000 Hearts are collected while the number of excluded cards is 50 or more and this card is in hand, gain 1050 Skill Hearts from Beat Hearts and restore AP by 5.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "除外数量未满50张时使用技能，将1种雪花卡牌(合计5张)加入牌组，本场Live中，AP回复速度-3%。并且除外数量达到50张以上且在手牌中时回收300000个心心，获得1050倍跳心的技能心心，AP回复5。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   }

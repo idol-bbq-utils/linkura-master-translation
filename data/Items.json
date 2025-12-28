@@ -6786,6 +6786,45 @@
     }
   },
   {
+    "raw": "[雪舞う空と二秒の永遠]大沢 瑠璃乃 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[Snow-Dancing Sky and Two Seconds of Eternity] Rurino Osawa Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[雪舞う空と二秒の永遠]大泽瑠璃乃 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[雪舞う空と二秒の永遠]日野下 花帆 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[Snow-Dancing Sky and Two Seconds of Eternity] Kaho Hinoshita Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[雪舞う空と二秒の永遠]日野下花帆 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[雪舞う空と二秒の永遠]村野 さやか 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[Snow-Dancing Sky and Two Seconds of Eternity] Sayaka Murano Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[雪舞う空と二秒の永遠]村野沙耶香 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[青とシャボン]夕霧 綴理 解放Pt.",
     "translation": {
       "zh-CN": {
@@ -6964,6 +7003,19 @@
       "en": {
         "text": "【1st Anniversary Memorial】《LIMITED》UR Select Ticket",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【2026謹賀新年】《LIMITED》URセレクトチケット",
+    "translation": {
+      "en": {
+        "text": "[2026 Happy New Year] <LIMITED> UR Select Ticket",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【2026贺新年】《LIMITED》UR选择券",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -8914,6 +8966,19 @@
       "en": {
         "text": "2nd Anniversary Commemorative Limited Super Rare Select Ticket",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "にせんにじゅうろくきんがしんねんりみてっどうるとられあせれくとちけっと",
+    "translation": {
+      "en": {
+        "text": "nisen nijuuroku kinga shinnen rimiteddo urutorarea serekuto chiketto",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【2026贺新年】《LIMITED》UR选择券",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

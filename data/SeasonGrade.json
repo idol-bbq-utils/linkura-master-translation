@@ -52,6 +52,19 @@
     }
   },
   {
+    "raw": "105期 Final Term",
+    "translation": {
+      "en": {
+        "text": "105th Class Final Term",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "105期 期末",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "105期 Special Term",
     "translation": {
       "zh-CN": {

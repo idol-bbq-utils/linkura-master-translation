@@ -11,5 +11,18 @@
         "author": "copilot"
       }
     }
+  },
+  {
+    "raw": "お年玉！",
+    "translation": {
+      "en": {
+        "text": "New Year's Gift!",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "压岁钱！",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
   }
 ]

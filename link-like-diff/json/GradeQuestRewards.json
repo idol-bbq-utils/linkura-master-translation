@@ -3204,6 +3204,86 @@
         {
             "Id": 1053620,
             "ConditionsDescription": "『スキルAP -3』を解除してクリア"
+        },
+        {
+            "Id": 1054101,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率30％"
+        },
+        {
+            "Id": 1054102,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率60％"
+        },
+        {
+            "Id": 1054103,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率100％"
+        },
+        {
+            "Id": 1054104,
+            "ConditionsDescription": "残り行動Pt.5以上でクリア"
+        },
+        {
+            "Id": 1054105,
+            "ConditionsDescription": "残り行動Pt.8以上でクリア"
+        },
+        {
+            "Id": 1054201,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率30％"
+        },
+        {
+            "Id": 1054202,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率60％"
+        },
+        {
+            "Id": 1054203,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率100％"
+        },
+        {
+            "Id": 1054204,
+            "ConditionsDescription": "残り行動Pt.3以上でクリア"
+        },
+        {
+            "Id": 1054205,
+            "ConditionsDescription": "残り行動Pt.6以上でクリア"
+        },
+        {
+            "Id": 1054206,
+            "ConditionsDescription": "残り行動Pt.10以上でクリア"
+        },
+        {
+            "Id": 1054301,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率25％"
+        },
+        {
+            "Id": 1054302,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率50％"
+        },
+        {
+            "Id": 1054303,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率75％"
+        },
+        {
+            "Id": 1054304,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率100％"
+        },
+        {
+            "Id": 1054305,
+            "ConditionsDescription": "残り行動Pt.3以上でクリア"
+        },
+        {
+            "Id": 1054306,
+            "ConditionsDescription": "残り行動Pt.6以上でクリア"
+        },
+        {
+            "Id": 1054307,
+            "ConditionsDescription": "残り行動Pt.9以上でクリア"
+        },
+        {
+            "Id": 1054308,
+            "ConditionsDescription": "残り行動Pt.12以上でクリア"
+        },
+        {
+            "Id": 1054309,
+            "ConditionsDescription": "残り行動Pt.15以上でクリア"
         }
     ]
 }

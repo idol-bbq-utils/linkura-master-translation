@@ -533,6 +533,19 @@
     }
   },
   {
+    "raw": "【2026謹賀新年】《LIMITED》URセレクトチケット",
+    "translation": {
+      "en": {
+        "text": "[2026 Happy New Year] «LIMITED» UR Select Ticket",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【2026恭贺新年】《LIMITED》UR选择券",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "【2周年記念】《LIMITED》SRセレクトチケット",
     "translation": {
       "zh-CN": {

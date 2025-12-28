@@ -74308,6 +74308,123 @@
     }
   },
   {
+    "raw": "[雪舞う空と二秒の永遠]大沢 瑠璃乃",
+    "translation": {
+      "en": {
+        "text": "[Snowflakes and Two Seconds of Eternity] Rurino Osawa",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[雪舞う空と二秒の永遠]大泽瑠璃乃",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[雪舞う空と二秒の永遠]大沢 瑠璃乃 を4回解放した記念のステッカー",
+    "translation": {
+      "en": {
+        "text": "[Snowflakes and Two Seconds of Eternity] A sticker commemorating the 4th release of Rurino Osawa",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[雪舞う空と二秒の永遠]大泽瑠璃乃 解放4次纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[雪舞う空と二秒の永遠]大沢 瑠璃乃 解放完了",
+    "translation": {
+      "en": {
+        "text": "[Snowflakes and Two Seconds of Eternity] Rurino Osawa Release Complete",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[雪舞う空と二秒の永遠]大泽瑠璃乃 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[雪舞う空と二秒の永遠]日野下 花帆",
+    "translation": {
+      "en": {
+        "text": "[Snowflakes and Two Seconds of Eternity] Kaho Hinoshita",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[雪舞う空と二秒の永遠]日野下花帆",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[雪舞う空と二秒の永遠]日野下 花帆 を4回解放した記念のステッカー",
+    "translation": {
+      "en": {
+        "text": "[Snowflakes and Two Seconds of Eternity] A sticker commemorating the 4th release of Kaho Hinoshita",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[雪舞う空と二秒の永遠]日野下花帆 解放4次纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[雪舞う空と二秒の永遠]日野下 花帆 解放完了",
+    "translation": {
+      "en": {
+        "text": "[Snowflakes and Two Seconds of Eternity] Kaho Hinoshita Release Complete",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[雪舞う空と二秒の永遠]日野下花帆 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[雪舞う空と二秒の永遠]村野 さやか",
+    "translation": {
+      "en": {
+        "text": "[Snowflakes and Two Seconds of Eternity] Sayaka Murano",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[雪舞う空と二秒の永遠]村野沙耶香",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[雪舞う空と二秒の永遠]村野 さやか を4回解放した記念のステッカー",
+    "translation": {
+      "en": {
+        "text": "[Snowflakes and Two Seconds of Eternity] A sticker commemorating the 4th release of Sayaka Murano",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[雪舞う空と二秒の永遠]村野沙耶香 解放4次纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[雪舞う空と二秒の永遠]村野 さやか 解放完了",
+    "translation": {
+      "en": {
+        "text": "[Snowflakes and Two Seconds of Eternity] Sayaka Murano Release Complete",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[雪舞う空と二秒の永遠]村野沙耶香 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[青とシャボン]夕霧 綴理",
     "translation": {
       "zh-CN": {
@@ -84899,6 +85016,45 @@
       "en": {
         "text": "『雑踏、僕らの街』 Mastery Lv.30 Reached",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "『雪舞う空と二秒の永遠』のマスタリーLv.を30にした記念のステッカー",
+    "translation": {
+      "en": {
+        "text": "A sticker commemorating reaching Mastery Lv.30 for \"雪舞う空と二秒の永遠\"",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "『雪舞う空と二秒の永遠』精通等级达到30的纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "『雪舞う空と二秒の永遠』マエストロ",
+    "translation": {
+      "en": {
+        "text": "\"雪舞う空と二秒の永遠\" Maestro",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "『雪舞う空と二秒の永遠』大师",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "『雪舞う空と二秒の永遠』マスタリーLv.30到達",
+    "translation": {
+      "en": {
+        "text": "\"雪舞う空と二秒の永遠\" Mastery Lv.30 Achieved",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "『雪舞う空と二秒の永遠』精通等级30达成",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

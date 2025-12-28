@@ -167,5 +167,18 @@
         "author": "claude-sonnet-4-20250514"
       }
     }
+  },
+  {
+    "raw": "105期WINTER",
+    "translation": {
+      "en": {
+        "text": "Class of 105 WINTER",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "105期WINTER",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
   }
 ]

@@ -2262,6 +2262,19 @@
     }
   },
   {
+    "raw": "『雪舞う空と二秒の永遠』",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
     "raw": "『青とシャボン』",
     "translation": {
       "zh-CN": {
@@ -4011,6 +4024,19 @@
         "author": ""
       },
       "en": {
+        "text": "",
+        "author": ""
+      }
+    }
+  },
+  {
+    "raw": "雪舞う空と二秒の永遠",
+    "translation": {
+      "en": {
+        "text": "",
+        "author": ""
+      },
+      "zh-CN": {
         "text": "",
         "author": ""
       }

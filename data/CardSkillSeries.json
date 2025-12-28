@@ -5733,6 +5733,32 @@
     }
   },
   {
+    "raw": "スターリンボルテージ",
+    "translation": {
+      "en": {
+        "text": "Starling Voltage",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "闪耀林Voltage",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "スターリンリカバー",
+    "translation": {
+      "en": {
+        "text": "Starling Recover",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "闪耀林Recovery",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "スティミュレーション",
     "translation": {
       "en": {
@@ -5742,6 +5768,58 @@
       "zh-CN": {
         "text": "刺激",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "スノーギャザーブースト",
+    "translation": {
+      "en": {
+        "text": "Snow Gather Boost",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "雪花聚集Up",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "スノーギャザーリカバー",
+    "translation": {
+      "en": {
+        "text": "Snow Gather Recover",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "雪花聚集Recovery",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "スノーフレーク",
+    "translation": {
+      "en": {
+        "text": "Snowflake",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "雪花片",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "スノーメルト",
+    "translation": {
+      "en": {
+        "text": "Snow Melt",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "雪融化",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -7068,6 +7146,19 @@
       "en": {
         "text": "Twin Cerise",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ツナガルチカラ",
+    "translation": {
+      "en": {
+        "text": "Tsunagaru Chikara",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "连系之力",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -10070,6 +10161,19 @@
       },
       "zh-CN": {
         "text": "Force Stage",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "フォーレンスノー",
+    "translation": {
+      "en": {
+        "text": "Fallen Snow",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "降雪",
         "author": "claude-sonnet-4-5-20250929"
       }
     }

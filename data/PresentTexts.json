@@ -5954,6 +5954,45 @@
     }
   },
   {
+    "raw": "2026年もリンクラ！永遠にしたいフラワーはじめ！ログインキャンペーン！ 1日目のプレゼントです。",
+    "translation": {
+      "en": {
+        "text": "2026 Rinkura Too! Flower Hajime You'll Want to Last Forever! Login Campaign! Day 1's Gift!",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "2026年也是Link-Like！想要永远的Flower开始！登录活动！第1天的礼物。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "2026年もリンクラ！永遠にしたいフラワーはじめ！ログインキャンペーン！ 2日目のプレゼントです。",
+    "translation": {
+      "en": {
+        "text": "2026 Rinkura Too! Flower Hajime You'll Want to Last Forever! Login Campaign! Day 2's Gift!",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "2026年也是Link-Like！想要永远的Flower开始！登录活动！第2天的礼物。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "2026年もリンクラ！永遠にしたいフラワーはじめ！ログインキャンペーン！ 3日目のプレゼントです。",
+    "translation": {
+      "en": {
+        "text": "2026 Rinkura Too! Flower Hajime You'll Want to Last Forever! Login Campaign! Day 3's Gift!",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "2026年也是Link-Like！想要永远的Flower开始！登录活动！第3天的礼物。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "2nd Live Tour ～Blooming with ○○○～ 兵庫公演 開催記念プレゼントです！",
     "translation": {
       "zh-CN": {
@@ -16835,6 +16874,32 @@
     }
   },
   {
+    "raw": "「謹賀新年！リンクラ福袋（三分咲）」を購入して獲得したアイテムです。",
+    "translation": {
+      "en": {
+        "text": "Items obtained by purchasing the 'Happy New Year! Rinkura Lucky Bag (Sanbu-zaki)'.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "购买「恭贺新年！Link-Like福袋（三分咲）」获得的道具",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "「謹賀新年！リンクラ福袋（五分咲）」を購入して獲得したアイテムです。",
+    "translation": {
+      "en": {
+        "text": "Items obtained by purchasing the 'Happy New Year! Rinkura Lucky Bag (Gobu-zaki)'.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "购买「恭贺新年！Link-Like福袋（五分咲）」获得的道具",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "「謹賀新年！リンクラ福袋（松）」を購入して獲得したアイテムです。",
     "translation": {
       "zh-CN": {
@@ -16857,6 +16922,19 @@
       "en": {
         "text": "This is an item acquired by purchasing the 「Happy New Year! Link!Like! Lucky Bag (Ume)」.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "「謹賀新年！リンクラ福袋（満開）」を購入して獲得したアイテムです。",
+    "translation": {
+      "en": {
+        "text": "Items obtained by purchasing the 'Happy New Year! Rinkura Lucky Bag (Mankai)'.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "购买「恭贺新年！Link-Like福袋（满开）」获得的道具",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

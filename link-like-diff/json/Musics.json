@@ -1448,9 +1448,16 @@
             "ReleaseConditionText": "初めから習得"
         },
         {
+            "Id": 405129,
+            "Title": "雪舞う空と二秒の永遠",
+            "TitleFurigana": "ゆきまうそらとにびょうのえいえん",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
             "Id": 405201,
             "Title": "テレパシ",
-            "TitleFurigana": "てらぱし",
+            "TitleFurigana": "てれぱし",
             "Description": "一般カバー",
             "ReleaseConditionText": "ミュージックPt. を使用して習得"
         },
