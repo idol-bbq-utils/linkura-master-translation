@@ -897,6 +897,19 @@
     }
   },
   {
+    "raw": "もういちど ルミナス",
+    "translation": {
+      "zh-CN": {
+        "text": "再一次 Luminus",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Mouichido Luminous",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "アウェイキングガイア",
     "translation": {
       "zh-CN": {
@@ -1599,6 +1612,19 @@
     }
   },
   {
+    "raw": "アフターレイン",
+    "translation": {
+      "zh-CN": {
+        "text": "雨后",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "After Rain",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "アブソリュートボルテージ",
     "translation": {
       "zh-CN": {
@@ -1959,6 +1985,19 @@
       "en": {
         "text": "Imitation Heat",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "イミテーションフェニックス",
+    "translation": {
+      "zh-CN": {
+        "text": "模仿凤凰",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Imitation Phoenix",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -3094,6 +3133,19 @@
     }
   },
   {
+    "raw": "エーデルローズ",
+    "translation": {
+      "zh-CN": {
+        "text": "Edel Rose",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Edelrose",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "オトメライター",
     "translation": {
       "en": {
@@ -3987,6 +4039,19 @@
       "en": {
         "text": "Calm Protect",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ガッタビーユー",
+    "translation": {
+      "zh-CN": {
+        "text": "Gotta Be You",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gattabee You",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -5265,6 +5330,19 @@
     }
   },
   {
+    "raw": "シャイニーサン",
+    "translation": {
+      "zh-CN": {
+        "text": "Shiny Sun",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shiny Sun",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ショウタイム",
     "translation": {
       "zh-CN": {
@@ -5655,6 +5733,19 @@
     }
   },
   {
+    "raw": "スクリームフロムハート",
+    "translation": {
+      "zh-CN": {
+        "text": "Scream From Heart",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Scream From Heart",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "スケルツォアンビエンス",
     "translation": {
       "zh-CN": {
@@ -5833,6 +5924,19 @@
       "zh-CN": {
         "text": "Cerise Bouquet选集",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "スリーズパレット",
+    "translation": {
+      "zh-CN": {
+        "text": "Cerise Palette",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Cerise Palette",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -7735,6 +7839,19 @@
     }
   },
   {
+    "raw": "ドレス《もういちど ルミナス》",
+    "translation": {
+      "zh-CN": {
+        "text": "服装《再一次 Luminus》",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Dress \"Mouichido Luminous\"",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ドレス《アオクハルカ》",
     "translation": {
       "zh-CN": {
@@ -9308,6 +9425,19 @@
     }
   },
   {
+    "raw": "ハッピーぱーく！",
+    "translation": {
+      "zh-CN": {
+        "text": "Happy Park!",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Happy Park!",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ハッピーアンビエンス",
     "translation": {
       "zh-CN": {
@@ -10803,6 +10933,19 @@
     }
   },
   {
+    "raw": "ボイスオブクリエイション",
+    "translation": {
+      "zh-CN": {
+        "text": "Voice of Creation",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Voice of Creation",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ボルテックスアトラクション",
     "translation": {
       "zh-CN": {
@@ -10981,6 +11124,19 @@
       "en": {
         "text": "Popping",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "マイドール",
+    "translation": {
+      "zh-CN": {
+        "text": "My Doll",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "My Doll",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -12280,6 +12436,19 @@
       },
       "en": {
         "text": "Low Edge Voltage",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ロードトゥドリーム",
+    "translation": {
+      "zh-CN": {
+        "text": "Road to Dream",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Road to Dream",
         "author": "claude-sonnet-4-5-20250929"
       }
     }

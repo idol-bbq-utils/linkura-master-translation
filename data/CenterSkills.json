@@ -13468,6 +13468,19 @@
     }
   },
   {
+    "raw": "【ライブ開始時に発動】最大値の$100%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "zh-CN": {
+        "text": "【Live开始时发动】减少最大值的$100%$Mental（此效果不会使Mental变为0）",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "【Activated at the start of the live】Reduce mental by 100% of the maximum value (this effect prevents mental from reaching 0)",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "【ライブ開始時に発動】最大値の$15%$分のメンタルを減少（この効果ではメンタルが0にならない）",
     "translation": {
       "en": {
@@ -13624,6 +13637,19 @@
     }
   },
   {
+    "raw": "【ライブ開始時に発動】最大値の$55%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "zh-CN": {
+        "text": "【Live开始时发动】减少最大值的$55%$Mental（此效果不会使Mental变为0）",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "【Activated at the start of the live】Reduce mental by 55% of the maximum value (this effect prevents mental from reaching 0)",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "【ライブ開始時に発動】最大値の$60%$分のメンタルを減少（この効果ではメンタルが0にならない）",
     "translation": {
       "zh-CN": {
@@ -13672,6 +13698,32 @@
       "en": {
         "text": "【Activate at Live Start】Reduce Mental by $75%$ of max value (this effect cannot reduce Mental to 0)",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【ライブ開始時に発動】最大値の$80%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "zh-CN": {
+        "text": "【Live开始时发动】减少最大值的$80%$Mental（此效果不会使Mental变为0）",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "【Activated at the start of the live】Reduce mental by 80% of the maximum value (this effect prevents mental from reaching 0)",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "【ライブ開始時に発動】最大値の$85%$分のメンタルを減少（この効果ではメンタルが0にならない）",
+    "translation": {
+      "zh-CN": {
+        "text": "【Live开始时发动】减少最大值的$85%$Mental（此效果不会使Mental变为0）",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "【Activated at the start of the live】Reduce mental by 85% of the maximum value (this effect prevents mental from reaching 0)",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

@@ -6106,6 +6106,21 @@
             "Description": "スリーズブーケに所属するメンバーのアピール値が200％上昇"
         },
         {
+            "Id": 20415211,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "百生吟子／徒町小鈴／安養寺姫芽のアピール値が200％上昇"
+        },
+        {
+            "Id": 20415212,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "百生吟子／徒町小鈴／安養寺姫芽のアピール値が200％上昇"
+        },
+        {
+            "Id": 20415213,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "百生吟子／徒町小鈴／安養寺姫芽のアピール値が200％上昇"
+        },
+        {
             "Id": 20418011,
             "CenterAttributeName": "アピールアップ（スリーズブーケ）&APレデュース&CTレデュース",
             "Description": "スリーズブーケに所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少"
@@ -6626,6 +6641,21 @@
             "Description": "全メンバーのアピール値が72％上昇"
         },
         {
+            "Id": 20425211,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "百生吟子／徒町小鈴／安養寺姫芽のアピール値が200％上昇"
+        },
+        {
+            "Id": 20425212,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "百生吟子／徒町小鈴／安養寺姫芽のアピール値が200％上昇"
+        },
+        {
+            "Id": 20425213,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "百生吟子／徒町小鈴／安養寺姫芽のアピール値が200％上昇"
+        },
+        {
             "Id": 20428011,
             "CenterAttributeName": "アピールアップ（DOLLCHESTRA）&APレデュース&CTレデュース",
             "Description": "DOLLCHESTRAに所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少"
@@ -7116,6 +7146,21 @@
             "Description": "全メンバーのアピール値が72％上昇"
         },
         {
+            "Id": 20435201,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "百生吟子／徒町小鈴／安養寺姫芽のアピール値が200％上昇"
+        },
+        {
+            "Id": 20435202,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "百生吟子／徒町小鈴／安養寺姫芽のアピール値が200％上昇"
+        },
+        {
+            "Id": 20435203,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "百生吟子／徒町小鈴／安養寺姫芽のアピール値が200％上昇"
+        },
+        {
             "Id": 20435211,
             "CenterAttributeName": "アピールアップ（みらくらぱーく！）",
             "Description": "みらくらぱーく！に所属するメンバーのアピール値が200％上昇"
@@ -7389,6 +7434,21 @@
             "Id": 20515073,
             "CenterAttributeName": "アピールアップ（Edel Note）",
             "Description": "Edel Noteに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20515081,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "桂城泉／セラスのアピール値が200％上昇"
+        },
+        {
+            "Id": 20515082,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "桂城泉／セラスのアピール値が200％上昇"
+        },
+        {
+            "Id": 20515083,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "桂城泉／セラスのアピール値が200％上昇"
         },
         {
             "Id": 20515091,

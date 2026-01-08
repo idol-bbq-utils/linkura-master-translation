@@ -481,6 +481,19 @@
     }
   },
   {
+    "raw": "第10話『ゆえに、ルリあり。』",
+    "translation": {
+      "zh-CN": {
+        "text": "第10话《因此,有瑠璃。》",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Episode 10: 'Therefore, There Is Ruri.'",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "第10話『ルリめぐ・ファンファーレ』",
     "translation": {
       "zh-CN": {
@@ -1036,6 +1049,19 @@
       "zh-CN": {
         "text": "从身为莲之空毕业生的祖母的随意谈话中，\n吟子想到了连接莲之空和金泽街道的活动。\n但是，要实现这个想法还有很高的门槛……。",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "藤島 慈、新曲が億超えの大バズ‼　大盛り上が\nりの蓮ノ空に、本人がまさかのサプライズ帰還‼\nだが、慈の隠し事に瑠璃乃が気づき……？",
+    "translation": {
+      "zh-CN": {
+        "text": "藤岛慈,新曲播放量破亿引发热议‼ 在莲之空\n一片欢腾之际,本人竟然惊喜归来‼\n但是,瑠璃乃却察觉到了慈隐瞒的事情……?",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Megumi Fujishima's new song goes mega-viral with over 100 million views‼ Just as Hasu no Sora is getting super excited,\nshe makes a surprise return‼\nBut Rurino notices that Megumi is hiding something…?",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

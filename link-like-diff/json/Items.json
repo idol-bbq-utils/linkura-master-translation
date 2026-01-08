@@ -4326,6 +4326,12 @@
             "Description": "スタイル解放素材(百生 吟子)"
         },
         {
+            "Id": 4041521,
+            "Name": "[もういちど ルミナス]百生 吟子 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(百生 吟子)"
+        },
+        {
             "Id": 4041801,
             "Name": "[Ether Aria]百生 吟子 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
@@ -4524,6 +4530,12 @@
             "Description": "スタイル解放素材(徒町 小鈴)"
         },
         {
+            "Id": 4042521,
+            "Name": "[壱雫空]徒町 小鈴 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(徒町 小鈴)"
+        },
+        {
             "Id": 4042801,
             "Name": "[Ether Aria]徒町 小鈴 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
@@ -4710,6 +4722,12 @@
             "Description": "スタイル解放素材(安養寺 姫芽)"
         },
         {
+            "Id": 4043520,
+            "Name": "[キミがいなくちゃっ！]安養寺 姫芽 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(安養寺 姫芽)"
+        },
+        {
             "Id": 4043521,
             "Name": "[Hip, hip, hooray!]安養寺 姫芽 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
@@ -4814,6 +4832,12 @@
         {
             "Id": 4051507,
             "Name": "[シアター生き様]桂城 泉 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(桂城 泉)"
+        },
+        {
+            "Id": 4051508,
+            "Name": "[FIRE BIRD]桂城 泉 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
             "Description": "スタイル解放素材(桂城 泉)"
         },

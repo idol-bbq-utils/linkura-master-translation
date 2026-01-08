@@ -2418,6 +2418,12 @@
             "RequirementText": "[乙女詞華集]百生 吟子 解放完了"
         },
         {
+            "Id": 10415211,
+            "Name": "[もういちど ルミナス]百生 吟子",
+            "Text": "[もういちど ルミナス]百生 吟子 を4回解放した記念のステッカー",
+            "RequirementText": "[もういちど ルミナス]百生 吟子 解放完了"
+        },
+        {
             "Id": 10418011,
             "Name": "[Ether Aria]百生 吟子",
             "Text": "[Ether Aria]百生 吟子 を4回解放した記念のステッカー",
@@ -2628,6 +2634,12 @@
             "RequirementText": "[Poupée en Lotus]徒町 小鈴 解放完了"
         },
         {
+            "Id": 10425211,
+            "Name": "[壱雫空]徒町 小鈴",
+            "Text": "[壱雫空]徒町 小鈴 を4回解放した記念のステッカー",
+            "RequirementText": "[壱雫空]徒町 小鈴 解放完了"
+        },
+        {
             "Id": 10428011,
             "Name": "[Ether Aria]徒町 小鈴",
             "Text": "[Ether Aria]徒町 小鈴 を4回解放した記念のステッカー",
@@ -2826,6 +2838,12 @@
             "RequirementText": "[はじまりの羽音]安養寺 姫芽 解放完了"
         },
         {
+            "Id": 10435201,
+            "Name": "[キミがいなくちゃっ！]安養寺 姫芽",
+            "Text": "[キミがいなくちゃっ！]安養寺 姫芽 を4回解放した記念のステッカー",
+            "RequirementText": "[キミがいなくちゃっ！]安養寺 姫芽 解放完了"
+        },
+        {
             "Id": 10435211,
             "Name": "[Hip, hip, hooray!]安養寺 姫芽",
             "Text": "[Hip, hip, hooray!]安養寺 姫芽 を4回解放した記念のステッカー",
@@ -2944,6 +2962,12 @@
             "Name": "[シアター生き様]桂城 泉",
             "Text": "[シアター生き様]桂城 泉 を4回解放した記念のステッカー",
             "RequirementText": "[シアター生き様]桂城 泉 解放完了"
+        },
+        {
+            "Id": 10515081,
+            "Name": "[FIRE BIRD]桂城 泉",
+            "Text": "[FIRE BIRD]桂城 泉 を4回解放した記念のステッカー",
+            "RequirementText": "[FIRE BIRD]桂城 泉 解放完了"
         },
         {
             "Id": 10515091,
@@ -11970,6 +11994,30 @@
             "RequirementText": "『BOW AND ARROW』マスタリーLv.30到達"
         },
         {
+            "Id": 40405203,
+            "Name": "『もういちど ルミナス』マエストロ",
+            "Text": "『もういちど ルミナス』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『もういちど ルミナス』マスタリーLv.30到達"
+        },
+        {
+            "Id": 40405204,
+            "Name": "『壱雫空』マエストロ",
+            "Text": "『壱雫空』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『壱雫空』マスタリーLv.30到達"
+        },
+        {
+            "Id": 40405205,
+            "Name": "『キミがいなくちゃっ！』マエストロ",
+            "Text": "『キミがいなくちゃっ！』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『キミがいなくちゃっ！』マスタリーLv.30到達"
+        },
+        {
+            "Id": 40405206,
+            "Name": "『FIRE BIRD』マエストロ",
+            "Text": "『FIRE BIRD』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『FIRE BIRD』マスタリーLv.30到達"
+        },
+        {
             "Id": 40405301,
             "Name": "『虹色Passions!』マエストロ",
             "Text": "『虹色Passions!』のマスタリーLv.を30にした記念のステッカー",
@@ -13750,6 +13798,30 @@
             "Name": "[オンゲキ/Doya]ナビニャン",
             "Text": "「これから」も奏でていこうよ!!",
             "RequirementText": "「ゲキ！チュウマイ×リンクラ Shooting Heart♡Collaboration! ログインキャンペーン！」で入手"
+        },
+        {
+            "Id": 93001017,
+            "Name": "[BanG Dream!]Pastel＊Palettes",
+            "Text": "スリーズブーケ、天の原色担当の\n百生吟子で～すっ！",
+            "RequirementText": "「Pastel＊Palettes×スリーズブーケ コラボパック」を購入"
+        },
+        {
+            "Id": 93001018,
+            "Name": "[BanG Dream!]MyGO!!!!!",
+            "Text": "迷子でもいい…迷子でも…ちぇすとー！",
+            "RequirementText": "「MyGO!!!!!×DOLLCHESTRA コラボパック」を購入"
+        },
+        {
+            "Id": 93001019,
+            "Name": "[BanG Dream!]ハロー、ハッピーワールド！",
+            "Text": "世界を笑顔に！楽しいこと、いっぱいしよ～ね～！",
+            "RequirementText": "「ハロー、ハッピーワールド！×みらくらぱーく！ コラボパック」を購入"
+        },
+        {
+            "Id": 93001020,
+            "Name": "[BanG Dream!]Roselia",
+            "Text": "すべてを賭ける覚悟？ もちろんあるとも",
+            "RequirementText": "「Roselia×Edel Note コラボパック」を購入"
         },
         {
             "Id": 94000001,

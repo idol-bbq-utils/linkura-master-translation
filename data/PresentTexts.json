@@ -15860,6 +15860,19 @@
     }
   },
   {
+    "raw": "「MyGO!!!!!×DOLLCHESTRA コラボパック」を購入して獲得したアイテムです。",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「MyGO!!!!!×DOLLCHESTRA 联动组合包」获得的道具。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Items obtained by purchasing the 'MyGO!!!!! × DOLLCHESTRA Collaboration Pack'.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "「Now or Never リンクラ！URセレクトセット」を購入して獲得したアイテムです。",
     "translation": {
       "zh-CN": {
@@ -16003,6 +16016,19 @@
     }
   },
   {
+    "raw": "「Pastel＊Palettes×スリーズブーケ コラボパック」を購入して獲得したアイテムです。",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「Pastel＊Palettes×Cerise Bouquet 联动组合包」获得的道具。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Items obtained by purchasing the 'Pastel＊Palettes × Cerise Bouquet Collaboration Pack'.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "「RUN！CAN！FUN！完走パック！」を購入して獲得したアイテムです。",
     "translation": {
       "zh-CN": {
@@ -16012,6 +16038,19 @@
       "en": {
         "text": "This is an item obtained by purchasing the \"RUN! CAN! FUN! Completion Pack!\".",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "「Roselia×Edel Note コラボパック」を購入して獲得したアイテムです。",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「Roselia×Edel Note 联动组合包」获得的道具。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Items obtained by purchasing the 'Roselia × Edel Note Collaboration Pack'.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -16440,6 +16479,19 @@
       },
       "zh-CN": {
         "text": "购买「万圣节活动♪Trick ＆ Cute♡Cerise Bouquet礼包」后获得的道具。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "「ハロー、ハッピーワールド！×みらくらぱーく！ コラボパック」を購入して獲得したアイテムです。",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「Hello, Happy World!×Mira-Cra Park! 联动组合包」获得的道具。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Items obtained by purchasing the 'Hello, Happy World! × Mira-Cra Park! Collaboration Pack'.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }

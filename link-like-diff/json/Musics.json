@@ -1469,6 +1469,34 @@
             "ReleaseConditionText": "ミュージックPt. を使用して習得"
         },
         {
+            "Id": 405203,
+            "Title": "もういちど ルミナス",
+            "TitleFurigana": "もういちどるみなす",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 405204,
+            "Title": "壱雫空",
+            "TitleFurigana": "ひとしずく",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 405205,
+            "Title": "キミがいなくちゃっ！",
+            "TitleFurigana": "きみがいなくちゃっ",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 405206,
+            "Title": "FIRE BIRD",
+            "TitleFurigana": "ふぁいあばーど",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
             "Id": 405301,
             "Title": "虹色Passions!",
             "TitleFurigana": "にじいろぱっしょんず",

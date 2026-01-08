@@ -26,6 +26,19 @@
     }
   },
   {
+    "raw": "第10話『ゆえに、ルリあり。』",
+    "translation": {
+      "zh-CN": {
+        "text": "第10话『故而，有瑠璃。』",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Episode 10: \"Therefore, There Is Ruri.\"",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "第10話『ルリめぐ・ファンファーレ』",
     "translation": {
       "zh-CN": {

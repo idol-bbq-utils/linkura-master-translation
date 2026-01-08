@@ -54171,6 +54171,32 @@
     }
   },
   {
+    "raw": "[BanG Dream!]Pastel＊Palettes",
+    "translation": {
+      "zh-CN": {
+        "text": "[BanG Dream!]Pastel＊Palettes",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[BanG Dream!]Pastel＊Palettes",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[BanG Dream!]ハロー、ハッピーワールド！",
+    "translation": {
+      "zh-CN": {
+        "text": "[BanG Dream!]Hello, Happy World!",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[BanG Dream!]Hello, Happy World!",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[Bloom the smile, Bloom the dream!]安養寺 姫芽",
     "translation": {
       "zh-CN": {
@@ -56168,6 +56194,45 @@
       },
       "en": {
         "text": "[FAIRY] Kosuzu Kachimachi",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[FIRE BIRD]桂城 泉",
+    "translation": {
+      "zh-CN": {
+        "text": "[FIRE BIRD]桂城泉",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[FIRE BIRD]Izumi Katsuragi",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[FIRE BIRD]桂城 泉 を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[FIRE BIRD]桂城泉 解放4次纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[FIRE BIRD] A sticker commemorating the 4th release of Izumi Katsuragi",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[FIRE BIRD]桂城 泉 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[FIRE BIRD]桂城泉 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[FIRE BIRD]Izumi Katsuragi Release Complete",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -62647,6 +62712,45 @@
     }
   },
   {
+    "raw": "[もういちど ルミナス]百生 吟子",
+    "translation": {
+      "zh-CN": {
+        "text": "[再一次 Luminus]百生吟子",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Mouichido Luminus]Ginko Momose",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[もういちど ルミナス]百生 吟子 を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[再一次 Luminus]百生吟子 解放4次纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Mouichido Luminus] A sticker commemorating the 4th release of Ginko Momose",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[もういちど ルミナス]百生 吟子 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[再一次 Luminus]百生吟子 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Mouichido Luminus]Ginko Momose Release Complete",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[やっぱ天使！]藤島 慈",
     "translation": {
       "zh-CN": {
@@ -64151,6 +64255,45 @@
       "zh-CN": {
         "text": "[Garland Flash]村野沙耶香 解放完成",
         "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "[キミがいなくちゃっ！]安養寺 姫芽",
+    "translation": {
+      "zh-CN": {
+        "text": "[没有你可不行!]安养寺姬芽",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Kimi ga Inakucha!]Hime Anyoji",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[キミがいなくちゃっ！]安養寺 姫芽 を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[没有你可不行!]安养寺姬芽 解放4次纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Kimi ga Inakucha!] A sticker commemorating the 4th release of Hime Anyoji",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[キミがいなくちゃっ！]安養寺 姫芽 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[没有你可不行!]安养寺姬芽 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Kimi ga Inakucha!]Hime Anyoji Release Complete",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -68987,6 +69130,45 @@
       "zh-CN": {
         "text": "[四蓮琴之龍]桂城泉 解放完成",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[壱雫空]徒町 小鈴",
+    "translation": {
+      "zh-CN": {
+        "text": "[壱雫空]徒町小铃",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Ichishizuku Sora]Kosuzu Kachimachi",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[壱雫空]徒町 小鈴 を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[壱雫空]徒町小铃 解放4次纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Ichishizuku Sora] A sticker commemorating the 4th release of Kosuzu Kachimachi",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[壱雫空]徒町 小鈴 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[壱雫空]徒町小铃 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Ichishizuku Sora]Kosuzu Kachimachi Release Complete",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -75777,6 +75959,19 @@
     }
   },
   {
+    "raw": "「MyGO!!!!!×DOLLCHESTRA コラボパック」を購入",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「MyGO!!!!!×DOLLCHESTRA 联动包」",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Purchase the \"MyGO!!!!!×DOLLCHESTRA Collaboration Pack\"",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "「POP UP SHOP ～チャイナコレクション～ DOLLCHESTRAパック」を購入",
     "translation": {
       "en": {
@@ -75894,6 +76089,19 @@
     }
   },
   {
+    "raw": "「Pastel＊Palettes×スリーズブーケ コラボパック」を購入",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「Pastel＊Palettes×Cerise Bouquet 联动包」",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Purchase the \"Pastel＊Palettes×Cerise Bouquet Collaboration Pack\"",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "「RUN！CAN！FUN！完走パック！」を購入",
     "translation": {
       "zh-CN": {
@@ -75903,6 +76111,19 @@
       "en": {
         "text": "Purchased \"RUN！CAN！FUN！Completion Pack!\"",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "「Roselia×Edel Note コラボパック」を購入",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「Roselia×Edel Note 联动包」",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Purchase the \"Roselia×Edel Note Collaboration Pack\"",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -76383,6 +76604,19 @@
       },
       "zh-CN": {
         "text": "购买了「万圣节嘉年华♪Trick ＆ Cute♡Cerise Bouquet套组」",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "「ハロー、ハッピーワールド！×みらくらぱーく！ コラボパック」を購入",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「Hello, Happy World!×Mira-Cra Park! 联动包」",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Purchase the \"Hello, Happy World!×Mira-Cra Park! Collaboration Pack\"",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -77801,6 +78035,45 @@
       "en": {
         "text": "『Edelied』 Mastery Lv. 30 Reached",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "『FIRE BIRD』のマスタリーLv.を30にした記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "『FIRE BIRD』精通等级达到30的纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The commemorative sticker for reaching Mastery Level 30 of 'FIRE BIRD'",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "『FIRE BIRD』マエストロ",
+    "translation": {
+      "zh-CN": {
+        "text": "『FIRE BIRD』大师",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Maestro of 'FIRE BIRD'",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "『FIRE BIRD』マスタリーLv.30到達",
+    "translation": {
+      "zh-CN": {
+        "text": "『FIRE BIRD』精通等级30达成",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "'FIRE BIRD' Mastery Lv.30 Achieved",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -80353,6 +80626,45 @@
     }
   },
   {
+    "raw": "『もういちど ルミナス』のマスタリーLv.を30にした記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "『もういちど ルミナス』精通等级达到30的纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The commemorative sticker for reaching Mastery Level 30 of 'Mouichido Luminus'",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "『もういちど ルミナス』マエストロ",
+    "translation": {
+      "zh-CN": {
+        "text": "『もういちど ルミナス』大师",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Maestro of 'Mouichido Luminus'",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "『もういちど ルミナス』マスタリーLv.30到達",
+    "translation": {
+      "zh-CN": {
+        "text": "『もういちど ルミナス』精通等级30达成",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "'Mouichido Luminus' Mastery Lv.30 Achieved",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "『やっぱ天使！』のマスタリーLv.を30にした記念のステッカー",
     "translation": {
       "zh-CN": {
@@ -80700,6 +81012,45 @@
       "zh-CN": {
         "text": "『ガランドFlash』精通等级达到30",
         "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "『キミがいなくちゃっ！』のマスタリーLv.を30にした記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "『キミがいなくちゃっ!』精通等级达到30的纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The commemorative sticker for reaching Mastery Level 30 of 'Kimi ga Inakucha!'",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "『キミがいなくちゃっ！』マエストロ",
+    "translation": {
+      "zh-CN": {
+        "text": "『キミがいなくちゃっ!』大师",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Maestro of 'Kimi ga Inakucha!'",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "『キミがいなくちゃっ！』マスタリーLv.30到達",
+    "translation": {
+      "zh-CN": {
+        "text": "『キミがいなくちゃっ!』精通等级30达成",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "'Kimi ga Inakucha!' Mastery Lv.30 Achieved",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -83313,6 +83664,45 @@
       "en": {
         "text": "Reached Mastery Lv.30 for『君のこころは輝いてるかい?』",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "『壱雫空』のマスタリーLv.を30にした記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "『壱雫空』精通等级达到30的纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The commemorative sticker for reaching Mastery Level 30 of 'Ichishizuku Sora'",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "『壱雫空』マエストロ",
+    "translation": {
+      "zh-CN": {
+        "text": "『壱雫空』大师",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Maestro of 'Ichishizuku Sora'",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "『壱雫空』マスタリーLv.30到達",
+    "translation": {
+      "zh-CN": {
+        "text": "『壱雫空』精通等级30达成",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "'Ichishizuku Sora' Mastery Lv.30 Achieved",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -90450,6 +90840,19 @@
       "en": {
         "text": "Shizuku Fan",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "すべてを賭ける覚悟？ もちろんあるとも",
+    "translation": {
+      "zh-CN": {
+        "text": "赌上一切的觉悟?当然有",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The resolve to risk everything? Of course I have it",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -100620,6 +101023,19 @@
     }
   },
   {
+    "raw": "スリーズブーケ、天の原色担当の\n百生吟子で～すっ！",
+    "translation": {
+      "zh-CN": {
+        "text": "Cerise Bouquet,天之原色担当的\n百生吟子～",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Cerise Bouquet's primary color representative\nGinko Momose here~!",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ズッキュン♡ 夢中にさせるから バッキュン♡ マジで期待してね",
     "translation": {
       "zh-CN": {
@@ -108338,6 +108754,19 @@
       "en": {
         "text": "A new symbol for the world, armed with complaints and gadgets\nAll you need in your bag is bravado",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "世界を笑顔に！楽しいこと、いっぱいしよ～ね～！",
+    "translation": {
+      "zh-CN": {
+        "text": "让世界充满笑容!一起做很多开心的事吧～!",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Smiles for the world! Let's do lots of fun things together~!",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -127383,6 +127812,19 @@
       "en": {
         "text": "Special title commemorating the holding of Shine! Aqours Numazu Festival in Yomiuriland",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "迷子でもいい…迷子でも…ちぇすとー！",
+    "translation": {
+      "zh-CN": {
+        "text": "就算迷路也没关系…就算迷路…冲啊!",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "It's okay to be lost... even if I'm lost... chesto~!",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

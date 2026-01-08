@@ -7293,6 +7293,188 @@
     }
   },
   {
+    "raw": "このスキルを使用すると、デッキから除外される。さらにデッキ枚数が22枚以上でドローしたとき、ビートハート$10回分$のスキルハートを獲得し、デッキ枚数が22枚以上で手札にある状態でセクションが変わるたび、それぞれこのセクション中、スキルハート獲得効果による獲得数を$+40%$、ハート上限増加効果を$+40%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "使用此技能后，从牌库中除外。并且在牌库张数为22张以上时抽到此卡时，获得$10倍$跳心的技能心心，在牌库张数为22张以上且此卡在手牌中时每次小节变化时，分别在本小节中，获得技能心心时其数量$+40%$，心心上限增加效果$+40%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When this skill is used, it is removed from the deck. Additionally, when drawn while the deck has 22 or more cards, gain Skill Hearts equivalent to 10 beats, and each time the section changes while in hand with 22 or more cards in the deck, increase Skill Heart acquisition effect by $+40%$ and Heart Cap increase effect by $+40%$ during this section respectively.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このスキルを使用すると、デッキから除外される。さらにデッキ枚数が22枚以上でドローしたとき、ビートハート$11回分$のスキルハートを獲得し、デッキ枚数が22枚以上で手札にある状態でセクションが変わるたび、それぞれこのセクション中、スキルハート獲得効果による獲得数を$+44%$、ハート上限増加効果を$+44%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "使用此技能后，从牌库中除外。并且在牌库张数为22张以上时抽到此卡时，获得$11倍$跳心的技能心心，在牌库张数为22张以上且此卡在手牌中时每次小节变化时，分别在本小节中，获得技能心心时其数量$+44%$，心心上限增加效果$+44%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When this skill is used, it is removed from the deck. Additionally, when drawn while the deck has 22 or more cards, gain Skill Hearts equivalent to 11 beats, and each time the section changes while in hand with 22 or more cards in the deck, increase Skill Heart acquisition effect by $+44%$ and Heart Cap increase effect by $+44%$ during this section respectively.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このスキルを使用すると、デッキから除外される。さらにデッキ枚数が22枚以上でドローしたとき、ビートハート$12回分$のスキルハートを獲得し、デッキ枚数が22枚以上で手札にある状態でセクションが変わるたび、それぞれこのセクション中、スキルハート獲得効果による獲得数を$+48%$、ハート上限増加効果を$+48%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "使用此技能后，从牌库中除外。并且在牌库张数为22张以上时抽到此卡时，获得$12倍$跳心的技能心心，在牌库张数为22张以上且此卡在手牌中时每次小节变化时，分别在本小节中，获得技能心心时其数量$+48%$，心心上限增加效果$+48%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When this skill is used, it is removed from the deck. Additionally, when drawn while the deck has 22 or more cards, gain Skill Hearts equivalent to 12 beats, and each time the section changes while in hand with 22 or more cards in the deck, increase Skill Heart acquisition effect by $+48%$ and Heart Cap increase effect by $+48%$ during this section respectively.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このスキルを使用すると、デッキから除外される。さらにデッキ枚数が22枚以上でドローしたとき、ビートハート$13回分$のスキルハートを獲得し、デッキ枚数が22枚以上で手札にある状態でセクションが変わるたび、それぞれこのセクション中、スキルハート獲得効果による獲得数を$+52%$、ハート上限増加効果を$+52%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "使用此技能后，从牌库中除外。并且在牌库张数为22张以上时抽到此卡时，获得$13倍$跳心的技能心心，在牌库张数为22张以上且此卡在手牌中时每次小节变化时，分别在本小节中，获得技能心心时其数量$+52%$，心心上限增加效果$+52%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When this skill is used, it is removed from the deck. Additionally, when drawn while the deck has 22 or more cards, gain Skill Hearts equivalent to 13 beats, and each time the section changes while in hand with 22 or more cards in the deck, increase Skill Heart acquisition effect by $+52%$ and Heart Cap increase effect by $+52%$ during this section respectively.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このスキルを使用すると、デッキから除外される。さらにデッキ枚数が22枚以上でドローしたとき、ビートハート$14回分$のスキルハートを獲得し、デッキ枚数が22枚以上で手札にある状態でセクションが変わるたび、それぞれこのセクション中、スキルハート獲得効果による獲得数を$+56%$、ハート上限増加効果を$+56%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "使用此技能后，从牌库中除外。并且在牌库张数为22张以上时抽到此卡时，获得$14倍$跳心的技能心心，在牌库张数为22张以上且此卡在手牌中时每次小节变化时，分别在本小节中，获得技能心心时其数量$+56%$，心心上限增加效果$+56%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When this skill is used, it is removed from the deck. Additionally, when drawn while the deck has 22 or more cards, gain Skill Hearts equivalent to 14 beats, and each time the section changes while in hand with 22 or more cards in the deck, increase Skill Heart acquisition effect by $+56%$ and Heart Cap increase effect by $+56%$ during this section respectively.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このスキルを使用すると、デッキから除外される。さらにデッキ枚数が22枚以上でドローしたとき、ビートハート$15回分$のスキルハートを獲得し、デッキ枚数が22枚以上で手札にある状態でセクションが変わるたび、それぞれこのセクション中、スキルハート獲得効果による獲得数を$+60%$、ハート上限増加効果を$+60%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "使用此技能后，从牌库中除外。并且在牌库张数为22张以上时抽到此卡时，获得$15倍$跳心的技能心心，在牌库张数为22张以上且此卡在手牌中时每次小节变化时，分别在本小节中，获得技能心心时其数量$+60%$，心心上限增加效果$+60%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When this skill is used, it is removed from the deck. Additionally, when drawn while the deck has 22 or more cards, gain Skill Hearts equivalent to 15 beats, and each time the section changes while in hand with 22 or more cards in the deck, increase Skill Heart acquisition effect by $+60%$ and Heart Cap increase effect by $+60%$ during this section respectively.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このスキルを使用すると、デッキから除外される。さらにデッキ枚数が22枚以上でドローしたとき、ビートハート$16回分$のスキルハートを獲得し、デッキ枚数が22枚以上で手札にある状態でセクションが変わるたび、それぞれこのセクション中、スキルハート獲得効果による獲得数を$+64%$、ハート上限増加効果を$+64%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "使用此技能后，从牌库中除外。并且在牌库张数为22张以上时抽到此卡时，获得$16倍$跳心的技能心心，在牌库张数为22张以上且此卡在手牌中时每次小节变化时，分别在本小节中，获得技能心心时其数量$+64%$，心心上限增加效果$+64%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When this skill is used, it is removed from the deck. Additionally, when drawn while the deck has 22 or more cards, gain Skill Hearts equivalent to 16 beats, and each time the section changes while in hand with 22 or more cards in the deck, increase Skill Heart acquisition effect by $+64%$ and Heart Cap increase effect by $+64%$ during this section respectively.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このスキルを使用すると、デッキから除外される。さらにデッキ枚数が22枚以上でドローしたとき、ビートハート$17回分$のスキルハートを獲得し、デッキ枚数が22枚以上で手札にある状態でセクションが変わるたび、それぞれこのセクション中、スキルハート獲得効果による獲得数を$+68%$、ハート上限増加効果を$+68%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "使用此技能后，从牌库中除外。并且在牌库张数为22张以上时抽到此卡时，获得$17倍$跳心的技能心心，在牌库张数为22张以上且此卡在手牌中时每次小节变化时，分别在本小节中，获得技能心心时其数量$+68%$，心心上限增加效果$+68%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When this skill is used, it is removed from the deck. Additionally, when drawn while the deck has 22 or more cards, gain Skill Hearts equivalent to 17 beats, and each time the section changes while in hand with 22 or more cards in the deck, increase Skill Heart acquisition effect by $+68%$ and Heart Cap increase effect by $+68%$ during this section respectively.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このスキルを使用すると、デッキから除外される。さらにデッキ枚数が22枚以上でドローしたとき、ビートハート$18回分$のスキルハートを獲得し、デッキ枚数が22枚以上で手札にある状態でセクションが変わるたび、それぞれこのセクション中、スキルハート獲得効果による獲得数を$+72%$、ハート上限増加効果を$+72%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "使用此技能后，从牌库中除外。并且在牌库张数为22张以上时抽到此卡时，获得$18倍$跳心的技能心心，在牌库张数为22张以上且此卡在手牌中时每次小节变化时，分别在本小节中，获得技能心心时其数量$+72%$，心心上限增加效果$+72%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When this skill is used, it is removed from the deck. Additionally, when drawn while the deck has 22 or more cards, gain Skill Hearts equivalent to 18 beats, and each time the section changes while in hand with 22 or more cards in the deck, increase Skill Heart acquisition effect by $+72%$ and Heart Cap increase effect by $+72%$ during this section respectively.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このスキルを使用すると、デッキから除外される。さらにデッキ枚数が22枚以上でドローしたとき、ビートハート$20回分$のスキルハートを獲得し、デッキ枚数が22枚以上で手札にある状態でセクションが変わるたび、それぞれこのセクション中、スキルハート獲得効果による獲得数を$+80%$、ハート上限増加効果を$+80%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "使用此技能后，从牌库中除外。并且在牌库张数为22张以上时抽到此卡时，获得$20倍$跳心的技能心心，在牌库张数为22张以上且此卡在手牌中时每次小节变化时，分别在本小节中，获得技能心心时其数量$+80%$，心心上限增加效果$+80%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When this skill is used, it is removed from the deck. Additionally, when drawn while the deck has 22 or more cards, gain Skill Hearts equivalent to 20 beats, and each time the section changes while in hand with 22 or more cards in the deck, increase Skill Heart acquisition effect by $+80%$ and Heart Cap increase effect by $+80%$ during this section respectively.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このスキルを使用すると、デッキから除外される。さらにデッキ枚数が22枚以上でドローしたとき、ビートハート$21回分$のスキルハートを獲得し、デッキ枚数が22枚以上で手札にある状態でセクションが変わるたび、それぞれこのセクション中、スキルハート獲得効果による獲得数を$+84%$、ハート上限増加効果を$+84%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "使用此技能后，从牌库中除外。并且在牌库张数为22张以上时抽到此卡时，获得$21倍$跳心的技能心心，在牌库张数为22张以上且此卡在手牌中时每次小节变化时，分别在本小节中，获得技能心心时其数量$+84%$，心心上限增加效果$+84%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When this skill is used, it is removed from the deck. Additionally, when drawn while the deck has 22 or more cards, gain Skill Hearts equivalent to 21 beats, and each time the section changes while in hand with 22 or more cards in the deck, increase Skill Heart acquisition effect by $+84%$ and Heart Cap increase effect by $+84%$ during this section respectively.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このスキルを使用すると、デッキから除外される。さらにデッキ枚数が22枚以上でドローしたとき、ビートハート$22回分$のスキルハートを獲得し、デッキ枚数が22枚以上で手札にある状態でセクションが変わるたび、それぞれこのセクション中、スキルハート獲得効果による獲得数を$+88%$、ハート上限増加効果を$+88%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "使用此技能后，从牌库中除外。并且在牌库张数为22张以上时抽到此卡时，获得$22倍$跳心的技能心心，在牌库张数为22张以上且此卡在手牌中时每次小节变化时，分别在本小节中，获得技能心心时其数量$+88%$，心心上限增加效果$+88%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When this skill is used, it is removed from the deck. Additionally, when drawn while the deck has 22 or more cards, gain Skill Hearts equivalent to 22 beats, and each time the section changes while in hand with 22 or more cards in the deck, increase Skill Heart acquisition effect by $+88%$ and Heart Cap increase effect by $+88%$ during this section respectively.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このスキルを使用すると、デッキから除外される。さらにデッキ枚数が22枚以上でドローしたとき、ビートハート$23回分$のスキルハートを獲得し、デッキ枚数が22枚以上で手札にある状態でセクションが変わるたび、それぞれこのセクション中、スキルハート獲得効果による獲得数を$+92%$、ハート上限増加効果を$+92%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "使用此技能后，从牌库中除外。并且在牌库张数为22张以上时抽到此卡时，获得$23倍$跳心的技能心心，在牌库张数为22张以上且此卡在手牌中时每次小节变化时，分别在本小节中，获得技能心心时其数量$+92%$，心心上限增加效果$+92%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When this skill is used, it is removed from the deck. Additionally, when drawn while the deck has 22 or more cards, gain Skill Hearts equivalent to 23 beats, and each time the section changes while in hand with 22 or more cards in the deck, increase Skill Heart acquisition effect by $+92%$ and Heart Cap increase effect by $+92%$ during this section respectively.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このスキルを使用すると、デッキから除外される。さらにデッキ枚数が22枚以上でドローしたとき、ビートハート$25回分$のスキルハートを獲得し、デッキ枚数が22枚以上で手札にある状態でセクションが変わるたび、それぞれこのセクション中、スキルハート獲得効果による獲得数を$+100%$、ハート上限増加効果を$+100%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "使用此技能后，从牌库中除外。并且在牌库张数为22张以上时抽到此卡时，获得$25倍$跳心的技能心心，在牌库张数为22张以上且此卡在手牌中时每次小节变化时，分别在本小节中，获得技能心心时其数量$+100%$，心心上限增加效果$+100%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When this skill is used, it is removed from the deck. Additionally, when drawn while the deck has 22 or more cards, gain Skill Hearts equivalent to 25 beats, and each time the section changes while in hand with 22 or more cards in the deck, increase Skill Heart acquisition effect by $+100%$ and Heart Cap increase effect by $+100%$ during this section respectively.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このスキルを使用すると、デッキから除外される。さらにデッキ枚数が23枚でスキル使用時、デッキにある花帆、吟子、ドレスカードのスキルの消費APを-12する。",
     "translation": {
       "zh-CN": {
@@ -48243,6 +48425,58 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をハッピー方向に$+101$する。 さらにそれぞれこのセクション中、瑠璃乃、姫芽が使用するラブアトラクト効果を$+588%$、ハート上限増加効果を$+588%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+101$。此外分别在本小节中，瑠璃乃、姬芽使用的LOVE+效果$+588%$，心心上限增加效果$+588%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Mood towards Happy by +101 during this section. Additionally, increase the Love Attract effect used by Rurino and Hime by $+588%$ and Heart Cap increase effect by $+588%$ respectively during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+106$する。 さらにそれぞれこのセクション中、瑠璃乃、姫芽が使用するラブアトラクト効果を$+616%$、ハート上限増加効果を$+616%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+106$。此外分别在本小节中，瑠璃乃、姬芽使用的LOVE+效果$+616%$，心心上限增加效果$+616%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Mood towards Happy by +106 during this section. Additionally, increase the Love Attract effect used by Rurino and Hime by $+616%$ and Heart Cap increase effect by $+616%$ respectively during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+111$する。 さらにそれぞれこのセクション中、瑠璃乃、姫芽が使用するラブアトラクト効果を$+644%$、ハート上限増加効果を$+644%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+111$。此外分别在本小节中，瑠璃乃、姬芽使用的LOVE+效果$+644%$，心心上限增加效果$+644%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Mood towards Happy by +111 during this section. Additionally, increase the Love Attract effect used by Rurino and Hime by $+644%$ and Heart Cap increase effect by $+644%$ respectively during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+120$する。 さらにそれぞれこのセクション中、瑠璃乃、姫芽が使用するラブアトラクト効果を$+700%$、ハート上限増加効果を$+700%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+120$。此外分别在本小节中，瑠璃乃、姬芽使用的LOVE+效果$+700%$，心心上限增加效果$+700%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Mood towards Happy by +120 during this section. Additionally, increase the Love Attract effect used by Rurino and Hime by $+700%$ and Heart Cap increase effect by $+700%$ respectively during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をハッピー方向に$+40$し、AP回復速度を$+20%$する。さらにメンタルを最大値の$80%$回復させる。",
     "translation": {
       "en": {
@@ -48321,6 +48555,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をハッピー方向に$+48$する。 さらにそれぞれこのセクション中、瑠璃乃、姫芽が使用するラブアトラクト効果を$+280%$、ハート上限増加効果を$+280%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+48$。此外分别在本小节中，瑠璃乃、姬芽使用的LOVE+效果$+280%$，心心上限增加效果$+280%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Mood towards Happy by +48 during this section. Additionally, increase the Love Attract effect used by Rurino and Hime by $+280%$ and Heart Cap increase effect by $+280%$ respectively during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をハッピー方向に$+52$し、AP回復速度を$+26%$する。さらにメンタルを最大値の$104%$回復させる。",
     "translation": {
       "en": {
@@ -48343,6 +48590,19 @@
       "zh-CN": {
         "text": "本小节中，气氛值向Happy方向$+52$，手牌上限增加$3张$。并且恢复最大Mental值的$104%$。",
         "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+53$する。 さらにそれぞれこのセクション中、瑠璃乃、姫芽が使用するラブアトラクト効果を$+308%$、ハート上限増加効果を$+308%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+53$。此外分别在本小节中，瑠璃乃、姬芽使用的LOVE+效果$+308%$，心心上限增加效果$+308%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Mood towards Happy by +53 during this section. Additionally, increase the Love Attract effect used by Rurino and Hime by $+308%$ and Heart Cap increase effect by $+308%$ respectively during this section.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -48373,6 +48633,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をハッピー方向に$+58$する。 さらにそれぞれこのセクション中、瑠璃乃、姫芽が使用するラブアトラクト効果を$+336%$、ハート上限増加効果を$+336%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+58$。此外分别在本小节中，瑠璃乃、姬芽使用的LOVE+效果$+336%$，心心上限增加效果$+336%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Mood towards Happy by +58 during this section. Additionally, increase the Love Attract effect used by Rurino and Hime by $+336%$ and Heart Cap increase effect by $+336%$ respectively during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をハッピー方向に$+60$し、AP回復速度を$+30%$する。さらにメンタルを最大値の$120%$回復させる。",
     "translation": {
       "en": {
@@ -48395,6 +48668,19 @@
       "zh-CN": {
         "text": "本小节中，气氛值向Happy方向$+60$，手牌上限增加$3张$。此外，恢复最大Mental值的$120%$。",
         "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+63$する。 さらにそれぞれこのセクション中、瑠璃乃、姫芽が使用するラブアトラクト効果を$+364%$、ハート上限増加効果を$+364%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+63$。此外分别在本小节中，瑠璃乃、姬芽使用的LOVE+效果$+364%$，心心上限增加效果$+364%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Mood towards Happy by +63 during this section. Additionally, increase the Love Attract effect used by Rurino and Hime by $+364%$ and Heart Cap increase effect by $+364%$ respectively during this section.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -48451,6 +48737,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をハッピー方向に$+68$する。 さらにそれぞれこのセクション中、瑠璃乃、姫芽が使用するラブアトラクト効果を$+392%$、ハート上限増加効果を$+392%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+68$。此外分别在本小节中，瑠璃乃、姬芽使用的LOVE+效果$+392%$，心心上限增加效果$+392%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Mood towards Happy by +68 during this section. Additionally, increase the Love Attract effect used by Rurino and Hime by $+392%$ and Heart Cap increase effect by $+392%$ respectively during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をハッピー方向に$+72$し、AP回復速度を$+36%$する。さらにメンタルを最大値の$144%$回復させる。",
     "translation": {
       "en": {
@@ -48473,6 +48772,32 @@
       "zh-CN": {
         "text": "本小节中，气氛值向Happy方向$+72$，手牌上限增加$4张$。此外，恢复最大Mental值的$144%$。",
         "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+72$する。 さらにそれぞれこのセクション中、瑠璃乃、姫芽が使用するラブアトラクト効果を$+420%$、ハート上限増加効果を$+420%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+72$。此外分别在本小节中，瑠璃乃、姬芽使用的LOVE+效果$+420%$，心心上限增加效果$+420%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Mood towards Happy by +72 during this section. Additionally, increase the Love Attract effect used by Rurino and Hime by $+420%$ and Heart Cap increase effect by $+420%$ respectively during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+77$する。 さらにそれぞれこのセクション中、瑠璃乃、姫芽が使用するラブアトラクト効果を$+448%$、ハート上限増加効果を$+448%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+77$。并且本小节中，瑠璃乃、姬芽使用的LOVE+效果$+448%$，心心上限增加效果$+448%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value in the Mellow direction by +77. Additionally, during this section, increase the Love Attract effect used by Rurino and Hime by +448% and the Heart Cap increase effect by +448%.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -48503,6 +48828,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をハッピー方向に$+82$する。 さらにそれぞれこのセクション中、瑠璃乃、姫芽が使用するラブアトラクト効果を$+476%$、ハート上限増加効果を$+476%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+82$。并且本小节中，瑠璃乃、姬芽使用的LOVE+效果$+476%$，心心上限增加效果$+476%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value in the Mellow direction by +82. Additionally, during this section, increase the Love Attract effect used by Rurino and Hime by +476% and the Heart Cap increase effect by +476%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をハッピー方向に$+84$し、AP回復速度を$+42%$する。さらにメンタルを最大値の$168%$回復させる。",
     "translation": {
       "en": {
@@ -48525,6 +48863,19 @@
       "zh-CN": {
         "text": "本小节中，气氛值向Happy方向$+84$，手牌上限增加$5张$。此外，恢复最大Mental值的$168%$。",
         "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をハッピー方向に$+87$する。 さらにそれぞれこのセクション中、瑠璃乃、姫芽が使用するラブアトラクト効果を$+504%$、ハート上限増加効果を$+504%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+87$。并且本小节中，瑠璃乃、姬芽使用的LOVE+效果$+504%$，心心上限增加效果$+504%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value in the Mellow direction by +87. Additionally, during this section, increase the Love Attract effect used by Rurino and Hime by +504% and the Heart Cap increase effect by +504%.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -48581,6 +48932,123 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をハッピー方向に$+96$する。 さらにそれぞれこのセクション中、瑠璃乃、姫芽が使用するラブアトラクト効果を$+560%$、ハート上限増加効果を$+560%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Happy方向$+96$。并且本小节中，瑠璃乃、姬芽使用的LOVE+效果$+560%$，心心上限增加效果$+560%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value in the Mellow direction by +96. Additionally, during this section, increase the Love Attract effect used by Rurino and Hime by +560% and the Heart Cap increase effect by +560%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+100$する。 さらにそれぞれこのセクション中、さやか、小鈴が使用するラブアトラクト効果を$+500%$、ボルテージゲイン効果を$+500%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+100$。并且本小节中，沙耶香、小铃使用的LOVE+效果$+500%$，获得Vo Pt.效果$+500%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value in the Mellow direction by +100. Additionally, during this section, increase the Love Attract effect used by Sayaka and Kosuzu by +500% and the Voltage Gain effect by +500%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+12$する。さらにムードがメロウ50以上のとき、ボルテージPt.を$+100$、メンタルを最大値の20％減少させ、メロウ100以上のとき、このステージ中、獲得するLOVEを$+40%$、メンタルを最大値の30％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+12$。并且气氛为Mellow50以上时，Vo Pt.$+100$，失去最大Mental值的20%，Mellow100以上时，本场Live中，获得LOVE$+40%$，失去最大Mental值的30%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value in the Mellow direction by +12. Additionally, when Mood is Mellow 50 or higher, increase Voltage Pt. by +100 and reduce Mental by 20% of its maximum value. When Mellow is 100 or higher, increase LOVE gained by +40% for the rest of this stage and reduce Mental by 30% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+14$する。さらにムードがメロウ50以上のとき、ボルテージPt.を$+110$、メンタルを最大値の20％減少させ、メロウ100以上のとき、このステージ中、獲得するLOVEを$+44%$、メンタルを最大値の30％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+14$。并且气氛为Mellow50以上时，Vo Pt.$+110$，失去最大Mental值的20%，Mellow100以上时，本场Live中，获得LOVE$+44%$，失去最大Mental值的30%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value in the Mellow direction by +14. Additionally, when Mood is Mellow 50 or higher, increase Voltage Pt. by +110 and reduce Mental by 20% of its maximum value. When Mellow is 100 or higher, increase LOVE gained by +44% for the rest of this stage and reduce Mental by 30% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+15$する。さらにムードがメロウ50以上のとき、ボルテージPt.を$+120$、メンタルを最大値の20％減少させ、メロウ100以上のとき、このステージ中、獲得するLOVEを$+48%$、メンタルを最大値の30％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+15$。并且气氛为Mellow50以上时，Vo Pt.$+120$，失去最大Mental值的20%，Mellow100以上时，本场Live中，获得LOVE$+48%$，失去最大Mental值的30%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value in the Mellow direction by +15. Additionally, when Mood is Mellow 50 or higher, increase Voltage Pt. by +120 and reduce Mental by 20% of its maximum value. When Mellow is 100 or higher, increase LOVE gained by +48% for the rest of this stage and reduce Mental by 30% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+16$する。さらにムードがメロウ50以上のとき、ボルテージPt.を$+130$、メンタルを最大値の20％減少させ、メロウ100以上のとき、このステージ中、獲得するLOVEを$+52%$、メンタルを最大値の30％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+16$。并且气氛为Mellow50以上时，Vo Pt.$+130$，失去最大Mental值的20%，Mellow100以上时，本场Live中，获得LOVE$+52%$，失去最大Mental值的30%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value in the Mellow direction by +16. Additionally, when Mood is Mellow 50 or higher, increase Voltage Pt. by +130 and reduce Mental by 20% of its maximum value. When Mellow is 100 or higher, increase LOVE gained by +52% for the rest of this stage and reduce Mental by 30% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+17$する。さらにムードがメロウ50以上のとき、ボルテージPt.を$+140$、メンタルを最大値の20％減少させ、メロウ100以上のとき、このステージ中、獲得するLOVEを$+56%$、メンタルを最大値の30％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+17$。并且气氛为Mellow50以上时，Vo Pt.$+140$，失去最大Mental值的20%，Mellow100以上时，本场Live中，获得LOVE$+56%$，失去最大Mental值的30%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value in the Mellow direction by +17. Additionally, when Mood is Mellow 50 or higher, increase Voltage Pt. by +140 and reduce Mental by 20% of its maximum value. When Mellow is 100 or higher, increase LOVE gained by +56% for the rest of this stage and reduce Mental by 30% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+18$する。さらにムードがメロウ50以上のとき、ボルテージPt.を$+150$、メンタルを最大値の20％減少させ、メロウ100以上のとき、このステージ中、獲得するLOVEを$+60%$、メンタルを最大値の30％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+18$。并且气氛为Mellow50以上时，Vo Pt.$+150$，失去最大Mental值的20%，Mellow100以上时，本场Live中，获得LOVE$+60%$，失去最大Mental值的30%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value in the Mellow direction by +18. Additionally, when Mood is Mellow 50 or higher, increase Voltage Pt. by +150 and reduce Mental by 20% of its maximum value. When Mellow is 100 or higher, increase LOVE gained by +60% for the rest of this stage and reduce Mental by 30% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+20$する。さらにムードがメロウ50以上のとき、ボルテージPt.を$+160$、メンタルを最大値の20％減少させ、メロウ100以上のとき、このステージ中、獲得するLOVEを$+64%$、メンタルを最大値の30％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+20$。并且气氛为Mellow50以上时，Vo Pt.$+160$，失去最大Mental值的20%，Mellow100以上时，本场Live中，获得LOVE$+64%$，失去最大Mental值的30%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value in the Mellow direction by +20. Additionally, when Mood is Mellow 50 or higher, increase Voltage Pt. by +160 and reduce Mental by 20% of its maximum value. When Mellow is 100 or higher, increase LOVE gained by +64% for the rest of this stage and reduce Mental by 30% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をメロウ方向に$+20$する。さらにメンタルを最大値の16%減少させる。",
     "translation": {
       "zh-CN": {
@@ -48590,6 +49058,32 @@
       "en": {
         "text": "During this section, shift mood value toward Mellow by $+20$. Additionally, reduce Mental by 16% of max value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+21$する。さらにムードがメロウ50以上のとき、ボルテージPt.を$+170$、メンタルを最大値の20％減少させ、メロウ100以上のとき、このステージ中、獲得するLOVEを$+68%$、メンタルを最大値の30％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+21$。并且气氛为Mellow50以上时，Vo Pt.$+170$，失去最大Mental值的20%，Mellow100以上时，本场Live中，获得LOVE$+68%$，失去最大Mental值的30%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value in the Mellow direction by +21. Additionally, when Mood is Mellow 50 or higher, increase Voltage Pt. by +170 and reduce Mental by 20% of its maximum value. When Mellow is 100 or higher, increase LOVE gained by +68% for the rest of this stage and reduce Mental by 30% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+22$する。さらにムードがメロウ50以上のとき、ボルテージPt.を$+180$、メンタルを最大値の20％減少させ、メロウ100以上のとき、このステージ中、獲得するLOVEを$+72%$、メンタルを最大値の30％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+22$。并且气氛为Mellow50以上时，Vo Pt.$+180$，失去最大Mental值的20%，Mellow100以上时，本场Live中，获得LOVE$+72%$，失去最大Mental值的30%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value in the Mellow direction by +22. Additionally, when Mood is Mellow 50 or higher, increase Voltage Pt. by +180 and reduce Mental by 20% of its maximum value. When Mellow is 100 or higher, increase LOVE gained by +72% for the rest of this stage and reduce Mental by 30% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -48607,6 +49101,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をメロウ方向に$+24$する。さらにムードがメロウ50以上のとき、ボルテージPt.を$+200$、メンタルを最大値の20％減少させ、メロウ100以上のとき、このステージ中、獲得するLOVEを$+80%$、メンタルを最大値の30％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+24$。并且气氛为Mellow50以上时，Vo Pt.$+200$，失去最大Mental值的20%，Mellow100以上时，本场Live中，获得LOVE$+80%$，失去最大Mental值的30%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value in the Mellow direction by +24. Additionally, when Mood is Mellow 50 or higher, increase Voltage Pt. by +200 and reduce Mental by 20% of its maximum value. When Mellow is 100 or higher, increase LOVE gained by +80% for the rest of this stage and reduce Mental by 30% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をメロウ方向に$+24$する。さらにメンタルを最大値の16%減少させる。",
     "translation": {
       "zh-CN": {
@@ -48616,6 +49123,19 @@
       "en": {
         "text": "During this section, shift mood value toward Mellow by $+24$. Additionally, reduce Mental by 16% of max value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+26$する。さらにムードがメロウ50以上のとき、ボルテージPt.を$+210$、メンタルを最大値の20％減少させ、メロウ100以上のとき、このステージ中、獲得するLOVEを$+84%$、メンタルを最大値の30％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+26$。并且气氛为Mellow50以上时，Vo Pt.$+210$，失去最大Mental值的20%，Mellow100以上时，本场Live中，获得LOVE$+84%$，失去最大Mental值的30%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value in the Mellow direction by +26. Additionally, when Mood is Mellow 50 or higher, increase Voltage Pt. by +210 and reduce Mental by 20% of its maximum value. When Mellow is 100 or higher, increase LOVE gained by +84% for the rest of this stage and reduce Mental by 30% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -48633,6 +49153,32 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をメロウ方向に$+27$する。さらにムードがメロウ50以上のとき、ボルテージPt.を$+220$、メンタルを最大値の20％減少させ、メロウ100以上のとき、このステージ中、獲得するLOVEを$+88%$、メンタルを最大値の30％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+27$。并且气氛为Mellow50以上时，Vo Pt.$+220$，失去最大Mental值的20%，Mellow100以上时，本场Live中，获得LOVE$+88%$，失去最大Mental值的30%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value in the Mellow direction by +27. Additionally, when Mood is Mellow 50 or higher, increase Voltage Pt. by +220 and reduce Mental by 20% of its maximum value. When Mellow is 100 or higher, increase LOVE gained by +88% for the rest of this stage and reduce Mental by 30% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+28$する。さらにムードがメロウ50以上のとき、ボルテージPt.を$+230$、メンタルを最大値の20％減少させ、メロウ100以上のとき、このステージ中、獲得するLOVEを$+92%$、メンタルを最大値の30％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+28$。并且气氛为Mellow50以上时，Vo Pt.$+230$，失去最大Mental值的20%，Mellow100以上时，本场Live中，获得LOVE$+92%$，失去最大Mental值的30%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value in the Mellow direction by +28. Additionally, when Mood is Mellow 50 or higher, increase Voltage Pt. by +230 and reduce Mental by 20% of its maximum value. When Mellow is 100 or higher, increase LOVE gained by +92% for the rest of this stage and reduce Mental by 30% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をメロウ方向に$+28$する。さらにメンタルを最大値の16%減少させる。",
     "translation": {
       "zh-CN": {
@@ -48642,6 +49188,19 @@
       "en": {
         "text": "During this section, shift mood value toward Mellow by $+28$. Additionally, reduce Mental by 16% of max value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+30$する。さらにムードがメロウ50以上のとき、ボルテージPt.を$+250$、メンタルを最大値の20％減少させ、メロウ100以上のとき、このステージ中、獲得するLOVEを$+100%$、メンタルを最大値の30％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+30$。并且气氛为Mellow50以上时，Vo Pt.$+250$，失去最大Mental值的20%，Mellow100以上时，本场Live中，获得LOVE$+100%$，失去最大Mental值的30%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value in the Mellow direction by +30. Additionally, when Mood is Mellow 50 or higher, increase Voltage Pt. by +250 and reduce Mental by 20% of its maximum value. When Mellow is 100 or higher, increase LOVE gained by +100% for the rest of this stage and reduce Mental by 30% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -48698,6 +49257,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をメロウ方向に$+40$する。 さらにそれぞれこのセクション中、さやか、小鈴が使用するラブアトラクト効果を$+200%$、ボルテージゲイン効果を$+200%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+40$。并且本小节中，沙耶香、小铃使用的LOVE+效果$+200%$，获得Vo Pt.效果$+200%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value in the Mellow direction by +40. Additionally, during this section, increase the Love Attract effect used by Sayaka and Kosuzu by +200% and the Voltage Gain effect by +200%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をメロウ方向に$+40$する。さらにメンタルを最大値の16%減少させる。",
     "translation": {
       "zh-CN": {
@@ -48720,6 +49292,19 @@
       "en": {
         "text": "During this section, shift mood value toward Mellow by $+42$. Additionally, reduce Mental by 16% of max value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+44$する。 さらにそれぞれこのセクション中、さやか、小鈴が使用するラブアトラクト効果を$+220%$、ボルテージゲイン効果を$+220%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+44$。并且本小节中，沙耶香、小铃使用的LOVE+效果$+220%$，获得Vo Pt.效果$+220%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value in the Mellow direction by +44. Additionally, during this section, increase the Love Attract effect used by Sayaka and Kosuzu by +220% and the Voltage Gain effect by +220%.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -48750,6 +49335,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をメロウ方向に$+48$する。 さらにそれぞれこのセクション中、さやか、小鈴が使用するラブアトラクト効果を$+240%$、ボルテージゲイン効果を$+240%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+48$。并且本小节中，沙耶香、小铃使用的LOVE+效果$+240%$，获得Vo Pt.效果$+240%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value in the Mellow direction by +48. Additionally, during this section, increase the Love Attract effect used by Sayaka and Kosuzu by +240% and the Voltage Gain effect by +240%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をメロウ方向に$+50$する。さらにメンタルを最大値の16%減少させる。",
     "translation": {
       "zh-CN": {
@@ -48759,6 +49357,136 @@
       "en": {
         "text": "During this section, shift mood value toward Mellow by $+50$. Additionally, reduce Mental by 16% of max value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+52$する。 さらにそれぞれこのセクション中、さやか、小鈴が使用するラブアトラクト効果を$+260%$、ボルテージゲイン効果を$+260%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+52$。并且本小节中，沙耶香、小铃使用的LOVE+效果$+260%$，获得Vo Pt.效果$+260%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value in the Mellow direction by +52. Additionally, during this section, increase the Love Attract effect used by Sayaka and Kosuzu by +260% and the Voltage Gain effect by +260%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+56$する。 さらにそれぞれこのセクション中、さやか、小鈴が使用するラブアトラクト効果を$+280%$、ボルテージゲイン効果を$+280%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+56$。并且本小节中，沙耶香、小铃使用的LOVE+效果$+280%$，获得Vo Pt.效果$+280%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value in the Mellow direction by +56. Additionally, during this section, increase the Love Attract effect used by Sayaka and Kosuzu by +280% and the Voltage Gain effect by +280%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+60$する。 さらにそれぞれこのセクション中、さやか、小鈴が使用するラブアトラクト効果を$+300%$、ボルテージゲイン効果を$+300%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+60$。并且本小节中，村野沙耶香、小铃使用的LOVE+效果$+300%$，获得Vo Pt.效果$+300%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood towards Mellow by +60. Additionally, during this section, increase the Love Attract effect used by Sayaka and Kosuzu by +300% each, and increase the Voltage Gain effect by +300%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+64$する。 さらにそれぞれこのセクション中、さやか、小鈴が使用するラブアトラクト効果を$+320%$、ボルテージゲイン効果を$+320%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+64$。并且本小节中，村野沙耶香、小铃使用的LOVE+效果$+320%$，获得Vo Pt.效果$+320%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood towards Mellow by +64. Additionally, during this section, increase the Love Attract effect used by Sayaka and Kosuzu by +320% each, and increase the Voltage Gain effect by +320%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+68$する。 さらにそれぞれこのセクション中、さやか、小鈴が使用するラブアトラクト効果を$+340%$、ボルテージゲイン効果を$+340%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+68$。并且本小节中，村野沙耶香、小铃使用的LOVE+效果$+340%$，获得Vo Pt.效果$+340%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood towards Mellow by +68. Additionally, during this section, increase the Love Attract effect used by Sayaka and Kosuzu by +340% each, and increase the Voltage Gain effect by +340%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+72$する。 さらにそれぞれこのセクション中、さやか、小鈴が使用するラブアトラクト効果を$+360%$、ボルテージゲイン効果を$+360%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+72$。并且本小节中，村野沙耶香、小铃使用的LOVE+效果$+360%$，获得Vo Pt.效果$+360%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood towards Mellow by +72. Additionally, during this section, increase the Love Attract effect used by Sayaka and Kosuzu by +360% each, and increase the Voltage Gain effect by +360%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+80$する。 さらにそれぞれこのセクション中、さやか、小鈴が使用するラブアトラクト効果を$+400%$、ボルテージゲイン効果を$+400%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+80$。并且本小节中，村野沙耶香、小铃使用的LOVE+效果$+400%$，获得Vo Pt.效果$+400%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood towards Mellow by +80. Additionally, during this section, increase the Love Attract effect used by Sayaka and Kosuzu by +400% each, and increase the Voltage Gain effect by +400%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+84$する。 さらにそれぞれこのセクション中、さやか、小鈴が使用するラブアトラクト効果を$+420%$、ボルテージゲイン効果を$+420%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+84$。并且本小节中，村野沙耶香、小铃使用的LOVE+效果$+420%$，获得Vo Pt.效果$+420%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood towards Mellow by +84. Additionally, during this section, increase the Love Attract effect used by Sayaka and Kosuzu by +420% each, and increase the Voltage Gain effect by +420%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+88$する。 さらにそれぞれこのセクション中、さやか、小鈴が使用するラブアトラクト効果を$+440%$、ボルテージゲイン効果を$+440%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+88$。并且本小节中，村野沙耶香、小铃使用的LOVE+效果$+440%$，获得Vo Pt.效果$+440%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood towards Mellow by +88. Additionally, during this section, increase the Love Attract effect used by Sayaka and Kosuzu by +440% each, and increase the Voltage Gain effect by +440%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+92$する。 さらにそれぞれこのセクション中、さやか、小鈴が使用するラブアトラクト効果を$+460%$、ボルテージゲイン効果を$+460%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+92$。并且本小节中，村野沙耶香、小铃使用的LOVE+效果$+460%$，获得Vo Pt.效果$+460%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood towards Mellow by +92. Additionally, during this section, increase the Love Attract effect used by Sayaka and Kosuzu by +460% each, and increase the Voltage Gain effect by +460%.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -50709,6 +51437,188 @@
       "en": {
         "text": "During this section, Mental will not decrease even when it reaches 0. Additionally, during this stage, Heart limit is increased by $+72$ and Mental is reduced by 100% of its maximum value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが0になってもメンタルダウンしなくなる。さらにこのセクション中、泉、セラスが使用するあらゆるスキル効果量を$160%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental为0时也不会Mental Down。并且本小节中，桂城泉、塞拉斯使用的所有技能效果量增幅$160%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental Down will not occur even when Mental reaches 0. Additionally, during this section, amplify all skill effects used by Izumi and Ceras by $160%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが0になってもメンタルダウンしなくなる。さらにこのセクション中、泉、セラスが使用するあらゆるスキル効果量を$176%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental为0时也不会Mental Down。并且本小节中，桂城泉、塞拉斯使用的所有技能效果量增幅$176%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental Down will not occur even when Mental reaches 0. Additionally, during this section, amplify all skill effects used by Izumi and Ceras by $176%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが0になってもメンタルダウンしなくなる。さらにこのセクション中、泉、セラスが使用するあらゆるスキル効果量を$192%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental为0时也不会Mental Down。并且本小节中，桂城泉、塞拉斯使用的所有技能效果量增幅$192%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental Down will not occur even when Mental reaches 0. Additionally, during this section, amplify all skill effects used by Izumi and Ceras by $192%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが0になってもメンタルダウンしなくなる。さらにこのセクション中、泉、セラスが使用するあらゆるスキル効果量を$208%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental为0时也不会Mental Down。并且本小节中，桂城泉、塞拉斯使用的所有技能效果量增幅$208%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental Down will not occur even when Mental reaches 0. Additionally, during this section, amplify all skill effects used by Izumi and Ceras by $208%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが0になってもメンタルダウンしなくなる。さらにこのセクション中、泉、セラスが使用するあらゆるスキル効果量を$224%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental为0时也不会Mental Down。并且本小节中，桂城泉、塞拉斯使用的所有技能效果量增幅$224%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental Down will not occur even when Mental reaches 0. Additionally, during this section, amplify all skill effects used by Izumi and Ceras by $224%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが0になってもメンタルダウンしなくなる。さらにこのセクション中、泉、セラスが使用するあらゆるスキル効果量を$240%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental为0时也不会Mental Down。并且本小节中，桂城泉、塞拉斯使用的所有技能效果量增幅$240%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental Down will not occur even when Mental reaches 0. Additionally, during this section, amplify all skill effects used by Izumi and Ceras by $240%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが0になってもメンタルダウンしなくなる。さらにこのセクション中、泉、セラスが使用するあらゆるスキル効果量を$256%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental为0时也不会Mental Down。并且本小节中，桂城泉、塞拉斯使用的所有技能效果量增幅$256%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental Down will not occur even when Mental reaches 0. Additionally, during this section, amplify all skill effects used by Izumi and Ceras by $256%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが0になってもメンタルダウンしなくなる。さらにこのセクション中、泉、セラスが使用するあらゆるスキル効果量を$272%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental为0时也不会Mental Down。并且本小节中，桂城泉、塞拉斯使用的所有技能效果量增幅$272%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental Down will not occur even when Mental reaches 0. Additionally, during this section, amplify all skill effects used by Izumi and Ceras by $272%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが0になってもメンタルダウンしなくなる。さらにこのセクション中、泉、セラスが使用するあらゆるスキル効果量を$288%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental为0时也不会Mental Down。并且本小节中，桂城泉、塞拉斯使用的所有技能效果量增幅$288%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental Down will not occur even when Mental reaches 0. Additionally, during this section, amplify all skill effects used by Izumi and Ceras by $288%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが0になってもメンタルダウンしなくなる。さらにこのセクション中、泉、セラスが使用するあらゆるスキル効果量を$320%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental为0时也不会Mental Down。并且本小节中，桂城泉、塞拉斯使用的所有技能效果量增幅$320%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental Down will not occur even when Mental reaches 0. Additionally, during this section, amplify all skill effects used by Izumi and Ceras by $320%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが0になってもメンタルダウンしなくなる。さらにこのセクション中、泉、セラスが使用するあらゆるスキル効果量を$336%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental为0时也不会Mental Down。并且本小节中，桂城泉、塞拉斯使用的所有技能效果量增幅$336%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental Down will not occur even when Mental reaches 0. Additionally, during this section, amplify all skill effects used by Izumi and Ceras by $336%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが0になってもメンタルダウンしなくなる。さらにこのセクション中、泉、セラスが使用するあらゆるスキル効果量を$352%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental为0时也不会Mental Down。并且本小节中，桂城泉、塞拉斯使用的所有技能效果量增幅$352%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental Down will not occur even when Mental reaches 0. Additionally, during this section, amplify all skill effects used by Izumi and Ceras by $352%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが0になってもメンタルダウンしなくなる。さらにこのセクション中、泉、セラスが使用するあらゆるスキル効果量を$368%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental为0时也不会Mental Down。并且本小节中，桂城泉、塞拉斯使用的所有技能效果量增幅$368%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental Down will not occur even when Mental reaches 0. Additionally, during this section, amplify all skill effects used by Izumi and Ceras by $368%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルが0になってもメンタルダウンしなくなる。さらにこのセクション中、泉、セラスが使用するあらゆるスキル効果量を$400%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental为0时也不会Mental Down。并且本小节中，桂城泉、塞拉斯使用的所有技能效果量增幅$400%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, Mental Down will not occur even when Mental reaches 0. Additionally, during this section, amplify all skill effects used by Izumi and Ceras by $400%$.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -64636,6 +65546,188 @@
     }
   },
   {
+    "raw": "このセクション中、花帆、吟子、ドレスカードが使用するスキルハート獲得効果による獲得数を$+160%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，日野下花帆、百生吟子、礼服卡使用的获得技能心心时，其数量$+160%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Skill Hearts gained from Skill Heart acquisition effects used by Kaho, Ginko, and Dress Cards by $+160%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、花帆、吟子、ドレスカードが使用するスキルハート獲得効果による獲得数を$+176%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，日野下花帆、百生吟子、礼服卡使用的获得技能心心时，其数量$+176%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Skill Hearts gained from Skill Heart acquisition effects used by Kaho, Ginko, and Dress Cards by $+176%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、花帆、吟子、ドレスカードが使用するスキルハート獲得効果による獲得数を$+192%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，花帆、吟子、礼服卡使用的获得技能心心时，其数量$+192%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Skill Hearts gained from Skill Heart acquisition effects used by Kaho, Ginko, and Dress Cards by $+192%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、花帆、吟子、ドレスカードが使用するスキルハート獲得効果による獲得数を$+208%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，花帆、吟子、礼服卡使用的获得技能心心时，其数量$+208%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Skill Hearts gained from Skill Heart acquisition effects used by Kaho, Ginko, and Dress Cards by $+208%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、花帆、吟子、ドレスカードが使用するスキルハート獲得効果による獲得数を$+224%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，花帆、吟子、礼服卡使用的获得技能心心时，其数量$+224%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Skill Hearts gained from Skill Heart acquisition effects used by Kaho, Ginko, and Dress Cards by $+224%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、花帆、吟子、ドレスカードが使用するスキルハート獲得効果による獲得数を$+240%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，花帆、吟子、礼服卡使用的获得技能心心时，其数量$+240%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Skill Hearts gained from Skill Heart acquisition effects used by Kaho, Ginko, and Dress Cards by $+240%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、花帆、吟子、ドレスカードが使用するスキルハート獲得効果による獲得数を$+256%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，花帆、吟子、礼服卡使用的获得技能心心时，其数量$+256%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Skill Hearts gained from Skill Heart acquisition effects used by Kaho, Ginko, and Dress Cards by $+256%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、花帆、吟子、ドレスカードが使用するスキルハート獲得効果による獲得数を$+272%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，花帆、吟子、礼服卡使用的获得技能心心时，其数量$+272%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Skill Hearts gained from Skill Heart acquisition effects used by Kaho, Ginko, and Dress Cards by $+272%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、花帆、吟子、ドレスカードが使用するスキルハート獲得効果による獲得数を$+288%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，花帆、吟子、礼服卡使用的获得技能心心时，其数量$+288%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Skill Hearts gained from Skill Heart acquisition effects used by Kaho, Ginko, and Dress Cards by $+288%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、花帆、吟子、ドレスカードが使用するスキルハート獲得効果による獲得数を$+320%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，花帆、吟子、礼服卡使用的获得技能心心时，其数量$+320%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Skill Hearts gained from Skill Heart acquisition effects used by Kaho, Ginko, and Dress Cards by $+320%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、花帆、吟子、ドレスカードが使用するスキルハート獲得効果による獲得数を$+336%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，花帆、吟子、礼服卡使用的获得技能心心时，其数量$+336%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Skill Hearts gained from Skill Heart acquisition effects used by Kaho, Ginko, and Dress Cards by $+336%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、花帆、吟子、ドレスカードが使用するスキルハート獲得効果による獲得数を$+352%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，花帆、吟子、礼服卡使用的获得技能心心时，其数量$+352%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Skill Hearts gained from Skill Heart acquisition effects used by Kaho, Ginko, and Dress Cards by $+352%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、花帆、吟子、ドレスカードが使用するスキルハート獲得効果による獲得数を$+368%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，花帆、吟子、礼服卡使用的获得技能心心时，其数量$+368%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Skill Hearts gained from Skill Heart acquisition effects used by Kaho, Ginko, and Dress Cards by $+368%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、花帆、吟子、ドレスカードが使用するスキルハート獲得効果による獲得数を$+400%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，花帆、吟子、礼服卡使用的获得技能心心时，其数量$+400%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Skill Hearts gained from Skill Heart acquisition effects used by Kaho, Ginko, and Dress Cards by $+400%$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このドレスは使用時にデッキから除外されない",
     "translation": {
       "zh-CN": {
@@ -67821,6 +68913,188 @@
     }
   },
   {
+    "raw": "カードがステージにセットされ、獲得するボルテージPt.を吸収する。ボルテージPt.を600吸収したとき、このセクション中、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の100％減少、ビートハート$20回分$のスキルハートを獲得し、捨札に移動する。さらにメンタルが0のとき、ボルテージPt.を$+80$し、このセクション中、ビートハートの出現個数を$+3$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上，吸收获得的Vo Pt.。吸收600 Vo Pt.时，本小节中，Mental为0时也不会Mental Down，失去最大mental值的100%，获得$20倍$跳心的技能心心，移动至弃牌堆。并且Mental为0时，Vo Pt.$+80$，本小节中，跳心出现数量$+3$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs gained Voltage Pt. When 600 Voltage Pt. is absorbed, Mental will no longer drop even if Mental reaches 0 during this section, reduce Mental by 100% of its maximum value, gain Skill Hearts equivalent to 20 beats, and move to the discard pile. Additionally, when Mental is 0, increase Voltage Pt. by $+80$ and increase the number of Beat Hearts appearing by $+3$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、獲得するボルテージPt.を吸収する。ボルテージPt.を600吸収したとき、このセクション中、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の100％減少、ビートハート$22回分$のスキルハートを獲得し、捨札に移動する。さらにメンタルが0のとき、ボルテージPt.を$+88$し、このセクション中、ビートハートの出現個数を$+3$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上，吸收获得的Vo Pt.。吸收600 Vo Pt.时，本小节中，Mental为0时也不会Mental Down，失去最大mental值的100%，获得$22倍$跳心的技能心心，移动至弃牌堆。并且Mental为0时，Vo Pt.$+88$，本小节中，跳心出现数量$+3$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs gained Voltage Pt. When 600 Voltage Pt. is absorbed, Mental will no longer drop even if Mental reaches 0 during this section, reduce Mental by 100% of its maximum value, gain Skill Hearts equivalent to 22 beats, and move to the discard pile. Additionally, when Mental is 0, increase Voltage Pt. by $+88$ and increase the number of Beat Hearts appearing by $+3$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、獲得するボルテージPt.を吸収する。ボルテージPt.を600吸収したとき、このセクション中、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の100％減少、ビートハート$24回分$のスキルハートを獲得し、捨札に移動する。さらにメンタルが0のとき、ボルテージPt.を$+96$し、このセクション中、ビートハートの出現個数を$+3$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上，吸收获得的Vo Pt.。吸收600 Vo Pt.时，本小节中，Mental为0时也不会Mental Down，失去最大mental值的100%，获得$24倍$跳心的技能心心，移动至弃牌堆。并且Mental为0时，Vo Pt.$+96$，本小节中，跳心出现数量$+3$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs gained Voltage Pt. When 600 Voltage Pt. is absorbed, Mental will no longer drop even if Mental reaches 0 during this section, reduce Mental by 100% of its maximum value, gain Skill Hearts equivalent to 24 beats, and move to the discard pile. Additionally, when Mental is 0, increase Voltage Pt. by $+96$ and increase the number of Beat Hearts appearing by $+3$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、獲得するボルテージPt.を吸収する。ボルテージPt.を600吸収したとき、このセクション中、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の100％減少、ビートハート$26回分$のスキルハートを獲得し、捨札に移動する。さらにメンタルが0のとき、ボルテージPt.を$+104$し、このセクション中、ビートハートの出現個数を$+3$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上，吸收获得的Vo Pt.。吸收600 Vo Pt.时，本小节中，Mental为0时也不会Mental Down，失去最大mental值的100%，获得$26倍$跳心的技能心心，移动至弃牌堆。并且Mental为0时，Vo Pt.$+104$，本小节中，跳心出现数量$+3$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs gained Voltage Pt. When 600 Voltage Pt. is absorbed, Mental will no longer drop even if Mental reaches 0 during this section, reduce Mental by 100% of its maximum value, gain Skill Hearts equivalent to 26 beats, and move to the discard pile. Additionally, when Mental is 0, increase Voltage Pt. by $+104$ and increase the number of Beat Hearts appearing by $+3$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、獲得するボルテージPt.を吸収する。ボルテージPt.を600吸収したとき、このセクション中、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の100％減少、ビートハート$28回分$のスキルハートを獲得し、捨札に移動する。さらにメンタルが0のとき、ボルテージPt.を$+112$し、このセクション中、ビートハートの出現個数を$+3$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上，吸收获得的Vo Pt.。吸收600 Vo Pt.时，本小节中，Mental为0时也不会Mental Down，失去最大mental值的100%，获得$28倍$跳心的技能心心，移动至弃牌堆。并且Mental为0时，Vo Pt.$+112$，本小节中，跳心出现数量$+3$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs gained Voltage Pt. When 600 Voltage Pt. is absorbed, Mental will no longer drop even if Mental reaches 0 during this section, reduce Mental by 100% of its maximum value, gain Skill Hearts equivalent to 28 beats, and move to the discard pile. Additionally, when Mental is 0, increase Voltage Pt. by $+112$ and increase the number of Beat Hearts appearing by $+3$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、獲得するボルテージPt.を吸収する。ボルテージPt.を600吸収したとき、このセクション中、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の100％減少、ビートハート$30回分$のスキルハートを獲得し、捨札に移動する。さらにメンタルが0のとき、ボルテージPt.を$+120$し、このセクション中、ビートハートの出現個数を$+3$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上，吸收获得的Vo Pt.。吸收600 Vo Pt.时，本小节中，Mental为0时也不会Mental Down，失去最大mental值的100%，获得$30倍$跳心的技能心心，移动至弃牌堆。并且Mental为0时，Vo Pt.$+120$，本小节中，跳心出现数量$+3$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs gained Voltage Pt. When 600 Voltage Pt. is absorbed, Mental will no longer drop even if Mental reaches 0 during this section, reduce Mental by 100% of its maximum value, gain Skill Hearts equivalent to 30 beats, and move to the discard pile. Additionally, when Mental is 0, increase Voltage Pt. by $+120$ and increase the number of Beat Hearts appearing by $+3$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、獲得するボルテージPt.を吸収する。ボルテージPt.を600吸収したとき、このセクション中、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の100％減少、ビートハート$32回分$のスキルハートを獲得し、捨札に移動する。さらにメンタルが0のとき、ボルテージPt.を$+128$し、このセクション中、ビートハートの出現個数を$+3$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上，吸收获得的Vo Pt.。吸收600 Vo Pt.时，本小节中，Mental为0时也不会Mental Down，失去最大mental值的100%，获得$32倍$跳心的技能心心，移动至弃牌堆。并且Mental为0时，Vo Pt.$+128$，本小节中，跳心出现数量$+3$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs gained Voltage Pt. When 600 Voltage Pt. is absorbed, Mental will no longer drop even if Mental reaches 0 during this section, reduce Mental by 100% of its maximum value, gain Skill Hearts equivalent to 32 beats, and move to the discard pile. Additionally, when Mental is 0, increase Voltage Pt. by $+128$ and increase the number of Beat Hearts appearing by $+3$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、獲得するボルテージPt.を吸収する。ボルテージPt.を600吸収したとき、このセクション中、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の100％減少、ビートハート$34回分$のスキルハートを獲得し、捨札に移動する。さらにメンタルが0のとき、ボルテージPt.を$+136$し、このセクション中、ビートハートの出現個数を$+3$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上，吸收获得的Vo Pt.。吸收600 Vo Pt.时，本小节中，Mental为0时也不会Mental Down，失去最大mental值的100%，获得$34倍$跳心的技能心心，移动至弃牌堆。并且Mental为0时，Vo Pt.$+136$，本小节中，跳心出现数量$+3$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs gained Voltage Pt. When 600 Voltage Pt. is absorbed, Mental will no longer drop even if Mental reaches 0 during this section, reduce Mental by 100% of its maximum value, gain Skill Hearts equivalent to 34 beats, and move to the discard pile. Additionally, when Mental is 0, increase Voltage Pt. by $+136$ and increase the number of Beat Hearts appearing by $+3$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、獲得するボルテージPt.を吸収する。ボルテージPt.を600吸収したとき、このセクション中、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の100％減少、ビートハート$36回分$のスキルハートを獲得し、捨札に移動する。さらにメンタルが0のとき、ボルテージPt.を$+144$し、このセクション中、ビートハートの出現個数を$+3$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上，吸收获得的Vo Pt.。吸收600 Vo Pt.时，本小节中，Mental为0时也不会Mental Down，失去最大mental值的100%，获得$36倍$跳心的技能心心，移动至弃牌堆。并且Mental为0时，Vo Pt.$+144$，本小节中，跳心出现数量$+3$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs gained Voltage Pt. When 600 Voltage Pt. is absorbed, Mental will no longer drop even if Mental reaches 0 during this section, reduce Mental by 100% of its maximum value, gain Skill Hearts equivalent to 36 beats, and move to the discard pile. Additionally, when Mental is 0, increase Voltage Pt. by $+144$ and increase the number of Beat Hearts appearing by $+3$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、獲得するボルテージPt.を吸収する。ボルテージPt.を600吸収したとき、このセクション中、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の100％減少、ビートハート$40回分$のスキルハートを獲得し、捨札に移動する。さらにメンタルが0のとき、ボルテージPt.を$+160$し、このセクション中、ビートハートの出現個数を$+3$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上，吸收获得的Vo Pt.。吸收600 Vo Pt.时，本小节中，Mental为0时也不会Mental Down，失去最大mental值的100%，获得$40倍$跳心的技能心心，移动至弃牌堆。并且Mental为0时，Vo Pt.$+160$，本小节中，跳心出现数量$+3$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs gained Voltage Pt. When 600 Voltage Pt. is absorbed, Mental will no longer drop even if Mental reaches 0 during this section, reduce Mental by 100% of its maximum value, gain Skill Hearts equivalent to 40 beats, and move to the discard pile. Additionally, when Mental is 0, increase Voltage Pt. by $+160$ and increase the number of Beat Hearts appearing by $+3$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、獲得するボルテージPt.を吸収する。ボルテージPt.を600吸収したとき、このセクション中、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の100％減少、ビートハート$42回分$のスキルハートを獲得し、捨札に移動する。さらにメンタルが0のとき、ボルテージPt.を$+168$し、このセクション中、ビートハートの出現個数を$+3$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上，吸收获得的Vo Pt.。吸收600 Vo Pt.时，本小节中，Mental为0时也不会Mental Down，失去最大mental值的100%，获得$42倍$跳心的技能心心，移动至弃牌堆。并且Mental为0时，Vo Pt.$+168$，本小节中，跳心出现数量$+3$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs gained Voltage Pt. When 600 Voltage Pt. is absorbed, Mental will no longer drop even if Mental reaches 0 during this section, reduce Mental by 100% of its maximum value, gain Skill Hearts equivalent to 42 beats, and move to the discard pile. Additionally, when Mental is 0, increase Voltage Pt. by $+168$ and increase the number of Beat Hearts appearing by $+3$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、獲得するボルテージPt.を吸収する。ボルテージPt.を600吸収したとき、このセクション中、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の100％減少、ビートハート$44回分$のスキルハートを獲得し、捨札に移動する。さらにメンタルが0のとき、ボルテージPt.を$+176$し、このセクション中、ビートハートの出現個数を$+3$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上，吸收获得的Vo Pt.。吸收600 Vo Pt.时，本小节中，Mental为0时也不会Mental Down，失去最大mental值的100%，获得$44倍$跳心的技能心心，移动至弃牌堆。并且Mental为0时，Vo Pt.$+176$，本小节中，跳心出现数量$+3$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs gained Voltage Pt. When 600 Voltage Pt. is absorbed, Mental will no longer drop even if Mental reaches 0 during this section, reduce Mental by 100% of its maximum value, gain Skill Hearts equivalent to 44 beats, and move to the discard pile. Additionally, when Mental is 0, increase Voltage Pt. by $+176$ and increase the number of Beat Hearts appearing by $+3$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、獲得するボルテージPt.を吸収する。ボルテージPt.を600吸収したとき、このセクション中、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の100％減少、ビートハート$46回分$のスキルハートを獲得し、捨札に移動する。さらにメンタルが0のとき、ボルテージPt.を$+184$し、このセクション中、ビートハートの出現個数を$+3$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上，吸收获得的Vo Pt.。吸收600 Vo Pt.时，本小节中，Mental为0时也不会Mental Down，失去最大Mental值的100%，获得$46倍$跳心的技能心心，移动至弃牌堆。并且Mental为0%时，Vo Pt.$+184$，本小节中，跳心出现数量$+3$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs the Voltage Pt. gained. When 600 Voltage Pt. is absorbed, Mental will not decrease even if Mental reaches 0 during this section, reduce Mental by 100% of its maximum value, gain Skill Hearts equivalent to 46 beats, and move to the discard pile. Additionally, when Mental is 0, increase Voltage Pt. by +184 and increase the number of Beat Hearts appearing by +3 during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、獲得するボルテージPt.を吸収する。ボルテージPt.を600吸収したとき、このセクション中、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の100％減少、ビートハート$50回分$のスキルハートを獲得し、捨札に移動する。さらにメンタルが0のとき、ボルテージPt.を$+200$し、このセクション中、ビートハートの出現個数を$+3$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上，吸收获得的Vo Pt.。吸收600 Vo Pt.时，本小节中，Mental为0时也不会Mental Down，失去最大Mental值的100%，获得$50倍$跳心的技能心心，移动至弃牌堆。并且Mental为0%时，Vo Pt.$+200$，本小节中，跳心出现数量$+3$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs the Voltage Pt. gained. When 600 Voltage Pt. is absorbed, Mental will not decrease even if Mental reaches 0 during this section, reduce Mental by 100% of its maximum value, gain Skill Hearts equivalent to 50 beats, and move to the discard pile. Additionally, when Mental is 0, increase Voltage Pt. by +200 and increase the number of Beat Hearts appearing by +3 during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "カードがステージにセットされ、獲得するメンタルプロテクト効果を吸収する。メンタルプロテクト効果を10%吸収したとき、ボルテージPt.を$+104$し、捨札に移動する。",
     "translation": {
       "zh-CN": {
@@ -69975,6 +71249,19 @@
       "en": {
         "text": "Add 3 types (total 3 cards) of Dress Card 《Reflection in the mirror》 to the deck.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ドレスカード《もういちど ルミナス》を1種類(合計3枚)山札に追加する。さらに手札をリセットシャッフルする。この時花帆、吟子、ドレスカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1种（共计3张）服装卡《もういちど ルミナス》加入牌库。并且将手牌重置洗牌。此时抽到花帆、吟子、服装卡的概率大幅提升。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Add 1 type (3 cards total) of Dress Card 《もういちど ルミナス》 to the deck. Additionally, reset and shuffle your hand. At this time, the probability of drawing Kaho, Ginko, and Dress Cards is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -107705,6 +108992,58 @@
     }
   },
   {
+    "raw": "メイン効果がイミテーション、ムード変化のスキルを使用したとき、ドローされる確率が大幅に増加する。さらにメンタルが25%以下でドローしたとき、ビートハート25回分のスキルハートを獲得、このセクション中、ボルテージゲイン効果を+20%し、メンタルが25%以下で手札にある状態でセクションが変わるたび、このセクション中、メンタルが0になってもメンタルダウンしなくなり、あらゆるスキル効果量を20%増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "使用主效果为模仿、气氛变化的技能时，抽到的概率大幅提升。并且Mental为25%以下时抽到此卡时，获得25倍跳心的技能心心，本小节中，获得Vo Pt.效果+20%，Mental为25%以下且在手牌中的状态下每当小节变化时，本小节中，Mental为0时也不会Mental Down，所有技能效果量增幅20%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When using skills with main effects of Imitation or Mood Change, the probability of being drawn is greatly increased. Additionally, when drawn with Mental at 25% or lower, gain Skill Hearts equivalent to 25 beats, increase Voltage Gain effect by +20% during this section, and whenever a section changes while in hand with Mental at 25% or lower, Mental will not decrease even if Mental reaches 0 during this section, and amplify all skill effects by 20%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メイン効果がシャッフルのスキルを使用したとき、ドローされる確率が大幅に増加する。さらにデッキ枚数が22枚以上でドローしたとき、このステージ中、ハート上限を+50し、デッキ枚数が22枚以上で手札にある状態でセクションが変わるたび、このステージ中、手札の上限枚数を2枚増加し、それぞれこのセクション中、スキルハート獲得効果による獲得数を+50%、ハート上限増加効果を+50%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "使用主效果为洗牌的技能时，抽到的概率大幅提升。并且牌库张数为22张以上时抽到此卡时，本场Live中，心心上限+50，牌库张数为22张以上且在手牌中的状态下每当小节变化时，本场Live中，手牌上限增加2张，并且分别在本小节中，获得技能心心时其数量+50%，心心上限增加效果+50%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When using skills with main effect of Shuffle, the probability of being drawn is greatly increased. Additionally, when drawn with deck count at 22 or more cards, increase Heart Cap by +50 for the rest of this stage, and whenever a section changes while in hand with deck count at 22 or more cards, increase the maximum number of cards in hand by 2 for the rest of this stage, and increase Skill Heart gain effect acquisition amount by +50% and Heart Cap increase effect by +50% during this section respectively.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メイン効果がメンタルリカバー、メンタルプロテクト、メンタルガードのスキルを使用したとき、ドローされる確率が大幅に増加する。さらにメンタルが150%以上でドローしたとき、ビートハート25回分のスキルハートを獲得、このセクション中、ムード値をハッピー方向に+10し、メンタルが150%以上で手札にある状態でセクションが変わるたび、このセクション中、ムード値をハッピー方向に+100、メンタルリカバー効果を+30%し、それぞれメンタルの最大値の300%分のメンタル自然減少、メンタル直接ダメージを無効にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "使用主效果为Mental恢复、Mental防护、Mental防御的技能时，抽到的概率大幅提升。并且Mental为150%以上时抽到此卡时，获得25倍跳心的技能心心，本小节中，气氛值向Happy方向+10，Mental为150%以上且在手牌中的状态下每当小节变化时，本小节中，气氛值向Happy方向+100，Mental恢复效果+30%，并且分别防止最大Mental值的300%的自然减少、直接伤害。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When using skills with main effects of Mental Recovery, Mental Protect, or Mental Guard, the probability of being drawn is greatly increased. Additionally, when drawn with Mental at 150% or higher, gain Skill Hearts equivalent to 25 beats, increase Mood towards Happy by +10 during this section, and whenever a section changes while in hand with Mental at 150% or higher, increase Mood towards Happy by +100 and Mental Recovery effect by +30% during this section, and nullify Mental natural decrease and direct Mental damage equal to 300% of the maximum Mental value respectively.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メイン効果がラブアトラクト、ボルテージゲインのスキルを使用したとき、ドローされる確率が大幅に増加する。さらにボルテージLv.が20以上でドローしたとき、ビートハート25回分のスキルハートを獲得、メンタルを50%回復し、ボルテージLv.が20以上で手札にある状態でセクションが変わるたび、このセクション中、ムード値をメロウ方向に+100し、それぞれこのセクション中、ラブアトラクト効果を+100%、ボルテージゲイン効果を+100%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "使用主效果为LOVE+、获得Vo Pt.的技能时，抽到的概率大幅提升。并且Voltage Lv.为20以上时抽到此卡时，获得25倍跳心的技能心心，恢复Mental 50%，Voltage Lv.为20以上且在手牌中的状态下每当小节变化时，本小节中，气氛值向Mellow方向+100，并且分别在本小节中，LOVE+效果+100%，获得Vo Pt.效果+100%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When using skills with main effects of Love Attract or Voltage Gain, the probability of being drawn is greatly increased. Additionally, when drawn with Voltage Lv. at 20 or higher, gain Skill Hearts equivalent to 25 beats, restore Mental by 50%, and whenever a section changes while in hand with Voltage Lv. at 20 or higher, increase Mood towards Mellow by +100 during this section, and increase Love Attract effect by +100% and Voltage Gain effect by +100% during this section respectively.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メイン効果にスキルハート獲得効果を持つ、山札を含む全てのスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+24%$する。",
     "translation": {
       "zh-CN": {
@@ -112762,6 +114101,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$14.4%$回復させる。さらにムードがハッピー50以上のとき、このステージ中、獲得するLOVEを$+30%$、APを2回復し、ハッピー100以上のとき、このステージ中、ハート上限を$+176$、APを2回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$14.4%$。并且气氛为Happy50以上时，本场Live中，获得LOVE$+30%$，AP回复2，Happy100以上时，本场Live中，心心上限$+176$，AP回复2。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to 14.4% of its maximum value. Additionally, when Mood is Happy 50 or higher, increase LOVE gained by +30% and recover 2 AP for the rest of this stage, and when Happy 100 or higher, increase Heart Cap by +176 and recover 2 AP for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$14.4%$回復させる。さらにメンタルが100%以上のとき、ビートハート$18回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -113109,6 +114461,19 @@
       "en": {
         "text": "Restore Mental by $15.84%$ of maximum value. Additionally, when Voltage Lv. is 8 or higher, gain Skill Heart equivalent to $4$ Beat Hearts.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$15.84%$回復させる。さらにムードがハッピー50以上のとき、このステージ中、獲得するLOVEを$+33%$、APを2回復し、ハッピー100以上のとき、このステージ中、ハート上限を$+194$、APを2回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$15.84%$。并且气氛为Happy50以上时，本场Live中，获得LOVE$+33%$，AP回复2，Happy100以上时，本场Live中，心心上限$+194$，AP回复2。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to 15.84% of its maximum value. Additionally, when Mood is Happy 50 or higher, increase LOVE gained by +33% and recover 2 AP for the rest of this stage, and when Happy 100 or higher, increase Heart Cap by +194 and recover 2 AP for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -113633,6 +114998,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$17.28%$回復させる。さらにムードがハッピー50以上のとき、このステージ中、獲得するLOVEを$+36%$、APを2回復し、ハッピー100以上のとき、このステージ中、ハート上限を$+211$、APを2回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$17.28%$。并且气氛为Happy50以上时，本场Live中，获得LOVE$+36%$，AP回复2，Happy100以上时，本场Live中，心心上限$+211$，AP回复2。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to 17.28% of its maximum value. Additionally, when Mood is Happy 50 or higher, increase LOVE gained by +36% and recover 2 AP for the rest of this stage, and when Happy 100 or higher, increase Heart Cap by +211 and recover 2 AP for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$17.28%$回復させる。さらにメンタルが100%以上のとき、ビートハート$22回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -114058,6 +115436,19 @@
       "en": {
         "text": "Recover $18.56%$ of max Mental. Additionally, gain Skill Hearts equivalent to $5$ Beat Hearts.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$18.72%$回復させる。さらにムードがハッピー50以上のとき、このステージ中、獲得するLOVEを$+39%$、APを2回復し、ハッピー100以上のとき、このステージ中、ハート上限を$+229$、APを2回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$18.72%$。并且气氛为Happy50以上时，本场Live中，获得LOVE$+39%$，AP回复2，Happy100以上时，本场Live中，心心上限$+229$，AP回复2。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to 18.72% of its maximum value. Additionally, when Mood is Happy 50 or higher, increase LOVE gained by +39% and recover 2 AP for the rest of this stage, and when Happy 100 or higher, increase Heart Cap by +229 and recover 2 AP for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -114621,6 +116012,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$20.16%$回復させる。さらにムードがハッピー50以上のとき、このステージ中、獲得するLOVEを$+42%$、APを2回復し、ハッピー100以上のとき、このステージ中、ハート上限を$+246$、APを2回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$20.16%$。并且气氛为Happy50以上时，本场Live中，获得LOVE$+42%$，AP回复2，Happy100以上时，本场Live中，心心上限$+246$，AP回复2。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to 20.16% of its maximum value. Additionally, when Mood is Happy 50 or higher, increase LOVE gained by +42% and recover 2 AP for the rest of this stage, and when Happy 100 or higher, increase Heart Cap by +246 and recover 2 AP for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$20.16%$回復させる。さらにメンタルが100%以上のとき、ビートハート$25回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -114838,6 +116242,19 @@
       "en": {
         "text": "Recover Mental by $21.6%$ of maximum value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$21.6%$回復させる。さらにムードがハッピー50以上のとき、このステージ中、獲得するLOVEを$+45%$、APを2回復し、ハッピー100以上のとき、このステージ中、ハート上限を$+264$、APを2回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$21.6%$。并且气氛为Happy50以上时，本场Live中，获得LOVE$+45%$，AP回复2，Happy100以上时，本场Live中，心心上限$+264$，AP回复2。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to 21.6% of its maximum value. Additionally, when Mood is Happy 50 or higher, increase LOVE gained by +45% and recover 2 AP for the rest of this stage, and when Happy 100 or higher, increase Heart Cap by +264 and recover 2 AP for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -115089,6 +116506,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$23.04%$回復させる。さらにムードがハッピー50以上のとき、このステージ中、獲得するLOVEを$+48%$、APを2回復し、ハッピー100以上のとき、このステージ中、ハート上限を$+282$、APを2回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$23.04%$。并且气氛为Happy50以上时，本场Live中，获得LOVE$+48%$，AP回复2，Happy100以上时，本场Live中，心心上限$+282$，AP回复2。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to 23.04% of its maximum value. Additionally, when Mood is Happy 50 or higher, increase LOVE gained by +48% and recover 2 AP for the rest of this stage, and when Happy 100 or higher, increase Heart Cap by +282 and recover 2 AP for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$23.04%$回復させる。さらにメンタルが100%以上のとき、ビートハート$29回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -115228,6 +116658,19 @@
       "en": {
         "text": "Restore Mental by $24.36%$ of max value. Additionally, gain Skill Hearts worth $6$ Beat Hearts.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$24.48%$回復させる。さらにムードがハッピー50以上のとき、このステージ中、獲得するLOVEを$+51%$、APを2回復し、ハッピー100以上のとき、このステージ中、ハート上限を$+299$、APを2回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$24.48%$。并且气氛为Happy50以上时，本场Live中，获得LOVE$+51%$，AP回复2，Happy100以上时，本场Live中，心心上限$+299$，AP回复2。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to 24.48% of its maximum value. Additionally, when Mood is Happy 50 or higher, increase LOVE gained by +51% and recover 2 AP for the rest of this stage, and when Happy 100 or higher, increase Heart Cap by +299 and recover 2 AP for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -115423,6 +116866,19 @@
       "en": {
         "text": "Restore Mental by $25.6%$ of max value and gain Skill Hearts worth $6$ Beat Hearts. Additionally, when deck has 30 or more cards, increase the next Love Attract effect used by Megumi by $+1344%$.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$25.92%$回復させる。さらにムードがハッピー50以上のとき、このステージ中、獲得するLOVEを$+54%$、APを2回復し、ハッピー100以上のとき、このステージ中、ハート上限を$+317$、APを2回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$25.92%$。并且气氛为Happy50以上时，本场Live中，获得LOVE$+54%$，AP回复2，Happy100以上时，本场Live中，心心上限$+317$，AP回复2。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to 25.92% of its maximum value. Additionally, when Mood is Happy 50 or higher, increase LOVE gained by +54% and recover 2 AP for the rest of this stage, and when Happy 100 or higher, increase Heart Cap by +317 and recover 2 AP for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -115700,6 +117156,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$28.8%$回復させる。さらにムードがハッピー50以上のとき、このステージ中、獲得するLOVEを$+60%$、APを2回復し、ハッピー100以上のとき、このステージ中、ハート上限を$+352$、APを2回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$28.8%$。并且气氛为Happy50以上时，本场Live中，获得LOVE$+60%$，AP回复2，Happy100以上时，本场Live中，心心上限$+352$，AP回复2。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to 28.8% of its maximum value. Additionally, when Mood is Happy 50 or higher, increase LOVE gained by +60% and recover 2 AP for the rest of this stage, and when Happy 100 or higher, increase Heart Cap by +352 and recover 2 AP for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$28.8%$回復させる。さらにメンタルが100%以上のとき、ビートハート$36回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -115960,6 +117429,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$30.24%$回復させる。さらにムードがハッピー50以上のとき、このステージ中、獲得するLOVEを$+63%$、APを2回復し、ハッピー100以上のとき、このステージ中、ハート上限を$+370$、APを2回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$30.24%$。并且气氛为Happy50以上时，本场Live中，获得LOVE$+63%$，AP回复2，Happy100以上时，本场Live中，心心上限$+370$，AP回复2。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to 30.24% of its maximum value. Additionally, when Mood is Happy 50 or higher, increase LOVE gained by +63% and recover 2 AP for the rest of this stage, and when Happy 100 or higher, increase Heart Cap by +370 and recover 2 AP for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$30.24%$回復させる。さらにメンタルが100%以上のとき、ビートハート$38回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -116038,6 +117520,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$31.68%$回復させる。さらにムードがハッピー50以上のとき、このステージ中、獲得するLOVEを$+66%$、APを2回復し、ハッピー100以上のとき、このステージ中、ハート上限を$+387$、APを2回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$31.68%$。并且气氛为Happy50以上时，本场Live中，获得LOVE$+66%$，AP回复2，Happy100以上时，本场Live中，心心上限$+387$，AP回复2。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to 31.68% of its maximum value. Additionally, when Mood is Happy 50 or higher, increase LOVE gained by +66% and recover 2 AP for the rest of this stage, and when Happy 100 or higher, increase Heart Cap by +387 and recover 2 AP for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$31.68%$回復させる。さらにメンタルが100%以上のとき、ビートハート$40回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -116112,6 +117607,19 @@
       "en": {
         "text": "Restore Mental by $32.64%$ of maximum value. Additionally, gain Skill Heart equivalent to $9$ beat hearts and increase LOVE gained by $+7.7%$ for this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$33.12%$回復させる。さらにムードがハッピー50以上のとき、このステージ中、獲得するLOVEを$+69%$、APを2回復し、ハッピー100以上のとき、このステージ中、ハート上限を$+405$、APを2回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$33.12%$。并且气氛为Happy50以上时，本场Live中，获得LOVE$+69%$，AP回复2，Happy100以上时，本场Live中，心心上限$+405$，AP回复2。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to 33.12% of its maximum value. Additionally, when Mood is Happy 50 or higher, increase LOVE gained by +69% and recover 2 AP for the rest of this stage, and when Happy 100 or higher, increase Heart Cap by +405 and recover 2 AP for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -116281,6 +117789,19 @@
       "en": {
         "text": "Restore Mental by $36%$ of maximum value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$36%$回復させる。さらにムードがハッピー50以上のとき、このステージ中、獲得するLOVEを$+75%$、APを2回復し、ハッピー100以上のとき、このステージ中、ハート上限を$+440$、APを2回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$36%$。并且气氛为Happy50以上时，本场Live中，获得LOVE$+75%$，AP回复2，Happy100以上时，本场Live中，心心上限$+440$，AP回复2。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to 36% of its maximum value. Additionally, when Mood is Happy 50 or higher, increase LOVE gained by +75% and recover 2 AP for the rest of this stage, and when Happy 100 or higher, increase Heart Cap by +440 and recover 2 AP for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -135781,6 +137302,32 @@
       "en": {
         "text": "Discard all cards from hand, then draw cards up to hand limit from deck. Additionally, gain Skill Hearts equal to $13$ Beat Hearts.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$14回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "弃掉全部手牌，从牌库抽牌直至手牌上限。并且获得$14倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Discard all cards in hand and draw skills from the deck up to the hand limit. Additionally, gain Skill Hearts equivalent to 14 beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$15回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "弃掉全部手牌，从牌库抽牌直至手牌上限。并且获得$15倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Discard all cards in hand and draw skills from the deck up to the hand limit. Additionally, gain Skill Hearts equivalent to 15 beats.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

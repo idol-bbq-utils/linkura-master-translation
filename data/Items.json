@@ -1612,6 +1612,19 @@
     }
   },
   {
+    "raw": "[FIRE BIRD]桂城 泉 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[FIRE BIRD]桂城 泉 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[FIRE BIRD] Izumi Katsuragi Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[Grace Phrase]乙宗 梢 解放Pt.",
     "translation": {
       "zh-CN": {
@@ -3237,6 +3250,19 @@
     }
   },
   {
+    "raw": "[もういちど ルミナス]百生 吟子 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[もういちど ルミナス]百生吟子 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Mou Ichido Luminous] Ginko Momose Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[やっぱ天使！]藤島 慈 解放Pt.",
     "translation": {
       "zh-CN": {
@@ -3623,6 +3649,19 @@
       "zh-CN": {
         "text": "Garland Flash]村野 沙耶香 解放Pt.",
         "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "[キミがいなくちゃっ！]安養寺 姫芽 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[キミがいなくちゃっ！]安养寺姬芽 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Kimi ga Inakucha!] Hime Anyoji Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -5105,6 +5144,19 @@
       "zh-CN": {
         "text": "[四莲琴之龙]桂城 泉 解放Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[壱雫空]徒町 小鈴 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[壱雫空]徒町 小铃 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Ichishizuku Sora] Kosuzu Kachimachi Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
