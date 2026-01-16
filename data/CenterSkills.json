@@ -2249,6 +2249,19 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】ボルテージPt.を$112pt$獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "【FEVER开始时发动】获得$112pt$Voltage Pt.",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "【Activated at the start of FEVER】Gain 112 Voltage Pt.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】ボルテージPt.を$112pt$獲得／スキルの合計発動回数が6回以上の時、APを$2$回復",
     "translation": {
       "zh-CN": {
@@ -2453,6 +2466,19 @@
       "en": {
         "text": "【Activates at FEVER start】Gain $120pt$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】ボルテージPt.を$122pt$獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "【FEVER开始时发动】获得$122pt$Voltage Pt.",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "【Activated at the start of FEVER】Gain 122 Voltage Pt.",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -2743,6 +2769,19 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】ボルテージPt.を$132pt$獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "【FEVER开始时发动】获得$132pt$Voltage Pt.",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "【Activated at the start of FEVER】Gain 132 Voltage Pt.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】ボルテージPt.を$132pt$獲得／スキルの合計発動回数が6回以上の時、APを$3$回復",
     "translation": {
       "zh-CN": {
@@ -2951,6 +2990,19 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】ボルテージPt.を$143pt$獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "【FEVER开始时发动】获得$143pt$Voltage Pt.",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "【Activated at the start of FEVER】Gain 143 Voltage Pt.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】ボルテージPt.を$143pt$獲得／スキルの合計発動回数が6回以上の時、APを$3$回復",
     "translation": {
       "zh-CN": {
@@ -3146,6 +3198,19 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】ボルテージPt.を$153pt$獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "【FEVER开始时发动】获得$153pt$Voltage Pt.",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "【Activated at the start of FEVER】Gain 153 Voltage Pt.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】ボルテージPt.を$153pt$獲得／スキルの合計発動回数が6回以上の時、APを$4$回復",
     "translation": {
       "zh-CN": {
@@ -3207,6 +3272,19 @@
       "en": {
         "text": "【Activates when FEVER starts】Gain $162pt$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】ボルテージPt.を$163pt$獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "【FEVER开始时发动】获得$163pt$Voltage Pt.",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "【Activated at the start of FEVER】Gain 163 Voltage Pt.",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -3393,6 +3471,19 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】ボルテージPt.を$173pt$獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "【FEVER开始时发动】获得$173pt$Voltage Pt.",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "【Activated at the start of FEVER】Gain 173 Voltage Pt.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】ボルテージPt.を$173pt$獲得／スキルの合計発動回数が6回以上の時、APを$4$回復",
     "translation": {
       "zh-CN": {
@@ -3575,6 +3666,19 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】ボルテージPt.を$204pt$獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "【FEVER开始时发动】获得$204pt$Voltage Pt.",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "【Activated at the start of FEVER】Gain 204 Voltage Pt.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】ボルテージPt.を$204pt$獲得／スキルの合計発動回数が6回以上の時、APを$5$回復",
     "translation": {
       "zh-CN": {
@@ -3675,6 +3779,19 @@
       "en": {
         "text": "【Activates when FEVER starts】Gain $223pt$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】ボルテージPt.を$225pt$獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "【FEVER开始时发动】获得$225pt$Voltage Pt.",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "【Activated at the start of FEVER】Gain 225 Voltage Pt.",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -3848,6 +3965,19 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】ボルテージPt.を$265pt$獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "【FEVER开始时发动】获得$265pt$Voltage Pt.",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "【Activated at the start of FEVER】Gain 265 Voltage Pt.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】ボルテージPt.を$265pt$獲得／スキルの合計発動回数が6回以上の時、APを$6$回復",
     "translation": {
       "zh-CN": {
@@ -3961,6 +4091,19 @@
       "en": {
         "text": "【Activates when FEVER starts】Gain $302pt$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】ボルテージPt.を$306pt$獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "【FEVER开始时发动】获得$306pt$Voltage Pt.",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "【Activated at the start of FEVER】Gain 306 Voltage Pt.",
+        "author": "gpt-5.2"
       }
     }
   },

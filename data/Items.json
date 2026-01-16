@@ -832,6 +832,19 @@
     }
   },
   {
+    "raw": "[18th Birthday]村野 さやか 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[18th Birthday]村野 沙耶香 解放Pt.",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "[18th Birthday] Sayaka Murano Liberation Pt.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "[18th Birthday]藤島 慈 解放Pt.",
     "translation": {
       "zh-CN": {
@@ -2639,6 +2652,32 @@
     }
   },
   {
+    "raw": "[Sayo-Shigure]日野下 花帆 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[Sayo-Shigure]日野下花帆 解放Pt.",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "[Sayo-Shigure] Kaho Hinoshita Liberation Pt.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "[Sayo-Shigure]百生 吟子 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[Sayo-Shigure]百生 吟子 解放Pt.",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "[Sayo-Shigure] Ginko Momose Liberation Pt.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "[Secret Christmas]夕霧 綴理 解放Pt.",
     "translation": {
       "zh-CN": {
@@ -4221,6 +4260,19 @@
       "en": {
         "text": "[Hanamusubi] Ginko Momose Unlock Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[ハートにQ]安養寺 姫芽 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[ハートにQ]安养寺姬芽 解放Pt.",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "[ハートにQ] Hime Anyoji Liberation Pt.",
+        "author": "gpt-5.2"
       }
     }
   },

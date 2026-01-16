@@ -18967,6 +18967,19 @@
     }
   },
   {
+    "raw": "Happy 18th Birthday to Dear Sayaka!\n「村野 さやか、18歳を迎えました。」",
+    "translation": {
+      "zh-CN": {
+        "text": "亲爱的沙耶香，18岁生日快乐！\n「村野沙耶香迎来了18岁。」",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Happy 18th Birthday to Dear Sayaka!\n「Sayaka Murano has turned 18.」",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "Happy 16th Birthday to Dear Ginko! 「百生 吟子。16歳に、なりました。」",
     "translation": {
       "zh-CN": {
@@ -48347,6 +48360,825 @@
     }
   },
   {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 10位",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第10名",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition 10th Place",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 10位 を称えるステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第10名 表彰贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Sticker Celebrating 10th Place Finish in the Live Grand Prix 105th Final Term 1st Individual Competition",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 10位 入賞",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第10名 获奖",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition 10th Place Winner",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 1位",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第1名",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition 1st Place",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 1位 を称えるステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第1名 表彰贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Sticker Celebrating 1st Place Finish in the Live Grand Prix 105th Final Term 1st Individual Competition",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 1位 入賞",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第1名 获奖",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition 1st Place Winner",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 2位",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第2名",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition 2nd Place",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 2位 を称えるステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第2名 表彰贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Sticker Celebrating 2nd Place Finish in the Live Grand Prix 105th Final Term 1st Individual Competition",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 2位 入賞",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第2名 获奖",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition 2nd Place Winner",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 3位",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第3名",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition 3rd Place",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 3位 を称えるステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第3名 表彰贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Sticker Celebrating 3rd Place Finish in the Live Grand Prix 105th Final Term 1st Individual Competition",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 3位 入賞",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第3名 获奖",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition 3rd Place Winner",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 4位",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第4名",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition 4th Place",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 4位 を称えるステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第4名 表彰贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Sticker Celebrating 4th Place Finish in the Live Grand Prix 105th Final Term 1st Individual Competition",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 4位 入賞",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第4名 获奖",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition 4th Place Winner",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 5位",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第5名",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition 5th Place",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 5位 を称えるステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第5名 表彰贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Sticker Celebrating 5th Place Finish in the Live Grand Prix 105th Final Term 1st Individual Competition",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 5位 入賞",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第5名 获奖",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition 5th Place Winner",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 6位",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第6名",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition 6th Place",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 6位 を称えるステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第6名 表彰贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Sticker Celebrating 6th Place Finish in the Live Grand Prix 105th Final Term 1st Individual Competition",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 6位 入賞",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第6名 获奖",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition 6th Place Winner",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 7位",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第7名",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition 7th Place",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 7位 を称えるステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第7名 表彰贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Sticker Celebrating 7th Place Finish in the Live Grand Prix 105th Final Term 1st Individual Competition",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 7位 入賞",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第7名 获奖",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition 7th Place Winner",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 8位",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第8名",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition 8th Place",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 8位 を称えるステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第8名 表彰贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Sticker Celebrating 8th Place Finish in the Live Grand Prix 105th Final Term 1st Individual Competition",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 8位 入賞",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第8名 获奖",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition 8th Place Winner",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 9位",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第9名",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition 9th Place",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 9位 を称えるステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第9名 表彰贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Sticker Celebrating 9th Place Finish in the Live Grand Prix 105th Final Term 1st Individual Competition",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 9位 入賞",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 第9名 获奖",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition 9th Place Winner",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP10000位",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP10000位",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP10000th Place",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP10000位 を称えるステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP10000位 表彰贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP10000th Place Commemorative Sticker",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP10000位 入賞",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP10000位 获奖",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP10000th Place Winner",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP1000位",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP1000位",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP1000th Place",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP1000位 を称えるステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP1000位 表彰贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP1000th Place Commemorative Sticker",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP1000位 入賞",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP1000位 获奖",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP1000th Place Winner",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP100位",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP100位",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP100th Place",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP100位 を称えるステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP100位 表彰贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP100th Place Commemorative Sticker",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP100位 入賞",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP100位 获奖",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP100th Place Winner",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP15000位",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP15000位",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP15000th Place",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP15000位 を称えるステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP15000位 表彰贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP15000th Place Commemorative Sticker",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP15000位 入賞",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP15000位 获奖",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP15000th Place Winner",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP2000位",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP2000位",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP2000th Place",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP2000位 を称えるステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP2000位 表彰贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP2000th Place Commemorative Sticker",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP2000位 入賞",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP2000位 获奖",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP2000th Place Winner",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP200位",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP200位",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP200th Place",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP200位 を称えるステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP200位 表彰贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP200th Place Commemorative Sticker",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP200位 入賞",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP200位 获奖",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP200th Place Winner",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP3000位",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP3000位",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP3000th Place",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP3000位 を称えるステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP3000位 纪念贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP3000th Place Commemorative Sticker",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP3000位 入賞",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP3000位 获奖",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP3000th Place Winner",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP5000位",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP5000位",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP5000th Place",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP5000位 を称えるステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP5000位 纪念贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP5000th Place Commemorative Sticker",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP5000位 入賞",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP5000位 获奖",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP5000th Place Winner",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP500位",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP500位",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP500th Place",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP500位 を称えるステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP500位 纪念贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP500th Place Commemorative Sticker",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP500位 入賞",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP500位 获奖",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP500th Place Winner",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP7000位",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP7000位",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP7000th Place",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP7000位 を称えるステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP7000位 纪念贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP7000th Place Commemorative Sticker",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP7000位 入賞",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 TOP7000位 获奖",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition TOP7000th Place Winner",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 参加",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 参加",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Final Term 1st Individual Competition Participation",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦 参加賞のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第1回 个人战 参与奖贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Sticker for Participation Prize in the Live Grand Prix 105th Final Term 1st Individual Competition",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦に参加",
+    "translation": {
+      "zh-CN": {
+        "text": "参加 Live Grand Prix 105期FinalTerm 第1回 个人战",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Participated in the Live Grand Prix 105th Final Term 1st Individual Competition",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "Live Grand Prix 105期OpeningTerm 個人戦 10位",
     "translation": {
       "zh-CN": {
@@ -53127,6 +53959,45 @@
       "en": {
         "text": "[18th Birthday]Kaho Hinoshita Liberation Complete",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[18th Birthday]村野 さやか",
+    "translation": {
+      "zh-CN": {
+        "text": "[18th Birthday]村野沙耶香",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "[18th Birthday] Sayaka Murano",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "[18th Birthday]村野 さやか を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[18th Birthday]村野沙耶香 解放4次纪念贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "The commemorative sticker for releasing [18th Birthday] Sayaka Murano 4 times",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "[18th Birthday]村野 さやか 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[18th Birthday]村野沙耶香 解放完成",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "[18th Birthday] Sayaka Murano released successfully",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -60034,6 +60905,84 @@
     }
   },
   {
+    "raw": "[Sayo-Shigure]日野下 花帆",
+    "translation": {
+      "zh-CN": {
+        "text": "[Sayo-Shigure]日野下花帆",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "[Sayo-Shigure] Kaho Hinoshita",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "[Sayo-Shigure]日野下 花帆 を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[Sayo-Shigure]日野下花帆 解放4次纪念贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "The commemorative sticker for releasing [Sayo-Shigure] Kaho Hinoshita 4 times",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "[Sayo-Shigure]日野下 花帆 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[Sayo-Shigure]日野下花帆 解放完成",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "[Sayo-Shigure] Kaho Hinoshita released successfully",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "[Sayo-Shigure]百生 吟子",
+    "translation": {
+      "zh-CN": {
+        "text": "[Sayo-Shigure]百生吟子",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "[Sayo-Shigure] Ginko Momose",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "[Sayo-Shigure]百生 吟子 を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[Sayo-Shigure]百生吟子 解放4次纪念贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "The commemorative sticker for releasing [Sayo-Shigure] Ginko Momose 4 times",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "[Sayo-Shigure]百生 吟子 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[Sayo-Shigure]百生吟子 解放完成",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "[Sayo-Shigure] Ginko Momose released successfully",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "[Secret Christmas]夕霧 綴理",
     "translation": {
       "zh-CN": {
@@ -66205,6 +67154,45 @@
       "zh-CN": {
         "text": "[万圣节嘉年华/Trick ＆ Cute]百生吟子",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[ハートにQ]安養寺 姫芽",
+    "translation": {
+      "zh-CN": {
+        "text": "[ハートにQ]安养寺姬芽",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "[Heart to Q] Hime Anyoji",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "[ハートにQ]安養寺 姫芽 を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[ハートにQ]安养寺姬芽 解放4次纪念贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "The commemorative sticker for releasing [Heart to Q] Hime Anyoji 4 times",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "[ハートにQ]安養寺 姫芽 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[ハートにQ]安养寺姬芽 解放完成",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "[Heart to Q] Hime Anyoji released successfully",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -76193,6 +77181,19 @@
     }
   },
   {
+    "raw": "「Sayaka's 18th Birthday セレブレイトパック」を購入",
+    "translation": {
+      "zh-CN": {
+        "text": "购买“Sayaka's 18th Birthday セレブレイトパック”",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Purchased \"Sayaka's 18th Birthday Celebrate Pack\"",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "「Tsuzuri's 18th Birthday セレブレイトパック」を購入",
     "translation": {
       "zh-CN": {
@@ -78936,6 +79937,45 @@
     }
   },
   {
+    "raw": "『On your mark（102期Ver.）』のマスタリーLv.を30にした記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "『On your mark（102期Ver.）』精通等级达到30的纪念贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "The commemorative sticker for reaching Mastery Level 30 of 'On your mark（102nd Term Ver.）'",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "『On your mark（102期Ver.）』マエストロ",
+    "translation": {
+      "zh-CN": {
+        "text": "『On your mark（102期Ver.）』大师",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "'On your mark（102nd Term Ver.）' Maestro",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "『On your mark（102期Ver.）』マスタリーLv.30到達",
+    "translation": {
+      "zh-CN": {
+        "text": "『On your mark（102期Ver.）』精通等级达到30",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Reached Mastery Level 30 of 'On your mark（102nd Term Ver.）'",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "『On your mark（104期Ver.）』のマスタリーLv.を30にした記念のステッカー",
     "translation": {
       "zh-CN": {
@@ -79361,6 +80401,45 @@
       "en": {
         "text": "『STEP UP !』 Mastery Lv. 30 Reached",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "『Sayo-Shigure』のマスタリーLv.を30にした記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "『Sayo-Shigure』精通等级达到30的纪念贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "The commemorative sticker for reaching Mastery Level 30 of 'Sayo-Shigure'",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "『Sayo-Shigure』マエストロ",
+    "translation": {
+      "zh-CN": {
+        "text": "『Sayo-Shigure』大师",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "'Sayo-Shigure' Maestro",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "『Sayo-Shigure』マスタリーLv.30到達",
+    "translation": {
+      "zh-CN": {
+        "text": "『Sayo-Shigure』精通等级达到30",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Reached Mastery Level 30 of 'Sayo-Shigure'",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -82182,6 +83261,45 @@
       "en": {
         "text": "『ハナムスビ』Mastery Lv.30 Reached",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "『ハロめぐ讃歌』のマスタリーLv.を30にした記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "『ハロめぐ讃歌』精通等级达到30的纪念贴纸",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "The commemorative sticker for reaching Mastery Level 30 of 'ハロめぐ讃歌'",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "『ハロめぐ讃歌』マエストロ",
+    "translation": {
+      "zh-CN": {
+        "text": "『ハロめぐ讃歌』大师",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "'ハロめぐ讃歌' Maestro",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "『ハロめぐ讃歌』マスタリーLv.30到達",
+    "translation": {
+      "zh-CN": {
+        "text": "『ハロめぐ讃歌』精通等级达到30",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Reached Mastery Level 30 of 'ハロめぐ讃歌'",
+        "author": "gpt-5.2"
       }
     }
   },

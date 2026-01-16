@@ -176,6 +176,44 @@ class QWenTranslator(LLMTranslator):
             raise ValueError(f"API error: {res.status_code} {res.text}")
         return res.json()["choices"][0]["message"]["content"]
 
+class OpenAITranslator(LLMTranslator):
+    """OpenAI API implementation of LLM translator"""
+
+    def get_default_model(self) -> str:
+        """Get default OpenAI model"""
+        return "gpt-5.2"
+
+    def _setup_client(self):
+        """Setup OpenAI API client"""
+        pass
+
+    def translate(self, prompt: str, max_tokens: int = 4000, target_lang: str = 'zh-CN') -> str:
+        """
+        Translate using OpenAI API
+        
+        Args:
+            prompt: The full prompt including texts to translate
+            max_tokens: Maximum tokens for the response
+            
+        Returns:
+            Translated text response from OpenAI
+        """
+        res = requests.post(
+            url=self.base_url or "https://api.openai.com/v1/responses",
+            json={
+                "model": self.model_id,
+                "input": [
+                    {"role": "user", "content": prompt}
+                ],
+            },
+            headers={
+                "Authorization": f"Bearer {self.api_key}"
+            }
+        )
+        if not (res.status_code >= 200 and res.status_code < 300):
+            raise ValueError(f"API error: {res.status_code} {res.text}")
+        return res.json()["output"][0]["content"][0]["text"]
+
 def create_translator(
     provider: str,
     api_key: str,
@@ -205,5 +243,7 @@ def create_translator(
         return DeepseekTranslator(api_key=api_key, base_url=base_url, model_id=model_id)
     elif provider == "qwen":
         return QWenTranslator(api_key=api_key, base_url=base_url, model_id=model_id)
+    elif provider == "openai":
+        return OpenAITranslator(api_key=api_key, base_url=base_url, model_id=model_id)
     else:
-        raise ValueError(f"Unsupported provider: {provider}. Currently only 'claude', 'deepseek', and 'qwen' are supported.")
+        raise ValueError(f"Unsupported provider: {provider}. Currently only 'claude', 'deepseek', 'qwen', and 'openai' are supported.")

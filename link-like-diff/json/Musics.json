@@ -1455,6 +1455,27 @@
             "ReleaseConditionText": "初めから習得"
         },
         {
+            "Id": 405130,
+            "Title": "Sayo-Shigure",
+            "TitleFurigana": "さよしぐれ",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 405131,
+            "Title": "ハロめぐ讃歌",
+            "TitleFurigana": "はろめぐさんか",
+            "Description": "ソロ曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 405132,
+            "Title": "On your mark（102期Ver.）",
+            "TitleFurigana": "おんゆあまーく",
+            "Description": "102期曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
             "Id": 405201,
             "Title": "テレパシ",
             "TitleFurigana": "てれぱし",

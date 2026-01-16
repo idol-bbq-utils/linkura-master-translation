@@ -1404,6 +1404,12 @@
             "RequirementText": "[雪舞う空と二秒の永遠]日野下 花帆 解放完了"
         },
         {
+            "Id": 10315371,
+            "Name": "[Sayo-Shigure]日野下 花帆",
+            "Text": "[Sayo-Shigure]日野下 花帆 を4回解放した記念のステッカー",
+            "RequirementText": "[Sayo-Shigure]日野下 花帆 解放完了"
+        },
+        {
             "Id": 10318011,
             "Name": "[Prism Echo]日野下 花帆",
             "Text": "[Prism Echo]日野下 花帆を4回解放した記念のステッカー",
@@ -1870,6 +1876,12 @@
             "Name": "[17th Birthday]村野 さやか",
             "Text": "[17th Birthday]村野 さやか を4回解放した記念のステッカー",
             "RequirementText": "[17th Birthday]村野 さやか 解放完了"
+        },
+        {
+            "Id": 10329021,
+            "Name": "[18th Birthday]村野 さやか",
+            "Text": "[18th Birthday]村野 さやか を4回解放した記念のステッカー",
+            "RequirementText": "[18th Birthday]村野 さやか 解放完了"
         },
         {
             "Id": 10333011,
@@ -2424,6 +2436,12 @@
             "RequirementText": "[もういちど ルミナス]百生 吟子 解放完了"
         },
         {
+            "Id": 10415221,
+            "Name": "[Sayo-Shigure]百生 吟子",
+            "Text": "[Sayo-Shigure]百生 吟子 を4回解放した記念のステッカー",
+            "RequirementText": "[Sayo-Shigure]百生 吟子 解放完了"
+        },
+        {
             "Id": 10418011,
             "Name": "[Ether Aria]百生 吟子",
             "Text": "[Ether Aria]百生 吟子 を4回解放した記念のステッカー",
@@ -2722,6 +2740,12 @@
             "Name": "[Poupée en Lotus]安養寺 姫芽",
             "Text": "[Poupée en Lotus]安養寺 姫芽 を4回解放した記念のステッカー",
             "RequirementText": "[Poupée en Lotus]安養寺 姫芽 解放完了"
+        },
+        {
+            "Id": 10434061,
+            "Name": "[ハートにQ]安養寺 姫芽",
+            "Text": "[ハートにQ]安養寺 姫芽 を4回解放した記念のステッカー",
+            "RequirementText": "[ハートにQ]安養寺 姫芽 解放完了"
         },
         {
             "Id": 10435011,
@@ -10740,6 +10764,132 @@
             "RequirementText": "Live Grand Prix 105期4thTerm 第1回 個人戦に参加"
         },
         {
+            "Id": 20351001,
+            "Name": "Live Grand Prix 105期FinalTerm 第1回 個人戦 1位",
+            "Text": "Live Grand Prix 105期FinalTerm 第1回 個人戦 1位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第1回 個人戦 1位 入賞"
+        },
+        {
+            "Id": 20351002,
+            "Name": "Live Grand Prix 105期FinalTerm 第1回 個人戦 2位",
+            "Text": "Live Grand Prix 105期FinalTerm 第1回 個人戦 2位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第1回 個人戦 2位 入賞"
+        },
+        {
+            "Id": 20351003,
+            "Name": "Live Grand Prix 105期FinalTerm 第1回 個人戦 3位",
+            "Text": "Live Grand Prix 105期FinalTerm 第1回 個人戦 3位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第1回 個人戦 3位 入賞"
+        },
+        {
+            "Id": 20351004,
+            "Name": "Live Grand Prix 105期FinalTerm 第1回 個人戦 4位",
+            "Text": "Live Grand Prix 105期FinalTerm 第1回 個人戦 4位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第1回 個人戦 4位 入賞"
+        },
+        {
+            "Id": 20351005,
+            "Name": "Live Grand Prix 105期FinalTerm 第1回 個人戦 5位",
+            "Text": "Live Grand Prix 105期FinalTerm 第1回 個人戦 5位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第1回 個人戦 5位 入賞"
+        },
+        {
+            "Id": 20351006,
+            "Name": "Live Grand Prix 105期FinalTerm 第1回 個人戦 6位",
+            "Text": "Live Grand Prix 105期FinalTerm 第1回 個人戦 6位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第1回 個人戦 6位 入賞"
+        },
+        {
+            "Id": 20351007,
+            "Name": "Live Grand Prix 105期FinalTerm 第1回 個人戦 7位",
+            "Text": "Live Grand Prix 105期FinalTerm 第1回 個人戦 7位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第1回 個人戦 7位 入賞"
+        },
+        {
+            "Id": 20351008,
+            "Name": "Live Grand Prix 105期FinalTerm 第1回 個人戦 8位",
+            "Text": "Live Grand Prix 105期FinalTerm 第1回 個人戦 8位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第1回 個人戦 8位 入賞"
+        },
+        {
+            "Id": 20351009,
+            "Name": "Live Grand Prix 105期FinalTerm 第1回 個人戦 9位",
+            "Text": "Live Grand Prix 105期FinalTerm 第1回 個人戦 9位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第1回 個人戦 9位 入賞"
+        },
+        {
+            "Id": 20351010,
+            "Name": "Live Grand Prix 105期FinalTerm 第1回 個人戦 10位",
+            "Text": "Live Grand Prix 105期FinalTerm 第1回 個人戦 10位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第1回 個人戦 10位 入賞"
+        },
+        {
+            "Id": 20351011,
+            "Name": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP100位",
+            "Text": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP100位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP100位 入賞"
+        },
+        {
+            "Id": 20351012,
+            "Name": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP200位",
+            "Text": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP200位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP200位 入賞"
+        },
+        {
+            "Id": 20351013,
+            "Name": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP500位",
+            "Text": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP500位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP500位 入賞"
+        },
+        {
+            "Id": 20351014,
+            "Name": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP1000位",
+            "Text": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP1000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP1000位 入賞"
+        },
+        {
+            "Id": 20351015,
+            "Name": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP2000位",
+            "Text": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP2000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP2000位 入賞"
+        },
+        {
+            "Id": 20351016,
+            "Name": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP3000位",
+            "Text": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP3000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP3000位 入賞"
+        },
+        {
+            "Id": 20351017,
+            "Name": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP5000位",
+            "Text": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP5000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP5000位 入賞"
+        },
+        {
+            "Id": 20351018,
+            "Name": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP7000位",
+            "Text": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP7000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP7000位 入賞"
+        },
+        {
+            "Id": 20351019,
+            "Name": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP10000位",
+            "Text": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP10000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP10000位 入賞"
+        },
+        {
+            "Id": 20351020,
+            "Name": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP15000位",
+            "Text": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP15000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第1回 個人戦 TOP15000位 入賞"
+        },
+        {
+            "Id": 20351021,
+            "Name": "Live Grand Prix 105期FinalTerm 第1回 個人戦 参加",
+            "Text": "Live Grand Prix 105期FinalTerm 第1回 個人戦 参加賞のステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第1回 個人戦に参加"
+        },
+        {
             "Id": 40103101,
             "Name": "『Dream Believers（4人Ver.）』マエストロ",
             "Text": "『Dream Believers（4人Ver.）』のマスタリーLv.を30にした記念のステッカー",
@@ -11982,6 +12132,24 @@
             "RequirementText": "『雪舞う空と二秒の永遠』マスタリーLv.30到達"
         },
         {
+            "Id": 40405130,
+            "Name": "『Sayo-Shigure』マエストロ",
+            "Text": "『Sayo-Shigure』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『Sayo-Shigure』マスタリーLv.30到達"
+        },
+        {
+            "Id": 40405131,
+            "Name": "『ハロめぐ讃歌』マエストロ",
+            "Text": "『ハロめぐ讃歌』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『ハロめぐ讃歌』マスタリーLv.30到達"
+        },
+        {
+            "Id": 40405132,
+            "Name": "『On your mark（102期Ver.）』マエストロ",
+            "Text": "『On your mark（102期Ver.）』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『On your mark（102期Ver.）』マスタリーLv.30到達"
+        },
+        {
             "Id": 40405201,
             "Name": "『テレパシ』マエストロ",
             "Text": "『テレパシ』のマスタリーLv.を30にした記念のステッカー",
@@ -13006,6 +13174,12 @@
             "Name": "Sayaka's 17th Birthday",
             "Text": "Happy 17th Birthday to Dear Sayaka! 「村野 さやか、17歳になりました。」",
             "RequirementText": "「Sayaka's 17th Birthday セレブレイトパック」を購入"
+        },
+        {
+            "Id": 90010322,
+            "Name": "Sayaka's 18th Birthday",
+            "Text": "Happy 18th Birthday to Dear Sayaka!\n「村野 さやか、18歳を迎えました。」",
+            "RequirementText": "「Sayaka's 18th Birthday セレブレイトパック」を購入"
         },
         {
             "Id": 90010330,

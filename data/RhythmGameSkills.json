@@ -663,6 +663,19 @@
     }
   },
   {
+    "raw": "APゲイン&AP減少&ボルテージ獲得量アップ",
+    "translation": {
+      "zh-CN": {
+        "text": "AP获得&AP减少&Voltage获得量提升",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "AP Gain & AP Reduction & Increased Voltage Acquisition",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "APゲイン&スコアアップ",
     "translation": {
       "zh-CN": {
@@ -4264,6 +4277,188 @@
     }
   },
   {
+    "raw": "スキルの合計発動回数が15回以上の時、合計アピール値の$311.85%$のスコアを獲得／スキルの合計発動回数が15回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$173.25%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "技能总发动次数15次以上时，获得总分值$311.85%$的分数／技能总发动次数15次以下时，获得分数效果技能获得的分数值单次提升$173.25%$",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When the total number of skill activations is 15 or more, acquire a score equal to $311.85%$ of the total Appeal Value / When the total number of skill activations is 15 or less, the score acquisition effect skill increases score acquisition by $173.25%$ for one turn",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "スキルの合計発動回数が15回以上の時、合計アピール値の$343.03%$のスコアを獲得／スキルの合計発動回数が15回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$190.57%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "技能总发动次数15次以上时，获得总分值$343.03%$的分数／技能总发动次数15次以下时，获得分数效果技能获得的分数值单次提升$190.57%$",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When the total number of skill activations is 15 or more, acquire a score equal to $343.03%$ of the total Appeal Value / When the total number of skill activations is 15 or less, the score acquisition effect skill increases score acquisition by $190.57%$ for one turn",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "スキルの合計発動回数が15回以上の時、合計アピール値の$374.22%$のスコアを獲得／スキルの合計発動回数が15回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$207.9%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "技能总发动次数15次以上时，获得总分值$374.22%$的分数／技能总发动次数15次以下时，获得分数效果技能获得的分数值单次提升$207.9%$",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When the total number of skill activations is 15 or more, acquire a score equal to $374.22%$ of the total Appeal Value / When the total number of skill activations is 15 or less, the score acquisition effect skill increases score acquisition by $207.9%$ for one turn",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "スキルの合計発動回数が15回以上の時、合計アピール値の$405.4%$のスコアを獲得／スキルの合計発動回数が15回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$225.22%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "技能总发动次数15次以上时，获得总分值$405.4%$的分数／技能总发动次数15次以下时，获得分数效果技能获得的分数值单次提升$225.22%$",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When the total number of skill activations is 15 or more, acquire a score equal to $405.4%$ of the total Appeal Value / When the total number of skill activations is 15 or less, the score acquisition effect skill increases score acquisition by $225.22%$ for one turn",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "スキルの合計発動回数が15回以上の時、合計アピール値の$436.59%$のスコアを獲得／スキルの合計発動回数が15回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$242.55%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "技能总发动次数15次以上时，获得总分值$436.59%$的分数／技能总发动次数15次以下时，获得分数效果技能获得的分数值单次提升$242.55%$",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When the total number of skill activations is 15 or more, acquire a score equal to $436.59%$ of the total Appeal Value / When the total number of skill activations is 15 or less, the score acquisition effect skill increases score acquisition by $242.55%$ for one turn",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "スキルの合計発動回数が15回以上の時、合計アピール値の$467.77%$のスコアを獲得／スキルの合計発動回数が15回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$259.87%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "技能总发动次数15次以上时，获得总分值$467.77%$的分数／技能总发动次数15次以下时，获得分数效果技能获得的分数值单次提升$259.87%$",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When the total number of skill activations is 15 or more, acquire a score equal to $467.77%$ of the total Appeal Value / When the total number of skill activations is 15 or less, the score acquisition effect skill increases score acquisition by $259.87%$ for one turn",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "スキルの合計発動回数が15回以上の時、合計アピール値の$498.96%$のスコアを獲得／スキルの合計発動回数が15回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$277.2%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "技能总发动次数15次以上时，获得总分值$498.96%$的分数／技能总发动次数15次以下时，获得分数效果技能获得的分数值单次提升$277.2%$",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When the total number of skill activations is 15 or more, acquire a score equal to $498.96%$ of the total Appeal Value / When the total number of skill activations is 15 or less, the score acquisition effect skill increases score acquisition by $277.2%$ for one turn",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "スキルの合計発動回数が15回以上の時、合計アピール値の$530.14%$のスコアを獲得／スキルの合計発動回数が15回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$294.52%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "技能总发动次数15次以上时，获得总分值$530.14%$的分数／技能总发动次数15次以下时，获得分数效果技能获得的分数值单次提升$294.52%$",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When the total number of skill activations is 15 or more, acquire a score equal to $530.14%$ of the total Appeal Value / When the total number of skill activations is 15 or less, the score acquisition effect skill increases score acquisition by $294.52%$ for one turn",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "スキルの合計発動回数が15回以上の時、合計アピール値の$561.33%$のスコアを獲得／スキルの合計発動回数が15回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$311.85%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "技能总发动次数15次以上时，获得总分值$561.33%$的分数／技能总发动次数15次以下时，获得分数效果技能获得的分数值单次提升$311.85%$",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When the total number of skill activations is 15 or more, acquire a score equal to $561.33%$ of the total Appeal Value / When the total number of skill activations is 15 or less, the score acquisition effect skill increases score acquisition by $311.85%$ for one turn",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "スキルの合計発動回数が15回以上の時、合計アピール値の$623.7%$のスコアを獲得／スキルの合計発動回数が15回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$346.5%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "技能总发动次数15次以上时，获得总分值$623.7%$的分数／技能总发动次数15次以下时，获得分数效果技能获得的分数值单次提升$346.5%$",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When the total number of skill activations is 15 or more, acquire a score equal to $623.7%$ of the total Appeal Value / When the total number of skill activations is 15 or less, the score acquisition effect skill increases score acquisition by $346.5%$ for one turn",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "スキルの合計発動回数が15回以上の時、合計アピール値の$686.07%$のスコアを獲得／スキルの合計発動回数が15回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$381.15%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "技能总发动次数15次以上时，获得总分值$686.07%$的分数／技能总发动次数15次以下时，获得分数效果技能获得的分数值单次提升$381.15%$",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When the total number of skill activations is 15 or more, acquire a score equal to $686.07%$ of the total Appeal Value / When the total number of skill activations is 15 or less, the score acquisition effect skill increases score acquisition by $381.15%$ for one turn",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "スキルの合計発動回数が15回以上の時、合計アピール値の$748.44%$のスコアを獲得／スキルの合計発動回数が15回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$415.8%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "技能总发动次数15次以上时，获得总分值$748.44%$的分数／技能总发动次数15次以下时，获得分数效果技能获得的分数值单次提升$415.8%$",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When the total number of skill activations is 15 or more, acquire a score equal to $748.44%$ of the total Appeal Value / When the total number of skill activations is 15 or less, the score acquisition effect skill increases score acquisition by $415.8%$ for one turn",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "スキルの合計発動回数が15回以上の時、合計アピール値の$810.81%$のスコアを獲得／スキルの合計発動回数が15回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$450.45%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "技能总发动次数15次以上时，获得总分值$810.81%$的分数／技能总发动次数15次以下时，获得分数效果技能获得的分数值单次提升$450.45%$",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When the total number of skill activations is 15 or more, acquire a score equal to $810.81%$ of the total Appeal Value / When the total number of skill activations is 15 or less, the score acquisition effect skill increases score acquisition by $450.45%$ for one turn",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "スキルの合計発動回数が15回以上の時、合計アピール値の$935.55%$のスコアを獲得／スキルの合計発動回数が15回以下の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$519.75%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "技能总发动次数15次以上时，获得总分值$935.55%$的分数／技能总发动次数15次以下时，获得分数效果技能获得的分数值单次提升$519.75%$",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When the total number of skill activations is 15 or more, acquire a score equal to $935.55%$ of the total Appeal Value / When the total number of skill activations is 15 or less, the score acquisition effect skill increases score acquisition by $519.75%$ for one turn",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "スキルの合計発動回数が15回以下の時、APを$10$回復／スキルの合計発動回数が15回以上の時、合計アピール値の$895.05%$のスコアを獲得",
     "translation": {
       "en": {
@@ -6015,6 +6210,19 @@
       "en": {
         "text": "Score Up & Voltage Down",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "スコアアップ&ボルテージダウン&メンタル回復",
+    "translation": {
+      "zh-CN": {
+        "text": "分数提升&Voltage降低&Mental回复",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Score Up & Voltage Down & Restore Mental",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -22880,6 +23088,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$214pt$獲得／APを$20$減少／APを$3$回復／このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$214pt$／AP减少$20$／AP回复$3$／移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Acquire $214pt$ of Voltage Points / Reduce AP by $20$ / Restore $3$ AP / Remove this card from play",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$216pt$獲得／最大値の$25%$分のメンタルを減少（この効果ではメンタルが0にならない）／メンタルが最大値の50％以上の時、APを$3$回復",
     "translation": {
       "zh-CN": {
@@ -23149,6 +23370,19 @@
       "en": {
         "text": "Gain $235pt$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$235pt$獲得／APを$20$減少／APを$3$回復／このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$235pt$／AP减少$20$／AP回复$3$／移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Acquire $235pt$ of Voltage Points / Reduce AP by $20$ / Restore $3$ AP / Remove this card from play",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -23569,6 +23803,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$257pt$獲得／APを$20$減少／APを$4$回復／このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$257pt$／AP减少$20$／AP回复$4$／移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Acquire $257pt$ of Voltage Points / Reduce AP by $20$ / Restore $4$ AP / Remove this card from play",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$259pt$獲得／最大値の$25%$分のメンタルを減少（この効果ではメンタルが0にならない）／メンタルが最大値の50％以上の時、APを$3$回復",
     "translation": {
       "zh-CN": {
@@ -23695,6 +23942,19 @@
       "en": {
         "text": "Gain $271pt$ Voltage Pt. / When Mental is at 10% or less of maximum, gain $489pt$ Voltage Pt. / Recover Mental by $50%$ of maximum",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$278pt$獲得／APを$20$減少／APを$4$回復／このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$278pt$／AP减少$20$／AP回复$4$／移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Acquire $278pt$ of Voltage Points / Reduce AP by $20$ / Restore $4$ AP / Remove this card from play",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -23920,6 +24180,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$300pt$獲得／APを$20$減少／APを$4$回復／このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$300pt$／AP减少$20$／AP回复$4$／移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Acquire $300pt$ of Voltage Points / Reduce AP by $20$ / Restore $4$ AP / Remove this card from play",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$302pt$獲得",
     "translation": {
       "zh-CN": {
@@ -24085,6 +24358,19 @@
       "en": {
         "text": "Gain $31pt$ Voltage Pt. / During FEVER, gain $63pt$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$321pt$獲得／APを$20$減少／APを$5$回復／このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$321pt$／AP减少$20$／AP回复$5$／移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Acquire $321pt$ of Voltage Points / Reduce AP by $20$ / Restore $5$ AP / Remove this card from play",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -24375,6 +24661,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$343pt$獲得／APを$20$減少／APを$5$回復／このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$343pt$／AP减少$20$／AP回复$5$／移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Acquire $343pt$ of Voltage Points / Reduce AP by $20$ / Restore $5$ AP / Remove this card from play",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$346pt$獲得／最大値の$25%$分のメンタルを減少（この効果ではメンタルが0にならない）／メンタルが最大値の50％以上の時、APを$4$回復",
     "translation": {
       "zh-CN": {
@@ -24527,6 +24826,19 @@
       "en": {
         "text": "Gain $362pt$ Voltage Pt. / When Mental is at 1% or less of maximum value, gain $1092pt$ Voltage Pt. / When Mental is at 50% or more of maximum value, reduce Voltage Pt. by $300pt$ / Remove this card / Recover $15$ AP",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$364pt$獲得／APを$20$減少／APを$5$回復／このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$364pt$／AP减少$20$／AP回复$5$／移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Acquire $364pt$ of Voltage Points / Reduce AP by $20$ / Restore $5$ AP / Remove this card from play",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -24852,6 +25164,19 @@
       "en": {
         "text": "Gain $382pt$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$386pt$獲得／APを$20$減少／APを$6$回復／このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$386pt$／AP减少$20$／AP回复$6$／移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Acquire $386pt$ of Voltage Points / Reduce AP by $20$ / Restore $6$ AP / Remove this card from play",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -25372,6 +25697,19 @@
       "en": {
         "text": "Gain $41pt$ Voltage Pt. / When Mental is at 70% or more of maximum value, gain $50pt$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$429pt$獲得／APを$20$減少／APを$6$回復／このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$429pt$／AP减少$20$／AP回复$6$／移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Acquire $429pt$ of Voltage Points / Reduce AP by $20$ / Restore $6$ AP / Remove this card from play",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -26009,6 +26347,19 @@
       "en": {
         "text": "Gain $46pt$ Voltage Pt. / When Mental is at 70% or more of maximum value, gain $75pt$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$471pt$獲得／APを$20$減少／APを$7$回復／このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$471pt$／AP减少$20$／AP回复$7$／移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Acquire $471pt$ of Voltage Points / Reduce AP by $20$ / Restore $7$ AP / Remove this card from play",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -26741,6 +27092,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$514pt$獲得／APを$20$減少／APを$8$回復／このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$514pt$／AP减少$20$／AP回复$8$／移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Acquire $514pt$ of Voltage Points / Reduce AP by $20$ / Restore $8$ AP / Remove this card from play",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$51pt$獲得",
     "translation": {
       "zh-CN": {
@@ -27400,6 +27764,19 @@
       "en": {
         "text": "Gain $54pt$ Voltage Pt. / When Mental is 70% or above of maximum value, gain $86pt$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$557pt$獲得／APを$20$減少／APを$8$回復／このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$557pt$／AP减少$20$／AP回复$8$／移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Acquire $557pt$ of Voltage Points / Reduce AP by $20$ / Restore $8$ AP / Remove this card from play",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -28986,6 +29363,19 @@
       "en": {
         "text": "Gain $63pt$ Voltage Pt. / When Mental is at 70% or more of maximum, gain $78pt$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$643pt$獲得／APを$20$減少／APを$10$回復／このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$643pt$／AP减少$20$／AP回复$10$／移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Acquire $643pt$ of Voltage Points / Reduce AP by $20$ / Restore $10$ AP / Remove this card from play",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -33965,6 +34355,19 @@
       "zh-CN": {
         "text": "Voltage获得&AP获得&分数获得量提升",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージゲイン&AP減少&APゲイン",
+    "translation": {
+      "zh-CN": {
+        "text": "Voltage获得&AP减少&AP获得",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Voltage Gain & AP Reduction & AP Gain",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -42302,6 +42705,19 @@
     }
   },
   {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$1137.24%$のスコアを獲得／ボルテージPt.が$5000pt$減少／最大値の$25%$分のメンタルを回復",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$1137.24%$的分数／Vo Pt.减少$5000pt$／回复最大值的$25%$的Mental",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 100% or more of its maximum value, acquire a score equal to $1137.24%$ of the total Appeal Value / Voltage Points decrease by $5000pt$ / Restore Mental equal to $25%$ of its maximum value",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "メンタルが最大値の100％以上の時、合計アピール値の$195.75%$のスコアを獲得／スキルの合計発動回数が20回以上の時、合計アピール値の$217.5%$のスコアを獲得／合計アピール値の$108.75%$のスコアを獲得",
     "translation": {
       "en": {
@@ -42419,6 +42835,19 @@
     }
   },
   {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$379.08%$のスコアを獲得／ボルテージPt.が$5000pt$減少／最大値の$25%$分のメンタルを回復",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$379.08%$的分数／Vo Pt.减少$5000pt$／回复最大值的$25%$的Mental",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 100% or more of its maximum value, acquire a score equal to $379.08%$ of the total Appeal Value / Voltage Points decrease by $5000pt$ / Restore Mental equal to $25%$ of its maximum value",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "メンタルが最大値の100％以上の時、合計アピール値の$391.5%$のスコアを獲得／スキルの合計発動回数が20回以上の時、合計アピール値の$435%$のスコアを獲得／合計アピール値の$217.5%$のスコアを獲得",
     "translation": {
       "en": {
@@ -42428,6 +42857,19 @@
       "zh-CN": {
         "text": "Mental为最大值的100%以上时，获得总分值$391.5%$的分数／技能总计发动20次以上时，获得总分值$435%$的分数／获得总分值$217.5%$的分数",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$416.98%$のスコアを獲得／ボルテージPt.が$5000pt$減少／最大値の$25%$分のメンタルを回復",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$416.98%$的分数／Vo Pt.减少$5000pt$／回复最大值的$25%$的Mental",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 100% or more of its maximum value, acquire a score equal to $416.98%$ of the total Appeal Value / Voltage Points decrease by $5000pt$ / Restore Mental equal to $25%$ of its maximum value",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -42445,6 +42887,19 @@
     }
   },
   {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$454.89%$のスコアを獲得／ボルテージPt.が$5000pt$減少／最大値の$25%$分のメンタルを回復",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$454.89%$的分数／Vo Pt.减少$5000pt$／回复最大值的$25%$的Mental",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 100% or more of its maximum value, acquire a score equal to $454.89%$ of the total Appeal Value / Voltage Points decrease by $5000pt$ / Restore Mental equal to $25%$ of its maximum value",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "メンタルが最大値の100％以上の時、合計アピール値の$469.8%$のスコアを獲得／スキルの合計発動回数が20回以上の時、合計アピール値の$522%$のスコアを獲得／合計アピール値の$261%$のスコアを獲得",
     "translation": {
       "en": {
@@ -42454,6 +42909,19 @@
       "zh-CN": {
         "text": "Mental为最大值的100%以上时，获得总分值$469.8%$的分数／技能总发动次数为20次以上时，获得总分值$522%$的分数／获得总分值$261%$的分数",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$492.8%$のスコアを獲得／ボルテージPt.が$5000pt$減少／最大値の$25%$分のメンタルを回復",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$492.8%$的分数／Vo Pt.减少$5000pt$／回复最大值的$25%$的Mental",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 100% or more of its maximum value, acquire a score equal to $492.8%$ of the total Appeal Value / Voltage Points decrease by $5000pt$ / Restore Mental equal to $25%$ of its maximum value",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -42471,6 +42939,32 @@
     }
   },
   {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$530.71%$のスコアを獲得／ボルテージPt.が$5000pt$減少／最大値の$25%$分のメンタルを回復",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$530.71%$的分数／Vo Pt.减少$5000pt$／回复最大值的$25%$的Mental",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 100% or more of its maximum value, acquire a score equal to $530.71%$ of the total Appeal Value / Voltage Points decrease by $5000pt$ / Restore Mental equal to $25%$ of its maximum value",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$568.62%$のスコアを獲得／ボルテージPt.が$5000pt$減少／最大値の$25%$分のメンタルを回復",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$568.62%$的分数／Vo Pt.减少$5000pt$／回复最大值的$25%$的Mental",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 100% or more of its maximum value, acquire a score equal to $568.62%$ of the total Appeal Value / Voltage Points decrease by $5000pt$ / Restore Mental equal to $25%$ of its maximum value",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "メンタルが最大値の100％以上の時、合計アピール値の$587.25%$のスコアを獲得／スキルの合計発動回数が20回以上の時、合計アピール値の$652.5%$のスコアを獲得／合計アピール値の$326.25%$のスコアを獲得",
     "translation": {
       "en": {
@@ -42480,6 +42974,97 @@
       "zh-CN": {
         "text": "Mental为最大值的100%以上时，获得总分值$587.25%$的分数／技能总发动次数为20次以上时，获得总分值$652.5%$的分数／获得总分值$326.25%$的分数",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$606.52%$のスコアを獲得／ボルテージPt.が$5000pt$減少／最大値の$25%$分のメンタルを回復",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$606.52%$的分数／Vo Pt.减少$5000pt$／回复最大值的$25%$的Mental",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 100% or more of its maximum value, acquire a score equal to $606.52%$ of the total Appeal Value / Voltage Points decrease by $5000pt$ / Restore Mental equal to $25%$ of its maximum value",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$644.43%$のスコアを獲得／ボルテージPt.が$5000pt$減少／最大値の$25%$分のメンタルを回復",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$644.43%$的分数／Vo Pt.减少$5000pt$／回复最大值的$25%$的Mental",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 100% or more of its maximum value, acquire a score equal to $644.43%$ of the total Appeal Value / Voltage Points decrease by $5000pt$ / Restore Mental equal to $25%$ of its maximum value",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$682.34%$のスコアを獲得／ボルテージPt.が$5000pt$減少／最大値の$25%$分のメンタルを回復",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$682.34%$的分数／Vo Pt.减少$5000pt$／回复最大值的$25%$的Mental",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 100% or more of its maximum value, acquire a score equal to $682.34%$ of the total Appeal Value / Voltage Points decrease by $5000pt$ / Restore Mental equal to $25%$ of its maximum value",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$758.16%$のスコアを獲得／ボルテージPt.が$5000pt$減少／最大値の$25%$分のメンタルを回復",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$758.16%$的分数／Vo Pt.减少$5000pt$／回复最大值的$25%$的Mental",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 100% or more of its maximum value, acquire a score equal to $758.16%$ of the total Appeal Value / Voltage Points decrease by $5000pt$ / Restore Mental equal to $25%$ of its maximum value",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$833.97%$のスコアを獲得／ボルテージPt.が$5000pt$減少／最大値の$25%$分のメンタルを回復",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$833.97%$的分数／Vo Pt.减少$5000pt$／回复最大值的$25%$的Mental",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 100% or more of its maximum value, acquire a score equal to $833.97%$ of the total Appeal Value / Voltage Points decrease by $5000pt$ / Restore Mental equal to $25%$ of its maximum value",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$909.79%$のスコアを獲得／ボルテージPt.が$5000pt$減少／最大値の$25%$分のメンタルを回復",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$909.79%$的分数／Vo Pt.减少$5000pt$／回复最大值的$25%$的Mental",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 100% or more of its maximum value, acquire a score equal to $909.79%$ of the total Appeal Value / Voltage Points decrease by $5000pt$ / Restore Mental equal to $25%$ of its maximum value",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の100％以上の時、合計アピール値の$985.6%$のスコアを獲得／ボルテージPt.が$5000pt$減少／最大値の$25%$分のメンタルを回復",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的100%以上时，获得总分值$985.6%$的分数／Vo Pt.减少$5000pt$／回复最大值的$25%$的Mental",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 100% or more of its maximum value, acquire a score equal to $985.6%$ of the total Appeal Value / Voltage Points decrease by $5000pt$ / Restore Mental equal to $25%$ of its maximum value",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -44278,6 +44863,19 @@
     }
   },
   {
+    "raw": "メンタルが最大値の1％以下の時、APを$10$回復／メンタルが最大値の1％以上の時、APを$14$減少／メンタルが最大値の1％以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$643.5%$上昇／メンタルが最大値の1％以上の時、このカードを除外する／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的1%以下时，AP回复$10$／Mental为最大值的1%以上时，AP减少$14$／Mental为最大值的1%以上时，获得Voltage效果技能的Voltage获得量单次提升$643.5%$／Mental为最大值的1%以上时，移除此卡／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 1% or less of its maximum value, restore $10$ AP / When Mental is 1% or more of its maximum value, reduce AP by $14$ / When Mental is 1% or more of its maximum value, the voltage acquisition effect skill increases voltage acquisition by $643.5%$ for one turn / When Mental is 1% or more of its maximum value, remove this card from play / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "メンタルが最大値の1％以下の時、APを$10$回復／最大値の$100%$分のメンタルを減少（この効果ではメンタルが0にならない）／次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が3回以上の時、このカードを除外する",
     "translation": {
       "zh-CN": {
@@ -44287,6 +44885,45 @@
       "en": {
         "text": "When Mental is 1% or less of its maximum value, restore $10$ AP / Reduce Mental by $100%$ of the maximum value (this effect does not reduce Mental to 0) / Return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 3 or more, remove this card from play",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の1％以下の時、APを$11$回復／メンタルが最大値の1％以上の時、APを$14$減少／メンタルが最大値の1％以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$702%$上昇／メンタルが最大値の1％以上の時、このカードを除外する／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的1%以下时，AP回复$11$／Mental为最大值的1%以上时，AP减少$14$／Mental为最大值的1%以上时，获得Voltage效果技能的Voltage获得量单次提升$702%$／Mental为最大值的1%以上时，移除此卡／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 1% or less of its maximum value, restore $11$ AP / When Mental is 1% or more of its maximum value, reduce AP by $14$ / When Mental is 1% or more of its maximum value, the voltage acquisition effect skill increases voltage acquisition by $702%$ for one turn / When Mental is 1% or more of its maximum value, remove this card from play / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の1％以下の時、APを$12$回復／メンタルが最大値の1％以上の時、APを$14$減少／メンタルが最大値の1％以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$760.5%$上昇／メンタルが最大値の1％以上の時、このカードを除外する／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的1%以下时，AP回复$12$／Mental为最大值的1%以上时，AP减少$14$／Mental为最大值的1%以上时，获得Voltage效果技能的Voltage获得量单次提升$760.5%$／Mental为最大值的1%以上时，移除此卡／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 1% or less of its maximum value, restore $12$ AP / When Mental is 1% or more of its maximum value, reduce AP by $14$ / When Mental is 1% or more of its maximum value, the voltage acquisition effect skill increases voltage acquisition by $760.5%$ for one turn / When Mental is 1% or more of its maximum value, remove this card from play / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の1％以下の時、APを$14$回復／メンタルが最大値の1％以上の時、APを$14$減少／メンタルが最大値の1％以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$877.5%$上昇／メンタルが最大値の1％以上の時、このカードを除外する／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的1%以下时，AP回复$14$／Mental为最大值的1%以上时，AP减少$14$／Mental为最大值的1%以上时，获得Voltage效果技能的Voltage获得量单次提升$877.5%$／Mental为最大值的1%以上时，移除此卡／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 1% or less of its maximum value, restore $14$ AP / When Mental is 1% or more of its maximum value, reduce AP by $14$ / When Mental is 1% or more of its maximum value, the voltage acquisition effect skill increases voltage acquisition by $877.5%$ for one turn / When Mental is 1% or more of its maximum value, remove this card from play / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -44304,6 +44941,19 @@
     }
   },
   {
+    "raw": "メンタルが最大値の1％以下の時、APを$4$回復／メンタルが最大値の1％以上の時、APを$14$減少／メンタルが最大値の1％以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$292.5%$上昇／メンタルが最大値の1％以上の時、このカードを除外する／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的1%以下时，AP回复$4$／Mental为最大值的1%以上时，AP减少$14$／Mental为最大值的1%以上时，获得Voltage效果技能的Voltage获得量单次提升$292.5%$／Mental为最大值的1%以上时，移除此卡／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 1% or less of its maximum value, restore $4$ AP / When Mental is 1% or more of its maximum value, reduce AP by $14$ / When Mental is 1% or more of its maximum value, the voltage acquisition effect skill increases voltage acquisition by $292.5%$ for one turn / When Mental is 1% or more of its maximum value, remove this card from play / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "メンタルが最大値の1％以下の時、APを$4$回復／最大値の$100%$分のメンタルを減少（この効果ではメンタルが0にならない）／次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が3回以上の時、このカードを除外する",
     "translation": {
       "zh-CN": {
@@ -44313,6 +44963,32 @@
       "en": {
         "text": "When Mental is 1% or less of its maximum value, restore $4$ AP / Reduce Mental by $100%$ of the maximum value (this effect does not reduce Mental to 0) / Return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 3 or more, remove this card from play",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の1％以下の時、APを$5$回復／メンタルが最大値の1％以上の時、APを$14$減少／メンタルが最大値の1％以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$321.75%$上昇／メンタルが最大値の1％以上の時、このカードを除外する／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的1%以下时，AP回复$5$／Mental为最大值的1%以上时，AP减少$14$／Mental为最大值的1%以上时，获得Voltage效果技能的Voltage获得量单次提升$321.75%$／Mental为最大值的1%以上时，移除此卡／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 1% or less of its maximum value, restore $5$ AP / When Mental is 1% or more of its maximum value, reduce AP by $14$ / When Mental is 1% or more of its maximum value, the voltage acquisition effect skill increases voltage acquisition by $321.75%$ for one turn / When Mental is 1% or more of its maximum value, remove this card from play / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の1％以下の時、APを$5$回復／メンタルが最大値の1％以上の時、APを$14$減少／メンタルが最大値の1％以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$351%$上昇／メンタルが最大値の1％以上の時、このカードを除外する／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的1%以下时，AP回复$5$／Mental为最大值的1%以上时，AP减少$14$／Mental为最大值的1%以上时，获得Voltage效果技能的Voltage获得量单次提升$351%$／Mental为最大值的1%以上时，移除此卡／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 1% or less of its maximum value, restore $5$ AP / When Mental is 1% or more of its maximum value, reduce AP by $14$ / When Mental is 1% or more of its maximum value, the voltage acquisition effect skill increases voltage acquisition by $351%$ for one turn / When Mental is 1% or more of its maximum value, remove this card from play / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -44330,6 +45006,32 @@
     }
   },
   {
+    "raw": "メンタルが最大値の1％以下の時、APを$6$回復／メンタルが最大値の1％以上の時、APを$14$減少／メンタルが最大値の1％以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$380.25%$上昇／メンタルが最大値の1％以上の時、このカードを除外する／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的1%以下时，AP回复$6$／Mental为最大值的1%以上时，AP减少$14$／Mental为最大值的1%以上时，获得Voltage效果技能的Voltage获得量单次提升$380.25%$／Mental为最大值的1%以上时，移除此卡／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 1% or less of its maximum value, restore $6$ AP / When Mental is 1% or more of its maximum value, reduce AP by $14$ / When Mental is 1% or more of its maximum value, the voltage acquisition effect skill increases voltage acquisition by $380.25%$ for one turn / When Mental is 1% or more of its maximum value, remove this card from play / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の1％以下の時、APを$6$回復／メンタルが最大値の1％以上の時、APを$14$減少／メンタルが最大値の1％以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$409.5%$上昇／メンタルが最大値の1％以上の時、このカードを除外する／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的1%以下时，AP回复$6$／Mental为最大值的1%以上时，AP减少$14$／Mental为最大值的1%以上时，获得Voltage效果技能的Voltage获得量单次提升$409.5%$／Mental为最大值的1%以上时，移除此卡／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 1% or less of its maximum value, restore $6$ AP / When Mental is 1% or more of its maximum value, reduce AP by $14$ / When Mental is 1% or more of its maximum value, the voltage acquisition effect skill increases voltage acquisition by $409.5%$ for one turn / When Mental is 1% or more of its maximum value, remove this card from play / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "メンタルが最大値の1％以下の時、APを$6$回復／最大値の$100%$分のメンタルを減少（この効果ではメンタルが0にならない）／次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が3回以上の時、このカードを除外する",
     "translation": {
       "zh-CN": {
@@ -44339,6 +45041,45 @@
       "en": {
         "text": "When Mental is 1% or less of its maximum value, restore $6$ AP / Reduce Mental by $100%$ of the maximum value (this effect does not reduce Mental to 0) / Return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 3 or more, remove this card from play",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の1％以下の時、APを$7$回復／メンタルが最大値の1％以上の時、APを$14$減少／メンタルが最大値の1％以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$438.75%$上昇／メンタルが最大値の1％以上の時、このカードを除外する／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的1%以下时，AP回复$7$／Mental为最大值的1%以上时，AP减少$14$／Mental为最大值的1%以上时，获得Voltage效果技能的Voltage获得量单次提升$438.75%$／Mental为最大值的1%以上时，移除此卡／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 1% or less of its maximum value, restore $7$ AP / When Mental is 1% or more of its maximum value, reduce AP by $14$ / When Mental is 1% or more of its maximum value, the voltage acquisition effect skill increases voltage acquisition by $438.75%$ for one turn / When Mental is 1% or more of its maximum value, remove this card from play / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の1％以下の時、APを$7$回復／メンタルが最大値の1％以上の時、APを$14$減少／メンタルが最大値の1％以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$468%$上昇／メンタルが最大値の1％以上の時、このカードを除外する／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的1%以下时，AP回复$7$／Mental为最大值的1%以上时，AP减少$14$／Mental为最大值的1%以上时，获得Voltage效果技能的Voltage获得量单次提升$468%$／Mental为最大值的1%以上时，移除此卡／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 1% or less of its maximum value, restore $7$ AP / When Mental is 1% or more of its maximum value, reduce AP by $14$ / When Mental is 1% or more of its maximum value, the voltage acquisition effect skill increases voltage acquisition by $468%$ for one turn / When Mental is 1% or more of its maximum value, remove this card from play / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の1％以下の時、APを$7$回復／メンタルが最大値の1％以上の時、APを$14$減少／メンタルが最大値の1％以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$497.25%$上昇／メンタルが最大値の1％以上の時、このカードを除外する／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的1%以下时，AP回复$7$／Mental为最大值的1%以上时，AP减少$14$／Mental为最大值的1%以上时，获得Voltage效果技能的Voltage获得量单次提升$497.25%$／Mental为最大值的1%以上时，移除此卡／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 1% or less of its maximum value, restore $7$ AP / When Mental is 1% or more of its maximum value, reduce AP by $14$ / When Mental is 1% or more of its maximum value, the voltage acquisition effect skill increases voltage acquisition by $497.25%$ for one turn / When Mental is 1% or more of its maximum value, remove this card from play / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -44356,6 +45097,19 @@
     }
   },
   {
+    "raw": "メンタルが最大値の1％以下の時、APを$8$回復／メンタルが最大値の1％以上の時、APを$14$減少／メンタルが最大値の1％以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$526.5%$上昇／メンタルが最大値の1％以上の時、このカードを除外する／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的1%以下时，AP回复$8$／Mental为最大值的1%以上时，AP减少$14$／Mental为最大值的1%以上时，获得Voltage效果技能的Voltage获得量单次提升$526.5%$／Mental为最大值的1%以上时，移除此卡／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 1% or less of its maximum value, restore $8$ AP / When Mental is 1% or more of its maximum value, reduce AP by $14$ / When Mental is 1% or more of its maximum value, the voltage acquisition effect skill increases voltage acquisition by $526.5%$ for one turn / When Mental is 1% or more of its maximum value, remove this card from play / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "メンタルが最大値の1％以下の時、APを$8$回復／最大値の$100%$分のメンタルを減少（この効果ではメンタルが0にならない）／次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が3回以上の時、このカードを除外する",
     "translation": {
       "zh-CN": {
@@ -44365,6 +45119,19 @@
       "en": {
         "text": "When Mental is 1% or less of its maximum value, restore $8$ AP / Reduce Mental by $100%$ of the maximum value (this effect does not reduce Mental to 0) / Return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 3 or more, remove this card from play",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルが最大値の1％以下の時、APを$9$回復／メンタルが最大値の1％以上の時、APを$14$減少／メンタルが最大値の1％以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$585%$上昇／メンタルが最大値の1％以上の時、このカードを除外する／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为最大值的1%以下时，AP回复$9$／Mental为最大值的1%以上时，AP减少$14$／Mental为最大值的1%以上时，获得Voltage效果技能的Voltage获得量单次提升$585%$／Mental为最大值的1%以上时，移除此卡／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When Mental is 1% or less of its maximum value, restore $9$ AP / When Mental is 1% or more of its maximum value, reduce AP by $14$ / When Mental is 1% or more of its maximum value, the voltage acquisition effect skill increases voltage acquisition by $585%$ for one turn / When Mental is 1% or more of its maximum value, remove this card from play / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.2"
       }
     }
   },

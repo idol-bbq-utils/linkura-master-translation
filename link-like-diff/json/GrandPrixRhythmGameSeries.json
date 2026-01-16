@@ -148,6 +148,18 @@
         {
             "Id": 8051093,
             "Description": "ステージC"
+        },
+        {
+            "Id": 8051101,
+            "Description": "ステージA"
+        },
+        {
+            "Id": 8051102,
+            "Description": "ステージB"
+        },
+        {
+            "Id": 8051103,
+            "Description": "ステージC"
         }
     ]
 }

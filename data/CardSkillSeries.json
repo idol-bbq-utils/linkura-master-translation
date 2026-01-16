@@ -3029,6 +3029,45 @@
     }
   },
   {
+    "raw": "エレクトロシャワー",
+    "translation": {
+      "zh-CN": {
+        "text": "电子淋浴",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Electro Shower",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "エレクトロダンス",
+    "translation": {
+      "zh-CN": {
+        "text": "电子舞蹈",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Electro Dance",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "エレクトロドレス",
+    "translation": {
+      "zh-CN": {
+        "text": "电子礼服",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Electro Dress",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "エロープ",
     "translation": {
       "en": {
@@ -4121,6 +4160,19 @@
     }
   },
   {
+    "raw": "クイーンアトラクトハッピー",
+    "translation": {
+      "zh-CN": {
+        "text": "女王吸引·快乐",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Queen Attract Happy",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "クラッチリカバー",
     "translation": {
       "zh-CN": {
@@ -5131,6 +5183,19 @@
       "en": {
         "text": "Summon: Kaho",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サヨシグレ",
+    "translation": {
+      "zh-CN": {
+        "text": "Sayo-Shigure",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Sayo-Shigure",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -7839,6 +7904,19 @@
     }
   },
   {
+    "raw": "ドレス《Sayo-Shigure》",
+    "translation": {
+      "zh-CN": {
+        "text": "礼服《Sayo-Shigure》",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Dress《Sayo-Shigure》",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "ドレス《もういちど ルミナス》",
     "translation": {
       "zh-CN": {
@@ -9399,6 +9477,19 @@
     }
   },
   {
+    "raw": "ノクターナルコード",
+    "translation": {
+      "zh-CN": {
+        "text": "夜行代码",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Nocturnal Code",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "ハイアトラクト",
     "translation": {
       "zh-CN": {
@@ -9993,6 +10084,19 @@
       "en": {
         "text": "First Seed Ring",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ファーストステージ",
+    "translation": {
+      "zh-CN": {
+        "text": "第一舞台",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "First Stage",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -12376,6 +12480,19 @@
     }
   },
   {
+    "raw": "レインフラグメント",
+    "translation": {
+      "zh-CN": {
+        "text": "雨之碎片",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Rain Fragment",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "ロマンハート",
     "translation": {
       "en": {
@@ -12671,6 +12788,19 @@
       "en": {
         "text": "Tsuzuri Design",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "花傘",
+    "translation": {
+      "zh-CN": {
+        "text": "花伞",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Flower Parasol",
+        "author": "gpt-5.2"
       }
     }
   },

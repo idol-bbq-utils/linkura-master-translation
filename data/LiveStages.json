@@ -1157,6 +1157,19 @@
     }
   },
   {
+    "raw": "ステージ開始時、メイン効果がメンタル回復およびプロテクトおよびガードであるデッキの全てのカードの消費APをステージ中常に-3し、また山札が切れるたび、APを0にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "Live开始时，使牌组中所有主要效果为恢复Mental值、Protect及Guard的卡牌的消耗AP在本阶段始终-3，且每当牌库用完时，将AP归零。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "At stage start, all cards in the deck whose main effect is Mental recovery, Protect, or Guard have their AP cost permanently reduced by -3 throughout the stage, and whenever the deck runs out, set AP to 0.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "ステージ開始時、メイン効果がリシャッフルであるデッキの全てのカードの消費APをステージ中常に+10し、スキルを3回使用するたび、手札を全て捨てて、山札から手札上限まで引き直す。",
     "translation": {
       "zh-CN": {
@@ -1274,6 +1287,19 @@
     }
   },
   {
+    "raw": "メイン効果がトークンカード追加またはハートキャプチャのスキルを使用するたび、このステージ中、獲得するLOVEを+3000%し、またメイン効果がボルテージ増加またはラブアトラクトのスキルを使用するたび、このステージ中、獲得するLOVEを-1000%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "每当使用主要效果为追加令牌卡或心心捕获的技能时，在本阶段获得的LOVE增加3000%，且每当使用主要效果为提升Voltage或Love Attract的技能时，在本阶段获得的LOVE减少1000%。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Each time a skill is used whose main effect is adding a token card or Heart Capture, increase the LOVE gained by +3000% for the remainder of the stage, and each time a skill is used whose main effect is increasing Voltage or Love Attract, decrease the LOVE gained by -1000% for the remainder of the stage.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "メイン効果がトークンカード追加またはハートキャプチャのスキルを使用するたび、ボルテージを+1500し、またメイン効果がボルテージ増加またはメンタルプロテクトのスキルを使用するたび、ボルテージを-3000する。",
     "translation": {
       "en": {
@@ -1335,6 +1361,19 @@
       "en": {
         "text": "Each time a skill whose main effect is heart gain is used, recover 3 AP.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メイン効果がムード値変動のスキルを使用するたび、ボルテージを+3000し、メンタルを最大値の30%回復する。また、メイン効果がメンタル回復またはプロテクトまたはガードのスキルを使用するたび、ボルテージを-5000する。",
+    "translation": {
+      "zh-CN": {
+        "text": "每当使用主要效果为Mood值变动的技能时，Voltage增加3000点，并恢复最大值30%的Mental值。此外，每当使用主要效果为恢复Mental值、Protect或Guard的技能时，Voltage减少5000点。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Each time a skill is used whose main effect changes the Mood value, gain +3000 Voltage and restore Mental by 30% of its max value. Also, each time a skill is used whose main effect is Mental recovery, Protect, or Guard, lose -5000 Voltage.",
+        "author": "gpt-5.2"
       }
     }
   },

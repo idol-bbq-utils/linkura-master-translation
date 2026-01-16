@@ -3366,6 +3366,12 @@
             "Description": "スタイル解放素材(日野下 花帆)"
         },
         {
+            "Id": 4031537,
+            "Name": "[Sayo-Shigure]日野下 花帆 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(日野下 花帆)"
+        },
+        {
             "Id": 4031801,
             "Name": "[Prism Echo]日野下 花帆 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
@@ -3794,6 +3800,12 @@
         {
             "Id": 4032901,
             "Name": "[17th Birthday]村野 さやか 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(村野 さやか)"
+        },
+        {
+            "Id": 4032902,
+            "Name": "[18th Birthday]村野 さやか 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
             "Description": "スタイル解放素材(村野 さやか)"
         },
@@ -4332,6 +4344,12 @@
             "Description": "スタイル解放素材(百生 吟子)"
         },
         {
+            "Id": 4041522,
+            "Name": "[Sayo-Shigure]百生 吟子 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(百生 吟子)"
+        },
+        {
             "Id": 4041801,
             "Name": "[Ether Aria]百生 吟子 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
@@ -4604,6 +4622,12 @@
         {
             "Id": 4043405,
             "Name": "[Poupée en Lotus]安養寺 姫芽 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(安養寺 姫芽)"
+        },
+        {
+            "Id": 4043406,
+            "Name": "[ハートにQ]安養寺 姫芽 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
             "Description": "スタイル解放素材(安養寺 姫芽)"
         },

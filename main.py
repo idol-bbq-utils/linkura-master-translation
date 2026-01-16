@@ -151,7 +151,7 @@ def main():
     parser_translate.add_argument(
         '--provider',
         default='claude',
-        choices=['claude', 'deepseek', 'qwen'],
+        choices=['claude', 'deepseek', 'qwen', 'openai'],
         help='LLM provider to use (default: claude)'
     )
     parser_translate.set_defaults(func=command_translate)

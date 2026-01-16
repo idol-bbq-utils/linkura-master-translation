@@ -494,6 +494,19 @@
     }
   },
   {
+    "raw": "Live Grand Prix 105期FinalTerm 第1回 個人戦",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 第105期最终赛季 第1回 个人战",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Term Final Term Round 1 Individual Competition",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "Live Grand Prix 105期OpeningTerm 個人戦",
     "translation": {
       "zh-CN": {

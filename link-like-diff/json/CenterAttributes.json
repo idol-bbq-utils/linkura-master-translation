@@ -3566,6 +3566,21 @@
             "Description": "スリーズブーケに所属するメンバーのアピール値が200％上昇"
         },
         {
+            "Id": 20315371,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
+            "Id": 20315372,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
+            "Id": 20315373,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
             "Id": 20318011,
             "CenterAttributeName": "アピールアップ（スリーズブーケ）&APレデュース&CTレデュース",
             "Description": "スリーズブーケに所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少"
@@ -4722,6 +4737,21 @@
         },
         {
             "Id": 20329013,
+            "CenterAttributeName": "アピールアップ（村野さやか）",
+            "Description": "村野さやかのアピール値が400％上昇"
+        },
+        {
+            "Id": 20329021,
+            "CenterAttributeName": "アピールアップ（村野さやか）",
+            "Description": "村野さやかのアピール値が400％上昇"
+        },
+        {
+            "Id": 20329022,
+            "CenterAttributeName": "アピールアップ（村野さやか）",
+            "Description": "村野さやかのアピール値が400％上昇"
+        },
+        {
+            "Id": 20329023,
             "CenterAttributeName": "アピールアップ（村野さやか）",
             "Description": "村野さやかのアピール値が400％上昇"
         },
@@ -6121,6 +6151,21 @@
             "Description": "百生吟子／徒町小鈴／安養寺姫芽のアピール値が200％上昇"
         },
         {
+            "Id": 20415221,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
+            "Id": 20415222,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
+            "Id": 20415223,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
             "Id": 20418011,
             "CenterAttributeName": "アピールアップ（スリーズブーケ）&APレデュース&CTレデュース",
             "Description": "スリーズブーケに所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少"
@@ -6854,6 +6899,21 @@
             "Id": 20434053,
             "CenterAttributeName": "アピールアップ",
             "Description": "全メンバーのアピール値が60％上昇"
+        },
+        {
+            "Id": 20434061,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が54％上昇"
+        },
+        {
+            "Id": 20434062,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が54％上昇"
+        },
+        {
+            "Id": 20434063,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が54％上昇"
         },
         {
             "Id": 20435011,

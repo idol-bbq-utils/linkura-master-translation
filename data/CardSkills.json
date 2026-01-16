@@ -741,6 +741,84 @@
     }
   },
   {
+    "raw": "1セクション目で使用したとき、APを$3$回復し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，AP回复$3$，本小节中，手牌上限增加2张。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When used in the first section, restore $3$ AP and increase the maximum number of cards in hand by 2 during this section.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、APを$4$回復し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，AP回复$4$，本小节中，手牌上限增加2张。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When used in the first section, restore $4$ AP and increase the maximum number of cards in hand by 2 during this section.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、APを$5$回復し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，AP回复$5$，本小节中，手牌上限增加2张。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When used in the first section, restore $5$ AP and increase the maximum number of cards in hand by 2 during this section.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、APを$6$回復し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，AP回复$6$，本小节中，手牌上限增加2张。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When used in the first section, restore $6$ AP and increase the maximum number of cards in hand by 2 during this section.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、APを$7$回復し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，AP回复$7$，本小节中，手牌上限增加2张。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When used in the first section, restore $7$ AP and increase the maximum number of cards in hand by 2 during this section.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、APを$8$回復し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，AP回复$8$，本小节中，手牌上限增加2张。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When used in the first section, restore $8$ AP and increase the maximum number of cards in hand by 2 during this section.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "1セクション目にドローした時、APを5回復する。それ以外のセクションでドローした時、次に使用するメンタルリカバー効果を+50%する。",
     "translation": {
       "zh-CN": {
@@ -5031,6 +5109,370 @@
     }
   },
   {
+    "raw": "4回の間ラブアトラクト効果を$+10.8%$し、このセクション中、ムード値をハッピー方向に$+20$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+80%$し、ビートハート$100回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+10.8%$，本小节中，气氛值向Happy方向$+20$。此外，气氛为Happy100时，本场Live中获得LOVE$+80%$，并获得$100倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Love Attract effect by $+10.8%$ for 4 turns and increase Mood Value in the Happy direction by $+20$ during this section. Additionally, if Mood is Happy 100, increase LOVE gained by $+80%$ for this stage and gain Skill Hearts equivalent to $100$ beats.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+10.8%$し、このセクション中、ムード値をハッピー方向に$+20$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+10.8%$，本小节中，气氛值向Happy方向$+20$。此外，气氛为Happy100时，将手牌重置洗牌。此时抽到配对卡[ハートにQ]大泽瑠璃乃的概率大幅提升。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Love Attract effect by $+10.8%$ for 4 turns and increase Mood Value in the Happy direction by $+20$ during this section. Additionally, if Mood is Happy 100, reset and shuffle your hand. At this time, the chance to draw the paired card [Queen of Hearts] Rurino Osawa is greatly increased.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+4.3%$し、このセクション中、ムード値をハッピー方向に$+8$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+32%$し、ビートハート$40回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+4.3%$，本小节中，气氛值向Happy方向$+8$。此外，气氛为Happy100时，本场Live中获得LOVE$+32%$，并获得$40倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Love Attract effect by $+4.3%$ for 4 turns and increase Mood Value in the Happy direction by $+8$ during this section. Additionally, if Mood is Happy 100, increase LOVE gained by $+32%$ for this stage and gain Skill Hearts equivalent to $40$ beats.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+4.3%$し、このセクション中、ムード値をハッピー方向に$+8$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+4.3%$，本小节中，气氛值向Happy方向$+8$。此外，气氛为Happy100时，将手牌重置洗牌。此时抽到配对卡[ハートにQ]大泽瑠璃乃的概率大幅提升。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Love Attract effect by $+4.3%$ for 4 turns and increase Mood Value in the Happy direction by $+8$ during this section. Additionally, if Mood is Happy 100, reset and shuffle your hand. At this time, the chance to draw the paired card [Queen of Hearts] Rurino Osawa is greatly increased.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+4.8%$し、このセクション中、ムード値をハッピー方向に$+9$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+35.2%$し、ビートハート$44回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+4.8%$，本小节中，气氛值向Happy方向$+9$。此外，气氛为Happy100时，本场Live中获得LOVE$+35.2%$，并获得$44倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Love Attract effect by $+4.8%$ for 4 turns and increase Mood Value in the Happy direction by $+9$ during this section. Additionally, if Mood is Happy 100, increase LOVE gained by $+35.2%$ for this stage and gain Skill Hearts equivalent to $44$ beats.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+4.8%$し、このセクション中、ムード値をハッピー方向に$+9$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+4.8%$，本小节中，气氛值向Happy方向$+9$。此外，气氛为Happy100时，将手牌重置洗牌。此时抽到配对卡[ハートにQ]大泽瑠璃乃的概率大幅提升。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Love Attract effect by $+4.8%$ for 4 turns and increase Mood Value in the Happy direction by $+9$ during this section. Additionally, if Mood is Happy 100, reset and shuffle your hand. At this time, the chance to draw the paired card [Queen of Hearts] Rurino Osawa is greatly increased.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+5.2%$し、このセクション中、ムード値をハッピー方向に$+10$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+38.4%$し、ビートハート$48回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+5.2%$，本小节中，气氛值向Happy方向$+10$。此外，气氛为Happy100时，本场Live中获得LOVE$+38.4%$，并获得$48倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Love Attract effect by $+5.2%$ for 4 turns and increase Mood Value in the Happy direction by $+10$ during this section. Additionally, if Mood is Happy 100, increase LOVE gained by $+38.4%$ for this stage and gain Skill Hearts equivalent to $48$ beats.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+5.2%$し、このセクション中、ムード値をハッピー方向に$+10$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+5.2%$，本小节中，气氛值向Happy方向$+10$。此外，气氛为Happy100时，将手牌重置洗牌。此时抽到配对卡[ハートにQ]大泽瑠璃乃的概率大幅提升。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Love Attract effect by $+5.2%$ for 4 turns and increase Mood Value in the Happy direction by $+10$ during this section. Additionally, if Mood is Happy 100, reset and shuffle your hand. At this time, the chance to draw the paired card [Queen of Hearts] Rurino Osawa is greatly increased.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+5.6%$し、このセクション中、ムード値をハッピー方向に$+11$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+41.6%$し、ビートハート$52回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+5.6%$，本小节中，气氛值向Happy方向$+11$。此外，气氛为Happy100时，本场Live中获得LOVE$+41.6%$，并获得$52倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Love Attract effect by $+5.6%$ for 4 turns and increase Mood Value in the Happy direction by $+11$ during this section. Additionally, if Mood is Happy 100, increase LOVE gained by $+41.6%$ for this stage and gain Skill Hearts equivalent to $52$ beats.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+5.6%$し、このセクション中、ムード値をハッピー方向に$+11$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+5.6%$，本小节中，气氛值向Happy方向$+11$。此外，气氛为Happy100时，将手牌重置洗牌。此时抽到配对卡[ハートにQ]大泽瑠璃乃的概率大幅提升。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Love Attract effect by $+5.6%$ for 4 turns and increase Mood Value in the Happy direction by $+11$ during this section. Additionally, if Mood is Happy 100, reset and shuffle your hand. At this time, the chance to draw the paired card [Queen of Hearts] Rurino Osawa is greatly increased.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+6%$し、このセクション中、ムード値をハッピー方向に$+12$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+44.8%$し、ビートハート$56回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+6%$，本小节中，气氛值向Happy方向$+12$。此外，气氛为Happy100时，本场Live中获得LOVE$+44.8%$，并获得$56倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Love Attract effect by $+6%$ for 4 turns and increase Mood Value in the Happy direction by $+12$ during this section. Additionally, if Mood is Happy 100, increase LOVE gained by $+44.8%$ for this stage and gain Skill Hearts equivalent to $56$ beats.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+6%$し、このセクション中、ムード値をハッピー方向に$+12$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+6%$，本小节中，气氛值向Happy方向$+12$。此外，气氛为Happy100时，将手牌重置洗牌。此时抽到配对卡[ハートにQ]大泽瑠璃乃的概率大幅提升。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Love Attract effect by $+6%$ for 4 turns and increase Mood Value in the Happy direction by $+12$ during this section. Additionally, if Mood is Happy 100, reset and shuffle your hand. At this time, the chance to draw the paired card [Queen of Hearts] Rurino Osawa is greatly increased.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+6.5%$し、このセクション中、ムード値をハッピー方向に$+12$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+48%$し、ビートハート$60回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+6.5%$，本小节中，气氛值向Happy方向$+12$。此外，气氛为Happy100时，本场Live中获得LOVE$+48%$，并获得$60倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Love Attract effect by $+6.5%$ for 4 turns and increase Mood Value in the Happy direction by $+12$ during this section. Additionally, if Mood is Happy 100, increase LOVE gained by $+48%$ for this stage and gain Skill Hearts equivalent to $60$ beats.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+6.5%$し、このセクション中、ムード値をハッピー方向に$+12$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+6.5%$，本小节中，气氛值向Happy方向$+12$。此外，气氛为Happy100时，将手牌重置洗牌。此时抽到配对卡[ハートにQ]大泽瑠璃乃的概率大幅提升。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Love Attract effect by $+6.5%$ for 4 turns and increase Mood Value in the Happy direction by $+12$ during this section. Additionally, if Mood is Happy 100, reset and shuffle your hand. At this time, the chance to draw the paired card [Queen of Hearts] Rurino Osawa is greatly increased.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+6.9%$し、このセクション中、ムード値をハッピー方向に$+13$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+51.2%$し、ビートハート$64回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+6.9%$，本小节中，气氛值向Happy方向$+13$。此外，气氛为Happy100时，本场Live中获得LOVE$+51.2%$，并获得$64倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Love Attract effect by $+6.9%$ for 4 turns and increase Mood Value in the Happy direction by $+13$ during this section. Additionally, if Mood is Happy 100, increase LOVE gained by $+51.2%$ for this stage and gain Skill Hearts equivalent to $64$ beats.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+6.9%$し、このセクション中、ムード値をハッピー方向に$+13$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+6.9%$，本小节中，气氛值向Happy方向$+13$。此外，气氛为Happy100时，将手牌重置洗牌。此时抽到配对卡[ハートにQ]大泽瑠璃乃的概率大幅提升。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Love Attract effect by $+6.9%$ for 4 turns and increase Mood Value in the Happy direction by $+13$ during this section. Additionally, if Mood is Happy 100, reset and shuffle your hand. At this time, the chance to draw the paired card [Queen of Hearts] Rurino Osawa is greatly increased.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+7.3%$し、このセクション中、ムード値をハッピー方向に$+14$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+54.4%$し、ビートハート$68回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+7.3%$，本小节中，气氛值向Happy方向$+14$。此外，气氛为Happy100时，本场Live中获得LOVE$+54.4%$，并获得$68倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Love Attract effect by $+7.3%$ for 4 turns and increase Mood Value in the Happy direction by $+14$ during this section. Additionally, if Mood is Happy 100, increase LOVE gained by $+54.4%$ for this stage and gain Skill Hearts equivalent to $68$ beats.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+7.3%$し、このセクション中、ムード値をハッピー方向に$+14$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+7.3%$，本小节中，气氛值向Happy方向$+14$。此外，气氛为Happy100时，将手牌重置洗牌。此时抽到配对卡[ハートにQ]大泽瑠璃乃的概率大幅提升。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Love Attract effect by $+7.3%$ for 4 turns and increase Mood Value in the Happy direction by $+14$ during this section. Additionally, if Mood is Happy 100, reset and shuffle your hand. At this time, the chance to draw the paired card [Queen of Hearts] Rurino Osawa is greatly increased.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+7.8%$し、このセクション中、ムード値をハッピー方向に$+15$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+57.6%$し、ビートハート$72回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+7.8%$，本小节中，气氛值向Happy方向$+15$。此外，气氛为Happy100时，本场Live中，获得的LOVE$+57.6%$，并获得$72倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase the Love Attract effect by $+7.8%$ for 4 turns, and increase Mood Value toward Happy by $+15$ during this section. Additionally, when Mood is Happy 100, increase LOVE gained by $+57.6%$ during this stage and gain Skill Hearts equivalent to $72$ Beat Hearts.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+7.8%$し、このセクション中、ムード値をハッピー方向に$+15$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+7.8%$，本小节中，气氛值向Happy方向$+15$。此外，气氛为Happy100时，将手牌重置洗牌。此时抽到配对卡[ハートにQ]大泽瑠璃乃的概率大幅提升。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase the Love Attract effect by $+7.8%$ for 4 turns, and increase Mood Value toward Happy by $+15$ during this section. Additionally, when Mood is Happy 100, reset and shuffle your hand. At this time, the chance to draw the paired card [Q in Hearts] Rurino Osawa is greatly increased.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+8.6%$し、このセクション中、ムード値をハッピー方向に$+16$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+64%$し、ビートハート$80回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+8.6%$，本小节中，气氛值向Happy方向$+16$。此外，气氛为Happy100时，本场Live中，获得的LOVE$+64%$，并获得$80倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase the Love Attract effect by $+8.6%$ for 4 turns, and increase Mood Value toward Happy by $+16$ during this section. Additionally, when Mood is Happy 100, increase LOVE gained by $+64%$ during this stage and gain Skill Hearts equivalent to $80$ Beat Hearts.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+8.6%$し、このセクション中、ムード値をハッピー方向に$+16$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+8.6%$，本小节中，气氛值向Happy方向$+16$。此外，气氛为Happy100时，将手牌重置洗牌。此时抽到配对卡[ハートにQ]大泽瑠璃乃的概率大幅提升。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase the Love Attract effect by $+8.6%$ for 4 turns, and increase Mood Value toward Happy by $+16$ during this section. Additionally, when Mood is Happy 100, reset and shuffle your hand. At this time, the chance to draw the paired card [Q in Hearts] Rurino Osawa is greatly increased.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+9.1%$し、このセクション中、ムード値をハッピー方向に$+17$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+67.2%$し、ビートハート$84回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+9.1%$，本小节中，气氛值向Happy方向$+17$。此外，气氛为Happy100时，本场Live中，获得的LOVE$+67.2%$，并获得$84倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase the Love Attract effect by $+9.1%$ for 4 turns, and increase Mood Value toward Happy by $+17$ during this section. Additionally, when Mood is Happy 100, increase LOVE gained by $+67.2%$ during this stage and gain Skill Hearts equivalent to $84$ Beat Hearts.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+9.1%$し、このセクション中、ムード値をハッピー方向に$+17$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+9.1%$，本小节中，气氛值向Happy方向$+17$。此外，气氛为Happy100时，将手牌重置洗牌。此时抽到配对卡[ハートにQ]大泽瑠璃乃的概率大幅提升。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase the Love Attract effect by $+9.1%$ for 4 turns, and increase Mood Value toward Happy by $+17$ during this section. Additionally, when Mood is Happy 100, reset and shuffle your hand. At this time, the chance to draw the paired card [Q in Hearts] Rurino Osawa is greatly increased.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+9.5%$し、このセクション中、ムード値をハッピー方向に$+18$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+70.4%$し、ビートハート$88回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+9.5%$，本小节中，气氛值向Happy方向$+18$。此外，气氛为Happy100时，本场Live中，获得的LOVE$+70.4%$，并获得$88倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase the Love Attract effect by $+9.5%$ for 4 turns, and increase Mood Value toward Happy by $+18$ during this section. Additionally, when Mood is Happy 100, increase LOVE gained by $+70.4%$ during this stage and gain Skill Hearts equivalent to $88$ Beat Hearts.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+9.5%$し、このセクション中、ムード値をハッピー方向に$+18$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+9.5%$，本小节中，气氛值向Happy方向$+18$。此外，气氛为Happy100时，将手牌重置洗牌。此时抽到配对卡[ハートにQ]大泽瑠璃乃的概率大幅提升。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase the Love Attract effect by $+9.5%$ for 4 turns, and increase Mood Value toward Happy by $+18$ during this section. Additionally, when Mood is Happy 100, reset and shuffle your hand. At this time, the chance to draw the paired card [Q in Hearts] Rurino Osawa is greatly increased.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+9.9%$し、このセクション中、ムード値をハッピー方向に$+19$する。さらにムードがハッピー100のとき、このステージ中、獲得するLOVEを$+73.6%$し、ビートハート$92回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+9.9%$，本小节中，气氛值向Happy方向$+19$。此外，气氛为Happy100时，本场Live中，获得的LOVE$+73.6%$，并获得$92倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase the Love Attract effect by $+9.9%$ for 4 turns, and increase Mood Value toward Happy by $+19$ during this section. Additionally, when Mood is Happy 100, increase LOVE gained by $+73.6%$ during this stage and gain Skill Hearts equivalent to $92$ Beat Hearts.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "4回の間ラブアトラクト効果を$+9.9%$し、このセクション中、ムード値をハッピー方向に$+19$する。さらにムードがハッピー100のとき、手札をリセットシャッフルする。この時ペアカード[ハートにQ]大沢 瑠璃乃をドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来4次LOVE+效果$+9.9%$，本小节中，气氛值向Happy方向$+19$。此外，气氛为Happy100时，将手牌重置洗牌。此时抽到配对卡[ハートにQ]大泽瑠璃乃的概率大幅提升。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase the Love Attract effect by $+9.9%$ for 4 turns, and increase Mood Value toward Happy by $+19$ during this section. Additionally, when Mood is Happy 100, reset and shuffle your hand. At this time, the chance to draw the paired card [Q in Hearts] Rurino Osawa is greatly increased.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "50個のスキルハートを獲得する。さらにこのセクション中、獲得するLOVEを$+10%$する。",
     "translation": {
       "zh-CN": {
@@ -7159,6 +7601,19 @@
       "zh-CN": {
         "text": "使用4次技能后，将1个种类的（共计1张）Manuscript Card加入牌库。并且Mental为100%时抽到时，本小节中，手牌上限+4，卡组中Manuscript Card的技能消费AP-8。",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このスキルを4回使用したとき、花傘カードを1種類(合計1枚)山札に追加し、10回使用したとき、このステージ中、それぞれ花帆、吟子、花傘カードが使用するスキルハート獲得効果による獲得数を+400%、ボルテージゲイン効果を+400%する。さらにこのスキルを使用するたび、手札のこのスキルの消費APが増加する(最大+6）",
+    "translation": {
+      "zh-CN": {
+        "text": "当此技能使用第4次时，将1个种类的花伞卡（共计1张）加入牌库；使用第10次时，本场Live中，花帆、吟子以及花伞卡各自使用技能心心获得效果时，其获得数量+400%，获得Vo Pt.效果+400%。此外，每次使用此技能时，手牌中该技能的消费AP都会增加（最大+6）。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When you use this skill 4 times, add 1 type of Flower Parasol card (1 card total) to the deck, and when you use it 10 times, during this stage, increase by +400% the amount gained from the Skill Heart gain effects of skills used by Kaho, Ginko, and Flower Parasol cards, and increase the Voltage Gain effect by +400%. Additionally, each time you use this skill, its AP cost in your hand increases (up to +6).",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -47515,6 +47970,188 @@
     }
   },
   {
+    "raw": "このセクション中、ボルテージゲイン効果を$+100%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，获得Vo Pt.效果$+100%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Voltage Gain effect by $+100%$ during this section.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージゲイン効果を$+40%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，获得Vo Pt.效果$+40%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Voltage Gain effect by $+40%$ during this section.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージゲイン効果を$+44%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，获得Vo Pt.效果$+44%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Voltage Gain effect by $+44%$ during this section.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージゲイン効果を$+48%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，获得Vo Pt.效果$+48%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Voltage Gain effect by $+48%$ during this section.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージゲイン効果を$+52%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，获得Vo Pt.效果$+52%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Voltage Gain effect by $+52%$ during this section.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージゲイン効果を$+56%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，获得Vo Pt.效果$+56%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Voltage Gain effect by $+56%$ during this section.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージゲイン効果を$+60%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，获得Vo Pt.效果$+60%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Voltage Gain effect by $+60%$ during this section.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージゲイン効果を$+64%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，获得Vo Pt.效果$+64%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Voltage Gain effect by $+64%$ during this section.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージゲイン効果を$+68%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，获得Vo Pt.效果$+68%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Voltage Gain effect by $+68%$ during this section.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージゲイン効果を$+72%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，获得Vo Pt.效果$+72%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Voltage Gain effect by $+72%$ during this section.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージゲイン効果を$+80%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，获得Vo Pt.效果$+80%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Voltage Gain effect by $+80%$ during this section.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージゲイン効果を$+84%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，获得Vo Pt.效果$+84%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Voltage Gain effect by $+84%$ during this section.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージゲイン効果を$+88%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，获得Vo Pt.效果$+88%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Increase Voltage Gain effect by $+88%$ during this section.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ボルテージゲイン効果を$+92%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，获得Vo Pt.效果$+92%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "During this section, increase the Voltage Gain effect by $+92%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムードがハッピーのときメロウ方向に、メロウのときハッピー方向に$+12$する。",
     "translation": {
       "zh-CN": {
@@ -48061,6 +48698,175 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+16$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+160$し、ビートハート$40回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+16$。此外，气氛为Happy或Mellow任意一方达到100时，Vo Pt.$+160$，获得$40倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+16$. Additionally, if Mood is either Happy or Mellow at 100, increase Voltage Pt. by $+160$ and gain Skill Hearts equivalent to $40$ beats of Beat Hearts.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+18$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+176$し、ビートハート$44回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+18$。此外，气氛为Happy或Mellow任意一方达到100时，Vo Pt.$+176$，获得$44倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+18$. Additionally, if Mood is either Happy or Mellow at 100, increase Voltage Pt. by $+176$ and gain Skill Hearts equivalent to $44$ beats of Beat Hearts.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+20$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+192$し、ビートハート$48回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+20$。此外，气氛为Happy或Mellow任意一方达到100时，Vo Pt.$+192$，获得$48倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+20$. Additionally, if Mood is either Happy or Mellow at 100, increase Voltage Pt. by $+192$ and gain Skill Hearts equivalent to $48$ beats of Beat Hearts.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+21$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+208$し、ビートハート$52回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+21$。此外，气氛为Happy或Mellow任意一方达到100时，Vo Pt.$+208$，获得$52倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+21$. Additionally, if Mood is either Happy or Mellow at 100, increase Voltage Pt. by $+208$ and gain Skill Hearts equivalent to $52$ beats of Beat Hearts.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+23$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+224$し、ビートハート$56回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+23$。此外，气氛为Happy或Mellow任意一方达到100时，Vo Pt.$+224$，获得$56倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+23$. Additionally, if Mood is either Happy or Mellow at 100, increase Voltage Pt. by $+224$ and gain Skill Hearts equivalent to $56$ beats of Beat Hearts.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+24$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+240$し、ビートハート$60回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+24$。此外，气氛为Happy或Mellow任意一方达到100时，Vo Pt.$+240$，获得$60倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+24$. Additionally, if Mood is either Happy or Mellow at 100, increase Voltage Pt. by $+240$ and gain Skill Hearts equivalent to $60$ beats of Beat Hearts.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+26$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+256$し、ビートハート$64回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+26$。此外，气氛为Happy或Mellow任意一方达到100时，Vo Pt.$+256$，获得$64倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+26$. Additionally, if Mood is either Happy or Mellow at 100, increase Voltage Pt. by $+256$ and gain Skill Hearts equivalent to $64$ beats of Beat Hearts.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+28$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+272$し、ビートハート$68回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+28$。此外，气氛为Happy或Mellow任意一方达到100时，Vo Pt.$+272$，获得$68倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+28$. Additionally, if Mood is either Happy or Mellow at 100, increase Voltage Pt. by $+272$ and gain Skill Hearts equivalent to $68$ beats of Beat Hearts.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+29$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+288$し、ビートハート$72回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+29$。此外，气氛为Happy或Mellow任意一方达到100时，Vo Pt.$+288$，获得$72倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+29$. Additionally, if Mood is either Happy or Mellow at 100, increase Voltage Pt. by $+288$ and gain Skill Hearts equivalent to $72$ beats of Beat Hearts.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+32$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+320$し、ビートハート$80回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+32$。此外，气氛为Happy或Mellow任意一方达到100时，Vo Pt.$+320$，获得$80倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+32$. Additionally, if Mood is either Happy or Mellow at 100, increase Voltage Pt. by $+320$ and gain Skill Hearts equivalent to $80$ beats of Beat Hearts.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+34$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+336$し、ビートハート$84回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+34$。此外，气氛为Happy或Mellow任意一方达到100时，Vo Pt.$+336$，获得$84倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+34$. Additionally, if Mood is either Happy or Mellow at 100, increase Voltage Pt. by $+336$ and gain Skill Hearts equivalent to $84$ beats of Beat Hearts.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+36$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+352$し、ビートハート$88回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+36$。此外，气氛为Happy或Mellow任意一方达到100时，Vo Pt.$+352$，获得$88倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+36$. Additionally, if Mood is either Happy or Mellow at 100, increase Voltage Pt. by $+352$ and gain Skill Hearts equivalent to $88$ beats of Beat Hearts.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+37$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+368$し、ビートハート$92回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+37$。此外，气氛为Happy或Mellow任意一方达到100时，Vo Pt.$+368$，获得$92倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+37$. Additionally, if Mood is either Happy or Mellow at 100, increase Voltage Pt. by $+368$ and gain Skill Hearts equivalent to $92$ beats of Beat Hearts.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+40$し、AP回復速度を$+32%$する。さらに16回の間泉が使用するスキルハート獲得効果による獲得数を$+320%$する。",
     "translation": {
       "zh-CN": {
@@ -48083,6 +48889,19 @@
       "en": {
         "text": "During this section, increase Mood value by $+40$ and increase the maximum number of cards in hand by 4. Additionally, reduce the AP cost of all skills in the deck by -8.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+40$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+400$し、ビートハート$100回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+40$。此外，气氛为Happy或Mellow任意一方达到100时，Vo Pt.$+400$，获得$100倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+40$. Additionally, if Mood is either Happy or Mellow at 100, increase Voltage Pt. by $+400$ and gain Skill Hearts equivalent to $100$ beats of Beat Hearts.",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -66027,6 +66846,188 @@
     }
   },
   {
+    "raw": "それぞれ3回の間さやかが使用するラブアトラクト効果を$+32%$、ボルテージゲイン効果を$+32%$する。さらに山札にあるさやかのスキルの消費AP-3。",
+    "translation": {
+      "zh-CN": {
+        "text": "沙耶香分别接下来3次使用的LOVE+效果$+32%$，获得Vo Pt.效果$+32%$。此外，牌库中沙耶香的技能消耗AP-3。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 3 times each, increase the Love Attract effect and Voltage Gain effect used by Sayaka by $+32%$. Additionally, reduce the AP cost of Sayaka's skills in the deck by 3.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ3回の間さやかが使用するラブアトラクト効果を$+35.2%$、ボルテージゲイン効果を$+35.2%$する。さらに山札にあるさやかのスキルの消費AP-3。",
+    "translation": {
+      "zh-CN": {
+        "text": "沙耶香分别接下来3次使用的LOVE+效果$+35.2%$，获得Vo Pt.效果$+35.2%$。此外，牌库中沙耶香的技能消耗AP-3。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 3 times each, increase the Love Attract effect and Voltage Gain effect used by Sayaka by $+35.2%$. Additionally, reduce the AP cost of Sayaka's skills in the deck by 3.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ3回の間さやかが使用するラブアトラクト効果を$+38.4%$、ボルテージゲイン効果を$+38.4%$する。さらに山札にあるさやかのスキルの消費AP-3。",
+    "translation": {
+      "zh-CN": {
+        "text": "沙耶香分别接下来3次使用的LOVE+效果$+38.4%$，获得Vo Pt.效果$+38.4%$。此外，牌库中沙耶香的技能消耗AP-3。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 3 times each, increase the Love Attract effect and Voltage Gain effect used by Sayaka by $+38.4%$. Additionally, reduce the AP cost of Sayaka's skills in the deck by 3.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ3回の間さやかが使用するラブアトラクト効果を$+41.6%$、ボルテージゲイン効果を$+41.6%$する。さらに山札にあるさやかのスキルの消費AP-3。",
+    "translation": {
+      "zh-CN": {
+        "text": "沙耶香分别接下来3次使用的LOVE+效果$+41.6%$，获得Vo Pt.效果$+41.6%$。此外，牌库中沙耶香的技能消耗AP-3。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 3 times each, increase the Love Attract effect and Voltage Gain effect used by Sayaka by $+41.6%$. Additionally, reduce the AP cost of Sayaka's skills in the deck by 3.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ3回の間さやかが使用するラブアトラクト効果を$+44.8%$、ボルテージゲイン効果を$+44.8%$する。さらに山札にあるさやかのスキルの消費AP-3。",
+    "translation": {
+      "zh-CN": {
+        "text": "沙耶香分别接下来3次使用的LOVE+效果$+44.8%$，获得Vo Pt.效果$+44.8%$。此外，牌库中沙耶香的技能消耗AP-3。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 3 times each, increase the Love Attract effect and Voltage Gain effect used by Sayaka by $+44.8%$. Additionally, reduce the AP cost of Sayaka's skills in the deck by 3.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ3回の間さやかが使用するラブアトラクト効果を$+48%$、ボルテージゲイン効果を$+48%$する。さらに山札にあるさやかのスキルの消費AP-3。",
+    "translation": {
+      "zh-CN": {
+        "text": "沙耶香分别接下来3次使用的LOVE+效果$+48%$，获得Vo Pt.效果$+48%$。此外，牌库中沙耶香的技能消耗AP-3。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 3 times each, increase the Love Attract effect and Voltage Gain effect used by Sayaka by $+48%$. Additionally, reduce the AP cost of Sayaka's skills in the deck by 3.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ3回の間さやかが使用するラブアトラクト効果を$+51.2%$、ボルテージゲイン効果を$+51.2%$する。さらに山札にあるさやかのスキルの消費AP-3。",
+    "translation": {
+      "zh-CN": {
+        "text": "沙耶香分别接下来3次使用的LOVE+效果$+51.2%$，获得Vo Pt.效果$+51.2%$。此外，牌库中沙耶香的技能消耗AP-3。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 3 times each, increase the Love Attract effect and Voltage Gain effect used by Sayaka by $+51.2%$. Additionally, reduce the AP cost of Sayaka's skills in the deck by 3.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ3回の間さやかが使用するラブアトラクト効果を$+54.4%$、ボルテージゲイン効果を$+54.4%$する。さらに山札にあるさやかのスキルの消費AP-3。",
+    "translation": {
+      "zh-CN": {
+        "text": "沙耶香分别接下来3次使用的LOVE+效果$+54.4%$，获得Vo Pt.效果$+54.4%$。此外，牌库中沙耶香的技能消耗AP-3。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 3 times each, increase the Love Attract effect and Voltage Gain effect used by Sayaka by $+54.4%$. Additionally, reduce the AP cost of Sayaka's skills in the deck by 3.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ3回の間さやかが使用するラブアトラクト効果を$+57.6%$、ボルテージゲイン効果を$+57.6%$する。さらに山札にあるさやかのスキルの消費AP-3。",
+    "translation": {
+      "zh-CN": {
+        "text": "沙耶香分别接下来3次使用的LOVE+效果$+57.6%$，获得Vo Pt.效果$+57.6%$。此外，牌库中沙耶香的技能消耗AP-3。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 3 times each, increase the Love Attract effect and Voltage Gain effect used by Sayaka by $+57.6%$. Additionally, reduce the AP cost of Sayaka's skills in the deck by 3.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ3回の間さやかが使用するラブアトラクト効果を$+64%$、ボルテージゲイン効果を$+64%$する。さらに山札にあるさやかのスキルの消費AP-3。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来各3次沙耶香使用的LOVE+效果$+64%$、获得Vo Pt.效果$+64%$。此外，牌库中沙耶香的技能消费AP-3。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 3 times each, increase the Love Attract effect and Voltage Gain effect used by Sayaka by $+64%$. Additionally, reduce the AP cost of Sayaka's skills in the deck by 3.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ3回の間さやかが使用するラブアトラクト効果を$+67.2%$、ボルテージゲイン効果を$+67.2%$する。さらに山札にあるさやかのスキルの消費AP-3。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来各3次沙耶香使用的LOVE+效果$+67.2%$、获得Vo Pt.效果$+67.2%$。此外，牌库中沙耶香的技能消费AP-3。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 3 times each, increase the Love Attract effect and Voltage Gain effect used by Sayaka by $+67.2%$. Additionally, reduce the AP cost of Sayaka's skills in the deck by 3.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ3回の間さやかが使用するラブアトラクト効果を$+70.4%$、ボルテージゲイン効果を$+70.4%$する。さらに山札にあるさやかのスキルの消費AP-3。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来各3次沙耶香使用的LOVE+效果$+70.4%$、获得Vo Pt.效果$+70.4%$。此外，牌库中沙耶香的技能消费AP-3。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 3 times each, increase the Love Attract effect and Voltage Gain effect used by Sayaka by $+70.4%$. Additionally, reduce the AP cost of Sayaka's skills in the deck by 3.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ3回の間さやかが使用するラブアトラクト効果を$+73.6%$、ボルテージゲイン効果を$+73.6%$する。さらに山札にあるさやかのスキルの消費AP-3。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来各3次沙耶香使用的LOVE+效果$+73.6%$、获得Vo Pt.效果$+73.6%$。此外，牌库中沙耶香的技能消费AP-3。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 3 times each, increase the Love Attract effect and Voltage Gain effect used by Sayaka by $+73.6%$. Additionally, reduce the AP cost of Sayaka's skills in the deck by 3.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ3回の間さやかが使用するラブアトラクト効果を$+80%$、ボルテージゲイン効果を$+80%$する。さらに山札にあるさやかのスキルの消費AP-3。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来各3次沙耶香使用的LOVE+效果$+80%$、获得Vo Pt.效果$+80%$。此外，牌库中沙耶香的技能消费AP-3。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 3 times each, increase the Love Attract effect and Voltage Gain effect used by Sayaka by $+80%$. Additionally, reduce the AP cost of Sayaka's skills in the deck by 3.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "それぞれ3回の間スキルハート獲得効果による獲得数を$+24%$、ラブアトラクト効果を$+8%$する。さらにこのセクション中、ハート数の上限を$+8$する。",
     "translation": {
       "zh-CN": {
@@ -66205,6 +67206,188 @@
       "en": {
         "text": "For the next 3 uses each, Skill Heart acquisition effects $+60%$ and Love Attract effects $+20%$. Additionally, during this section, heart limit $+20$.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ4回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+30%$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+160$し、ビートハート$40回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来各4次Cerise Bouquet、服装卡使用的获得技能心心时，其数量$+30%$。此外，气氛为Happy、Mellow任意一方达到100时，Vo Pt.$+160$，获得$40倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 4 times each, increase the amount gained from the Skill Heart gain effect used by Cerise Bouquet and Dress Cards by $+30%$. Additionally, if Mood is either Happy or Mellow 100, increase Voltage Pt. by $+160$ and gain Skill Hearts equivalent to 40 beats.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ4回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+33%$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+176$し、ビートハート$44回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来各4次Cerise Bouquet、服装卡使用的获得技能心心时，其数量$+33%$。此外，气氛为Happy、Mellow任意一方达到100时，Vo Pt.$+176$，获得$44倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 4 times each, increase the amount gained from the Skill Heart gain effect used by Cerise Bouquet and Dress Cards by $+33%$. Additionally, if Mood is either Happy or Mellow 100, increase Voltage Pt. by $+176$ and gain Skill Hearts equivalent to 44 beats.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ4回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+36%$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+192$し、ビートハート$48回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来各4次Cerise Bouquet、服装卡使用的获得技能心心时，其数量$+36%$。此外，气氛为Happy、Mellow任意一方达到100时，Vo Pt.$+192$，获得$48倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 4 times each, increase the amount gained from the Skill Heart gain effect used by Cerise Bouquet and Dress Cards by $+36%$. Additionally, if Mood is either Happy or Mellow 100, increase Voltage Pt. by $+192$ and gain Skill Hearts equivalent to 48 beats.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ4回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+39%$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+208$し、ビートハート$52回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来各4次Cerise Bouquet、服装卡使用的获得技能心心时，其数量$+39%$。此外，气氛为Happy、Mellow任意一方达到100时，Vo Pt.$+208$，获得$52倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 4 times each, increase the amount gained from the Skill Heart gain effect used by Cerise Bouquet and Dress Cards by $+39%$. Additionally, if Mood is either Happy or Mellow 100, increase Voltage Pt. by $+208$ and gain Skill Hearts equivalent to 52 beats.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ4回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+42%$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+224$し、ビートハート$56回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来各4次Cerise Bouquet、服装卡使用的获得技能心心时，其数量$+42%$。此外，气氛为Happy、Mellow任意一方达到100时，Vo Pt.$+224$，获得$56倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 4 times each, increase the amount gained from the Skill Heart gain effect used by Cerise Bouquet and Dress Cards by $+42%$. Additionally, if Mood is either Happy or Mellow 100, increase Voltage Pt. by $+224$ and gain Skill Hearts equivalent to 56 beats.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ4回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+45%$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+240$し、ビートハート$60回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来各4次Cerise Bouquet、服装卡使用的获得技能心心时，其数量$+45%$。此外，气氛为Happy、Mellow任意一方达到100时，Vo Pt.$+240$，获得$60倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 4 times each, increase the amount gained from the Skill Heart gain effect used by Cerise Bouquet and Dress Cards by $+45%$. Additionally, if Mood is either Happy or Mellow 100, increase Voltage Pt. by $+240$ and gain Skill Hearts equivalent to 60 beats.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ4回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+48%$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+256$し、ビートハート$64回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来各4次Cerise Bouquet、服装卡使用的获得技能心心时，其数量$+48%$。此外，气氛为Happy、Mellow任意一方达到100时，Vo Pt.$+256$，获得$64倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 4 times each, increase the amount gained from the Skill Heart gain effect used by Cerise Bouquet and Dress Cards by $+48%$. Additionally, if Mood is either Happy or Mellow 100, increase Voltage Pt. by $+256$ and gain Skill Hearts equivalent to 64 beats.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ4回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+51%$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+272$し、ビートハート$68回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来各4次Cerise Bouquet、服装卡使用的获得技能心心时，其数量$+51%$。此外，气氛为Happy、Mellow任意一方达到100时，Vo Pt.$+272$，获得$68倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 4 times each, increase the amount gained from the Skill Heart gain effect used by Cerise Bouquet and Dress Cards by $+51%$. Additionally, if Mood is either Happy or Mellow 100, increase Voltage Pt. by $+272$ and gain Skill Hearts equivalent to 68 beats.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ4回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+54%$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+288$し、ビートハート$72回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来各4次Cerise Bouquet、服装卡使用的获得技能心心时，其数量$+54%$。此外，气氛为Happy、Mellow任意一方达到100时，Vo Pt.$+288$，获得$72倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 4 times each, increase the amount gained from the Skill Heart gain effect used by Cerise Bouquet and Dress Cards by $+54%$. Additionally, if Mood is either Happy or Mellow 100, increase Voltage Pt. by $+288$ and gain Skill Hearts equivalent to 72 beats.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ4回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+60%$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+320$し、ビートハート$80回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来各4次Cerise Bouquet、服装卡使用的获得技能心心时，其数量$+60%$。此外，气氛为Happy、Mellow任意一方达到100时，Vo Pt.$+320$，获得$80倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 4 times each, increase the amount gained from the Skill Heart gain effect used by Cerise Bouquet and Dress Cards by $+60%$. Additionally, if Mood is either Happy or Mellow 100, increase Voltage Pt. by $+320$ and gain Skill Hearts equivalent to 80 beats.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ4回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+63%$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+336$し、ビートハート$84回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来各4次Cerise Bouquet、服装卡使用的获得技能心心时，其数量$+63%$。此外，气氛为Happy、Mellow任意一方达到100时，Vo Pt.$+336$，获得$84倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 4 times each, increase the amount gained from the Skill Heart gain effect used by Cerise Bouquet and Dress Cards by $+63%$. Additionally, if Mood is either Happy or Mellow 100, increase Voltage Pt. by $+336$ and gain Skill Hearts equivalent to 84 beats.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ4回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+66%$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+352$し、ビートハート$88回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来各4次Cerise Bouquet、服装卡使用的获得技能心心时，其数量$+66%$。此外，气氛为Happy、Mellow任意一方达到100时，Vo Pt.$+352$，获得$88倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 4 times each, increase the amount gained from the Skill Heart gain effect used by Cerise Bouquet and Dress Cards by $+66%$. Additionally, if Mood is either Happy or Mellow 100, increase Voltage Pt. by $+352$ and gain Skill Hearts equivalent to 88 beats.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ4回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+69%$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+368$し、ビートハート$92回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来各4次Cerise Bouquet、服装卡使用的获得技能心心时，其数量$+69%$。此外，气氛为Happy、Mellow任意一方达到100时，Vo Pt.$+368$，获得$92倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 4 times each, increase the amount gained from the Skill Heart gain effect used by Cerise Bouquet and Dress Cards by $+69%$. Additionally, if Mood is either Happy or Mellow 100, increase Voltage Pt. by $+368$ and gain Skill Hearts equivalent to 92 beats.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "それぞれ4回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+75%$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+400$し、ビートハート$100回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "接下来各4次Cerise Bouquet、服装卡使用的获得技能心心时，其数量$+75%$。此外，气氛为Happy、Mellow任意一方达到100时，Vo Pt.$+400$，获得$100倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "For 4 times each, increase the amount gained from the Skill Heart gain effect used by Cerise Bouquet and Dress Cards by $+75%$. Additionally, if Mood is either Happy or Mellow 100, increase Voltage Pt. by $+400$ and gain Skill Hearts equivalent to 100 beats.",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -69485,6 +70668,19 @@
     }
   },
   {
+    "raw": "スキル使用時1回まで、ペアカード[ハートにQ]大沢 瑠璃乃を1種類(合計1枚)山札に追加する。さらに手札にある状態でハートを4000個回収したとき、ビートハート40回分のスキルハートを獲得し、このステージ中、獲得するLOVEを$+400%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "技能使用时最多1次，将配对卡[ハートにQ]大泽瑠璃乃的1个种类（共计1张）加入牌库。此外，在手牌中处于该状态下回收4000个心心时，获得$40倍$跳心的技能心心，并在本场Live中，获得的LOVE$+400%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Up to 1 time when using a skill, add 1 type (1 card total) of the Pair Card [Heart Q] Rurino Osawa to the deck. Additionally, when you collect 4000 Hearts while this is in your hand, gain Skill Hearts equivalent to 40 beats, and increase LOVE gained by $+400%$ for the rest of this stage.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "スキル使用時1度だけ、Poupée en Lotus/Ginkoを1種類(合計1枚)山札に追加する。さらにドローした時、メンタルを最大値の6%回復させる。",
     "translation": {
       "zh-CN": {
@@ -71253,6 +72449,19 @@
     }
   },
   {
+    "raw": "ドレスカード《Sayo-Shigure》を2種類(合計4枚)山札に追加する。さらにムードがハッピー、メロウいずれか100のとき、手札をシャッフルする。",
+    "translation": {
+      "zh-CN": {
+        "text": "将服装卡《Sayo-Shigure》2个种类（共计4张）加入牌库。此外，气氛为Happy、Mellow任意一方达到100时，将手牌洗牌。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 2 types (4 cards total) of the Dress Card 《Sayo-Shigure》 to the deck. Additionally, if Mood is either Happy or Mellow 100, shuffle your hand.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "ドレスカード《もういちど ルミナス》を1種類(合計3枚)山札に追加する。さらに手札をリセットシャッフルする。この時花帆、吟子、ドレスカードをドローする確率大幅アップ。",
     "translation": {
       "zh-CN": {
@@ -72605,6 +73814,19 @@
     }
   },
   {
+    "raw": "ドローした時、このセクション中、AP回復速度を+4.5%する。ボルテージLv.15ごと、最大150Lv.で20倍まで効果量が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "抽到时，本小节中，AP回复速度+4.5%。每15级Vo Lv.，最多到150级，效果量最多提升至20倍。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When drawn, increase AP Recovery Speed by +4.5% during this section. The effect amount increases by up to 20x for every 15 Voltage Lv., up to a maximum of 150 Lv.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "ドローした時、このセクション中、AP回復速度を+7%し、ムード値を+7する。",
     "translation": {
       "en": {
@@ -72913,6 +74135,32 @@
       "en": {
         "text": "When drawn, gain Skill Hearts equivalent to 5 beats, increase the next Love Attract effect by +16%, increase Voltage Pt. by +18, and nullify Mental natural decay equivalent to 10% of maximum Mental value during this stage. Additionally, when this skill is used, it is removed from the deck.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ドローした時、ビートハート8回分のスキルハートを獲得する。ボルテージLv.15ごと、最大150Lv.で20倍まで効果量が増加する。さらにこのスキルを使用すると、デッキから除外される。",
+    "translation": {
+      "zh-CN": {
+        "text": "抽到时，获得$8倍$跳心的技能心心。每15级Vo Lv.，最多到150级，效果量最多提升至20倍。此外，使用该技能后，将从卡组中除外。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When drawn, gain Skill Hearts equivalent to 8 beats. The effect amount increases by up to 20x for every 15 Voltage Lv., up to a maximum of 150 Lv. Additionally, when this skill is used, it is removed from the deck.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "ドローした時、ビートハート8回分のスキルハートを獲得する。ボルテージLv.15ごと、最大150Lv.で20倍まで効果量が増加する。さらに手札にある状態でハートを40000個回収したとき、ビートハート1000回分のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "抽到时，获得$8倍$跳心的技能心心。每15级Vo Lv.，最多到150级，效果量最多提升至20倍。此外，在手牌中处于该状态下回收40000个心心时，获得$1000倍$跳心的技能心心。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "When drawn, gain Skill Hearts equivalent to 8 beats. The effect amount increases by up to 20x for every 15 Voltage Lv., up to a maximum of 150 Lv. Additionally, when you collect 40000 Hearts while this is in your hand, gain Skill Hearts equivalent to 1000 beats.",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -83226,6 +84474,19 @@
     }
   },
   {
+    "raw": "ビートハート$3回分$のスキルハートを獲得する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+160$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得相当于跳心$3次$的技能心心。每当ボルテージLv.提升15级，效果量增加，最大至150Lv.时可提升至200倍。此外，气氛为Happy或Mellow任一达到100时，Vo Pt.$+160$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to 3 beats. For every Voltage Lv. 15, the effect amount increases, up to 200x at a maximum of Lv. 150. Additionally, when Mood is either Happy or Mellow 100, increase Voltage Pt. by $+160$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$4089回分$のスキルハートを獲得する。さらにこのステージ中、AP回復速度を$+40.5%$する。",
     "translation": {
       "zh-CN": {
@@ -84418,6 +85679,58 @@
       "en": {
         "text": "Gain Skill Hearts equivalent to $4$ Beat Hearts. Additionally, lose 10% of max Mental.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$4回分$のスキルハートを獲得する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+176$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得相当于跳心$4次$的技能心心。每当ボルテージLv.提升15级，效果量增加，最大至150Lv.时可提升至200倍。此外，气氛为Happy或Mellow任一达到100时，Vo Pt.$+176$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to 4 beats. For every Voltage Lv. 15, the effect amount increases, up to 200x at a maximum of Lv. 150. Additionally, when Mood is either Happy or Mellow 100, increase Voltage Pt. by $+176$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$4回分$のスキルハートを獲得する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+192$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得相当于跳心$4次$的技能心心。每当ボルテージLv.提升15级，效果量增加，最大至150Lv.时可提升至200倍。此外，气氛为Happy或Mellow任一达到100时，Vo Pt.$+192$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to 4 beats. For every Voltage Lv. 15, the effect amount increases, up to 200x at a maximum of Lv. 150. Additionally, when Mood is either Happy or Mellow 100, increase Voltage Pt. by $+192$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$4回分$のスキルハートを獲得する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+208$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得相当于跳心$4次$的技能心心。每当ボルテージLv.提升15级，效果量增加，最大至150Lv.时可提升至200倍。此外，气氛为Happy或Mellow任一达到100时，Vo Pt.$+208$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to 4 beats. For every Voltage Lv. 15, the effect amount increases, up to 200x at a maximum of Lv. 150. Additionally, when Mood is either Happy or Mellow 100, increase Voltage Pt. by $+208$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$4回分$のスキルハートを獲得する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+224$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得相当于跳心$4次$的技能心心。每当ボルテージLv.提升15级，效果量增加，最大至150Lv.时可提升至200倍。此外，气氛为Happy或Mellow任一达到100时，Vo Pt.$+224$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to 4 beats. For every Voltage Lv. 15, the effect amount increases, up to 200x at a maximum of Lv. 150. Additionally, when Mood is either Happy or Mellow 100, increase Voltage Pt. by $+224$.",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -85731,6 +87044,58 @@
       "en": {
         "text": "Gain Skill Heart equivalent to $5$ Beat Hearts. Additionally, reduce Mental by 10% of maximum value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$5回分$のスキルハートを獲得する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+240$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得相当于跳心$5次$的技能心心。每当ボルテージLv.提升15级，效果量增加，最大至150Lv.时可提升至200倍。此外，气氛为Happy或Mellow任一达到100时，Vo Pt.$+240$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to 5 beats. For every Voltage Lv. 15, the effect amount increases, up to 200x at a maximum of Lv. 150. Additionally, when Mood is either Happy or Mellow 100, increase Voltage Pt. by $+240$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$5回分$のスキルハートを獲得する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+256$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得相当于跳心$5次$的技能心心。每当ボルテージLv.提升15级，效果量增加，最大至150Lv.时可提升至200倍。此外，气氛为Happy或Mellow任一达到100时，Vo Pt.$+256$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to 5 beats. For every Voltage Lv. 15, the effect amount increases, up to 200x at a maximum of Lv. 150. Additionally, when Mood is either Happy or Mellow 100, increase Voltage Pt. by $+256$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$5回分$のスキルハートを獲得する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+272$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得相当于跳心$5次$的技能心心。每当ボルテージLv.提升15级，效果量增加，最大至150Lv.时可提升至200倍。此外，气氛为Happy或Mellow任一达到100时，Vo Pt.$+272$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to 5 beats. For every Voltage Lv. 15, the effect amount increases, up to 200x at a maximum of Lv. 150. Additionally, when Mood is either Happy or Mellow 100, increase Voltage Pt. by $+272$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$5回分$のスキルハートを獲得する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+288$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得相当于跳心$5次$的技能心心。每当ボルテージLv.提升15级，效果量增加，最大至150Lv.时可提升至200倍。此外，气氛为Happy或Mellow任一达到100时，Vo Pt.$+288$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to 5 beats. For every Voltage Lv. 15, the effect amount increases, up to 200x at a maximum of Lv. 150. Additionally, when Mood is either Happy or Mellow 100, increase Voltage Pt. by $+288$.",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -87165,6 +88530,32 @@
     }
   },
   {
+    "raw": "ビートハート$6回分$のスキルハートを獲得する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+320$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得相当于跳心$6次$的技能心心。每当ボルテージLv.提升15级，效果量增加，最大至150Lv.时可提升至200倍。此外，气氛为Happy或Mellow任一达到100时，Vo Pt.$+320$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to 6 beats. For every Voltage Lv. 15, the effect amount increases, up to 200x at a maximum of Lv. 150. Additionally, when Mood is either Happy or Mellow 100, increase Voltage Pt. by $+320$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$6回分$のスキルハートを獲得する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+336$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得相当于跳心$6次$的技能心心。每当ボルテージLv.提升15级，效果量增加，最大至150Lv.时可提升至200倍。此外，气氛为Happy或Mellow任一达到100时，Vo Pt.$+336$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to 6 beats. For every Voltage Lv. 15, the effect amount increases, up to 200x at a maximum of Lv. 150. Additionally, when Mood is either Happy or Mellow 100, increase Voltage Pt. by $+336$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$710回分$のスキルハートを獲得する。さらにこのステージ中、ハート上限を$+710$する。",
     "translation": {
       "zh-CN": {
@@ -88513,6 +89904,32 @@
       "en": {
         "text": "Gain Skill Hearts equivalent to $7$ Beat Hearts. Additionally, recover $7.2%$ of maximum Mental.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$7回分$のスキルハートを獲得する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+352$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得相当于跳心$7次$的技能心心。每当ボルテージLv.提升15级，效果量增加，最大至150Lv.时可提升至200倍。此外，气氛为Happy或Mellow任一达到100时，Vo Pt.$+352$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to 7 beats. For every Voltage Lv. 15, the effect amount increases, up to 200x at a maximum of Lv. 150. Additionally, when Mood is either Happy or Mellow 100, increase Voltage Pt. by $+352$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$7回分$のスキルハートを獲得する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+368$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得相当于跳心$7次$的技能心心。每当ボルテージLv.提升15级，效果量增加，最大至150Lv.时可提升至200倍。此外，气氛为Happy或Mellow任一达到100时，Vo Pt.$+368$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to 7 beats. For every Voltage Lv. 15, the effect amount increases, up to 200x at a maximum of Lv. 150. Additionally, when Mood is either Happy or Mellow 100, increase Voltage Pt. by $+368$.",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -89878,6 +91295,19 @@
       "en": {
         "text": "Gain Skill Heart equivalent to $8$ Beat Hearts. Additionally, recover $8.4%$ of maximum Mental.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$8回分$のスキルハートを獲得する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+400$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得相当于跳心$8次$的技能心心。每当ボルテージLv.提升15级，效果量增加，最大至150Lv.时可提升至200倍。此外，气氛为Happy或Mellow任一达到100时，Vo Pt.$+400$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to 8 beats. For every Voltage Lv. 15, the effect amount increases, up to 200x at a maximum of Lv. 150. Additionally, when Mood is either Happy or Mellow 100, increase Voltage Pt. by $+400$.",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -126750,6 +128180,19 @@
     }
   },
   {
+    "raw": "手札にある状態でハートを4000個回収したとき、ビートハート40回分のスキルハートを獲得し、4回の間ラブアトラクト効果を+40%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在手牌中时回收4000个心心后，获得相当于跳心40次的技能心心，并在接下来4次中LOVE+效果$+40%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "While in your hand, when you collect 4,000 Hearts, gain Skill Hearts equivalent to 40 beats and increase Love Attract effect by +40% for 4 turns.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
     "raw": "手札にある状態でハートを4000個回収したとき、ビートハート40回分のスキルハートを獲得し、このステージ中、ハート上限を+400する。",
     "translation": {
       "en": {
@@ -128241,6 +129684,188 @@
       "zh-CN": {
         "text": "手牌洗牌。并且恢复最大Mental值的$9.6%$，本场Live中，防止最大Mental值的$4.8%$自然减少，Mental为200%以上时，接下来3次使用Mira-Cra Park!成员的获得技能心心时，其数量$+480%$。",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルする。さらに次に使用するボルテージゲイン効果を$+10.2%$する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "洗牌手牌。此外，使下次获得Vo Pt.效果$+10.2%$。每当ボルテージLv.提升15级，效果量增加，最大至150Lv.时可提升至200倍。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, increase the next Voltage Gain effect you use by $+10.2%$. For every Voltage Lv. 15, the effect amount increases, up to 200x at a maximum of Lv. 150.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルする。さらに次に使用するボルテージゲイン効果を$+10.9%$する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "洗牌手牌。此外，使下次获得Vo Pt.效果$+10.9%$。每当ボルテージLv.提升15级，效果量增加，最大至150Lv.时可提升至200倍。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, increase the next Voltage Gain effect you use by $+10.9%$. For every Voltage Lv. 15, the effect amount increases, up to 200x at a maximum of Lv. 150.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルする。さらに次に使用するボルテージゲイン効果を$+11.6%$する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "洗牌手牌。此外，使下次获得Vo Pt.效果$+11.6%$。每当ボルテージLv.提升15级，效果量增加，最大至150Lv.时可提升至200倍。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, increase the next Voltage Gain effect you use by $+11.6%$. For every Voltage Lv. 15, the effect amount increases, up to 200x at a maximum of Lv. 150.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルする。さらに次に使用するボルテージゲイン効果を$+12.2%$する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "洗牌手牌。此外，使下次获得Vo Pt.效果$+12.2%$。每当ボルテージLv.提升15级，效果量增加，最大至150Lv.时可提升至200倍。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, increase the next Voltage Gain effect you use by $+12.2%$. For every Voltage Lv. 15, the effect amount increases, up to 200x at a maximum of Lv. 150.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルする。さらに次に使用するボルテージゲイン効果を$+13.6%$する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "洗牌手牌。此外，使下次获得Vo Pt.效果$+13.6%$。每当ボルテージLv.提升15级，效果量增加，最大至150Lv.时可提升至200倍。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, increase the next Voltage Gain effect you use by $+13.6%$. For every Voltage Lv. 15, the effect amount increases, up to 200x at a maximum of Lv. 150.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルする。さらに次に使用するボルテージゲイン効果を$+14.3%$する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "洗牌手牌。此外，使下次获得Vo Pt.效果$+14.3%$。每当ボルテージLv.提升15级，效果量增加，最大至150Lv.时可提升至200倍。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, increase the next Voltage Gain effect you use by $+14.3%$. For every Voltage Lv. 15, the effect amount increases, up to 200x at a maximum of Lv. 150.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルする。さらに次に使用するボルテージゲイン効果を$+15%$する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "洗牌手牌。此外，使下次获得Vo Pt.效果$+15%$。每当ボルテージLv.提升15级，效果量增加，最大至150Lv.时可提升至200倍。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, increase the next Voltage Gain effect you use by $+15%$. For every Voltage Lv. 15, the effect amount increases, up to 200x at a maximum of Lv. 150.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルする。さらに次に使用するボルテージゲイン効果を$+15.6%$する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "洗牌手牌。此外，使下次获得Vo Pt.效果$+15.6%$。每当ボルテージLv.提升15级，效果量增加，最大至150Lv.时可提升至200倍。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, increase the next Voltage Gain effect you use by $+15.6%$. For every Voltage Lv. 15, the effect amount increases, up to 200x at a maximum of Lv. 150.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルする。さらに次に使用するボルテージゲイン効果を$+17%$する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "洗牌手牌。此外，使下次获得Vo Pt.效果$+17%$。每当ボルテージLv.提升15级，效果量增加，最大至150Lv.时可提升至200倍。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, increase the next Voltage Gain effect you use by $+17%$. For every Voltage Lv. 15, the effect amount increases, up to 200x at a maximum of Lv. 150.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルする。さらに次に使用するボルテージゲイン効果を$+6.8%$する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将手牌洗牌。此外，下次使用的获得Vo Pt.效果$+6.8%$。每15级Vo Lv.，最多到150级为止，效果量最多增加至200倍。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, increase the next Voltage Gain effect you use by $+6.8%$. The effect amount increases by up to 200x for every 15 Voltage Lv., up to a maximum of 150 Lv.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルする。さらに次に使用するボルテージゲイン効果を$+7.5%$する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将手牌洗牌。此外，下次使用的获得Vo Pt.效果$+7.5%$。每15级Vo Lv.，最多到150级为止，效果量最多增加至200倍。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, increase the next Voltage Gain effect you use by $+7.5%$. The effect amount increases by up to 200x for every 15 Voltage Lv., up to a maximum of 150 Lv.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルする。さらに次に使用するボルテージゲイン効果を$+8.2%$する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将手牌洗牌。此外，下次使用的获得Vo Pt.效果$+8.2%$。每15级Vo Lv.，最多到150级为止，效果量最多增加至200倍。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, increase the next Voltage Gain effect you use by $+8.2%$. The effect amount increases by up to 200x for every 15 Voltage Lv., up to a maximum of 150 Lv.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルする。さらに次に使用するボルテージゲイン効果を$+8.8%$する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将手牌洗牌。此外，下次使用的获得Vo Pt.效果$+8.8%$。每15级Vo Lv.，最多到150级为止，效果量最多增加至200倍。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, increase the next Voltage Gain effect you use by $+8.8%$. The effect amount increases by up to 200x for every 15 Voltage Lv., up to a maximum of 150 Lv.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャッフルする。さらに次に使用するボルテージゲイン効果を$+9.5%$する。ボルテージLv.15ごと、最大150Lv.で200倍まで効果量が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将手牌洗牌。此外，下次使用的获得Vo Pt.效果$+9.5%$。每15级Vo Lv.，最多到150级为止，效果量最多增加至200倍。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, increase the next Voltage Gain effect you use by $+9.5%$. The effect amount increases by up to 200x for every 15 Voltage Lv., up to a maximum of 150 Lv.",
+        "author": "gpt-5.2"
       }
     }
   },
@@ -151472,6 +153097,370 @@
       "en": {
         "text": "Each time Tsuzuri Yugiri's skill is used, reduce the AP cost of this skill in hand by 2 and increase the next Love Attract effect by +10%.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+30%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（合计1张）加入牌库。此外，接下来分别10次，Cerise Bouquet、礼服卡使用获得技能心心时，其数量$+30%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type of Flower Parasol card (1 card total) to the deck. Additionally, for 10 times each, increase the amount gained from Skill Heart gain effects used by Cerise Bouquet and Dress cards by $+30%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+33%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（合计1张）加入牌库。此外，接下来分别10次，Cerise Bouquet、礼服卡使用获得技能心心时，其数量$+33%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type of Flower Parasol card (1 card total) to the deck. Additionally, for 10 times each, increase the amount gained from Skill Heart gain effects used by Cerise Bouquet and Dress cards by $+33%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+36%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（合计1张）加入牌库。此外，接下来分别10次，Cerise Bouquet、礼服卡使用获得技能心心时，其数量$+36%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type of Flower Parasol card (1 card total) to the deck. Additionally, for 10 times each, increase the amount gained from Skill Heart gain effects used by Cerise Bouquet and Dress cards by $+36%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+39%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（合计1张）加入牌库。此外，接下来分别10次，Cerise Bouquet、礼服卡使用获得技能心心时，其数量$+39%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type of Flower Parasol card (1 card total) to the deck. Additionally, for 10 times each, increase the amount gained from Skill Heart gain effects used by Cerise Bouquet and Dress cards by $+39%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+42%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（合计1张）加入牌库。此外，接下来分别10次，Cerise Bouquet、礼服卡使用获得技能心心时，其数量$+42%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type of Flower Parasol card (1 card total) to the deck. Additionally, for 10 times each, increase the amount gained from Skill Heart gain effects used by Cerise Bouquet and Dress cards by $+42%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+45%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（合计1张）加入牌库。此外，接下来分别10次，Cerise Bouquet、礼服卡使用获得技能心心时，其数量$+45%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type of Flower Parasol card (1 card total) to the deck. Additionally, for 10 times each, increase the amount gained from Skill Heart gain effects used by Cerise Bouquet and Dress cards by $+45%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+48%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（合计1张）加入牌库。此外，接下来分别10次，Cerise Bouquet、礼服卡使用获得技能心心时，其数量$+48%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type of Flower Parasol card (1 card total) to the deck. Additionally, for 10 times each, increase the amount gained from Skill Heart gain effects used by Cerise Bouquet and Dress cards by $+48%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+51%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（合计1张）加入牌库。此外，接下来分别10次，Cerise Bouquet、礼服卡使用获得技能心心时，其数量$+51%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type of Flower Parasol card (1 card total) to the deck. Additionally, for 10 times each, increase the amount gained from Skill Heart gain effects used by Cerise Bouquet and Dress cards by $+51%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+54%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（合计1张）加入牌库。此外，接下来分别10次，Cerise Bouquet、礼服卡使用获得技能心心时，其数量$+54%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type of Flower Parasol card (1 card total) to the deck. Additionally, for 10 times each, increase the amount gained from Skill Heart gain effects used by Cerise Bouquet and Dress cards by $+54%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+60%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（合计1张）加入牌库。此外，接下来分别10次，Cerise Bouquet、礼服卡使用获得技能心心时，其数量$+60%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type of Flower Parasol card (1 card total) to the deck. Additionally, for 10 times each, increase the amount gained from Skill Heart gain effects used by Cerise Bouquet and Dress cards by $+60%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+63%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（合计1张）加入牌库。此外，接下来分别10次，Cerise Bouquet、礼服卡使用获得技能心心时，其数量$+63%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type of Flower Parasol card (1 card total) to the deck. Additionally, for 10 times each, increase the amount gained from Skill Heart gain effects used by Cerise Bouquet and Dress cards by $+63%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+66%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（合计1张）加入牌库。此外，接下来分别10次，Cerise Bouquet、礼服卡使用获得技能心心时，其数量$+66%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type of Flower Parasol card (1 card total) to the deck. Additionally, for 10 times each, increase the amount gained from Skill Heart gain effects used by Cerise Bouquet and Dress cards by $+66%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+69%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（合计1张）加入牌库。此外，接下来分别10次，Cerise Bouquet、礼服卡使用获得技能心心时，其数量$+69%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type of Flower Parasol card (1 card total) to the deck. Additionally, for 10 times each, increase the amount gained from Skill Heart gain effects used by Cerise Bouquet and Dress cards by $+69%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するスキルハート獲得効果による獲得数を$+75%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（合计1张）加入牌库。此外，接下来分别10次，Cerise Bouquet、礼服卡使用获得技能心心时，其数量$+75%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type of Flower Parasol card (1 card total) to the deck. Additionally, for 10 times each, increase the amount gained from Skill Heart gain effects used by Cerise Bouquet and Dress cards by $+75%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するボルテージゲイン効果を$+10%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（合计1张）加入牌库。此外，接下来分别10次，Cerise Bouquet、礼服卡使用的获得Vo Pt.效果$+10%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type of Flower Parasol card (1 card total) to the deck. Additionally, for 10 times each, increase the Voltage Gain effect used by Cerise Bouquet and Dress cards by $+10%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するボルテージゲイン効果を$+11%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（合计1张）加入牌库。此外，接下来分别10次，Cerise Bouquet、礼服卡使用的获得Vo Pt.效果$+11%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type of Flower Parasol card (1 card total) to the deck. Additionally, for 10 times each, increase the Voltage Gain effect used by Cerise Bouquet and Dress cards by $+11%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するボルテージゲイン効果を$+12%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（合计1张）加入牌库。此外，接下来分别10次，Cerise Bouquet、礼服卡使用的获得Vo Pt.效果$+12%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type of Flower Parasol card (1 card total) to the deck. Additionally, for 10 times each, increase the Voltage Gain effect used by Cerise Bouquet and Dress cards by $+12%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するボルテージゲイン効果を$+13%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（合计1张）加入牌库。此外，接下来分别10次，Cerise Bouquet、礼服卡使用的获得Vo Pt.效果$+13%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type of Flower Parasol card (1 card total) to the deck. Additionally, for 10 times each, increase the Voltage Gain effect used by Cerise Bouquet and Dress cards by $+13%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するボルテージゲイン効果を$+14%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（合计1张）加入牌库。此外，接下来分别10次，Cerise Bouquet、礼服卡使用的获得Vo Pt.效果$+14%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type of Flower Parasol card (1 card total) to the deck. Additionally, for 10 times each, increase the Voltage Gain effect used by Cerise Bouquet and Dress cards by $+14%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するボルテージゲイン効果を$+15%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（共计1张）加入牌库。并且接下来各10次，Cerise Bouquet、礼服卡使用的获得Vo Pt.效果$+15%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type (1 card total) of Hanagasa card to the deck. Additionally, for 10 turns each, increase the Voltage Gain effect used by Cerise Bouquet and Dress cards by $+15%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するボルテージゲイン効果を$+16%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（共计1张）加入牌库。并且接下来各10次，Cerise Bouquet、礼服卡使用的获得Vo Pt.效果$+16%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type (1 card total) of Hanagasa card to the deck. Additionally, for 10 turns each, increase the Voltage Gain effect used by Cerise Bouquet and Dress cards by $+16%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するボルテージゲイン効果を$+17%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（共计1张）加入牌库。并且接下来各10次，Cerise Bouquet、礼服卡使用的获得Vo Pt.效果$+17%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type (1 card total) of Hanagasa card to the deck. Additionally, for 10 turns each, increase the Voltage Gain effect used by Cerise Bouquet and Dress cards by $+17%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するボルテージゲイン効果を$+18%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（共计1张）加入牌库。并且接下来各10次，Cerise Bouquet、礼服卡使用的获得Vo Pt.效果$+18%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type (1 card total) of Hanagasa card to the deck. Additionally, for 10 turns each, increase the Voltage Gain effect used by Cerise Bouquet and Dress cards by $+18%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するボルテージゲイン効果を$+20%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（共计1张）加入牌库。并且接下来各10次，Cerise Bouquet、礼服卡使用的获得Vo Pt.效果$+20%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type (1 card total) of Hanagasa card to the deck. Additionally, for 10 turns each, increase the Voltage Gain effect used by Cerise Bouquet and Dress cards by $+20%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するボルテージゲイン効果を$+21%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（共计1张）加入牌库。并且接下来各10次，Cerise Bouquet、礼服卡使用的获得Vo Pt.效果$+21%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type (1 card total) of Hanagasa card to the deck. Additionally, for 10 turns each, increase the Voltage Gain effect used by Cerise Bouquet and Dress cards by $+21%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するボルテージゲイン効果を$+22%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（共计1张）加入牌库。并且接下来各10次，Cerise Bouquet、礼服卡使用的获得Vo Pt.效果$+22%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type (1 card total) of Hanagasa card to the deck. Additionally, for 10 turns each, increase the Voltage Gain effect used by Cerise Bouquet and Dress cards by $+22%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するボルテージゲイン効果を$+23%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（共计1张）加入牌库。并且接下来各10次，Cerise Bouquet、礼服卡使用的获得Vo Pt.效果$+23%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type (1 card total) of Hanagasa card to the deck. Additionally, for 10 turns each, increase the Voltage Gain effect used by Cerise Bouquet and Dress cards by $+23%$.",
+        "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "花傘カードを1種類(合計1枚)山札に追加する。さらにそれぞれ10回の間スリーズブーケ、ドレスカードが使用するボルテージゲイン効果を$+25%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花伞卡（共计1张）加入牌库。并且接下来各10次，Cerise Bouquet、礼服卡使用的获得Vo Pt.效果$+25%$。",
+        "author": "gpt-5.2"
+      },
+      "en": {
+        "text": "Add 1 type (1 card total) of Hanagasa card to the deck. Additionally, for 10 turns each, increase the Voltage Gain effect used by Cerise Bouquet and Dress cards by $+25%$.",
+        "author": "gpt-5.2"
       }
     }
   },
