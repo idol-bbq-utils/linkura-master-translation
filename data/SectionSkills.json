@@ -1144,6 +1144,19 @@
     }
   },
   {
+    "raw": "メイン効果がメンタルガードのスキルの消費APを-5する。",
+    "translation": {
+      "zh-CN": {
+        "text": "使主要效果为Mental防护的技能的消耗AP-5。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Main effect decreases the AP consumed by skills with Mental Guard by -5.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メイン効果がメンタルプロテクトのスキルの消費APを+10する。",
     "translation": {
       "zh-CN": {

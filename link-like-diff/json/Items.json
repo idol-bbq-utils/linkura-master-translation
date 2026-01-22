@@ -4134,6 +4134,12 @@
             "Description": "スタイル解放素材(大沢 瑠璃乃)"
         },
         {
+            "Id": 4033533,
+            "Name": "[Echoes Beyond]大沢 瑠璃乃 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(大沢 瑠璃乃)"
+        },
+        {
             "Id": 4033801,
             "Name": "[Prism Echo]大沢 瑠璃乃  解放Pt.",
             "NameFurigana": "かいほうぽいんと",
@@ -4758,6 +4764,12 @@
             "Description": "スタイル解放素材(安養寺 姫芽)"
         },
         {
+            "Id": 4043522,
+            "Name": "[Echoes Beyond]安養寺 姫芽 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(安養寺 姫芽)"
+        },
+        {
             "Id": 4043801,
             "Name": "[Ether Aria]安養寺 姫芽 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
@@ -4814,6 +4826,12 @@
         {
             "Id": 4051403,
             "Name": "[四蓮琴之龍]桂城 泉 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(桂城 泉)"
+        },
+        {
+            "Id": 4051404,
+            "Name": "[ドライブ・スペード・クレイジー]桂城 泉 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
             "Description": "スタイル解放素材(桂城 泉)"
         },

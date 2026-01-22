@@ -1469,6 +1469,32 @@
     }
   },
   {
+    "raw": "[Echoes Beyond]大沢 瑠璃乃 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[Echoes Beyond]大泽瑠璃乃 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Echoes Beyond] Rurino Osawa Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[Echoes Beyond]安養寺 姫芽 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[Echoes Beyond]安养寺姬芽 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Echoes Beyond] Hime Anyoji Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[Edelied]桂城 泉＆セラス 柳田 リリエンフェルト 解放Pt.",
     "translation": {
       "zh-CN": {
@@ -4013,6 +4039,19 @@
       "en": {
         "text": "[Tsubasa La Liberte] Megumi Fujishima Unlock Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[ドライブ・スペード・クレイジー]桂城 泉 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[ドライブ・スペード・クレイジー]桂城泉 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Drive Spade Crazy] Izumi Katsuragi Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

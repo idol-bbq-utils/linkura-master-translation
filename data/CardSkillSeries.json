@@ -2990,6 +2990,19 @@
     }
   },
   {
+    "raw": "エコーズるりめぐ",
+    "translation": {
+      "zh-CN": {
+        "text": "回响·瑠璃慈",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Echoes Ruri-Megu",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "エターナルスピリッツ",
     "translation": {
       "zh-CN": {
@@ -4117,6 +4130,19 @@
       "zh-CN": {
         "text": "少女诗歌",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "キャプティベイトスピリッツ",
+    "translation": {
+      "zh-CN": {
+        "text": "迷魂精神",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Captivate Spirits",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -5395,6 +5421,19 @@
     }
   },
   {
+    "raw": "サードステージ",
+    "translation": {
+      "zh-CN": {
+        "text": "第三舞台",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Third Stage",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "シャイニーサン",
     "translation": {
       "zh-CN": {
@@ -5928,6 +5967,19 @@
     }
   },
   {
+    "raw": "ストロングウィズフラジール",
+    "translation": {
+      "zh-CN": {
+        "text": "坚强与脆弱",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Strong with Fragile",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "スノーギャザーブースト",
     "translation": {
       "en": {
@@ -5975,6 +6027,32 @@
       },
       "zh-CN": {
         "text": "雪融化",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "スペードイミテーションメロウ",
+    "translation": {
+      "zh-CN": {
+        "text": "黑桃仿制·柔和",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Spade Imitation Mellow",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "スペードバイブスメロウ",
+    "translation": {
+      "zh-CN": {
+        "text": "黑桃氛围·柔和",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Spade Vibes Mellow",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -9997,6 +10075,19 @@
     }
   },
   {
+    "raw": "ビヨンドヒーリング",
+    "translation": {
+      "zh-CN": {
+        "text": "超越治愈",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Beyond Healing",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ビリーフブースト",
     "translation": {
       "zh-CN": {
@@ -12553,6 +12644,19 @@
       },
       "en": {
         "text": "Low Edge Voltage",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ロードトゥみらくらぱーく！",
+    "translation": {
+      "zh-CN": {
+        "text": "通往Mira-Cra Park之路!",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Road to Mira-Cra Park!",
         "author": "claude-sonnet-4-5-20250929"
       }
     }

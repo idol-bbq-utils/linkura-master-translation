@@ -2405,6 +2405,84 @@
     }
   },
   {
+    "raw": "3セクション目で使用したとき、APを$3$回復し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第3个小节使用时，AP回复$3$，本小节中，手牌上限增加2张。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the 3rd section, recover AP by $3$ and increase the maximum number of cards in hand by 2 during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "3セクション目で使用したとき、APを$4$回復し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第3个小节使用时，AP回复$4$，本小节中，手牌上限增加2张。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the 3rd section, recover AP by $4$ and increase the maximum number of cards in hand by 2 during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "3セクション目で使用したとき、APを$5$回復し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第3个小节使用时，AP回复$5$，本小节中，手牌上限增加2张。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the 3rd section, recover AP by $5$ and increase the maximum number of cards in hand by 2 during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "3セクション目で使用したとき、APを$6$回復し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第3个小节使用时，AP回复$6$，本小节中，手牌上限增加2张。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the 3rd section, recover AP by $6$ and increase the maximum number of cards in hand by 2 during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "3セクション目で使用したとき、APを$7$回復し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第3个小节使用时，AP回复$7$，本小节中，手牌上限增加2张。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the 3rd section, recover AP by $7$ and increase the maximum number of cards in hand by 2 during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "3セクション目で使用したとき、APを$8$回復し、このセクション中、手札の上限枚数を2枚増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第3个小节使用时，AP回复$8$，本小节中，手牌上限增加2张。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the 3rd section, recover AP by $8$ and increase the maximum number of cards in hand by 2 during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "3セクション目のとき、このセクション中、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の100％減少させる。さらにこのセクション中、ハート上限を$+1333$し、デッキ内のさやか、小鈴のスキルの消費APを-9する。",
     "translation": {
       "zh-CN": {
@@ -47164,6 +47242,188 @@
     }
   },
   {
+    "raw": "このセクション中、ビートハートの出現個数を+2し、ムード値をメロウ方向に$+10$する。さらにムードがメロウ100のとき、このセクション中、ムード値をメロウ方向に$+10$し、ビートハート$48回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，跳心出现数+2，气氛值向Mellow方向$+10$。此外，气氛为Mellow100时，本小节中，气氛值向Mellow方向$+10$，获得$48倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Beat Hearts appearing by +2 and increase Mood Value toward Mellow by $+10$. Additionally, when Mood is Mellow 100, increase Mood Value toward Mellow by $+10$ during this section and gain Skill Hearts equivalent to 48 beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ビートハートの出現個数を+2し、ムード値をメロウ方向に$+11$する。さらにムードがメロウ100のとき、このセクション中、ムード値をメロウ方向に$+11$し、ビートハート$52回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，跳心出现数+2，气氛值向Mellow方向$+11$。此外，气氛为Mellow100时，本小节中，气氛值向Mellow方向$+11$，获得$52倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Beat Hearts appearing by +2 and increase Mood Value toward Mellow by $+11$. Additionally, when Mood is Mellow 100, increase Mood Value toward Mellow by $+11$ during this section and gain Skill Hearts equivalent to 52 beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ビートハートの出現個数を+2し、ムード値をメロウ方向に$+12$する。さらにムードがメロウ100のとき、このセクション中、ムード値をメロウ方向に$+12$し、ビートハート$56回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，跳心出现数+2，气氛值向Mellow方向$+12$。此外，气氛为Mellow100时，本小节中，气氛值向Mellow方向$+12$，获得$56倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Beat Hearts appearing by +2 and increase Mood Value toward Mellow by $+12$. Additionally, when Mood is Mellow 100, increase Mood Value toward Mellow by $+12$ during this section and gain Skill Hearts equivalent to 56 beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ビートハートの出現個数を+2し、ムード値をメロウ方向に$+12$する。さらにムードがメロウ100のとき、このセクション中、ムード値をメロウ方向に$+12$し、ビートハート$60回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，跳心出现数+2，气氛值向Mellow方向$+12$。此外，气氛为Mellow100时，本小节中，气氛值向Mellow方向$+12$，获得$60倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Beat Hearts appearing by +2 and increase Mood Value toward Mellow by $+12$. Additionally, when Mood is Mellow 100, increase Mood Value toward Mellow by $+12$ during this section and gain Skill Hearts equivalent to 60 beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ビートハートの出現個数を+2し、ムード値をメロウ方向に$+13$する。さらにムードがメロウ100のとき、このセクション中、ムード値をメロウ方向に$+13$し、ビートハート$64回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，跳心出现数+2，气氛值向Mellow方向$+13$。此外，气氛为Mellow100时，本小节中，气氛值向Mellow方向$+13$，获得$64倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Beat Hearts appearing by +2 and increase Mood Value toward Mellow by $+13$. Additionally, when Mood is Mellow 100, increase Mood Value toward Mellow by $+13$ during this section and gain Skill Hearts equivalent to 64 beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ビートハートの出現個数を+2し、ムード値をメロウ方向に$+14$する。さらにムードがメロウ100のとき、このセクション中、ムード値をメロウ方向に$+14$し、ビートハート$68回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，跳心出现数+2，气氛值向Mellow方向$+14$。此外，气氛为Mellow100时，本小节中，气氛值向Mellow方向$+14$，获得$68倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Beat Hearts appearing by +2 and increase Mood Value toward Mellow by $+14$. Additionally, when Mood is Mellow 100, increase Mood Value toward Mellow by $+14$ during this section and gain Skill Hearts equivalent to 68 beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ビートハートの出現個数を+2し、ムード値をメロウ方向に$+15$する。さらにムードがメロウ100のとき、このセクション中、ムード値をメロウ方向に$+15$し、ビートハート$72回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，跳心出现数+2，气氛值向Mellow方向$+15$。此外，气氛为Mellow100时，本小节中，气氛值向Mellow方向$+15$，获得$72倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Beat Hearts appearing by +2 and increase Mood Value toward Mellow by $+15$. Additionally, when Mood is Mellow 100, increase Mood Value toward Mellow by $+15$ during this section and gain Skill Hearts equivalent to 72 beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ビートハートの出現個数を+2し、ムード値をメロウ方向に$+16$する。さらにムードがメロウ100のとき、このセクション中、ムード値をメロウ方向に$+16$し、ビートハート$80回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，跳心出现数+2，气氛值向Mellow方向$+16$。此外，气氛为Mellow100时，本小节中，气氛值向Mellow方向$+16$，获得$80倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Beat Hearts appearing by +2 and increase Mood Value toward Mellow by $+16$. Additionally, when Mood is Mellow 100, increase Mood Value toward Mellow by $+16$ during this section and gain Skill Hearts equivalent to 80 beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ビートハートの出現個数を+2し、ムード値をメロウ方向に$+17$する。さらにムードがメロウ100のとき、このセクション中、ムード値をメロウ方向に$+17$し、ビートハート$84回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，跳心出现数+2，气氛值向Mellow方向$+17$。此外，气氛为Mellow100时，本小节中，气氛值向Mellow方向$+17$，获得$84倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Beat Hearts appearing by +2 and increase Mood Value toward Mellow by $+17$. Additionally, when Mood is Mellow 100, increase Mood Value toward Mellow by $+17$ during this section and gain Skill Hearts equivalent to 84 beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ビートハートの出現個数を+2し、ムード値をメロウ方向に$+18$する。さらにムードがメロウ100のとき、このセクション中、ムード値をメロウ方向に$+18$し、ビートハート$88回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，跳心出现数+2，气氛值向Mellow方向$+18$。此外，气氛为Mellow100时，本小节中，气氛值向Mellow方向$+18$，获得$88倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Beat Hearts appearing by +2 and increase Mood Value toward Mellow by $+18$. Additionally, when Mood is Mellow 100, increase Mood Value toward Mellow by $+18$ during this section and gain Skill Hearts equivalent to 88 beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ビートハートの出現個数を+2し、ムード値をメロウ方向に$+19$する。さらにムードがメロウ100のとき、このセクション中、ムード値をメロウ方向に$+19$し、ビートハート$92回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，跳心出现数+2，气氛值向Mellow方向$+19$。此外，气氛为Mellow100时，本小节中，气氛值向Mellow方向$+19$，获得$92倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Beat Hearts appearing by +2 and increase Mood Value toward Mellow by $+19$. Additionally, when Mood is Mellow 100, increase Mood Value toward Mellow by $+19$ during this section and gain Skill Hearts equivalent to 92 beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ビートハートの出現個数を+2し、ムード値をメロウ方向に$+20$する。さらにムードがメロウ100のとき、このセクション中、ムード値をメロウ方向に$+20$し、ビートハート$100回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，跳心出现数+2，气氛值向Mellow方向$+20$。此外，气氛为Mellow100时，本小节中，气氛值向Mellow方向$+20$，获得$100倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Beat Hearts appearing by +2 and increase Mood Value toward Mellow by $+20$. Additionally, when Mood is Mellow 100, increase Mood Value toward Mellow by $+20$ during this section and gain Skill Hearts equivalent to 100 beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ビートハートの出現個数を+2し、ムード値をメロウ方向に$+8$する。さらにムードがメロウ100のとき、このセクション中、ムード値をメロウ方向に$+8$し、ビートハート$40回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，跳心出现数+2，气氛值向Mellow方向$+8$。此外，气氛为Mellow100时，本小节中，气氛值向Mellow方向$+8$，获得$40倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Beat Hearts appearing by +2 and increase Mood Value toward Mellow by $+8$. Additionally, when Mood is Mellow 100, increase Mood Value toward Mellow by $+8$ during this section and gain Skill Hearts equivalent to 40 beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ビートハートの出現個数を+2し、ムード値をメロウ方向に$+9$する。さらにムードがメロウ100のとき、このセクション中、ムード値をメロウ方向に$+9$し、ビートハート$44回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，跳心出现数+2，气氛值向Mellow方向$+9$。此外，气氛为Mellow100时，本小节中，气氛值向Mellow方向$+9$，获得$44倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the number of Beat Hearts appearing by +2 and increase Mood Value toward Mellow by $+9$. Additionally, when Mood is Mellow 100, increase Mood Value toward Mellow by $+9$ during this section and gain Skill Hearts equivalent to 44 beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ビートハートの出現個数を+2する。さらにムードがハッピー75以上のとき、このセクション中、ハート上限を$+1200$する。",
     "translation": {
       "zh-CN": {
@@ -53711,6 +53971,32 @@
       },
       "en": {
         "text": "During this section, Mental recovers by $93.9%$ of its maximum value every second, and reduce the maximum number of cards in hand by 3. Additionally, reduce the AP cost of all skills in the deck by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルを回復する効果、またはメンタルプロテクト効果が発動した時、スキルハートを獲得する。発動した効果の効果値とスペシャルアピールのLvが高いほど効果値が増加する。デッキ枚数が18枚より少ないほど、効果値が減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental恢复效果或Mental保护效果发动时，获得技能心心。发动效果的效果值和特殊演出的Lv越高效果值增加越多。卡组张数少于18张时，效果值减少。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, when an effect that recovers Mental or a Mental Protect effect is activated, gain Skill Hearts. The effect value increases as the effect value of the activated effect and the Special Appeal Lv. are higher. The effect value decreases the fewer deck cards there are below 18.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、メンタルを回復する効果、またはメンタルプロテクト効果が発動した時、ボルテージPt.を獲得する。発動した効果の効果値とスペシャルアピールのLvが高いほど効果値が増加する。デッキ枚数が18枚より少ないほど、効果値が減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，Mental恢复效果或Mental保护效果发动时，获得Vo Pt.。发动效果的效果值和特殊演出的Lv越高效果值增加越多。卡组张数少于18张时，效果值减少。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, when an effect that recovers Mental or a Mental Protect effect is activated, gain Voltage Pt. The effect value increases as the effect value of the activated effect and the Special Appeal Lv. are higher. The effect value decreases the fewer deck cards there are below 18.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -68224,6 +68510,175 @@
     }
   },
   {
+    "raw": "カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、このセクション中、ビートハートの出現個数を+2、ムード値をメロウ方向に$+10$し、捨札に移動する。さらにムードがメロウ100のとき、手札をリセットシャッフルする。この時ペアカード[ドライブ・スペード・クレイジー]セラス 柳田 リリエンフェルトをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "卡牌被设置到舞台上，并吸收AP回复效果。吸收4次AP回复效果时，本小节中，跳心出现数+2，气氛值向Mellow方向$+10$，移动至弃牌堆。此外，气氛为Mellow100时，将手牌重置洗牌。此时大幅提升抽到配对卡[ドライブ・スペード・クレイジー]塞拉斯 柳田 利林费尔德的概率。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs AP Recovery effects. When 4 AP Recovery effects are absorbed, increase the number of Beat Hearts appearing by +2 and increase Mood Value toward Mellow by $+10$ during this section, then move to the discard pile. Additionally, when Mood is Mellow 100, reset shuffle your hand. At this time, the probability of drawing the pair card [Drive Spade Crazy] Ceras Yanagida Lilienfeld is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、このセクション中、ビートハートの出現個数を+2、ムード値をメロウ方向に$+11$し、捨札に移動する。さらにムードがメロウ100のとき、手札をリセットシャッフルする。この時ペアカード[ドライブ・スペード・クレイジー]セラス 柳田 リリエンフェルトをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "卡牌被设置到舞台上，并吸收AP回复效果。吸收4次AP回复效果时，本小节中，跳心出现数+2，气氛值向Mellow方向$+11$，移动至弃牌堆。此外，气氛为Mellow100时，将手牌重置洗牌。此时大幅提升抽到配对卡[ドライブ・スペード・クレイジー]塞拉斯 柳田 利林费尔德的概率。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs AP Recovery effects. When 4 AP Recovery effects are absorbed, increase the number of Beat Hearts appearing by +2 and increase Mood Value toward Mellow by $+11$ during this section, then move to the discard pile. Additionally, when Mood is Mellow 100, reset shuffle your hand. At this time, the probability of drawing the pair card [Drive Spade Crazy] Ceras Yanagida Lilienfeld is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、このセクション中、ビートハートの出現個数を+2、ムード値をメロウ方向に$+12$し、捨札に移動する。さらにムードがメロウ100のとき、手札をリセットシャッフルする。この時ペアカード[ドライブ・スペード・クレイジー]セラス 柳田 リリエンフェルトをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "卡牌设置在舞台上，吸收AP回复效果。吸收4次AP回复效果时，本小节中，跳心出现个数+2，气氛值向Mellow方向$+12$，移至弃牌堆。此外，气氛为Mellow100时，将手牌重置洗牌。此时抽取配对卡[ドライブ・スペード・クレイジー]塞拉斯 柳田 利林费尔德的概率大幅提升。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs AP recovery effects. When 4 AP recovery effects are absorbed, increase the number of Beat Hearts appearing by +2, increase Mood Value toward Mellow by $+12$ during this section, and move to the discard pile. Additionally, when Mood is Mellow 100, reset shuffle your hand. At this time, the probability of drawing the pair card [Drive Spade Crazy] Ceras Yanagida Lilienfeld is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、このセクション中、ビートハートの出現個数を+2、ムード値をメロウ方向に$+13$し、捨札に移動する。さらにムードがメロウ100のとき、手札をリセットシャッフルする。この時ペアカード[ドライブ・スペード・クレイジー]セラス 柳田 リリエンフェルトをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "卡牌设置在舞台上，吸收AP回复效果。吸收4次AP回复效果时，本小节中，跳心出现个数+2，气氛值向Mellow方向$+13$，移至弃牌堆。此外，气氛为Mellow100时，将手牌重置洗牌。此时抽取配对卡[ドライブ・スペード・クレイジー]塞拉斯 柳田 利林费尔德的概率大幅提升。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs AP recovery effects. When 4 AP recovery effects are absorbed, increase the number of Beat Hearts appearing by +2, increase Mood Value toward Mellow by $+13$ during this section, and move to the discard pile. Additionally, when Mood is Mellow 100, reset shuffle your hand. At this time, the probability of drawing the pair card [Drive Spade Crazy] Ceras Yanagida Lilienfeld is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、このセクション中、ビートハートの出現個数を+2、ムード値をメロウ方向に$+14$し、捨札に移動する。さらにムードがメロウ100のとき、手札をリセットシャッフルする。この時ペアカード[ドライブ・スペード・クレイジー]セラス 柳田 リリエンフェルトをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "卡牌设置在舞台上，吸收AP回复效果。吸收4次AP回复效果时，本小节中，跳心出现个数+2，气氛值向Mellow方向$+14$，移至弃牌堆。此外，气氛为Mellow100时，将手牌重置洗牌。此时抽取配对卡[ドライブ・スペード・クレイジー]塞拉斯 柳田 利林费尔德的概率大幅提升。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs AP recovery effects. When 4 AP recovery effects are absorbed, increase the number of Beat Hearts appearing by +2, increase Mood Value toward Mellow by $+14$ during this section, and move to the discard pile. Additionally, when Mood is Mellow 100, reset shuffle your hand. At this time, the probability of drawing the pair card [Drive Spade Crazy] Ceras Yanagida Lilienfeld is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、このセクション中、ビートハートの出現個数を+2、ムード値をメロウ方向に$+15$し、捨札に移動する。さらにムードがメロウ100のとき、手札をリセットシャッフルする。この時ペアカード[ドライブ・スペード・クレイジー]セラス 柳田 リリエンフェルトをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "卡牌设置在舞台上，吸收AP回复效果。吸收4次AP回复效果时，本小节中，跳心出现个数+2，气氛值向Mellow方向$+15$，移至弃牌堆。此外，气氛为Mellow100时，将手牌重置洗牌。此时抽取配对卡[ドライブ・スペード・クレイジー]塞拉斯 柳田 利林费尔德的概率大幅提升。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs AP recovery effects. When 4 AP recovery effects are absorbed, increase the number of Beat Hearts appearing by +2, increase Mood Value toward Mellow by $+15$ during this section, and move to the discard pile. Additionally, when Mood is Mellow 100, reset shuffle your hand. At this time, the probability of drawing the pair card [Drive Spade Crazy] Ceras Yanagida Lilienfeld is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、このセクション中、ビートハートの出現個数を+2、ムード値をメロウ方向に$+16$し、捨札に移動する。さらにムードがメロウ100のとき、手札をリセットシャッフルする。この時ペアカード[ドライブ・スペード・クレイジー]セラス 柳田 リリエンフェルトをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "卡牌设置在舞台上，吸收AP回复效果。吸收4次AP回复效果时，本小节中，跳心出现个数+2，气氛值向Mellow方向$+16$，移至弃牌堆。此外，气氛为Mellow100时，将手牌重置洗牌。此时抽取配对卡[ドライブ・スペード・クレイジー]塞拉斯 柳田 利林费尔德的概率大幅提升。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs AP recovery effects. When 4 AP recovery effects are absorbed, increase the number of Beat Hearts appearing by +2, increase Mood Value toward Mellow by $+16$ during this section, and move to the discard pile. Additionally, when Mood is Mellow 100, reset shuffle your hand. At this time, the probability of drawing the pair card [Drive Spade Crazy] Ceras Yanagida Lilienfeld is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、このセクション中、ビートハートの出現個数を+2、ムード値をメロウ方向に$+17$し、捨札に移動する。さらにムードがメロウ100のとき、手札をリセットシャッフルする。この時ペアカード[ドライブ・スペード・クレイジー]セラス 柳田 リリエンフェルトをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "卡牌设置在舞台上，吸收AP回复效果。吸收4次AP回复效果时，本小节中，跳心出现个数+2，气氛值向Mellow方向$+17$，移至弃牌堆。此外，气氛为Mellow100时，将手牌重置洗牌。此时抽取配对卡[ドライブ・スペード・クレイジー]塞拉斯 柳田 利林费尔德的概率大幅提升。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs AP recovery effects. When 4 AP recovery effects are absorbed, increase the number of Beat Hearts appearing by +2, increase Mood Value toward Mellow by $+17$ during this section, and move to the discard pile. Additionally, when Mood is Mellow 100, reset shuffle your hand. At this time, the probability of drawing the pair card [Drive Spade Crazy] Ceras Yanagida Lilienfeld is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、このセクション中、ビートハートの出現個数を+2、ムード値をメロウ方向に$+18$し、捨札に移動する。さらにムードがメロウ100のとき、手札をリセットシャッフルする。この時ペアカード[ドライブ・スペード・クレイジー]セラス 柳田 リリエンフェルトをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "卡牌设置在舞台上，吸收AP回复效果。吸收4次AP回复效果时，本小节中，跳心出现个数+2，气氛值向Mellow方向$+18$，移至弃牌堆。此外，气氛为Mellow100时，将手牌重置洗牌。此时抽取配对卡[ドライブ・スペード・クレイジー]塞拉斯 柳田 利林费尔德的概率大幅提升。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs AP recovery effects. When 4 AP recovery effects are absorbed, increase the number of Beat Hearts appearing by +2, increase Mood Value toward Mellow by $+18$ during this section, and move to the discard pile. Additionally, when Mood is Mellow 100, reset shuffle your hand. At this time, the probability of drawing the pair card [Drive Spade Crazy] Ceras Yanagida Lilienfeld is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、このセクション中、ビートハートの出現個数を+2、ムード値をメロウ方向に$+19$し、捨札に移動する。さらにムードがメロウ100のとき、手札をリセットシャッフルする。この時ペアカード[ドライブ・スペード・クレイジー]セラス 柳田 リリエンフェルトをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "卡牌设置在舞台上，吸收AP回复效果。吸收4次AP回复效果时，本小节中，跳心出现个数+2，气氛值向Mellow方向$+19$，移至弃牌堆。此外，气氛为Mellow100时，将手牌重置洗牌。此时抽取配对卡[ドライブ・スペード・クレイジー]塞拉斯 柳田 利林费尔德的概率大幅提升。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs AP recovery effects. When 4 AP recovery effects are absorbed, increase the number of Beat Hearts appearing by +2, increase Mood Value toward Mellow by $+19$ during this section, and move to the discard pile. Additionally, when Mood is Mellow 100, reset shuffle your hand. At this time, the probability of drawing the pair card [Drive Spade Crazy] Ceras Yanagida Lilienfeld is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、このセクション中、ビートハートの出現個数を+2、ムード値をメロウ方向に$+20$し、捨札に移動する。さらにムードがメロウ100のとき、手札をリセットシャッフルする。この時ペアカード[ドライブ・スペード・クレイジー]セラス 柳田 リリエンフェルトをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "卡牌设置在舞台上，吸收AP回复效果。吸收4次AP回复效果时，本小节中，跳心出现个数+2，气氛值向Mellow方向$+20$，移至弃牌堆。此外，气氛为Mellow100时，将手牌重置洗牌。此时抽取配对卡[ドライブ・スペード・クレイジー]塞拉斯 柳田 利林费尔德的概率大幅提升。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs AP recovery effects. When 4 AP recovery effects are absorbed, increase the number of Beat Hearts appearing by +2, increase Mood Value toward Mellow by $+20$ during this section, and move to the discard pile. Additionally, when Mood is Mellow 100, reset shuffle your hand. At this time, the probability of drawing the pair card [Drive Spade Crazy] Ceras Yanagida Lilienfeld is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、このセクション中、ビートハートの出現個数を+2、ムード値をメロウ方向に$+8$し、捨札に移動する。さらにムードがメロウ100のとき、手札をリセットシャッフルする。この時ペアカード[ドライブ・スペード・クレイジー]セラス 柳田 リリエンフェルトをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "卡牌设置在舞台上，吸收AP回复效果。吸收4次AP回复效果时，本小节中，跳心出现个数+2，气氛值向Mellow方向$+8$，移至弃牌堆。此外，气氛为Mellow100时，将手牌重置洗牌。此时抽取配对卡[ドライブ・スペード・クレイジー]塞拉斯 柳田 利林费尔德的概率大幅提升。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs AP recovery effects. When 4 AP recovery effects are absorbed, increase the number of Beat Hearts appearing by +2, increase Mood Value toward Mellow by $+8$ during this section, and move to the discard pile. Additionally, when Mood is Mellow 100, reset shuffle your hand. At this time, the probability of drawing the pair card [Drive Spade Crazy] Ceras Yanagida Lilienfeld is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復効果を吸収する。AP回復効果を4吸収したとき、このセクション中、ビートハートの出現個数を+2、ムード値をメロウ方向に$+9$し、捨札に移動する。さらにムードがメロウ100のとき、手札をリセットシャッフルする。この時ペアカード[ドライブ・スペード・クレイジー]セラス 柳田 リリエンフェルトをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "卡牌设置在舞台上，吸收AP回复效果。吸收4次AP回复效果时，本小节中，跳心出现个数+2，气氛值向Mellow方向$+9$，移至弃牌堆。此外，气氛为Mellow100时，将手牌重置洗牌。此时抽取配对卡[ドライブ・スペード・クレイジー]塞拉斯 柳田 利林费尔德的概率大幅提升。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs AP recovery effects. When 4 AP recovery effects are absorbed, increase the number of Beat Hearts appearing by +2, increase Mood Value toward Mellow by $+9$ during this section, and move to the discard pile. Additionally, when Mood is Mellow 100, reset shuffle your hand. At this time, the probability of drawing the pair card [Drive Spade Crazy] Ceras Yanagida Lilienfeld is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "カードがステージにセットされ、AP回復速度増加効果を吸収する。AP回復速度増加効果を16%吸収したとき、このセクション中、ハート上限を$+1024$し、捨札に移動する。",
     "translation": {
       "zh-CN": {
@@ -70663,6 +71118,19 @@
       },
       "zh-CN": {
         "text": "使用技能时1次内，将1个种类的（共计1张）配对卡片[diamondz]村野 沙耶香加入牌库。并且在手牌中回收4000个心心时，获得40倍跳心的技能心心，Vo Pt.+400。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "スキル使用時1回まで、ペアカード[ドライブ・スペード・クレイジー]セラス 柳田 リリエンフェルトを1種類(合計1枚)山札に追加する。さらに手札にある状態でハートを4000個回収したとき、ビートハート40回分のスキルハートを獲得し、このセクション中、AP回復速度を+10%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "技能使用时1次为止，将1种（共计1张）配对卡[ドライブ・スペード・クレイジー]塞拉斯 柳田 利林费尔德加入牌库。此外，在手牌中时回收4000个心心后，获得40倍跳心的技能心心，本小节中，AP回复速度+10%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Up to 1 time when using a skill, add 1 type (1 card total) of the pair card [Drive Spade Crazy] Ceras Yanagida Lilienfeld to the deck. Additionally, when 4000 hearts are collected while in hand, gain Skill Hearts equivalent to 40 beats and increase AP Recovery Speed by +10% during this section.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -113516,6 +113984,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$100%$回復させる。さらにメンタルが200%以上のとき、このステージ中、ハート上限を$+100$、獲得するLOVEを$+1000%$、ボルテージPt.を$+1000$し、ビートハート$1000回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$100%$。此外，Mental为200%以上时，本场Live中，心心上限$+100$，获得LOVE$+1000%$，Vo Pt.$+1000$，获得$1000倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $100%$ of its maximum value. Additionally, when Mental is 200% or higher, increase Heart Cap by $+100$, increase LOVE gained by $+1000%$, increase Voltage Pt. by $+1000$, and gain Skill Hearts equivalent to $1000$ beats during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$100%$回復する。さらにこのセクション中、メンタルが1秒ごとに最大値の$2%$回復する。",
     "translation": {
       "zh-CN": {
@@ -119730,6 +120211,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$40%$回復させる。さらにメンタルが200%以上のとき、このステージ中、ハート上限を$+40$、獲得するLOVEを$+400%$、ボルテージPt.を$+400$し、ビートハート$400回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$40%$。此外，Mental为200%以上时，本场Live中，心心上限$+40$，获得LOVE$+400%$，Vo Pt.$+400$，获得$400倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $40%$ of its maximum value. Additionally, when Mental is 200% or higher, increase Heart Cap by $+40$, increase LOVE gained by $+400%$, increase Voltage Pt. by $+400$, and gain Skill Hearts equivalent to $400$ beats during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$40.32%$回復させる。さらに、ビートハート$11回分$のスキルハートを獲得し、このセクション中、獲得するLOVEを$+9.5%$する。",
     "translation": {
       "zh-CN": {
@@ -119908,6 +120402,19 @@
       "zh-CN": {
         "text": "恢复最大Mental值的$44%$。并且接下来5次Mental恢复效果$+44%$，本小节中，手牌上限-2。",
         "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$44%$回復させる。さらにメンタルが200%以上のとき、このステージ中、ハート上限を$+44$、獲得するLOVEを$+440%$、ボルテージPt.を$+440$し、ビートハート$440回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$44%$。此外，Mental为200%以上时，本场Live中，心心上限$+44$，获得LOVE$+440%$，Vo Pt.$+440$，获得$440倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $44%$ of its maximum value. Additionally, when Mental is 200% or higher, increase Heart Cap by $+44$, increase LOVE gained by $+440%$, increase Voltage Pt. by $+440$, and gain Skill Hearts equivalent to $440$ beats during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -120115,6 +120622,19 @@
       },
       "en": {
         "text": "Restore Mental to $48%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, shuffle the hand, gain Skill Hearts equivalent to $120$ beats, and nullify $22%$ of the maximum Mental value as natural Mental decay during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$48%$回復させる。さらにメンタルが200%以上のとき、このステージ中、ハート上限を$+48$、獲得するLOVEを$+480%$、ボルテージPt.を$+480$し、ビートハート$480回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$48%$。此外，Mental为200%以上时，本场Live中，心心上限$+48$，获得LOVE$+480%$，Vo Pt.$+480$，获得$480倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $48%$ of its maximum value. Additionally, when Mental is 200% or higher, increase Heart Cap by $+48$, increase LOVE gained by $+480%$, increase Voltage Pt. by $+480$, and gain Skill Hearts equivalent to $480$ beats during this stage.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -120601,6 +121121,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$52%$回復させる。さらにメンタルが200%以上のとき、このステージ中、ハート上限を$+52$、獲得するLOVEを$+520%$、ボルテージPt.を$+520$し、ビートハート$520回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$52%$。此外，Mental为200%以上时，本场Live中，心心上限$+52$，获得LOVE$+520%$，Vo Pt.$+520$，获得$520倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $52%$ of its maximum value. Additionally, when Mental is 200% or higher, increase Heart Cap by $+52$, increase LOVE gained by $+520%$, increase Voltage Pt. by $+520$, and gain Skill Hearts equivalent to $520$ beats during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$52.8%$回復させる。",
     "translation": {
       "zh-CN": {
@@ -120740,6 +121273,19 @@
       "zh-CN": {
         "text": "恢复最大Mental值的$56%$。并且接下来5次Mental恢复效果$+56%$，本小节中，手牌上限-2。",
         "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$56%$回復させる。さらにメンタルが200%以上のとき、このステージ中、ハート上限を$+56$、獲得するLOVEを$+560%$、ボルテージPt.を$+560$し、ビートハート$560回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$56%$。此外，Mental为200%以上时，本场Live中，心心上限$+56$，获得LOVE$+560%$，Vo Pt.$+560$，获得$560倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $56%$ of its maximum value. Additionally, when Mental is 200% or higher, increase Heart Cap by $+56$, increase LOVE gained by $+560%$, increase Voltage Pt. by $+560$, and gain Skill Hearts equivalent to $560$ beats during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -121329,6 +121875,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$60%$回復させる。さらにメンタルが200%以上のとき、このステージ中、ハート上限を$+60$、獲得するLOVEを$+600%$、ボルテージPt.を$+600$し、ビートハート$600回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$60%$。此外，Mental为200%以上时，本场Live中，心心上限$+60$，获得LOVE$+600%$，Vo Pt.$+600$，获得$600倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $60%$ of its maximum value. Additionally, when Mental is 200% or higher, increase Heart Cap by $+60$, increase LOVE gained by $+600%$, increase Voltage Pt. by $+600$, and gain Skill Hearts equivalent to $600$ beats during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$612%$回復、このステージ中、それぞれメンタル最大値の$612%$分のメンタル自然減少、メンタル直接ダメージを無効にし、APを10減少、ボルテージPt.を-1020する。さらにビートハート$612回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -121446,6 +122005,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$64%$回復させる。さらにメンタルが200%以上のとき、このステージ中、ハート上限を$+64$、獲得するLOVEを$+640%$、ボルテージPt.を$+640$し、ビートハート$640回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$64%$。此外，Mental为200%以上时，本场Live中，心心上限$+64$，获得LOVE$+640%$，Vo Pt.$+640$，获得$640倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $64%$ of its maximum value. Additionally, when Mental is 200% or higher, increase Heart Cap by $+64$, increase LOVE gained by $+640%$, increase Voltage Pt. by $+640$, and gain Skill Hearts equivalent to $640$ beats during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$652.8%$回復、このステージ中、それぞれメンタル最大値の$652.8%$分のメンタル自然減少、メンタル直接ダメージを無効にし、APを10減少、ボルテージPt.を-1020する。さらにビートハート$653回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -121546,6 +122118,19 @@
       "zh-CN": {
         "text": "恢复最大Mental值的$68%$。并且接下来5次Mental恢复效果$+68%$，本小节中，手牌上限-2。",
         "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$68%$回復させる。さらにメンタルが200%以上のとき、このステージ中、ハート上限を$+68$、獲得するLOVEを$+680%$、ボルテージPt.を$+680$し、ビートハート$680回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$68%$。此外，Mental为200%以上时，本场Live中，心心上限$+68$，获得LOVE$+680%$，Vo Pt.$+680$，获得$680倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $68%$ of its maximum value. Additionally, when Mental is 200% or higher, increase Heart Cap by $+68$, increase LOVE gained by $+680%$, increase Voltage Pt. by $+680$, and gain Skill Hearts equivalent to $680$ beats during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -122273,6 +122858,19 @@
       },
       "en": {
         "text": "Restore Mental to 72% of its maximum value. Additionally, when Mental reaches 100% or higher, shuffle the hand, gain Skill Hearts equivalent to 180 beats, and nullify natural Mental decay equal to 33% of the maximum Mental value during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$72%$回復させる。さらにメンタルが200%以上のとき、このステージ中、ハート上限を$+72$、獲得するLOVEを$+720%$、ボルテージPt.を$+720$し、ビートハート$720回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$72%$。此外，Mental为200%以上时，本场Live中，心心上限$+72$，获得LOVE$+720%$，Vo Pt.$+720$，获得$720倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $72%$ of its maximum value. Additionally, when Mental is 200% or higher, increase Heart Cap by $+72$, increase LOVE gained by $+720%$, increase Voltage Pt. by $+720$, and gain Skill Hearts equivalent to $720$ beats during this stage.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -123071,6 +123669,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$80%$回復させる。さらにメンタルが200%以上のとき、このステージ中、ハート上限を$+80$、獲得するLOVEを$+800%$、ボルテージPt.を$+800$し、ビートハート$800回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$80%$。此外，Mental为200%以上时，本场Live中，心心上限$+80$，获得LOVE$+800%$，Vo Pt.$+800$，获得$800倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $80%$ of its maximum value. Additionally, when Mental is 200% or higher, increase Heart Cap by $+80$, increase LOVE gained by $+800%$, increase Voltage Pt. by $+800$, and gain Skill Hearts equivalent to $800$ beats during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$80.96%$回復させる。さらにメンタルが100%のとき、このセクション中、ビートハートの出現個数を$+7$する。",
     "translation": {
       "zh-CN": {
@@ -123162,6 +123773,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$84%$回復させる。さらにメンタルが200%以上のとき、このステージ中、ハート上限を$+84$、獲得するLOVEを$+840%$、ボルテージPt.を$+840$し、ビートハート$840回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$84%$。此外，Mental为200%以上时，本场Live中，心心上限$+84$，获得LOVE$+840%$，Vo Pt.$+840$，获得$840倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $84%$ of its maximum value. Additionally, when Mental is 200% or higher, increase Heart Cap by $+84$, increase LOVE gained by $+840%$, increase Voltage Pt. by $+840$, and gain Skill Hearts equivalent to $840$ beats during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$856.8%$回復、このステージ中、それぞれメンタル最大値の$856.8%$分のメンタル自然減少、メンタル直接ダメージを無効にし、APを10減少、ボルテージPt.を-1020する。さらにビートハート$857回分$のスキルハートを獲得し、それぞれ3回の間梢、綴理が使用するスキルハート獲得効果による獲得数を$+85.7%$する。",
     "translation": {
       "zh-CN": {
@@ -123249,6 +123873,19 @@
       "en": {
         "text": "Restores Mental by $88%$ of maximum value. Additionally, when Mental is at 100%, increases the number of Beat Hearts that appear by $+8$ during this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$88%$回復させる。さらにメンタルが200%以上のとき、このステージ中、ハート上限を$+88$、獲得するLOVEを$+880%$、ボルテージPt.を$+880$し、ビートハート$880回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$88%$。并且Mental为200%以上时，本场Live中，心心上限$+88$，获得LOVE$+880%$，Vo Pt.$+880$，并获得$880倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $88%$ of its maximum value. Additionally, when Mental is 200% or higher, increase Heart Cap by $+88$, increase LOVE gained by $+880%$, increase Voltage Pt. by $+880$, and gain Skill Hearts equivalent to $880$ beats during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -123717,6 +124354,19 @@
       "zh-CN": {
         "text": "恢复最大Mental值的$92%$。并且接下来5次Mental恢复效果$+92%$，本小节中，手牌上限-2。",
         "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$92%$回復させる。さらにメンタルが200%以上のとき、このステージ中、ハート上限を$+92$、獲得するLOVEを$+920%$、ボルテージPt.を$+920$し、ビートハート$920回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$92%$。并且Mental为200%以上时，本场Live中，心心上限$+92$，获得LOVE$+920%$，Vo Pt.$+920$，并获得$920倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $92%$ of its maximum value. Additionally, when Mental is 200% or higher, increase Heart Cap by $+92$, increase LOVE gained by $+920%$, increase Voltage Pt. by $+920$, and gain Skill Hearts equivalent to $920$ beats during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -128193,6 +128843,19 @@
     }
   },
   {
+    "raw": "手札にある状態でハートを4000個回収したとき、ビートハート40回分のスキルハートを獲得し、APを4回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在手牌中的状态下回收4000个心心时，获得40倍跳心的技能心心，并回复4点AP。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When 4000 hearts are collected while in hand, gain Skill Hearts equivalent to 40 beats and restore 4 AP.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "手札にある状態でハートを4000個回収したとき、ビートハート40回分のスキルハートを獲得し、このステージ中、ハート上限を+400する。",
     "translation": {
       "en": {
@@ -129866,6 +130529,188 @@
       "en": {
         "text": "Shuffle your hand. Additionally, increase the next Voltage Gain effect you use by $+9.5%$. The effect amount increases by up to 200x for every 15 Voltage Lv., up to a maximum of 150 Lv.",
         "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルを最大値の$100.8%$回復させる。この時瑠璃乃、慈のスキルをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、8回の間スキルハート獲得効果による獲得数を$+100.8%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将手牌重置洗牌，恢复最大Mental值的$100.8%$。此时抽到瑠璃乃、慈的技能的概率大幅提升。并且气氛为Happy或Mellow任意一方达到100时，接下来8次获得技能心心时，其数量$+100.8%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reset shuffle your hand and restore Mental to $100.8%$ of its maximum value. At this time, greatly increase the probability of drawing Rurino and Megumi's skills. Additionally, when Mood is either Happy or Mellow 100, increase the amount gained from Skill Heart gain effects by $+100.8%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルを最大値の$108%$回復させる。この時瑠璃乃、慈のスキルをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、8回の間スキルハート獲得効果による獲得数を$+108%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将手牌重置洗牌，恢复最大Mental值的$108%$。此时抽到瑠璃乃、慈的技能的概率大幅提升。并且气氛为Happy或Mellow任意一方达到100时，接下来8次获得技能心心时，其数量$+108%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reset shuffle your hand and restore Mental to $108%$ of its maximum value. At this time, greatly increase the probability of drawing Rurino and Megumi's skills. Additionally, when Mood is either Happy or Mellow 100, increase the amount gained from Skill Heart gain effects by $+108%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルを最大値の$115.2%$回復させる。この時瑠璃乃、慈のスキルをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、8回の間スキルハート獲得効果による獲得数を$+115.2%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将手牌重置洗牌，恢复最大Mental值的$115.2%$。此时抽到瑠璃乃、慈的技能的概率大幅提升。并且气氛为Happy或Mellow任意一方达到100时，接下来8次获得技能心心时，其数量$+115.2%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reset shuffle your hand and restore Mental to $115.2%$ of its maximum value. At this time, greatly increase the probability of drawing Rurino and Megumi's skills. Additionally, when Mood is either Happy or Mellow 100, increase the amount gained from Skill Heart gain effects by $+115.2%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルを最大値の$122.4%$回復させる。この時瑠璃乃、慈のスキルをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、8回の間スキルハート獲得効果による獲得数を$+122.4%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将手牌重置洗牌，恢复最大Mental值的$122.4%$。此时抽到瑠璃乃、慈的技能的概率大幅提升。并且气氛为Happy或Mellow任意一方达到100时，接下来8次获得技能心心时，其数量$+122.4%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reset shuffle your hand and restore Mental to $122.4%$ of its maximum value. At this time, greatly increase the probability of drawing Rurino and Megumi's skills. Additionally, when Mood is either Happy or Mellow 100, increase the amount gained from Skill Heart gain effects by $+122.4%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルを最大値の$129.6%$回復させる。この時瑠璃乃、慈のスキルをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、8回の間スキルハート獲得効果による獲得数を$+129.6%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将手牌重置洗牌，恢复最大Mental值的$129.6%$。此时抽到瑠璃乃、慈的技能的概率大幅提升。并且气氛为Happy或Mellow任意一方达到100时，接下来8次获得技能心心时，其数量$+129.6%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reset shuffle your hand and restore Mental to $129.6%$ of its maximum value. At this time, greatly increase the probability of drawing Rurino and Megumi's skills. Additionally, when Mood is either Happy or Mellow 100, increase the amount gained from Skill Heart gain effects by $+129.6%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルを最大値の$144%$回復させる。この時瑠璃乃、慈のスキルをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、8回の間スキルハート獲得効果による獲得数を$+144%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将手牌重置洗牌，恢复最大Mental值的$144%$。此时抽到瑠璃乃、慈的技能的概率大幅提升。并且气氛为Happy或Mellow任意一方达到100时，接下来8次获得技能心心时，其数量$+144%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reset shuffle your hand and restore Mental to $144%$ of its maximum value. At this time, greatly increase the probability of drawing Rurino and Megumi's skills. Additionally, when Mood is either Happy or Mellow 100, increase the amount gained from Skill Heart gain effects by $+144%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルを最大値の$151.2%$回復させる。この時瑠璃乃、慈のスキルをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、8回の間スキルハート獲得効果による獲得数を$+151.2%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将手牌重置洗牌，恢复最大Mental值的$151.2%$。此时抽到瑠璃乃、慈的技能的概率大幅提升。并且气氛为Happy或Mellow任意一方达到100时，接下来8次获得技能心心时，其数量$+151.2%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reset shuffle your hand and restore Mental to $151.2%$ of its maximum value. At this time, greatly increase the probability of drawing Rurino and Megumi's skills. Additionally, when Mood is either Happy or Mellow 100, increase the amount gained from Skill Heart gain effects by $+151.2%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルを最大値の$158.4%$回復させる。この時瑠璃乃、慈のスキルをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、8回の間スキルハート獲得効果による獲得数を$+158.4%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将手牌重置洗牌，恢复最大Mental值的$158.4%$。此时抽到瑠璃乃、慈的技能的概率大幅提升。并且气氛为Happy或Mellow任意一方达到100时，接下来8次获得技能心心时，其数量$+158.4%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reset shuffle your hand and restore Mental to $158.4%$ of its maximum value. At this time, greatly increase the probability of drawing Rurino and Megumi's skills. Additionally, when Mood is either Happy or Mellow 100, increase the amount gained from Skill Heart gain effects by $+158.4%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルを最大値の$165.6%$回復させる。この時瑠璃乃、慈のスキルをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、8回の間スキルハート獲得効果による獲得数を$+165.6%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将手牌重置洗牌，恢复最大Mental值的$165.6%$。此时抽到瑠璃乃、慈的技能的概率大幅提升。并且气氛为Happy或Mellow任意一方达到100时，接下来8次获得技能心心时，其数量$+165.6%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reset shuffle your hand and restore Mental to $165.6%$ of its maximum value. At this time, greatly increase the probability of drawing Rurino and Megumi's skills. Additionally, when Mood is either Happy or Mellow 100, increase the amount gained from Skill Heart gain effects by $+165.6%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルを最大値の$180%$回復させる。この時瑠璃乃、慈のスキルをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、8回の間スキルハート獲得効果による獲得数を$+180%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将手牌重置洗牌，恢复最大Mental值的$180%$。此时抽到瑠璃乃、慈的技能的概率大幅提升。并且气氛为Happy或Mellow任意一方达到100时，接下来8次获得技能心心时，其数量$+180%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reset shuffle your hand and restore Mental to $180%$ of its maximum value. At this time, greatly increase the probability of drawing Rurino and Megumi's skills. Additionally, when Mood is either Happy or Mellow 100, increase the amount gained from Skill Heart gain effects by $+180%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルを最大値の$72%$回復させる。この時瑠璃乃、慈のスキルをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、8回の間スキルハート獲得効果による獲得数を$+72%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将手牌重置洗牌，恢复最大Mental值的$72%$。此时抽到瑠璃乃、慈的技能的概率大幅提升。并且气氛为Happy或Mellow任意一方达到100时，接下来8次获得技能心心时，其数量$+72%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reset shuffle your hand and restore Mental to $72%$ of its maximum value. At this time, greatly increase the probability of drawing Rurino and Megumi's skills. Additionally, when Mood is either Happy or Mellow 100, increase the amount gained from Skill Heart gain effects by $+72%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルを最大値の$79.2%$回復させる。この時瑠璃乃、慈のスキルをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、8回の間スキルハート獲得効果による獲得数を$+79.2%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将手牌重置洗牌，恢复最大Mental值的$79.2%$。此时抽到瑠璃乃、慈的技能的概率大幅提升。并且气氛为Happy或Mellow任意一方达到100时，接下来8次获得技能心心时，其数量$+79.2%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reset shuffle your hand and restore Mental to $79.2%$ of its maximum value. At this time, greatly increase the probability of drawing Rurino and Megumi's skills. Additionally, when Mood is either Happy or Mellow 100, increase the amount gained from Skill Heart gain effects by $+79.2%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルを最大値の$86.4%$回復させる。この時瑠璃乃、慈のスキルをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、8回の間スキルハート獲得効果による獲得数を$+86.4%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将手牌重置洗牌，恢复最大Mental值的$86.4%$。此时抽到瑠璃乃、慈的技能的概率大幅提升。并且气氛为Happy或Mellow任意一方达到100时，接下来8次获得技能心心时，其数量$+86.4%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reset shuffle your hand and restore Mental to $86.4%$ of its maximum value. At this time, greatly increase the probability of drawing Rurino and Megumi's skills. Additionally, when Mood is either Happy or Mellow 100, increase the amount gained from Skill Heart gain effects by $+86.4%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルを最大値の$93.6%$回復させる。この時瑠璃乃、慈のスキルをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、8回の間スキルハート獲得効果による獲得数を$+93.6%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将手牌重置洗牌，恢复最大Mental值的$93.6%$。此时抽到瑠璃乃、慈的技能的概率大幅提升。并且气氛为Happy或Mellow任意一方达到100时，接下来8次获得技能心心时，其数量$+93.6%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reset shuffle your hand and restore Mental to $93.6%$ of its maximum value. At this time, greatly increase the probability of drawing Rurino and Megumi's skills. Additionally, when Mood is either Happy or Mellow 100, increase the amount gained from Skill Heart gain effects by $+93.6%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -152551,6 +153396,32 @@
       "en": {
         "text": "Skill AP cost reduction based on current Voltage Lv. (maximum -5)",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "現在の残りメンタルが多いほど、このスキルの消費APが増加する。メンタルが200%でドローした後に手札にある間、メンタルが0になってもメンタルダウンしなくなり、1秒ごとにメンタル直接ダメージを受け続け、このスキルの効果値を+10000%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "当前剩余Mental越多，此技能的消费AP越增加。Mental为200%时抽到后在手牌中期间，即使Mental变为0也不会Mental Down，每秒持续受到Mental直接伤害，此技能的效果值+10000%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The more remaining Mental you currently have, the more AP this skill consumes. When Mental is at 200% after drawing, while this card is in hand, you will not experience Mental Down even if Mental reaches 0, and you will continuously receive direct Mental damage every second, increasing this skill's effect value by +10000%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "現在の残りメンタルが多いほど、このスキルの消費APが減少する。ドローした時、デッキ内の瑠璃乃、慈のスキルの消費APを-8し、スキルハートを獲得する。手札にある状態で瑠璃乃、慈のスキルを使用したとき、手札をリセットシャッフルする。この時瑠璃乃、慈のスキルをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "当前剩余Mental越多，此技能的消费AP越减少。抽到时，卡组中瑠璃乃、慈的技能消费AP-8，并获得技能心心。在手牌中的状态下使用瑠璃乃、慈的技能时，将手牌重置洗牌。此时抽到瑠璃乃、慈的技能的概率大幅提升。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The more remaining Mental you currently have, the less AP this skill consumes. When drawn, reduce the AP cost of Rurino and Megumi's skills in the deck by -8 and gain Skill Hearts. When Rurino or Megumi's skill is used while this card is in hand, reset shuffle your hand. At this time, greatly increase the probability of drawing Rurino and Megumi's skills.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

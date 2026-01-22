@@ -1079,6 +1079,19 @@
     }
   },
   {
+    "raw": "ステージ開始時、デッキの全てのカードの消費APをステージ中常に-2し、スキルを5回使用するたび、メンタルを現在値の90%減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Live开始时,使牌组中所有卡牌的消耗AP在本阶段始终-2,且每使用5次技能时,Mental值减少当前值的90%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "At stage start, all cards in the deck have their AP cost permanently reduced by -2 throughout the stage, and Mental decreases by 90% of its current value after every 5 skill uses.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ステージ開始時、デッキの全ての泉、姫芽、吟子、花帆の消費APをステージ中常に-10し、さやか、瑠璃乃、小鈴、セラスの消費APをステージ中常に+10する。",
     "translation": {
       "zh-CN": {
@@ -1274,6 +1287,19 @@
     }
   },
   {
+    "raw": "メイン効果がトークンカード追加のスキルを使用するたび、APを10回復し、また山札が切れるたび、ステージ中、APの回復速度を-1%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "每当使用主要效果为追加令牌卡的技能时,恢复10点AP,且每当牌库用完时,在本阶段内将AP的恢复速度降低1%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Each time a skill is used whose main effect is adding a token card, restore 10 AP, and whenever the deck runs out, decrease the AP recovery rate by -1% for the remainder of the stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メイン効果がトークンカード追加のスキルを使用するたび、ボルテージを+10000し、スキルを20回使用するたび、メイン効果がリシャッフルであるデッキの全てのカードの消費APをステージ中常に+1する。",
     "translation": {
       "en": {
@@ -1374,6 +1400,19 @@
       "en": {
         "text": "Each time a skill is used whose main effect changes the Mood value, gain +3000 Voltage and restore Mental by 30% of its max value. Also, each time a skill is used whose main effect is Mental recovery, Protect, or Guard, lose -5000 Voltage.",
         "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "メイン効果がメンタル回復およびリシャッフルのスキルを使用するたび、デッキの全てのカードの消費APを-4し、ボルテージを+3000する。またスキルを3回使用するたび、デッキの全てのカードの消費APを+2し、ボルテージを-2000する。",
+    "translation": {
+      "zh-CN": {
+        "text": "每当使用主要效果为恢复Mental值及重洗的技能时,使牌组中所有卡牌的消耗AP-4,Voltage增加3000点。此外每使用3次技能时,使牌组中所有卡牌的消耗AP+2,Voltage减少2000点。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Each time a skill is used whose main effect is Mental recovery or Reshuffle, reduce the AP cost of all cards in the deck by -4 and gain +3000 Voltage. Also, after every 3 skill uses, increase the AP cost of all cards in the deck by +2 and lose -2000 Voltage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

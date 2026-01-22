@@ -1476,6 +1476,13 @@
             "ReleaseConditionText": "初めから習得"
         },
         {
+            "Id": 405133,
+            "Title": "Echoes Beyond",
+            "TitleFurigana": "えこーずびよんど",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
             "Id": 405201,
             "Title": "テレパシ",
             "TitleFurigana": "てれぱし",
