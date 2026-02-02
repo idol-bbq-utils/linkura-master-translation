@@ -58851,6 +58851,45 @@
     }
   },
   {
+    "raw": "[Jolie Mademoiselle]徒町 小鈴",
+    "translation": {
+      "zh-CN": {
+        "text": "[Jolie Mademoiselle]徒町小铃",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Jolie Mademoiselle] Kosuzu Kachimachi",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[Jolie Mademoiselle]徒町 小鈴 を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[Jolie Mademoiselle]徒町小铃 解放4次纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Jolie Mademoiselle] Kosuzu Kachimachi The commemorative sticker for releasing 4 times",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[Jolie Mademoiselle]徒町 小鈴 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[Jolie Mademoiselle]徒町小铃 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Jolie Mademoiselle] Kosuzu Kachimachi released successfully",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[KEY of Like！]乙宗 梢",
     "translation": {
       "zh-CN": {
@@ -75413,6 +75452,45 @@
     }
   },
   {
+    "raw": "[蓮ノ空歌留多]セラス 柳田 リリエンフェルト",
+    "translation": {
+      "zh-CN": {
+        "text": "[莲之空歌留多]塞拉斯 柳田 利林费尔德",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Hasu no Sora Karuta] Ceras Yanagida Lilienfeld",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[蓮ノ空歌留多]セラス 柳田 リリエンフェルト を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[莲之空歌留多]塞拉斯 柳田 利林费尔德 解放4次纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Hasu no Sora Karuta] Ceras Yanagida Lilienfeld The commemorative sticker for releasing 4 times",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[蓮ノ空歌留多]セラス 柳田 リリエンフェルト 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[莲之空歌留多]塞拉斯 柳田 利林费尔德 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Hasu no Sora Karuta] Ceras Yanagida Lilienfeld released successfully",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[蓮ノ空歌留多]乙宗 梢",
     "translation": {
       "zh-CN": {
@@ -75682,6 +75760,45 @@
       "en": {
         "text": "[Hasu no Sora Karuta]Sayaka Murano Unlock Complete",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[蓮ノ空歌留多]桂城 泉",
+    "translation": {
+      "zh-CN": {
+        "text": "[莲之空歌留多]桂城泉",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Hasu no Sora Karuta] Izumi Katsuragi",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[蓮ノ空歌留多]桂城 泉 を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[莲之空歌留多]桂城泉 解放4次纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Hasu no Sora Karuta] Izumi Katsuragi The commemorative sticker for releasing 4 times",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[蓮ノ空歌留多]桂城 泉 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[莲之空歌留多]桂城泉 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Hasu no Sora Karuta] Izumi Katsuragi released successfully",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -80483,6 +80600,45 @@
     }
   },
   {
+    "raw": "『JOKER.』のマスタリーLv.を30にした記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "『JOKER.』精通等级达到30纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The commemorative sticker for raising 『JOKER.』 Mastery Lv. to 30",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "『JOKER.』マエストロ",
+    "translation": {
+      "zh-CN": {
+        "text": "『JOKER.』大师",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "『JOKER.』 Maestro",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "『JOKER.』マスタリーLv.30到達",
+    "translation": {
+      "zh-CN": {
+        "text": "『JOKER.』精通等级达到30",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "『JOKER.』 Mastery Lv.30 Reached",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "『KEY of Like！』のマスタリーLv.を30にした記念のステッカー",
     "translation": {
       "zh-CN": {
@@ -82468,6 +82624,45 @@
       "en": {
         "text": "『♡桃色片想い♡』 Mastery Lv. 30 Reached",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "『あんなに一緒だったのに』のマスタリーLv.を30にした記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "『あんなに一緒だったのに』精通等级达到30纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The commemorative sticker for raising 『あんなに一緒だったのに』 Mastery Lv. to 30",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "『あんなに一緒だったのに』マエストロ",
+    "translation": {
+      "zh-CN": {
+        "text": "『あんなに一緒だったのに』大师",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "『あんなに一緒だったのに』 Maestro",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "『あんなに一緒だったのに』マスタリーLv.30到達",
+    "translation": {
+      "zh-CN": {
+        "text": "『あんなに一緒だったのに』精通等级达到30",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "『あんなに一緒だったのに』 Mastery Lv.30 Reached",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

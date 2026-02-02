@@ -8398,6 +8398,19 @@
     }
   },
   {
+    "raw": "このステージ中、AP回復速度を$+10%$する。さらにボルテージLv.8以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+20%$、ボルテージLv.55以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+200%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,AP回复速度$+10%$。并且Vo Lv.8以上时,本场Live中,获得技能心心时,其数量$+20%$,Vo Lv.55以上时,本场Live中,获得技能心心时,其数量$+200%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+10%$ during this stage. Additionally, when Voltage Lv. is 8 or higher, increase the amount gained from Skill Heart gain effects by $+20%$ during this stage, and when Voltage Lv. is 55 or higher, increase the amount gained from Skill Heart gain effects by $+200%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、AP回復速度を$+10.4%$する。",
     "translation": {
       "zh-CN": {
@@ -8892,6 +8905,19 @@
     }
   },
   {
+    "raw": "このステージ中、AP回復速度を$+4%$する。さらにボルテージLv.8以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+8%$、ボルテージLv.55以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+80%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,AP回复速度$+4%$。并且Vo Lv.8以上时,本场Live中,获得技能心心时,其数量$+8%$,Vo Lv.55以上时,本场Live中,获得技能心心时,其数量$+80%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+4%$ during this stage. Additionally, when Voltage Lv. is 8 or higher, increase the amount gained from Skill Heart gain effects by $+8%$ during this stage, and when Voltage Lv. is 55 or higher, increase the amount gained from Skill Heart gain effects by $+80%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、AP回復速度を$+4.1%$する。さらにこのステージ中、メンタルの最大値の$5.44%$分のメンタルダメージを無効にする。",
     "translation": {
       "zh-CN": {
@@ -8957,6 +8983,19 @@
     }
   },
   {
+    "raw": "このステージ中、AP回復速度を$+4.4%$する。さらにボルテージLv.8以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+8.8%$、ボルテージLv.55以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+88%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,AP回复速度$+4.4%$。并且Vo Lv.8以上时,本场Live中,获得技能心心时,其数量$+8.8%$,Vo Lv.55以上时,本场Live中,获得技能心心时,其数量$+88%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+4.4%$ during this stage. Additionally, when Voltage Lv. is 8 or higher, increase the amount gained from Skill Heart gain effects by $+8.8%$ during this stage, and when Voltage Lv. is 55 or higher, increase the amount gained from Skill Heart gain effects by $+88%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、AP回復速度を$+4.8%$する。さらにこのステージ中、メンタルの最大値の$6.4%$分のメンタルダメージを無効にする。",
     "translation": {
       "zh-CN": {
@@ -8996,6 +9035,19 @@
     }
   },
   {
+    "raw": "このステージ中、AP回復速度を$+4.8%$する。さらにボルテージLv.8以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+9.6%$、ボルテージLv.55以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+96%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,AP回复速度$+4.8%$。并且Vo Lv.8以上时,本场Live中,获得技能心心时,其数量$+9.6%$,Vo Lv.55以上时,本场Live中,获得技能心心时,其数量$+96%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+4.8%$ during this stage. Additionally, when Voltage Lv. is 8 or higher, increase the amount gained from Skill Heart gain effects by $+9.6%$ during this stage, and when Voltage Lv. is 55 or higher, increase the amount gained from Skill Heart gain effects by $+96%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、AP回復速度を$+5.1%$する。さらにこのステージ中、メンタルの最大値の$6.72%$分のメンタルダメージを無効にする。",
     "translation": {
       "zh-CN": {
@@ -9031,6 +9083,19 @@
       "en": {
         "text": "During this stage, increase AP recovery speed by $+5.2%$. Furthermore, gain Skill Hearts equivalent to $81$ beat hearts.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を$+5.2%$する。さらにボルテージLv.8以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+10.4%$、ボルテージLv.55以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+104%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,AP回复速度$+5.2%$。并且Vo Lv.8以上时,本场Live中,获得技能心心时,其数量$+10.4%$,Vo Lv.55以上时,本场Live中,获得技能心心时,其数量$+104%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+5.2%$ during this stage. Additionally, when Voltage Lv. is 8 or higher, increase the amount gained from Skill Heart gain effects by $+10.4%$ during this stage, and when Voltage Lv. is 55 or higher, increase the amount gained from Skill Heart gain effects by $+104%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -9100,6 +9165,19 @@
     }
   },
   {
+    "raw": "このステージ中、AP回復速度を$+5.6%$する。さらにボルテージLv.8以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+11.2%$、ボルテージLv.55以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+112%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,AP回复速度$+5.6%$。并且Vo Lv.8以上时,本场Live中,获得技能心心时,其数量$+11.2%$,Vo Lv.55以上时,本场Live中,获得技能心心时,其数量$+112%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+5.6%$ during this stage. Additionally, when Voltage Lv. is 8 or higher, increase the amount gained from Skill Heart gain effects by $+11.2%$ during this stage, and when Voltage Lv. is 55 or higher, increase the amount gained from Skill Heart gain effects by $+112%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、AP回復速度を$+6%$する。さらにこのステージ中、メンタルの最大値の$8%$分のメンタルダメージを無効にする。",
     "translation": {
       "zh-CN": {
@@ -9139,6 +9217,19 @@
     }
   },
   {
+    "raw": "このステージ中、AP回復速度を$+6%$する。さらにボルテージLv.8以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+12%$、ボルテージLv.55以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+120%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,AP回复速度$+6%$。并且Vo Lv.8以上时,本场Live中,获得技能心心时,其数量$+12%$,Vo Lv.55以上时,本场Live中,获得技能心心时,其数量$+120%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+6%$ during this stage. Additionally, when Voltage Lv. is 8 or higher, increase the amount gained from Skill Heart gain effects by $+12%$ during this stage, and when Voltage Lv. is 55 or higher, increase the amount gained from Skill Heart gain effects by $+120%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、AP回復速度を$+6.4%$する。さらにビートハート$99回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -9148,6 +9239,19 @@
       "en": {
         "text": "During this stage, increase AP recovery speed by $+6.4%$. Furthermore, gain Skill Hearts equivalent to $99$ beat hearts.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を$+6.4%$する。さらにボルテージLv.8以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+12.8%$、ボルテージLv.55以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+128%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,AP回复速度$+6.4%$。并且Vo Lv.8以上时,本场Live中,获得技能心心时,其数量$+12.8%$,Vo Lv.55以上时,本场Live中,获得技能心心时,其数量$+128%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+6.4%$ during this stage. Additionally, when Voltage Lv. is 8 or higher, increase the amount gained from Skill Heart gain effects by $+12.8%$ during this stage, and when Voltage Lv. is 55 or higher, increase the amount gained from Skill Heart gain effects by $+128%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -9165,6 +9269,19 @@
     }
   },
   {
+    "raw": "このステージ中、AP回復速度を$+6.8%$する。さらにボルテージLv.8以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+13.6%$、ボルテージLv.55以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+136%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,AP回复速度$+6.8%$。并且Vo Lv.8以上时,本场Live中,获得技能心心时,其数量$+13.6%$,Vo Lv.55以上时,本场Live中,获得技能心心时,其数量$+136%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+6.8%$ during this stage. Additionally, when Voltage Lv. is 8 or higher, increase the amount gained from Skill Heart gain effects by $+13.6%$ during this stage, and when Voltage Lv. is 55 or higher, increase the amount gained from Skill Heart gain effects by $+136%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、AP回復速度を$+7.2%$する。さらにビートハート$112回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -9174,6 +9291,19 @@
       "en": {
         "text": "During this stage, AP recovery speed $+7.2%$. Additionally, gain Skill Hearts equivalent to $112$ beat hearts.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を$+7.2%$する。さらにボルテージLv.8以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+14.4%$、ボルテージLv.55以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+144%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,AP回复速度$+7.2%$。并且Vo Lv.8以上时,本场Live中,获得技能心心时,其数量$+14.4%$,Vo Lv.55以上时,本场Live中,获得技能心心时,其数量$+144%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+7.2%$ during this stage. Additionally, when Voltage Lv. is 8 or higher, increase the amount gained from Skill Heart gain effects by $+14.4%$ during this stage, and when Voltage Lv. is 55 or higher, increase the amount gained from Skill Heart gain effects by $+144%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -9204,6 +9334,19 @@
     }
   },
   {
+    "raw": "このステージ中、AP回復速度を$+8%$する。さらにボルテージLv.8以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+16%$、ボルテージLv.55以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+160%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,AP回复速度$+8%$。并且Vo Lv.8以上时,本场Live中,获得技能心心时,其数量$+16%$,Vo Lv.55以上时,本场Live中,获得技能心心时,其数量$+160%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+8%$ during this stage. Additionally, when Voltage Lv. is 8 or higher, increase the amount gained from Skill Heart gain effects by $+16%$ during this stage, and when Voltage Lv. is 55 or higher, increase the amount gained from Skill Heart gain effects by $+160%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、AP回復速度を$+8.4%$する。さらにビートハート$130回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -9213,6 +9356,19 @@
       "en": {
         "text": "During this stage, AP recovery speed $+8.4%$. Additionally, gain Skill Hearts equivalent to $130$ beat hearts.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を$+8.4%$する。さらにボルテージLv.8以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+16.8%$、ボルテージLv.55以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+168%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,AP回复速度$+8.4%$。并且Vo Lv.8以上时,本场Live中,获得技能心心时,其数量$+16.8%$,Vo Lv.55以上时,本场Live中,获得技能心心时,其数量$+168%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+8.4%$ during this stage. Additionally, when Voltage Lv. is 8 or higher, increase the amount gained from Skill Heart gain effects by $+16.8%$ during this stage, and when Voltage Lv. is 55 or higher, increase the amount gained from Skill Heart gain effects by $+168%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -9256,6 +9412,19 @@
     }
   },
   {
+    "raw": "このステージ中、AP回復速度を$+8.8%$する。さらにボルテージLv.8以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+17.6%$、ボルテージLv.55以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+176%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,AP回复速度$+8.8%$。并且Vo Lv.8以上时,本场Live中,获得技能心心时,其数量$+17.6%$,Vo Lv.55以上时,本场Live中,获得技能心心时,其数量$+176%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+8.8%$ during this stage. Additionally, when Voltage Lv. is 8 or higher, increase the amount gained from Skill Heart gain effects by $+17.6%$ during this stage, and when Voltage Lv. is 55 or higher, increase the amount gained from Skill Heart gain effects by $+176%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、AP回復速度を$+9.2%$する。さらにビートハート$143回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -9265,6 +9434,19 @@
       "en": {
         "text": "During this stage, AP recovery speed $+9.2%$. Additionally, gain Skill Hearts equivalent to $143$ beat hearts.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を$+9.2%$する。さらにボルテージLv.8以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+18.4%$、ボルテージLv.55以上のとき、このステージ中、スキルハート獲得効果による獲得数を$+184%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,AP回复速度$+9.2%$。并且Vo Lv.8以上时,本场Live中,获得技能心心时,其数量$+18.4%$,Vo Lv.55以上时,本场Live中,获得技能心心时,其数量$+184%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+9.2%$ during this stage. Additionally, when Voltage Lv. is 8 or higher, increase the amount gained from Skill Heart gain effects by $+18.4%$ during this stage, and when Voltage Lv. is 55 or higher, increase the amount gained from Skill Heart gain effects by $+184%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -16471,6 +16653,162 @@
     }
   },
   {
+    "raw": "このステージ中、ムード値を$+10$する。さらにボルテージLv.8以上のとき、このステージ中、ビートハートの出現個数を+2、ボルテージLv.55以上のとき、このステージ中、ビートハートの出現個数を$+10$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,气氛值$+10$。并且Vo Lv.8以上时,本场Live中,节奏心心的出现数量+2,Vo Lv.55以上时,本场Live中,节奏心心的出现数量$+10$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Mood Value by $+10$ during this stage. Additionally, when Voltage Lv. is 8 or higher, increase the number of Beat Hearts appearing by +2 during this stage, and when Voltage Lv. is 55 or higher, increase the number of Beat Hearts appearing by $+10$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値を$+11$する。さらにボルテージLv.8以上のとき、このステージ中、ビートハートの出現個数を+2、ボルテージLv.55以上のとき、このステージ中、ビートハートの出現個数を$+10$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,气氛值$+11$。并且Vo Lv.8以上时,本场Live中,节奏心心的出现数量+2,Vo Lv.55以上时,本场Live中,节奏心心的出现数量$+10$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Mood Value by $+11$ during this stage. Additionally, when Voltage Lv. is 8 or higher, increase the number of Beat Hearts appearing by +2 during this stage, and when Voltage Lv. is 55 or higher, increase the number of Beat Hearts appearing by $+10$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値を$+12$する。さらにボルテージLv.8以上のとき、このステージ中、ビートハートの出現個数を+2、ボルテージLv.55以上のとき、このステージ中、ビートハートの出現個数を$+11$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,气氛值$+12$。并且Vo Lv.8以上时,本场Live中,节奏心心的出现数量+2,Vo Lv.55以上时,本场Live中,节奏心心的出现数量$+11$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Mood Value by $+12$ during this stage. Additionally, when Voltage Lv. is 8 or higher, increase the number of Beat Hearts appearing by +2 during this stage, and when Voltage Lv. is 55 or higher, increase the number of Beat Hearts appearing by $+11$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値を$+12$する。さらにボルテージLv.8以上のとき、このステージ中、ビートハートの出現個数を+2、ボルテージLv.55以上のとき、このステージ中、ビートハートの出現個数を$+12$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,气氛值$+12$。并且Vo Lv.8以上时,本场Live中,节奏心心的出现数量+2,Vo Lv.55以上时,本场Live中,节奏心心的出现数量$+12$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Mood Value by $+12$ during this stage. Additionally, when Voltage Lv. is 8 or higher, increase the number of Beat Hearts appearing by +2 during this stage, and when Voltage Lv. is 55 or higher, increase the number of Beat Hearts appearing by $+12$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値を$+13$する。さらにボルテージLv.8以上のとき、このステージ中、ビートハートの出現個数を+2、ボルテージLv.55以上のとき、このステージ中、ビートハートの出現個数を$+13$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,气氛值$+13$。并且Vo Lv.8以上时,本场Live中,节奏心心的出现数量+2,Vo Lv.55以上时,本场Live中,节奏心心的出现数量$+13$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Mood Value by $+13$ during this stage. Additionally, when Voltage Lv. is 8 or higher, increase the number of Beat Hearts appearing by +2 during this stage, and when Voltage Lv. is 55 or higher, increase the number of Beat Hearts appearing by $+13$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値を$+14$する。さらにボルテージLv.8以上のとき、このステージ中、ビートハートの出現個数を+2、ボルテージLv.55以上のとき、このステージ中、ビートハートの出現個数を$+14$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,气氛值$+14$。并且Vo Lv.8以上时,本场Live中,节奏心心的出现数量+2,Vo Lv.55以上时,本场Live中,节奏心心的出现数量$+14$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Mood Value by $+14$ during this stage. Additionally, when Voltage Lv. is 8 or higher, increase the number of Beat Hearts appearing by +2 during this stage, and when Voltage Lv. is 55 or higher, increase the number of Beat Hearts appearing by $+14$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値を$+15$する。さらにボルテージLv.8以上のとき、このステージ中、ビートハートの出現個数を+2、ボルテージLv.55以上のとき、このステージ中、ビートハートの出現個数を$+14$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,气氛值$+15$。并且Vo Lv.8以上时,本场Live中,节奏心心的出现数量+2,Vo Lv.55以上时,本场Live中,节奏心心的出现数量$+14$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Mood Value by $+15$ during this stage. Additionally, when Voltage Lv. is 8 or higher, increase the number of Beat Hearts appearing by +2 during this stage, and when Voltage Lv. is 55 or higher, increase the number of Beat Hearts appearing by $+14$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値を$+16$する。さらにボルテージLv.8以上のとき、このステージ中、ビートハートの出現個数を+2、ボルテージLv.55以上のとき、このステージ中、ビートハートの出現個数を$+16$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,气氛值$+16$。并且Vo Lv.8以上时,本场Live中,节奏心心的出现数量+2,Vo Lv.55以上时,本场Live中,节奏心心的出现数量$+16$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Mood Value by $+16$ during this stage. Additionally, when Voltage Lv. is 8 or higher, increase the number of Beat Hearts appearing by +2 during this stage, and when Voltage Lv. is 55 or higher, increase the number of Beat Hearts appearing by $+16$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値を$+17$する。さらにボルテージLv.8以上のとき、このステージ中、ビートハートの出現個数を+2、ボルテージLv.55以上のとき、このステージ中、ビートハートの出現個数を$+17$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,气氛值$+17$。并且Vo Lv.8以上时,本场Live中,节奏心心的出现数量+2,Vo Lv.55以上时,本场Live中,节奏心心的出现数量$+17$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Mood Value by $+17$ during this stage. Additionally, when Voltage Lv. is 8 or higher, increase the number of Beat Hearts appearing by +2 during this stage, and when Voltage Lv. is 55 or higher, increase the number of Beat Hearts appearing by $+17$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値を$+18$する。さらにボルテージLv.8以上のとき、このステージ中、ビートハートの出現個数を+2、ボルテージLv.55以上のとき、このステージ中、ビートハートの出現個数を$+18$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,气氛值$+18$。并且Vo Lv.8以上时,本场Live中,节奏心心的出现数量+2,Vo Lv.55以上时,本场Live中,节奏心心的出现数量$+18$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase Mood Value by $+18$ during this stage. Additionally, when Voltage Lv. is 8 or higher, increase the number of Beat Hearts appearing by +2 during this stage, and when Voltage Lv. is 55 or higher, increase the number of Beat Hearts appearing by $+18$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値を$+19$する。さらにボルテージLv.8以上のとき、このステージ中、ビートハートの出現個数を+2、ボルテージLv.55以上のとき、このステージ中、ビートハートの出現個数を$+18$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,气氛值$+19$。此外,Vo Lv.8以上时,本场Live中,节奏心心的出现数量+2,Vo Lv.55以上时,本场Live中,节奏心心的出现数量$+18$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, increase Mood Value by $+19$. Additionally, when Voltage Lv. is 8 or higher, increase the number of Beat Hearts that appear by +2 during this stage, and when Voltage Lv. is 55 or higher, increase the number of Beat Hearts that appear by $+18$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値を$+20$する。さらにボルテージLv.8以上のとき、このステージ中、ビートハートの出現個数を+2、ボルテージLv.55以上のとき、このステージ中、ビートハートの出現個数を$+20$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,气氛值$+20$。此外,Vo Lv.8以上时,本场Live中,节奏心心的出现数量+2,Vo Lv.55以上时,本场Live中,节奏心心的出现数量$+20$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, increase Mood Value by $+20$. Additionally, when Voltage Lv. is 8 or higher, increase the number of Beat Hearts that appear by +2 during this stage, and when Voltage Lv. is 55 or higher, increase the number of Beat Hearts that appear by $+20$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、ムード値を$+4$する。さらにムードがハッピー、メロウいずれか100のとき、それぞれ2回の間泉、セラスが使用するスキルハート獲得効果による獲得数を$+210%$する。",
     "translation": {
       "zh-CN": {
@@ -16614,6 +16952,19 @@
     }
   },
   {
+    "raw": "このステージ中、ムード値を$+8$する。さらにボルテージLv.8以上のとき、このステージ中、ビートハートの出現個数を+2、ボルテージLv.55以上のとき、このステージ中、ビートハートの出現個数を$+8$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,气氛值$+8$。此外,Vo Lv.8以上时,本场Live中,节奏心心的出现数量+2,Vo Lv.55以上时,本场Live中,节奏心心的出现数量$+8$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, increase Mood Value by $+8$. Additionally, when Voltage Lv. is 8 or higher, increase the number of Beat Hearts that appear by +2 during this stage, and when Voltage Lv. is 55 or higher, increase the number of Beat Hearts that appear by $+8$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、ムード値を$+8$する。さらにムードがハッピー、メロウいずれか100のとき、それぞれ2回の間泉、セラスが使用するスキルハート獲得効果による獲得数を$+462%$する。",
     "translation": {
       "zh-CN": {
@@ -16648,6 +16999,19 @@
       },
       "en": {
         "text": "During this stage, increase Mood value by $+8$. Additionally, when either Happy or Mellow Mood reaches 100, increase the number of Skill Hearts acquired by Izumi and Ceras by $+525%$ for 2 turns each.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値を$+9$する。さらにボルテージLv.8以上のとき、このステージ中、ビートハートの出現個数を+2、ボルテージLv.55以上のとき、このステージ中、ビートハートの出現個数を$+9$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,气氛值$+9$。此外,Vo Lv.8以上时,本场Live中,节奏心心的出现数量+2,Vo Lv.55以上时,本场Live中,节奏心心的出现数量$+9$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, increase Mood Value by $+9$. Additionally, when Voltage Lv. is 8 or higher, increase the number of Beat Hearts that appear by +2 during this stage, and when Voltage Lv. is 55 or higher, increase the number of Beat Hearts that appear by $+9$ during this stage.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -48932,6 +49296,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+10$する。さらにムードがハッピー、メロウいずれか100のとき、このセクション中、手札の上限枚数を2枚増加し、このステージ中、ハート上限を$+144$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值$+10$。此外,气氛为Happy或Mellow任意一方达到100时,本小节中,手牌上限增加2张,本场Live中,心心上限$+144$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+10$. Additionally, when Mood is either Happy or Mellow at 100, increase the maximum number of cards in hand by 2 during this section and increase Heart Cap by $+144$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+100$し、AP回復速度を$+80%$する。さらに16回の間泉が使用するスキルハート獲得効果による獲得数を$+800%$する。",
     "translation": {
       "zh-CN": {
@@ -48958,6 +49335,97 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+11$する。さらにムードがハッピー、メロウいずれか100のとき、このセクション中、手札の上限枚数を2枚増加し、このステージ中、ハート上限を$+156$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值$+11$。此外,气氛为Happy或Mellow任意一方达到100时,本小节中,手牌上限增加2张,本场Live中,心心上限$+156$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+11$. Additionally, when Mood is either Happy or Mellow at 100, increase the maximum number of cards in hand by 2 during this section and increase Heart Cap by $+156$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+12$する。さらにムードがハッピー、メロウいずれか100のとき、このセクション中、手札の上限枚数を2枚増加し、このステージ中、ハート上限を$+168$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值$+12$。此外,气氛为Happy或Mellow任意一方达到100时,本小节中,手牌上限增加2张,本场Live中,心心上限$+168$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+12$. Additionally, when Mood is either Happy or Mellow at 100, increase the maximum number of cards in hand by 2 during this section and increase Heart Cap by $+168$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+12$する。さらにムードがハッピー、メロウいずれか100のとき、このセクション中、手札の上限枚数を2枚増加し、このステージ中、ハート上限を$+180$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值$+12$。此外,气氛为Happy或Mellow任意一方达到100时,本小节中,手牌上限增加2张,本场Live中,心心上限$+180$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+12$. Additionally, when Mood is either Happy or Mellow at 100, increase the maximum number of cards in hand by 2 during this section and increase Heart Cap by $+180$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+13$する。さらにムードがハッピー、メロウいずれか100のとき、このセクション中、手札の上限枚数を2枚増加し、このステージ中、ハート上限を$+192$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值$+13$。此外,气氛为Happy或Mellow任意一方达到100时,本小节中,手牌上限增加2张,本场Live中,心心上限$+192$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+13$. Additionally, when Mood is either Happy or Mellow at 100, increase the maximum number of cards in hand by 2 during this section and increase Heart Cap by $+192$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+14$する。さらにムードがハッピー、メロウいずれか100のとき、このセクション中、手札の上限枚数を2枚増加し、このステージ中、ハート上限を$+204$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值$+14$。此外,气氛为Happy或Mellow任意一方达到100时,本小节中,手牌上限增加2张,本场Live中,心心上限$+204$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+14$. Additionally, when Mood is either Happy or Mellow at 100, increase the maximum number of cards in hand by 2 during this section and increase Heart Cap by $+204$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+15$する。さらにムードがハッピー、メロウいずれか100のとき、このセクション中、手札の上限枚数を2枚増加し、このステージ中、ハート上限を$+216$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值$+15$。此外,气氛为Happy或Mellow任意一方达到100时,本小节中,手牌上限增加2张,本场Live中,心心上限$+216$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+15$. Additionally, when Mood is either Happy or Mellow at 100, increase the maximum number of cards in hand by 2 during this section and increase Heart Cap by $+216$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+16$する。さらにムードがハッピー、メロウいずれか100のとき、このセクション中、手札の上限枚数を2枚増加し、このステージ中、ハート上限を$+240$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值$+16$。此外,气氛为Happy或Mellow任意一方达到100时,本小节中,手牌上限增加2张,本场Live中,心心上限$+240$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+16$. Additionally, when Mood is either Happy or Mellow at 100, increase the maximum number of cards in hand by 2 during this section and increase Heart Cap by $+240$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+16$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+160$し、ビートハート$40回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -48971,6 +49439,32 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+17$する。さらにムードがハッピー、メロウいずれか100のとき、このセクション中、手札の上限枚数を2枚増加し、このステージ中、ハート上限を$+252$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值$+17$。此外,气氛为Happy或Mellow任意一方达到100时,本小节中,手牌上限增加2张,本场Live中,心心上限$+252$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+17$. Additionally, when Mood is either Happy or Mellow at 100, increase the maximum number of cards in hand by 2 during this section and increase Heart Cap by $+252$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+18$する。さらにムードがハッピー、メロウいずれか100のとき、このセクション中、手札の上限枚数を2枚増加し、このステージ中、ハート上限を$+264$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值$+18$。此外,气氛为Happy或Mellow任意一方达到100时,本小节中,手牌上限增加2张,本场Live中,心心上限$+264$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+18$. Additionally, when Mood is either Happy or Mellow at 100, increase the maximum number of cards in hand by 2 during this section and increase Heart Cap by $+264$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+18$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+176$し、ビートハート$44回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -48980,6 +49474,32 @@
       "en": {
         "text": "During this section, increase Mood by $+18$. Additionally, if Mood is either Happy or Mellow at 100, increase Voltage Pt. by $+176$ and gain Skill Hearts equivalent to $44$ beats of Beat Hearts.",
         "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+19$する。さらにムードがハッピー、メロウいずれか100のとき、このセクション中、手札の上限枚数を2枚増加し、このステージ中、ハート上限を$+276$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值$+19$。此外,气氛为Happy或Mellow任意一方达到100时,本小节中,手牌上限增加2张,本场Live中,心心上限$+276$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+19$. Additionally, when Mood is either Happy or Mellow at 100, increase the maximum number of cards in hand by 2 during this section and increase Heart Cap by $+276$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+20$する。さらにムードがハッピー、メロウいずれか100のとき、このセクション中、手札の上限枚数を2枚増加し、このステージ中、ハート上限を$+300$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值$+20$。此外,气氛为Happy或Mellow任意一方达到100时,本小节中,手牌上限增加2张,本场Live中,心心上限$+300$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+20$. Additionally, when Mood is either Happy or Mellow at 100, increase the maximum number of cards in hand by 2 during this section and increase Heart Cap by $+300$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -49374,6 +49894,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+8$する。さらにムードがハッピー、メロウいずれか100のとき、このセクション中、手札の上限枚数を2枚増加し、このステージ中、ハート上限を$+120$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值$+8$。此外,气氛为Happy或Mellow任意一方达到100时,本小节中,手牌上限增加2张,本场Live中,心心上限$+120$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+8$. Additionally, when Mood is either Happy or Mellow at 100, increase the maximum number of cards in hand by 2 during this section and increase Heart Cap by $+120$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+80$し、AP回復速度を$+64%$する。さらに16回の間泉が使用するスキルハート獲得効果による獲得数を$+640%$する。",
     "translation": {
       "zh-CN": {
@@ -49447,6 +49980,19 @@
       },
       "en": {
         "text": "During this section, increase Mood value by $+88$ and increase the maximum number of cards in hand by 4. Additionally, reduce the AP cost of all skills in the deck by -8.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+9$する。さらにムードがハッピー、メロウいずれか100のとき、このセクション中、手札の上限枚数を2枚増加し、このステージ中、ハート上限を$+132$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值$+9$。此外,气氛为Happy或Mellow任意一方达到100时,本小节中,手牌上限增加2张,本场Live中,心心上限$+132$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+9$. Additionally, when Mood is either Happy or Mellow at 100, increase the maximum number of cards in hand by 2 during this section and increase Heart Cap by $+132$ during this stage.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -50050,6 +50596,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をメロウ方向に$+12$する。さらにメロウ100のとき、カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を1000%吸収したとき、このステージ中、獲得するLOVEを$+1000%$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+12$。此外,Mellow达到100时,将卡牌放置在场上,吸收LOVE+效果。吸收1000%LOVE+效果时,本场Live中,获得的LOVE$+1000%$,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+12$. Additionally, when Mellow is 100, the card is set on stage and absorbs Love Attract effects. When 1000% of Love Attract effects are absorbed, increase LOVE gained by $+1000%$ during this stage and move to discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をメロウ方向に$+14$する。さらにムードがメロウ50以上のとき、ボルテージPt.を$+110$、メンタルを最大値の20％減少させ、メロウ100以上のとき、このステージ中、獲得するLOVEを$+44%$、メンタルを最大値の30％減少させる。",
     "translation": {
       "zh-CN": {
@@ -50058,6 +50617,19 @@
       },
       "en": {
         "text": "During this section, increase Mood Value in the Mellow direction by +14. Additionally, when Mood is Mellow 50 or higher, increase Voltage Pt. by +110 and reduce Mental by 20% of its maximum value. When Mellow is 100 or higher, increase LOVE gained by +44% for the rest of this stage and reduce Mental by 30% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+14$する。さらにメロウ100のとき、カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を1000%吸収したとき、このステージ中、獲得するLOVEを$+1100%$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+14$。此外,Mellow达到100时,将卡牌放置在场上,吸收LOVE+效果。吸收1000%LOVE+效果时,本场Live中,获得的LOVE$+1100%$,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+14$. Additionally, when Mellow is 100, the card is set on stage and absorbs Love Attract effects. When 1000% of Love Attract effects are absorbed, increase LOVE gained by $+1100%$ during this stage and move to discard pile.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -50076,6 +50648,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をメロウ方向に$+15$する。さらにメロウ100のとき、カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を1000%吸収したとき、このステージ中、獲得するLOVEを$+1200%$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+15$。此外,Mellow达到100时,将卡牌放置在场上,吸收LOVE+效果。吸收1000%LOVE+效果时,本场Live中,获得的LOVE$+1200%$,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+15$. Additionally, when Mellow is 100, the card is set on stage and absorbs Love Attract effects. When 1000% of Love Attract effects are absorbed, increase LOVE gained by $+1200%$ during this stage and move to discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をメロウ方向に$+16$する。さらにムードがメロウ50以上のとき、ボルテージPt.を$+130$、メンタルを最大値の20％減少させ、メロウ100以上のとき、このステージ中、獲得するLOVEを$+52%$、メンタルを最大値の30％減少させる。",
     "translation": {
       "zh-CN": {
@@ -50084,6 +50669,19 @@
       },
       "en": {
         "text": "During this section, increase Mood Value in the Mellow direction by +16. Additionally, when Mood is Mellow 50 or higher, increase Voltage Pt. by +130 and reduce Mental by 20% of its maximum value. When Mellow is 100 or higher, increase LOVE gained by +52% for the rest of this stage and reduce Mental by 30% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+16$する。さらにメロウ100のとき、カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を1000%吸収したとき、このステージ中、獲得するLOVEを$+1300%$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+16$。此外,Mellow达到100时,将卡牌放置在场上,吸收LOVE+效果。吸收1000%LOVE+效果时,本场Live中,获得的LOVE$+1300%$,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+16$. Additionally, when Mellow is 100, the card is set on stage and absorbs Love Attract effects. When 1000% of Love Attract effects are absorbed, increase LOVE gained by $+1300%$ during this stage and move to discard pile.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -50102,6 +50700,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をメロウ方向に$+17$する。さらにメロウ100のとき、カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を1000%吸収したとき、このステージ中、獲得するLOVEを$+1400%$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+17$。此外,Mellow达到100时,将卡牌放置在场上,吸收LOVE+效果。吸收1000%LOVE+效果时,本场Live中,获得的LOVE$+1400%$,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+17$. Additionally, when Mellow is 100, the card is set on stage and absorbs Love Attract effects. When 1000% of Love Attract effects are absorbed, increase LOVE gained by $+1400%$ during this stage and move to discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をメロウ方向に$+18$する。さらにムードがメロウ50以上のとき、ボルテージPt.を$+150$、メンタルを最大値の20％減少させ、メロウ100以上のとき、このステージ中、獲得するLOVEを$+60%$、メンタルを最大値の30％減少させる。",
     "translation": {
       "zh-CN": {
@@ -50115,6 +50726,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をメロウ方向に$+18$する。さらにメロウ100のとき、カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を1000%吸収したとき、このステージ中、獲得するLOVEを$+1500%$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+18$。此外,Mellow达到100时,将卡牌放置在场上,吸收LOVE+效果。吸收1000%LOVE+效果时,本场Live中,获得的LOVE$+1500%$,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+18$. Additionally, when Mellow is 100, the card is set on stage and absorbs Love Attract effects. When 1000% of Love Attract effects are absorbed, increase LOVE gained by $+1500%$ during this stage and move to discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をメロウ方向に$+20$する。さらにムードがメロウ50以上のとき、ボルテージPt.を$+160$、メンタルを最大値の20％減少させ、メロウ100以上のとき、このステージ中、獲得するLOVEを$+64%$、メンタルを最大値の30％減少させる。",
     "translation": {
       "zh-CN": {
@@ -50123,6 +50747,32 @@
       },
       "en": {
         "text": "During this section, increase Mood Value in the Mellow direction by +20. Additionally, when Mood is Mellow 50 or higher, increase Voltage Pt. by +160 and reduce Mental by 20% of its maximum value. When Mellow is 100 or higher, increase LOVE gained by +64% for the rest of this stage and reduce Mental by 30% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+20$する。さらにメロウ100のとき、3回の間ラブアトラクト効果を$+176%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+20$。此外,Mellow为100时,接下来3次LOVE+效果$+176%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+20$. Additionally, when Mellow is 100, increase Love Attract effect by $+176%$ for 3 turns.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+20$する。さらにメロウ100のとき、カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を1000%吸収したとき、このステージ中、獲得するLOVEを$+1600%$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+20$。此外,Mellow为100时,将卡牌放置在场上,吸收LOVE+效果。吸收1000%LOVE+效果时,本场Live中,获得的LOVE$+1600%$,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+20$. Additionally, when Mellow is 100, the card is set on stage and absorbs Love Attract effects. When 1000% of Love Attract effects are absorbed, increase LOVE gained by $+1600%$ during this stage and move to discard pile.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -50154,6 +50804,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をメロウ方向に$+21$する。さらにメロウ100のとき、カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を1000%吸収したとき、このステージ中、獲得するLOVEを$+1700%$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+21$。此外,Mellow为100时,将卡牌放置在场上,吸收LOVE+效果。吸收1000%LOVE+效果时,本场Live中,获得的LOVE$+1700%$,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+21$. Additionally, when Mellow is 100, the card is set on stage and absorbs Love Attract effects. When 1000% of Love Attract effects are absorbed, increase LOVE gained by $+1700%$ during this stage and move to discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をメロウ方向に$+22$する。さらにムードがメロウ50以上のとき、ボルテージPt.を$+180$、メンタルを最大値の20％減少させ、メロウ100以上のとき、このステージ中、獲得するLOVEを$+72%$、メンタルを最大値の30％減少させる。",
     "translation": {
       "zh-CN": {
@@ -50162,6 +50825,32 @@
       },
       "en": {
         "text": "During this section, increase Mood Value in the Mellow direction by +22. Additionally, when Mood is Mellow 50 or higher, increase Voltage Pt. by +180 and reduce Mental by 20% of its maximum value. When Mellow is 100 or higher, increase LOVE gained by +72% for the rest of this stage and reduce Mental by 30% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+22$する。さらにメロウ100のとき、3回の間ラブアトラクト効果を$+193.6%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+22$。此外,Mellow为100时,接下来3次LOVE+效果$+193.6%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+22$. Additionally, when Mellow is 100, increase Love Attract effect by $+193.6%$ for 3 turns.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+22$する。さらにメロウ100のとき、カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を1000%吸収したとき、このステージ中、獲得するLOVEを$+1800%$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+22$。此外,Mellow为100时,将卡牌放置在场上,吸收LOVE+效果。吸收1000%LOVE+效果时,本场Live中,获得的LOVE$+1800%$,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+22$. Additionally, when Mellow is 100, the card is set on stage and absorbs Love Attract effects. When 1000% of Love Attract effects are absorbed, increase LOVE gained by $+1800%$ during this stage and move to discard pile.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -50193,6 +50882,32 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をメロウ方向に$+24$する。さらにメロウ100のとき、3回の間ラブアトラクト効果を$+211.2%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+24$。此外,Mellow为100时,接下来3次LOVE+效果$+211.2%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+24$. Additionally, when Mellow is 100, increase Love Attract effect by $+211.2%$ for 3 turns.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+24$する。さらにメロウ100のとき、カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を1000%吸収したとき、このステージ中、獲得するLOVEを$+2000%$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+24$。此外,Mellow为100时,将卡牌放置在场上,吸收LOVE+效果。吸收1000%LOVE+效果时,本场Live中,获得的LOVE$+2000%$,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+24$. Additionally, when Mellow is 100, the card is set on stage and absorbs Love Attract effects. When 1000% of Love Attract effects are absorbed, increase LOVE gained by $+2000%$ during this stage and move to discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をメロウ方向に$+24$する。さらにメンタルを最大値の16%減少させる。",
     "translation": {
       "zh-CN": {
@@ -50214,6 +50929,32 @@
       },
       "en": {
         "text": "During this section, increase Mood Value in the Mellow direction by +26. Additionally, when Mood is Mellow 50 or higher, increase Voltage Pt. by +210 and reduce Mental by 20% of its maximum value. When Mellow is 100 or higher, increase LOVE gained by +84% for the rest of this stage and reduce Mental by 30% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+26$する。さらにメロウ100のとき、3回の間ラブアトラクト効果を$+228.8%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+26$。此外,Mellow为100时,接下来3次LOVE+效果$+228.8%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+26$. Additionally, when Mellow is 100, increase Love Attract effect by $+228.8%$ for 3 turns.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+26$する。さらにメロウ100のとき、カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を1000%吸収したとき、このステージ中、獲得するLOVEを$+2100%$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+26$。此外,Mellow为100时,将卡牌放置在场上,吸收LOVE+效果。吸收1000%LOVE+效果时,本场Live中,获得的LOVE$+2100%$,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+26$. Additionally, when Mellow is 100, the card is set on stage and absorbs Love Attract effects. When 1000% of Love Attract effects are absorbed, increase LOVE gained by $+2100%$ during this stage and move to discard pile.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -50245,6 +50986,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をメロウ方向に$+27$する。さらにメロウ100のとき、カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を1000%吸収したとき、このステージ中、獲得するLOVEを$+2200%$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+27$。此外,Mellow为100时,将卡牌放置在场上,吸收LOVE+效果。吸收1000%LOVE+效果时,本场Live中,获得的LOVE$+2200%$,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+27$. Additionally, when Mellow is 100, the card is set on stage and absorbs Love Attract effects. When 1000% of Love Attract effects are absorbed, increase LOVE gained by $+2200%$ during this stage and move to discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をメロウ方向に$+28$する。さらにムードがメロウ50以上のとき、ボルテージPt.を$+230$、メンタルを最大値の20％減少させ、メロウ100以上のとき、このステージ中、獲得するLOVEを$+92%$、メンタルを最大値の30％減少させる。",
     "translation": {
       "zh-CN": {
@@ -50253,6 +51007,32 @@
       },
       "en": {
         "text": "During this section, increase Mood Value in the Mellow direction by +28. Additionally, when Mood is Mellow 50 or higher, increase Voltage Pt. by +230 and reduce Mental by 20% of its maximum value. When Mellow is 100 or higher, increase LOVE gained by +92% for the rest of this stage and reduce Mental by 30% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+28$する。さらにメロウ100のとき、3回の間ラブアトラクト効果を$+246.4%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+28$。此外,Mellow为100时,接下来3次LOVE+效果$+246.4%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+28$. Additionally, when Mellow is 100, increase Love Attract effect by $+246.4%$ for 3 turns.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+28$する。さらにメロウ100のとき、カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を1000%吸収したとき、このステージ中、獲得するLOVEを$+2300%$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+28$。此外,Mellow为100时,将卡牌放置在场上,吸收LOVE+效果。吸收1000%LOVE+效果时,本场Live中,获得的LOVE$+2300%$,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+28$. Additionally, when Mellow is 100, the card is set on stage and absorbs Love Attract effects. When 1000% of Love Attract effects are absorbed, increase LOVE gained by $+2300%$ during this stage and move to discard pile.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -50284,6 +51064,32 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をメロウ方向に$+30$する。さらにメロウ100のとき、3回の間ラブアトラクト効果を$+264%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+30$。此外,Mellow为100时,接下来3次LOVE+效果$+264%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+30$. Additionally, when Mellow is 100, increase Love Attract effect by $+264%$ for 3 turns.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+30$する。さらにメロウ100のとき、カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を1000%吸収したとき、このステージ中、獲得するLOVEを$+2500%$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+30$。此外,Mellow为100时,将卡牌放置在场上,吸收LOVE+效果。吸收1000%LOVE+效果时,本场Live中,获得的LOVE$+2500%$,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+30$. Additionally, when Mellow is 100, the card is set on stage and absorbs Love Attract effects. When 1000% of Love Attract effects are absorbed, increase LOVE gained by $+2500%$ during this stage and move to discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をメロウ方向に$+30$する。さらにメンタルを最大値の16%減少させる。",
     "translation": {
       "zh-CN": {
@@ -50293,6 +51099,19 @@
       "en": {
         "text": "During this section, shift mood value toward Mellow by $+30$. Additionally, reduce Mental by 16% of max value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+32$する。さらにメロウ100のとき、3回の間ラブアトラクト効果を$+281.6%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+32$。此外,Mellow为100时,接下来3次LOVE+效果$+281.6%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+32$. Additionally, when Mellow is 100, increase Love Attract effect by $+281.6%$ for 3 turns.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -50310,6 +51129,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をメロウ方向に$+34$する。さらにメロウ100のとき、3回の間ラブアトラクト効果を$+299.2%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+34$。此外,Mellow为100时,接下来3次LOVE+效果$+299.2%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+34$. Additionally, when Mellow is 100, increase Love Attract effect by $+299.2%$ for 3 turns.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をメロウ方向に$+34$する。さらにメンタルを最大値の16%減少させる。",
     "translation": {
       "zh-CN": {
@@ -50319,6 +51151,19 @@
       "en": {
         "text": "During this section, shift mood value toward Mellow by $+34$. Additionally, reduce Mental by 16% of max value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+36$する。さらにメロウ100のとき、3回の間ラブアトラクト効果を$+316.8%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+36$。此外,Mellow为100时,接下来3次LOVE+效果$+316.8%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+36$. Additionally, when Mellow is 100, increase Love Attract effect by $+316.8%$ for 3 turns.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -50349,6 +51194,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をメロウ方向に$+40$する。さらにメロウ100のとき、3回の間ラブアトラクト効果を$+352%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+40$。此外,Mellow为100时,接下来3次LOVE+效果$+352%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+40$. Additionally, when Mellow is 100, increase Love Attract effect by $+352%$ for 3 turns.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をメロウ方向に$+40$する。さらにメンタルを最大値の16%減少させる。",
     "translation": {
       "zh-CN": {
@@ -50358,6 +51216,19 @@
       "en": {
         "text": "During this section, shift mood value toward Mellow by $+40$. Additionally, reduce Mental by 16% of max value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+42$する。さらにメロウ100のとき、3回の間ラブアトラクト効果を$+369.6%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+42$。此外,Mellow为100时,接下来3次LOVE+效果$+369.6%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+42$. Additionally, when Mellow is 100, increase Love Attract effect by $+369.6%$ for 3 turns.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -50388,6 +51259,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をメロウ方向に$+44$する。さらにメロウ100のとき、3回の間ラブアトラクト効果を$+387.2%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+44$。此外,Mellow为100时,接下来3次LOVE+效果$+387.2%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+44$. Additionally, when Mellow is 100, increase Love Attract effect by $+387.2%$ for 3 turns.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をメロウ方向に$+44$する。さらにメンタルを最大値の16%減少させる。",
     "translation": {
       "zh-CN": {
@@ -50397,6 +51281,19 @@
       "en": {
         "text": "During this section, shift mood value toward Mellow by $+44$. Additionally, reduce Mental by 16% of max value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+46$する。さらにメロウ100のとき、3回の間ラブアトラクト効果を$+404.8%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+46$。此外,Mellow为100时,接下来3次LOVE+效果$+404.8%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+46$. Additionally, when Mellow is 100, increase Love Attract effect by $+404.8%$ for 3 turns.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -50422,6 +51319,19 @@
       },
       "en": {
         "text": "During this section, increase Mood Value in the Mellow direction by +48. Additionally, during this section, increase the Love Attract effect used by Sayaka and Kosuzu by +240% and the Voltage Gain effect by +240%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+50$する。さらにメロウ100のとき、3回の間ラブアトラクト効果を$+440%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中,气氛值向Mellow方向$+50$。此外,Mellow为100时,接下来3次LOVE+效果$+440%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value toward Mellow by $+50$. Additionally, when Mellow is 100, increase Love Attract effect by $+440%$ for 3 turns.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -68857,6 +69767,188 @@
       "en": {
         "text": "The card is set on stage and absorbs AP recovery speed increase effects. When 16% of AP recovery speed increase effects are absorbed, during this section, increases heart limit by $+960$ and moves to discard pile.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復速度増加効果を吸収する。AP回復速度増加効果を20%吸収したとき、ビートハート$20回分$のスキルハートを獲得、手札をシャッフルし、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上,吸收AP回复速度增加效果。吸收20%AP回复速度增加效果时,获得$20倍$跳心的技能心心,洗牌手牌,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set on stage and absorbs AP Recovery Speed increase effects. When 20% of AP Recovery Speed increase effects are absorbed, gain Skill Hearts equivalent to $20$ beats, shuffle your hand, and move to discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復速度増加効果を吸収する。AP回復速度増加効果を20%吸収したとき、ビートハート$22回分$のスキルハートを獲得、手札をシャッフルし、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上,吸收AP回复速度增加效果。吸收20%AP回复速度增加效果时,获得$22倍$跳心的技能心心,洗牌手牌,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The card is set on stage and absorbs AP Recovery Speed increase effects. When 20% of AP Recovery Speed increase effects are absorbed, gain Skill Hearts equivalent to $22$ beats, shuffle your hand, and move to discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復速度増加効果を吸収する。AP回復速度増加効果を20%吸収したとき、ビートハート$24回分$のスキルハートを獲得、手札をシャッフルし、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上,吸收AP回复速度增加效果。吸收20%AP回复速度增加效果时,获得$24倍$跳心的技能心心,洗牌手牌,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When the card is set on stage, it absorbs AP Recovery Speed increase effects. When it absorbs 20% AP Recovery Speed increase effects, gain Skill Hearts equivalent to $24$ beats, shuffle your hand, and move to discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復速度増加効果を吸収する。AP回復速度増加効果を20%吸収したとき、ビートハート$26回分$のスキルハートを獲得、手札をシャッフルし、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上,吸收AP回复速度增加效果。吸收20%AP回复速度增加效果时,获得$26倍$跳心的技能心心,洗牌手牌,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When the card is set on stage, it absorbs AP Recovery Speed increase effects. When it absorbs 20% AP Recovery Speed increase effects, gain Skill Hearts equivalent to $26$ beats, shuffle your hand, and move to discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復速度増加効果を吸収する。AP回復速度増加効果を20%吸収したとき、ビートハート$28回分$のスキルハートを獲得、手札をシャッフルし、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上,吸收AP回复速度增加效果。吸收20%AP回复速度增加效果时,获得$28倍$跳心的技能心心,洗牌手牌,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When the card is set on stage, it absorbs AP Recovery Speed increase effects. When it absorbs 20% AP Recovery Speed increase effects, gain Skill Hearts equivalent to $28$ beats, shuffle your hand, and move to discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復速度増加効果を吸収する。AP回復速度増加効果を20%吸収したとき、ビートハート$30回分$のスキルハートを獲得、手札をシャッフルし、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上,吸收AP回复速度增加效果。吸收20%AP回复速度增加效果时,获得$30倍$跳心的技能心心,洗牌手牌,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When the card is set on stage, it absorbs AP Recovery Speed increase effects. When it absorbs 20% AP Recovery Speed increase effects, gain Skill Hearts equivalent to $30$ beats, shuffle your hand, and move to discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復速度増加効果を吸収する。AP回復速度増加効果を20%吸収したとき、ビートハート$32回分$のスキルハートを獲得、手札をシャッフルし、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上,吸收AP回复速度增加效果。吸收20%AP回复速度增加效果时,获得$32倍$跳心的技能心心,洗牌手牌,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When the card is set on stage, it absorbs AP Recovery Speed increase effects. When it absorbs 20% AP Recovery Speed increase effects, gain Skill Hearts equivalent to $32$ beats, shuffle your hand, and move to discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復速度増加効果を吸収する。AP回復速度増加効果を20%吸収したとき、ビートハート$34回分$のスキルハートを獲得、手札をシャッフルし、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上,吸收AP回复速度增加效果。吸收20%AP回复速度增加效果时,获得$34倍$跳心的技能心心,洗牌手牌,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When the card is set on stage, it absorbs AP Recovery Speed increase effects. When it absorbs 20% AP Recovery Speed increase effects, gain Skill Hearts equivalent to $34$ beats, shuffle your hand, and move to discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復速度増加効果を吸収する。AP回復速度増加効果を20%吸収したとき、ビートハート$36回分$のスキルハートを獲得、手札をシャッフルし、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上,吸收AP回复速度增加效果。吸收20%AP回复速度增加效果时,获得$36倍$跳心的技能心心,洗牌手牌,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When the card is set on stage, it absorbs AP Recovery Speed increase effects. When it absorbs 20% AP Recovery Speed increase effects, gain Skill Hearts equivalent to $36$ beats, shuffle your hand, and move to discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復速度増加効果を吸収する。AP回復速度増加効果を20%吸収したとき、ビートハート$40回分$のスキルハートを獲得、手札をシャッフルし、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上,吸收AP回复速度增加效果。吸收20%AP回复速度增加效果时,获得$40倍$跳心的技能心心,洗牌手牌,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When the card is set on stage, it absorbs AP Recovery Speed increase effects. When it absorbs 20% AP Recovery Speed increase effects, gain Skill Hearts equivalent to $40$ beats, shuffle your hand, and move to discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復速度増加効果を吸収する。AP回復速度増加効果を20%吸収したとき、ビートハート$42回分$のスキルハートを獲得、手札をシャッフルし、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上,吸收AP回复速度增加效果。吸收20%AP回复速度增加效果时,获得$42倍$跳心的技能心心,洗牌手牌,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When the card is set on stage, it absorbs AP Recovery Speed increase effects. When it absorbs 20% AP Recovery Speed increase effects, gain Skill Hearts equivalent to $42$ beats, shuffle your hand, and move to discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復速度増加効果を吸収する。AP回復速度増加効果を20%吸収したとき、ビートハート$44回分$のスキルハートを獲得、手札をシャッフルし、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上,吸收AP回复速度增加效果。吸收20%AP回复速度增加效果时,获得$44倍$跳心的技能心心,洗牌手牌,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When the card is set on stage, it absorbs AP Recovery Speed increase effects. When it absorbs 20% AP Recovery Speed increase effects, gain Skill Hearts equivalent to $44$ beats, shuffle your hand, and move to discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復速度増加効果を吸収する。AP回復速度増加効果を20%吸収したとき、ビートハート$46回分$のスキルハートを獲得、手札をシャッフルし、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上,吸收AP回复速度增加效果。吸收20%AP回复速度增加效果时,获得$46倍$跳心的技能心心,洗牌手牌,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When the card is set on stage, it absorbs AP Recovery Speed increase effects. When it absorbs 20% AP Recovery Speed increase effects, gain Skill Hearts equivalent to $46$ beats, shuffle your hand, and move to discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、AP回復速度増加効果を吸収する。AP回復速度増加効果を20%吸収したとき、ビートハート$50回分$のスキルハートを獲得、手札をシャッフルし、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌放置在场上,吸收AP回复速度增加效果。吸收20%AP回复速度增加效果时,获得$50倍$跳心的技能心心,洗牌手牌,移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When the card is set on stage, it absorbs AP Recovery Speed increase effects. When it absorbs 20% AP Recovery Speed increase effects, gain Skill Hearts equivalent to $50$ beats, shuffle your hand, and move to discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -128440,6 +129532,32 @@
     }
   },
   {
+    "raw": "手札にある状態でセクションが変わるたび、ボルテージPt.を＋20、APを3回復し、ボルテージLv.55以上のときAP回復速度を+55%、APを15回復する。さらに手札にある状態で泉のスキルを使用するたび、デッキ内の泉のスキルの消費APを-5し、次に泉が使用するスキルハート獲得効果による獲得数を+450%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在手牌中时每次小节变更,Vo Pt.+20,恢复3AP,Voltage Lv.55以上时AP回复速度+55%,恢复15AP。并且在手牌中时每次使用泉的技能,卡组中泉的技能消费AP-5,下次泉获得技能心心时,其数量+450%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Each time the section changes while in hand, increase Voltage Pt. by +20, recover 3 AP, and when Voltage Lv. is 55 or higher, increase AP Recovery Speed by +55% and recover 15 AP. Additionally, each time Izumi's skill is used while in hand, reduce the AP cost of Izumi's skills in the deck by -5 and increase the amount gained from the next Skill Heart gain effect used by Izumi by +450%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札にある状態でセクションが変わるたび、ボルテージPt.を＋20、APを3回復し、ボルテージLv.55以上のときこのセクション中、ビートハートの出現個数を+5、APを15回復する。さらに手札にある状態でセラスのスキルを使用するたび、デッキ内のセラスのスキルの消費APを-5し、次にセラスが使用すムード値変動効果を+150%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在手牌中时每次小节变更,Vo Pt.+20,恢复3AP,Voltage Lv.55以上时本小节中,节奏心心的出现数量+5,恢复15AP。并且在手牌中时每次使用塞拉斯的技能,卡组中塞拉斯的技能消费AP-5,下次塞拉斯使用的气氛值变动效果+150%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Each time the section changes while in hand, increase Voltage Pt. by +20, recover 3 AP, and when Voltage Lv. is 55 or higher, increase the number of Beat Hearts appearing by +5 during this section and recover 15 AP. Additionally, each time Ceras's skill is used while in hand, reduce the AP cost of Ceras's skills in the deck by -5 and increase the next Mood value change effect used by Ceras by +150%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "手札にある状態でセクションが変わるたび、ボルテージPt.を＋20し、APが3回復する。さらに吟子のスキルを使用するたび、手札のこのスキルの消費AP-5。",
     "translation": {
       "zh-CN": {
@@ -153318,6 +154436,19 @@
       "en": {
         "text": "After using Izumi's skill, the probability of drawing this card greatly increases. Additionally, when using this skill while mood is Happy 75 or higher, increase the number of beat hearts that appear by +1 during this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "泉のスキルを使用した後、ドローされる確率が大幅に増加する。さらにメロウ100でドローしたとき、次に使用するラブアトラクト効果を+100%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "使用泉的技能后,抽到的概率大幅提升。并且在Mellow100时抽到时,下次使用的LOVE+效果+100%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "After using Izumi's skill, the probability of being drawn is greatly increased. Additionally, when drawn at Mellow 100, increase the next Love Attract effect used by +100%.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

@@ -1209,6 +1209,19 @@
     }
   },
   {
+    "raw": "メイン効果がメンタル回復のスキルの消費APを+8する。",
+    "translation": {
+      "zh-CN": {
+        "text": "使主要效果为Mental回复的技能的消耗AP+8。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Main effect increases the AP consumed by skills with Mental recovery by +8.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メイン効果がメンタル回復のスキルの消費APを-5する。",
     "translation": {
       "en": {

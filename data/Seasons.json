@@ -325,6 +325,19 @@
     }
   },
   {
+    "raw": "105期第11シーズン",
+    "translation": {
+      "zh-CN": {
+        "text": "105期第11赛季",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Class 105, Season 11",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "105期第1シーズン",
     "translation": {
       "zh-CN": {

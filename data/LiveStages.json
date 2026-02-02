@@ -507,6 +507,19 @@
     }
   },
   {
+    "raw": "スキルを3回使用するたび、ボルテージを+3000し、山札が切れるたび、ボルテージを-1000する。",
+    "translation": {
+      "zh-CN": {
+        "text": "每使用3次技能时,Voltage增加3000点,且每当牌库用完时,Voltage减少1000点。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Each time a skill is used 3 times, gain +3000 Voltage, and each time the deck runs out, lose -1000 Voltage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "スキルを3回使用するたび、ボルテージを+5000し、山札が切れるたび、ボルテージを-2000する。",
     "translation": {
       "en": {
@@ -1092,6 +1105,19 @@
     }
   },
   {
+    "raw": "ステージ開始時、デッキの全てのカードの消費APをステージ中常に-3し、メイン効果がメンタルプロテクトであるデッキの全てのカードの消費APをステージ中常に+10する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Live开始时,使牌组中所有卡牌的消耗AP在本阶段始终-3,并使牌组中所有主要效果为Mental Protect的卡牌的消耗AP在本阶段始终+10。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "At stage start, all cards in the deck have their AP cost permanently reduced by -3 throughout the stage, and all cards in the deck whose main effect is Mental Protect have their AP cost increased by +10 throughout the stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ステージ開始時、デッキの全ての泉、姫芽、吟子、花帆の消費APをステージ中常に-10し、さやか、瑠璃乃、小鈴、セラスの消費APをステージ中常に+10する。",
     "translation": {
       "zh-CN": {
@@ -1477,6 +1503,19 @@
       },
       "zh-CN": {
         "text": "每当使用主要效果为恢复Mental值的技能时，Voltage增加2000点，且每当使用主要效果为Mental保护的技能时，Voltage减少2000点。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メイン効果がリシャッフルのスキルを使用するたび、このステージ中、獲得するLOVEを+2000%し、また山札が切れるたび、APが3減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "每当使用主要效果为重洗的技能时,在本阶段获得的LOVE增加2000%,且每当牌库用完时,AP减少3点。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Each time a skill is used whose main effect is Reshuffle, increase the LOVE gained by +2000% for the remainder of the stage, and each time the deck runs out, decrease AP by 3.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }

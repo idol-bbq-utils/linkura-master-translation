@@ -4560,6 +4560,12 @@
             "Description": "スタイル解放素材(徒町 小鈴)"
         },
         {
+            "Id": 4042522,
+            "Name": "[Jolie Mademoiselle]徒町 小鈴 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(徒町 小鈴)"
+        },
+        {
             "Id": 4042801,
             "Name": "[Ether Aria]徒町 小鈴 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
@@ -4890,6 +4896,12 @@
             "Description": "スタイル解放素材(桂城 泉)"
         },
         {
+            "Id": 4051510,
+            "Name": "[蓮ノ空歌留多]桂城 泉 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(桂城 泉)"
+        },
+        {
             "Id": 4051801,
             "Name": "[Oracle Étude]桂城 泉 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
@@ -4982,6 +4994,12 @@
         {
             "Id": 4052509,
             "Name": "[令嬢モブ！]セラス 柳田 リリエンフェルト 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(セラス 柳田 リリエンフェルト)"
+        },
+        {
+            "Id": 4052510,
+            "Name": "[蓮ノ空歌留多]セラス 柳田 リリエンフェルト 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
             "Description": "スタイル解放素材(セラス 柳田 リリエンフェルト)"
         },

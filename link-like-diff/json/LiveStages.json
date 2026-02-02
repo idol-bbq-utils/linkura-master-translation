@@ -4872,6 +4872,24 @@
             "StageSkillDescription": "Edel Noteのスキルを使用するたび、このステージ中、獲得するLOVEを+1000%し、スキルを5回使用するたび、メンタルを最大値の20%減少させる。"
         },
         {
+            "Id": 1041801,
+            "Name": "コンサートホール",
+            "Description": "コンサートホール",
+            "StageSkillDescription": "メイン効果がリシャッフルのスキルを使用するたび、このステージ中、獲得するLOVEを+2000%し、また山札が切れるたび、APが3減少する。"
+        },
+        {
+            "Id": 1041802,
+            "Name": "テーマパーク",
+            "Description": "テーマパーク",
+            "StageSkillDescription": "ステージ開始時、デッキの全てのカードの消費APをステージ中常に-3し、メイン効果がメンタルプロテクトであるデッキの全てのカードの消費APをステージ中常に+10する。"
+        },
+        {
+            "Id": 1041803,
+            "Name": "野外ステージ",
+            "Description": "野外ステージ",
+            "StageSkillDescription": "スキルを3回使用するたび、ボルテージを+3000し、山札が切れるたび、ボルテージを-1000する。"
+        },
+        {
             "Id": 531031101,
             "Name": "教室",
             "Description": "教室",
@@ -6102,6 +6120,60 @@
             "StageSkillDescription": ""
         },
         {
+            "Id": 531054401,
+            "Name": "教室",
+            "Description": "教室",
+            "StageSkillDescription": ""
+        },
+        {
+            "Id": 531054402,
+            "Name": "体育館",
+            "Description": "体育館",
+            "StageSkillDescription": ""
+        },
+        {
+            "Id": 531054403,
+            "Name": "中庭特設ステージ",
+            "Description": "中庭特設ステージ",
+            "StageSkillDescription": ""
+        },
+        {
+            "Id": 531054404,
+            "Name": "屋上特設ステージ",
+            "Description": "屋上特設ステージ",
+            "StageSkillDescription": ""
+        },
+        {
+            "Id": 531054405,
+            "Name": "教室",
+            "Description": "教室",
+            "StageSkillDescription": ""
+        },
+        {
+            "Id": 531054501,
+            "Name": "屋上特設ステージ",
+            "Description": "屋上特設ステージ",
+            "StageSkillDescription": ""
+        },
+        {
+            "Id": 531054502,
+            "Name": "野外ステージ",
+            "Description": "野外ステージ",
+            "StageSkillDescription": ""
+        },
+        {
+            "Id": 531054503,
+            "Name": "路上",
+            "Description": "路上",
+            "StageSkillDescription": ""
+        },
+        {
+            "Id": 531054504,
+            "Name": "スタジアム",
+            "Description": "スタジアム",
+            "StageSkillDescription": ""
+        },
+        {
             "Id": 571031101,
             "Name": "中庭特設ステージ",
             "Description": "中庭特設ステージ",
@@ -6525,6 +6597,18 @@
             "Id": 571054301,
             "Name": "スタジアム",
             "Description": "スタジアム",
+            "StageSkillDescription": ""
+        },
+        {
+            "Id": 571054401,
+            "Name": "テーマパーク",
+            "Description": "テーマパーク",
+            "StageSkillDescription": ""
+        },
+        {
+            "Id": 571054501,
+            "Name": "ホール",
+            "Description": "ホール",
             "StageSkillDescription": ""
         }
     ]

@@ -182,6 +182,19 @@
     }
   },
   {
+    "raw": "AP回復速度 -50%",
+    "translation": {
+      "zh-CN": {
+        "text": "AP回复速度 -50%",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "AP Recovery Speed -50%",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "AP回復速度 -999%",
     "translation": {
       "zh-CN": {
@@ -1127,6 +1140,19 @@
       "en": {
         "text": "During Live, reduce AP recovery speed by 30%.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ライブ中、APの回復速度を-50%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Live中,AP的回复速度降低50%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During a live performance, AP recovery speed is reduced by 50%.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

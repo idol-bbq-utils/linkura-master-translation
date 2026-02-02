@@ -6716,6 +6716,21 @@
             "Description": "百生吟子／徒町小鈴／安養寺姫芽のアピール値が200％上昇"
         },
         {
+            "Id": 20425221,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が72％上昇"
+        },
+        {
+            "Id": 20425222,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が72％上昇"
+        },
+        {
+            "Id": 20425223,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が72％上昇"
+        },
+        {
             "Id": 20428011,
             "CenterAttributeName": "アピールアップ（DOLLCHESTRA）&APレデュース&CTレデュース",
             "Description": "DOLLCHESTRAに所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少"
@@ -7571,6 +7586,21 @@
             "Description": "Edel Noteに所属するメンバーのアピール値が200％上昇"
         },
         {
+            "Id": 20515101,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
+            "Id": 20515102,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
+            "Id": 20515103,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
             "Id": 20518011,
             "CenterAttributeName": "アピールアップ（桂城泉）&APレデュース&CTレデュース",
             "Description": "桂城泉のアピール値が320％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少"
@@ -7819,6 +7849,21 @@
             "Id": 20525093,
             "CenterAttributeName": "アピールアップ（Edel Note）",
             "Description": "Edel Noteに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20525101,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
+            "Id": 20525102,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
+            "Id": 20525103,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が80％上昇"
         },
         {
             "Id": 20528011,

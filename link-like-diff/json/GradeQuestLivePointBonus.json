@@ -1148,6 +1148,38 @@
         {
             "Id": 1054304,
             "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1054401,
+            "Description": "WINTER LIMITED"
+        },
+        {
+            "Id": 1054402,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1054403,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1054404,
+            "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1054501,
+            "Description": "WINTER LIMITED"
+        },
+        {
+            "Id": 1054502,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1054503,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1054504,
+            "Description": "レアリティ：DR"
         }
     ]
 }

@@ -3284,6 +3284,126 @@
         {
             "Id": 1054309,
             "ConditionsDescription": "残り行動Pt.15以上でクリア"
+        },
+        {
+            "Id": 1054401,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率20％"
+        },
+        {
+            "Id": 1054402,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率40％"
+        },
+        {
+            "Id": 1054403,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率60％"
+        },
+        {
+            "Id": 1054404,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率80％"
+        },
+        {
+            "Id": 1054405,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率100％"
+        },
+        {
+            "Id": 1054406,
+            "ConditionsDescription": "残り行動Pt.5以上でクリア"
+        },
+        {
+            "Id": 1054407,
+            "ConditionsDescription": "残り行動Pt.10以上でクリア"
+        },
+        {
+            "Id": 1054408,
+            "ConditionsDescription": "残り行動Pt.13以上でクリア"
+        },
+        {
+            "Id": 1054409,
+            "ConditionsDescription": "残り行動Pt.15以上でクリア"
+        },
+        {
+            "Id": 1054410,
+            "ConditionsDescription": "1個以上のライブステージのライブPt.獲得率を100％にしてクリア"
+        },
+        {
+            "Id": 1054411,
+            "ConditionsDescription": "2個以上のライブステージのライブPt.獲得率を100％にしてクリア"
+        },
+        {
+            "Id": 1054412,
+            "ConditionsDescription": "3個以上のライブステージのライブPt.獲得率を100％にしてクリア"
+        },
+        {
+            "Id": 1054413,
+            "ConditionsDescription": "4個以上のライブステージのライブPt.獲得率を100％にしてクリア"
+        },
+        {
+            "Id": 1054414,
+            "ConditionsDescription": "5個以上のライブステージのライブPt.獲得率を100％にしてクリア"
+        },
+        {
+            "Id": 1054501,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率10％"
+        },
+        {
+            "Id": 1054502,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率25％"
+        },
+        {
+            "Id": 1054503,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率40％"
+        },
+        {
+            "Id": 1054504,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率55％"
+        },
+        {
+            "Id": 1054505,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率70％"
+        },
+        {
+            "Id": 1054506,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率80％"
+        },
+        {
+            "Id": 1054507,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率90％"
+        },
+        {
+            "Id": 1054508,
+            "ConditionsDescription": "メインライブステージのライブPt.獲得率100％"
+        },
+        {
+            "Id": 1054509,
+            "ConditionsDescription": "残り行動Pt.2以上でクリア"
+        },
+        {
+            "Id": 1054510,
+            "ConditionsDescription": "残り行動Pt.5以上でクリア"
+        },
+        {
+            "Id": 1054511,
+            "ConditionsDescription": "残り行動Pt.8以上でクリア"
+        },
+        {
+            "Id": 1054512,
+            "ConditionsDescription": "残り行動Pt.10以上でクリア"
+        },
+        {
+            "Id": 1054513,
+            "ConditionsDescription": "1個以上のライブステージのライブPt.獲得率を100％にしてクリア"
+        },
+        {
+            "Id": 1054514,
+            "ConditionsDescription": "2個以上のライブステージのライブPt.獲得率を100％にしてクリア"
+        },
+        {
+            "Id": 1054515,
+            "ConditionsDescription": "3個以上のライブステージのライブPt.獲得率を100％にしてクリア"
+        },
+        {
+            "Id": 1054516,
+            "ConditionsDescription": "4個以上のライブステージのライブPt.獲得率を100％にしてクリア"
         }
     ]
 }

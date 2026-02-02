@@ -1677,6 +1677,19 @@
     }
   },
   {
+    "raw": "アンビエンスエクステワイド",
+    "translation": {
+      "zh-CN": {
+        "text": "氛围延展宽广",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Ambience Exte Wide",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "アンビエンスハート",
     "translation": {
       "en": {
@@ -2015,6 +2028,19 @@
     }
   },
   {
+    "raw": "イミテーションマドモアゼル",
+    "translation": {
+      "zh-CN": {
+        "text": "模仿Mademoiselle",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Imitation Mademoiselle",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "イミテーションライト",
     "translation": {
       "en": {
@@ -2024,6 +2050,19 @@
       "zh-CN": {
         "text": "模拟光芒",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "イミテーションリフレッシュハート",
+    "translation": {
+      "zh-CN": {
+        "text": "模仿清新之心",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Imitation Refresh Heart",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -2608,6 +2647,19 @@
       },
       "zh-CN": {
         "text": "Wing Beat Mentor",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ウォームアトラクト",
+    "translation": {
+      "zh-CN": {
+        "text": "温暖吸引",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Warm Attract",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -3627,6 +3679,19 @@
     }
   },
   {
+    "raw": "オーバーセクション：ボルテージゲイン & APゲイン & APレデュース & ハートブースト：泉",
+    "translation": {
+      "zh-CN": {
+        "text": "超越区间：Voltage Gain & AP Gain & AP Reduce & 心心提升：泉",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Over Section: Voltage Gain & AP Gain & AP Reduce & Heart Boost: Izumi",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "オーバーセクション：ボルテージゲイン & APゲイン & APレデュース & ボルテージゲイン：綴理",
     "translation": {
       "zh-CN": {
@@ -3636,6 +3701,19 @@
       "en": {
         "text": "Over Section: Voltage Gain & AP Gain & AP Reduce & Voltage Gain: Tsuzuri",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "オーバーセクション：ボルテージゲイン & APゲイン & APレデュース & ムードブースト：セラス",
+    "translation": {
+      "zh-CN": {
+        "text": "超越区间：Voltage Gain & AP Gain & AP Reduce & 情绪提升：塞拉斯",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Over Section: Voltage Gain & AP Gain & AP Reduce & Mood Boost: Ceras",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -4342,6 +4420,19 @@
     }
   },
   {
+    "raw": "グルーヴィサウンドバイブス",
+    "translation": {
+      "zh-CN": {
+        "text": "律动声音震动",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Groovy Sound Vibes",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "グルーヴィシグニャル",
     "translation": {
       "en": {
@@ -4416,6 +4507,19 @@
       "zh-CN": {
         "text": "律动热度氛围",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "グルーヴィヒートブースト",
+    "translation": {
+      "zh-CN": {
+        "text": "律动热力提升",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Groovy Heat Boost",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -11462,6 +11566,19 @@
       "en": {
         "text": "Mellow Ambience",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メロウアンビエンスブースト",
+    "translation": {
+      "zh-CN": {
+        "text": "柔和氛围提升",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Mellow Ambience Boost",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

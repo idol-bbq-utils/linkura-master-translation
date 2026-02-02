@@ -1483,6 +1483,13 @@
             "ReleaseConditionText": "初めから習得"
         },
         {
+            "Id": 405134,
+            "Title": "JOKER.",
+            "TitleFurigana": "じょーかー",
+            "Description": "全体曲",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
             "Id": 405201,
             "Title": "テレパシ",
             "TitleFurigana": "てれぱし",
@@ -1521,6 +1528,13 @@
             "Id": 405206,
             "Title": "FIRE BIRD",
             "TitleFurigana": "ふぁいあばーど",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 405207,
+            "Title": "あんなに一緒だったのに",
+            "TitleFurigana": "あんなにいっしょだったのに",
             "Description": "一般カバー",
             "ReleaseConditionText": "ミュージックPt. を使用して習得"
         },
