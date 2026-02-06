@@ -3874,6 +3874,19 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】ボルテージPt.を$243pt$獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the start of FEVER】Gain 243 Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】获得$243pt$Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】ボルテージPt.を$245pt$獲得",
     "translation": {
       "zh-CN": {
@@ -4017,6 +4030,19 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】ボルテージPt.を$268pt$獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the start of FEVER】Gain 268 Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】获得$268pt$Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】ボルテージPt.を$270pt$獲得",
     "translation": {
       "zh-CN": {
@@ -4065,6 +4091,19 @@
       "en": {
         "text": "【Activates when FEVER starts】Gain $286pt$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】ボルテージPt.を$292pt$獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the start of FEVER】Gain 292 Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】获得$292pt$Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -4160,6 +4199,19 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】ボルテージPt.を$316pt$獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the start of FEVER】Gain 316 Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】获得$316pt$Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】ボルテージPt.を$318pt$獲得",
     "translation": {
       "zh-CN": {
@@ -4169,6 +4221,19 @@
       "en": {
         "text": "【Activates when FEVER starts】Gain $318pt$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】ボルテージPt.を$341pt$獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the start of FEVER】Gain 341 Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】获得$341pt$Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -4199,6 +4264,19 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】ボルテージPt.を$365pt$獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the start of FEVER】Gain 365 Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】获得$365pt$Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】ボルテージPt.を$382pt$獲得",
     "translation": {
       "zh-CN": {
@@ -4221,6 +4299,19 @@
       "en": {
         "text": "【Activates when FEVER starts】Gain $385pt$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】ボルテージPt.を$390pt$獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the start of FEVER】Gain 390 Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】获得$390pt$Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -4338,6 +4429,19 @@
       "en": {
         "text": "【Activates when FEVER starts】Gain $420pt$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】ボルテージPt.を$438pt$獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the start of FEVER】Gain 438 Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】获得$438pt$Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -4472,6 +4576,19 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】ボルテージPt.を$487pt$獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the start of FEVER】Gain 487 Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】获得$487pt$Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】ボルテージPt.を$49pt$獲得／スキルの合計発動回数が3回以上の時、ボルテージPt.を$58pt$獲得",
     "translation": {
       "zh-CN": {
@@ -4585,6 +4702,19 @@
       "en": {
         "text": "【Activates when FEVER starts】Gain $525pt$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】ボルテージPt.を$536pt$獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the start of FEVER】Gain 536 Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】获得$536pt$Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -4914,6 +5044,19 @@
     }
   },
   {
+    "raw": "【FEVER開始時に発動】ボルテージPt.を$585pt$獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the start of FEVER】Gain 585 Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】获得$585pt$Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "【FEVER開始時に発動】ボルテージPt.を$60pt$獲得",
     "translation": {
       "zh-CN": {
@@ -5144,6 +5287,19 @@
       "en": {
         "text": "【Activates at FEVER start】Gain $62pt$ Voltage Pt. / When Mental is 75% or less of maximum value, gain $75pt$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】ボルテージPt.を$633pt$獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the start of FEVER】Gain 633 Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】获得$633pt$Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -5482,6 +5638,19 @@
       "en": {
         "text": "【Activates at FEVER start】Gain $69pt$ Voltage Pt. / When Mental is 50% or more of maximum value, gain $97pt$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【FEVER開始時に発動】ボルテージPt.を$731pt$獲得",
+    "translation": {
+      "en": {
+        "text": "【Activated at the start of FEVER】Gain 731 Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【FEVER开始时发动】获得$731pt$Voltage Pt.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -12493,6 +12662,32 @@
     }
   },
   {
+    "raw": "【ライブ開始時に発動】APを$16$回復",
+    "translation": {
+      "en": {
+        "text": "【Activated at the start of the live】Restore 16 AP",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【Live开始时发动】回复$16$AP",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "【ライブ開始時に発動】APを$17$回復",
+    "translation": {
+      "en": {
+        "text": "【Activated at the start of the live】Restore 17 AP",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【Live开始时发动】回复$17$AP",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "【ライブ開始時に発動】APを$18$回復",
     "translation": {
       "zh-CN": {
@@ -12528,6 +12723,19 @@
       "zh-CN": {
         "text": "【Live开始时发动】AP回复$2$／Mental减少最大值的$30%$（此效果不会使Mental变为0）",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【ライブ開始時に発動】APを$20$回復",
+    "translation": {
+      "en": {
+        "text": "【Activated at the start of the live】Restore 20 AP",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "【Live开始时发动】回复$20$AP",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

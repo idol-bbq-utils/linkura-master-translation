@@ -17537,6 +17537,32 @@
     }
   },
   {
+    "raw": "「花咲特急☆エーデルギャラクシーツアー アテンダントセラスパック」を購入して獲得したアイテムです。",
+    "translation": {
+      "en": {
+        "text": "Items obtained by purchasing the 'Hanasaki Express☆Edel Galaxy Tour Attendant Ceras Pack'.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "购买「花咲特急☆银河伊甸园巡游 乘务员塞拉斯组合包」获得的道具。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "「花咲特急☆エーデルギャラクシーツアー アテンダント泉パック」を購入して獲得したアイテムです。",
+    "translation": {
+      "en": {
+        "text": "Items obtained by purchasing the 'Hanasaki Express☆Edel Galaxy Tour Attendant Izumi Pack'.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "购买「花咲特急☆银河伊甸园巡游 乘务员泉组合包」获得的道具。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "「蓮ノ空女学院 ラブライブ！優勝記念パック」を購入して獲得したアイテムです。",
     "translation": {
       "zh-CN": {

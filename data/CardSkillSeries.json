@@ -4732,6 +4732,19 @@
     }
   },
   {
+    "raw": "コンサートミストレス",
+    "translation": {
+      "en": {
+        "text": "Concert Mistress",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "音乐会首席",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "コーチング",
     "translation": {
       "zh-CN": {
@@ -7618,6 +7631,19 @@
     }
   },
   {
+    "raw": "デザインリアリティ",
+    "translation": {
+      "en": {
+        "text": "Design Reality",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "设计现实",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "デビルアシスト",
     "translation": {
       "en": {
@@ -7666,6 +7692,19 @@
       "zh-CN": {
         "text": "Tomorrow Ribbon",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "トゥルーイミテーション",
+    "translation": {
+      "en": {
+        "text": "True Imitation",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "真实模仿",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -10907,6 +10946,32 @@
     }
   },
   {
+    "raw": "ブルームオペレーター",
+    "translation": {
+      "en": {
+        "text": "Bloom Operator",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "绽放操作者",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ブルームコンダクター",
+    "translation": {
+      "en": {
+        "text": "Bloom Conductor",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "绽放指挥者",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ブルームマイセルフ",
     "translation": {
       "zh-CN": {
@@ -11410,6 +11475,19 @@
       "en": {
         "text": "Voltage Boost",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ポエティックパフォーマンス",
+    "translation": {
+      "en": {
+        "text": "Poetic Performance",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "诗意表演",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

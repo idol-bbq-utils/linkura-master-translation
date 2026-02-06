@@ -858,6 +858,19 @@
     }
   },
   {
+    "raw": "廻天の車窓",
+    "translation": {
+      "en": {
+        "text": "Revolving Heavens' Window",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "回天的车窗",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "徒町小鈴のアピール値が320％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少",
     "translation": {
       "zh-CN": {
@@ -997,6 +1010,19 @@
       "zh-CN": {
         "text": "桂城泉/塞拉斯的表现值提升200%",
         "author": "gemini-3-pro-preview"
+      }
+    }
+  },
+  {
+    "raw": "桂城泉／セラスのアピール値が320%上昇／全てのスキルの消費APが2減少／クールタイムが1秒減少",
+    "translation": {
+      "en": {
+        "text": "Izumi Katsuragi/Ceras's Appeal values increase by 320%/All skills' AP consumption decreases by 2/Cooldown decreases by 1 second",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "桂城泉/塞拉斯的表现值提升320%/所有技能的消耗AP减少2/冷却时间减少1秒",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

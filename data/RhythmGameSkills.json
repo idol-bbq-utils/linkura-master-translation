@@ -715,6 +715,32 @@
     }
   },
   {
+    "raw": "APゲイン&デッキリセット&ボルテージゲイン&AP減少&スコアアップ&AP減少",
+    "translation": {
+      "en": {
+        "text": "AP Gain & Deck Reset & Voltage Gain & AP Reduction & Score Increase & AP Reduction",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "AP回复&卡组重置&Voltage获得&AP减少&分数提升&AP减少",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "APゲイン&デッキリセット&ボルテージ獲得量アップ&AP減少&スコア獲得量アップ&AP減少",
+    "translation": {
+      "en": {
+        "text": "AP Gain & Deck Reset & Voltage Acquisition Increase & AP Reduction & Score Acquisition Increase & AP Reduction",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "AP回复&卡组重置&Voltage获得量提升&AP减少&分数获得量提升&AP减少",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "APゲイン&ボルテージ獲得量アップ",
     "translation": {
       "zh-CN": {
@@ -3363,6 +3389,370 @@
       "en": {
         "text": "When this card's skill activation count is 4 or more, gain score equal to $482.11%$ of total appeal value / Gain score equal to $74.52%$ of total appeal value",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$2$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージPt.を$209pt$獲得／APを$7$減少／スキルの合計発動回数が25回以上の時、合計アピール値の$585%$のスコアを獲得／スキルの合計発動回数が25回以上の時、APを$10$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $2$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, acquire $209pt$ of Voltage Points / Reduce AP by $7$ / When the total number of skill activations is 25 or more, acquire a score equal to $585%$ of the total Appeal Value / When the total number of skill activations is 25 or more, reduce AP by $10$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$2$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Vo Pt.$209pt$／AP减少$7$／技能总发动次数25次以上时，获得总分值$585%$的分数／技能总发动次数25次以上时，AP减少$10$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$2$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージPt.を$230pt$獲得／APを$7$減少／スキルの合計発動回数が25回以上の時、合計アピール値の$643.5%$のスコアを獲得／スキルの合計発動回数が25回以上の時、APを$10$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $2$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, acquire $230pt$ of Voltage Points / Reduce AP by $7$ / When the total number of skill activations is 25 or more, acquire a score equal to $643.5%$ of the total Appeal Value / When the total number of skill activations is 25 or more, reduce AP by $10$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$2$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Vo Pt.$230pt$／AP减少$7$／技能总发动次数25次以上时，获得总分值$643.5%$的分数／技能总发动次数25次以上时，AP减少$10$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$2$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$209.25%$上昇／APを$7$減少／スキルの合計発動回数が20回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$487.5%$上昇／スキルの合計発動回数が20回以上の時、APを$10$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $2$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, the voltage acquisition effect skill increases voltage acquisition by $209.25%$ for one turn / Reduce AP by $7$ / When the total number of skill activations is 20 or more, the score acquisition effect skill increases score acquisition by $487.5%$ for one turn / When the total number of skill activations is 20 or more, reduce AP by $10$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$2$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Voltage效果技能的Voltage获得量单次提升$209.25%$／AP减少$7$／技能总发动次数20次以上时，获得分数效果技能获得的分数值单次提升$487.5%$／技能总发动次数20次以上时，AP减少$10$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$2$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$230.17%$上昇／APを$7$減少／スキルの合計発動回数が20回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$536.25%$上昇／スキルの合計発動回数が20回以上の時、APを$10$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $2$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, the voltage acquisition effect skill increases voltage acquisition by $230.17%$ for one turn / Reduce AP by $7$ / When the total number of skill activations is 20 or more, the score acquisition effect skill increases score acquisition by $536.25%$ for one turn / When the total number of skill activations is 20 or more, reduce AP by $10$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$2$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Voltage效果技能的Voltage获得量单次提升$230.17%$／AP减少$7$／技能总发动次数20次以上时，获得分数效果技能获得的分数值单次提升$536.25%$／技能总发动次数20次以上时，AP减少$10$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$3$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージPt.を$251pt$獲得／APを$7$減少／スキルの合計発動回数が25回以上の時、合計アピール値の$702%$のスコアを獲得／スキルの合計発動回数が25回以上の時、APを$10$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $3$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, acquire $251pt$ of Voltage Points / Reduce AP by $7$ / When the total number of skill activations is 25 or more, acquire a score equal to $702%$ of the total Appeal Value / When the total number of skill activations is 25 or more, reduce AP by $10$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$3$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Vo Pt.$251pt$／AP减少$7$／技能总发动次数25次以上时，获得总分值$702%$的分数／技能总发动次数25次以上时，AP减少$10$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$3$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージPt.を$272pt$獲得／APを$7$減少／スキルの合計発動回数が25回以上の時、合計アピール値の$760.5%$のスコアを獲得／スキルの合計発動回数が25回以上の時、APを$10$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $3$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, acquire $272pt$ of Voltage Points / Reduce AP by $7$ / When the total number of skill activations is 25 or more, acquire a score equal to $760.5%$ of the total Appeal Value / When the total number of skill activations is 25 or more, reduce AP by $10$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$3$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Vo Pt.$272pt$／AP减少$7$／技能总发动次数25次以上时，获得总分值$760.5%$的分数／技能总发动次数25次以上时，AP减少$10$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$3$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージPt.を$292pt$獲得／APを$7$減少／スキルの合計発動回数が25回以上の時、合計アピール値の$819%$のスコアを獲得／スキルの合計発動回数が25回以上の時、APを$10$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $3$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, acquire $292pt$ of Voltage Points / Reduce AP by $7$ / When the total number of skill activations is 25 or more, acquire a score equal to $819%$ of the total Appeal Value / When the total number of skill activations is 25 or more, reduce AP by $10$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$3$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Vo Pt.$292pt$／AP减少$7$／技能总发动次数25次以上时，获得总分值$819%$的分数／技能总发动次数25次以上时，AP减少$10$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$3$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$251.1%$上昇／APを$7$減少／スキルの合計発動回数が20回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$585%$上昇／スキルの合計発動回数が20回以上の時、APを$10$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $3$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, the voltage acquisition effect skill increases voltage acquisition by $251.1%$ for one turn / Reduce AP by $7$ / When the total number of skill activations is 20 or more, the score acquisition effect skill increases score acquisition by $585%$ for one turn / When the total number of skill activations is 20 or more, reduce AP by $10$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$3$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Voltage效果技能的Voltage获得量单次提升$251.1%$／AP减少$7$／技能总发动次数20次以上时，获得分数效果技能获得的分数值单次提升$585%$／技能总发动次数20次以上时，AP减少$10$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$3$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$272.02%$上昇／APを$7$減少／スキルの合計発動回数が20回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$633.75%$上昇／スキルの合計発動回数が20回以上の時、APを$10$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $3$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, the voltage acquisition effect skill increases voltage acquisition by $272.02%$ for one turn / Reduce AP by $7$ / When the total number of skill activations is 20 or more, the score acquisition effect skill increases score acquisition by $633.75%$ for one turn / When the total number of skill activations is 20 or more, reduce AP by $10$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$3$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Voltage效果技能的Voltage获得量单次提升$272.02%$／AP减少$7$／技能总发动次数20次以上时，获得分数效果技能获得的分数值单次提升$633.75%$／技能总发动次数20次以上时，AP减少$10$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$3$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$292.95%$上昇／APを$7$減少／スキルの合計発動回数が20回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$682.5%$上昇／スキルの合計発動回数が20回以上の時、APを$10$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $3$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, the voltage acquisition effect skill increases voltage acquisition by $292.95%$ for one turn / Reduce AP by $7$ / When the total number of skill activations is 20 or more, the score acquisition effect skill increases score acquisition by $682.5%$ for one turn / When the total number of skill activations is 20 or more, reduce AP by $10$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$3$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Voltage效果技能的Voltage获得量单次提升$292.95%$／AP减少$7$／技能总发动次数20次以上时，获得分数效果技能获得的分数值单次提升$682.5%$／技能总发动次数20次以上时，AP减少$10$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$4$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージPt.を$313pt$獲得／APを$7$減少／スキルの合計発動回数が25回以上の時、合計アピール値の$877.5%$のスコアを獲得／スキルの合計発動回数が25回以上の時、APを$10$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $4$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, acquire $313pt$ of Voltage Points / Reduce AP by $7$ / When the total number of skill activations is 25 or more, acquire a score equal to $877.5%$ of the total Appeal Value / When the total number of skill activations is 25 or more, reduce AP by $10$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$4$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Vo Pt.$313pt$／AP减少$7$／技能总发动次数25次以上时，获得总分值$877.5%$的分数／技能总发动次数25次以上时，AP减少$10$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$4$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージPt.を$334pt$獲得／APを$7$減少／スキルの合計発動回数が25回以上の時、合計アピール値の$936%$のスコアを獲得／スキルの合計発動回数が25回以上の時、APを$10$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $4$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, acquire $334pt$ of Voltage Points / Reduce AP by $7$ / When the total number of skill activations is 25 or more, acquire a score equal to $936%$ of the total Appeal Value / When the total number of skill activations is 25 or more, reduce AP by $10$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$4$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Vo Pt.$334pt$／AP减少$7$／技能总发动次数25次以上时，获得总分值$936%$的分数／技能总发动次数25次以上时，AP减少$10$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$4$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージPt.を$355pt$獲得／APを$7$減少／スキルの合計発動回数が25回以上の時、合計アピール値の$994.5%$のスコアを獲得／スキルの合計発動回数が25回以上の時、APを$10$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $4$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, acquire $355pt$ of Voltage Points / Reduce AP by $7$ / When the total number of skill activations is 25 or more, acquire a score equal to $994.5%$ of the total Appeal Value / When the total number of skill activations is 25 or more, reduce AP by $10$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$4$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Vo Pt.$355pt$／AP减少$7$／技能总发动次数25次以上时，获得总分值$994.5%$的分数／技能总发动次数25次以上时，AP减少$10$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$4$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージPt.を$376pt$獲得／APを$7$減少／スキルの合計発動回数が25回以上の時、合計アピール値の$1053%$のスコアを獲得／スキルの合計発動回数が25回以上の時、APを$10$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $4$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, acquire $376pt$ of Voltage Points / Reduce AP by $7$ / When the total number of skill activations is 25 or more, acquire a score equal to $1053%$ of the total Appeal Value / When the total number of skill activations is 25 or more, reduce AP by $10$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$4$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Vo Pt.$376pt$／AP减少$7$／技能总发动次数25次以上时，获得总分值$1053%$的分数／技能总发动次数25次以上时，AP减少$10$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$4$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$313.87%$上昇／APを$7$減少／スキルの合計発動回数が20回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$731.25%$上昇／スキルの合計発動回数が20回以上の時、APを$10$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $4$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, the voltage acquisition effect skill increases voltage acquisition by $313.87%$ for one turn / Reduce AP by $7$ / When the total number of skill activations is 20 or more, the score acquisition effect skill increases score acquisition by $731.25%$ for one turn / When the total number of skill activations is 20 or more, reduce AP by $10$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$4$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Voltage效果技能的Voltage获得量单次提升$313.87%$／AP减少$7$／技能总发动次数20次以上时，获得分数效果技能获得的分数值单次提升$731.25%$／技能总发动次数20次以上时，AP减少$10$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$4$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$334.8%$上昇／APを$7$減少／スキルの合計発動回数が20回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$780%$上昇／スキルの合計発動回数が20回以上の時、APを$10$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $4$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, the voltage acquisition effect skill increases voltage acquisition by $334.8%$ for one turn / Reduce AP by $7$ / When the total number of skill activations is 20 or more, the score acquisition effect skill increases score acquisition by $780%$ for one turn / When the total number of skill activations is 20 or more, reduce AP by $10$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$4$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Voltage效果技能的Voltage获得量单次提升$334.8%$／AP减少$7$／技能总发动次数20次以上时，获得分数效果技能获得的分数值单次提升$780%$／技能总发动次数20次以上时，AP减少$10$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$4$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$355.72%$上昇／APを$7$減少／スキルの合計発動回数が20回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$828.75%$上昇／スキルの合計発動回数が20回以上の時、APを$10$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $4$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, the voltage acquisition effect skill increases voltage acquisition by $355.72%$ for one turn / Reduce AP by $7$ / When the total number of skill activations is 20 or more, the score acquisition effect skill increases score acquisition by $828.75%$ for one turn / When the total number of skill activations is 20 or more, reduce AP by $10$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$4$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Voltage效果技能的Voltage获得量单次提升$355.72%$／AP减少$7$／技能总发动次数20次以上时，获得分数效果技能获得的分数值单次提升$828.75%$／技能总发动次数20次以上时，AP减少$10$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$4$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$376.65%$上昇／APを$7$減少／スキルの合計発動回数が20回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$877.5%$上昇／スキルの合計発動回数が20回以上の時、APを$10$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $4$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, the voltage acquisition effect skill increases voltage acquisition by $376.65%$ for one turn / Reduce AP by $7$ / When the total number of skill activations is 20 or more, the score acquisition effect skill increases score acquisition by $877.5%$ for one turn / When the total number of skill activations is 20 or more, reduce AP by $10$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$4$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Voltage效果技能的Voltage获得量单次提升$376.65%$／AP减少$7$／技能总发动次数20次以上时，获得分数效果技能获得的分数值单次提升$877.5%$／技能总发动次数20次以上时，AP减少$10$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$5$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージPt.を$418pt$獲得／APを$7$減少／スキルの合計発動回数が25回以上の時、合計アピール値の$1170%$のスコアを獲得／スキルの合計発動回数が25回以上の時、APを$10$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $5$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, acquire $418pt$ of Voltage Points / Reduce AP by $7$ / When the total number of skill activations is 25 or more, acquire a score equal to $1170%$ of the total Appeal Value / When the total number of skill activations is 25 or more, reduce AP by $10$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$5$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Vo Pt.$418pt$／AP减少$7$／技能总发动次数25次以上时，获得总分值$1170%$的分数／技能总发动次数25次以上时，AP减少$10$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$5$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージPt.を$460pt$獲得／APを$7$減少／スキルの合計発動回数が25回以上の時、合計アピール値の$1287%$のスコアを獲得／スキルの合計発動回数が25回以上の時、APを$10$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $5$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, acquire $460pt$ of Voltage Points / Reduce AP by $7$ / When the total number of skill activations is 25 or more, acquire a score equal to $1287%$ of the total Appeal Value / When the total number of skill activations is 25 or more, reduce AP by $10$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$5$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Vo Pt.$460pt$／AP减少$7$／技能总发动次数25次以上时，获得总分值$1287%$的分数／技能总发动次数25次以上时，AP减少$10$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$5$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$418.5%$上昇／APを$7$減少／スキルの合計発動回数が20回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$975%$上昇／スキルの合計発動回数が20回以上の時、APを$10$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $5$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, the voltage acquisition effect skill increases voltage acquisition by $418.5%$ for one turn / Reduce AP by $7$ / When the total number of skill activations is 20 or more, the score acquisition effect skill increases score acquisition by $975%$ for one turn / When the total number of skill activations is 20 or more, reduce AP by $10$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$5$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Voltage效果技能的Voltage获得量单次提升$418.5%$／AP减少$7$／技能总发动次数20次以上时，获得分数效果技能获得的分数值单次提升$975%$／技能总发动次数20次以上时，AP减少$10$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$5$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$460.35%$上昇／APを$7$減少／スキルの合計発動回数が20回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$1072.5%$上昇／スキルの合計発動回数が20回以上の時、APを$10$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $5$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, the voltage acquisition effect skill increases voltage acquisition by $460.35%$ for one turn / Reduce AP by $7$ / When the total number of skill activations is 20 or more, the score acquisition effect skill increases score acquisition by $1072.5%$ for one turn / When the total number of skill activations is 20 or more, reduce AP by $10$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$5$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Voltage效果技能的Voltage获得量单次提升$460.35%$／AP减少$7$／技能总发动次数20次以上时，获得分数效果技能获得的分数值单次提升$1072.5%$／技能总发动次数20次以上时，AP减少$10$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$6$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージPt.を$502pt$獲得／APを$3$減少／スキルの合計発動回数が25回以上の時、合計アピール値の$1404%$のスコアを獲得／スキルの合計発動回数が25回以上の時、APを$5$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $6$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, acquire $502pt$ of Voltage Points / Reduce AP by $3$ / When the total number of skill activations is 25 or more, acquire a score equal to $1404%$ of the total Appeal Value / When the total number of skill activations is 25 or more, reduce AP by $5$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$6$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Vo Pt.$502pt$／AP减少$3$／技能总发动次数25次以上时，获得总分值$1404%$的分数／技能总发动次数25次以上时，AP减少$5$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$6$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージPt.を$544pt$獲得／APを$3$減少／スキルの合計発動回数が25回以上の時、合計アピール値の$1521%$のスコアを獲得／スキルの合計発動回数が25回以上の時、APを$5$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $6$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, acquire $544pt$ of Voltage Points / Reduce AP by $3$ / When the total number of skill activations is 25 or more, acquire a score equal to $1521%$ of the total Appeal Value / When the total number of skill activations is 25 or more, reduce AP by $5$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$6$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Vo Pt.$544pt$／AP减少$3$／技能总发动次数25次以上时，获得总分值$1521%$的分数／技能总发动次数25次以上时，AP减少$5$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$6$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$502.2%$上昇／APを$3$減少／スキルの合計発動回数が20回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$1170%$上昇／スキルの合計発動回数が20回以上の時、APを$5$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $6$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, the voltage acquisition effect skill increases voltage acquisition by $502.2%$ for one turn / Reduce AP by $3$ / When the total number of skill activations is 20 or more, the score acquisition effect skill increases score acquisition by $1170%$ for one turn / When the total number of skill activations is 20 or more, reduce AP by $5$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$6$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Voltage效果技能的Voltage获得量单次提升$502.2%$／AP减少$3$／技能总发动次数20次以上时，获得分数效果技能获得的分数值单次提升$1170%$／技能总发动次数20次以上时，AP减少$5$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$6$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$544.05%$上昇／APを$3$減少／スキルの合計発動回数が20回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$1267.5%$上昇／スキルの合計発動回数が20回以上の時、APを$5$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $6$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, the voltage acquisition effect skill increases voltage acquisition by $544.05%$ for one turn / Reduce AP by $3$ / When the total number of skill activations is 20 or more, the score acquisition effect skill increases score acquisition by $1267.5%$ for one turn / When the total number of skill activations is 20 or more, reduce AP by $5$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$6$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Voltage效果技能的Voltage获得量单次提升$544.05%$／AP减少$3$／技能总发动次数20次以上时，获得分数效果技能获得的分数值单次提升$1267.5%$／技能总发动次数20次以上时，AP减少$5$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$8$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージPt.を$627pt$獲得／APを$3$減少／スキルの合計発動回数が25回以上の時、合計アピール値の$1755%$のスコアを獲得／スキルの合計発動回数が25回以上の時、APを$5$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $8$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, acquire $627pt$ of Voltage Points / Reduce AP by $3$ / When the total number of skill activations is 25 or more, acquire a score equal to $1755%$ of the total Appeal Value / When the total number of skill activations is 25 or more, reduce AP by $5$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$8$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Vo Pt.$627pt$／AP减少$3$／技能总发动次数25次以上时，获得总分值$1755%$的分数／技能总发动次数25次以上时，AP减少$5$",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が4回以下の時、APを$8$回復／このカードのスキル発動回数が4回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が5回以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$627.75%$上昇／APを$3$減少／スキルの合計発動回数が20回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$1462.5%$上昇／スキルの合計発動回数が20回以上の時、APを$5$減少",
+    "translation": {
+      "en": {
+        "text": "When this card's skill activation count is 4 or less, restore $8$ AP / When this card's skill activation count is 4 or less, return the next skill to activate from the top of the deck in order (removed cards are not returned) / When this card's skill activation count is 5 or more, the voltage acquisition effect skill increases voltage acquisition by $627.75%$ for one turn / Reduce AP by $3$ / When the total number of skill activations is 20 or more, the score acquisition effect skill increases score acquisition by $1462.5%$ for one turn / When the total number of skill activations is 20 or more, reduce AP by $5$",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "此卡技能发动4次以下时，AP回复$8$／此卡技能发动4次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动5次以上时，获得Voltage效果技能的Voltage获得量单次提升$627.75%$／AP减少$3$／技能总发动次数20次以上时，获得分数效果技能获得的分数值单次提升$1462.5%$／技能总发动次数20次以上时，AP减少$5$",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

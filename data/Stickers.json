@@ -63505,6 +63505,19 @@
     }
   },
   {
+    "raw": "[かいてんのしゃそう]桂城 泉",
+    "translation": {
+      "en": {
+        "text": "[Kaiten's Train Window] Izumi Katsuragi",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[回天的车窗]桂城泉",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[きせきのぶとうかい]百生 吟子",
     "translation": {
       "zh-CN": {
@@ -63592,6 +63605,19 @@
       "en": {
         "text": "[Strongest] Tsuzuri Yugiri",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[さいりんのしゃそう]セラス 柳田 リリエンフェルト",
+    "translation": {
+      "en": {
+        "text": "[Sairin's Train Window] Ceras Yanagida Lilienfeld",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[再临的车窗]塞拉斯 柳田 利林费尔德",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -70382,6 +70408,45 @@
     }
   },
   {
+    "raw": "[再臨の車窓]セラス 柳田 リリエンフェルト",
+    "translation": {
+      "en": {
+        "text": "[Train Window of Sairin] Ceras Yanagida Lilienfeld",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[再临的车窗]塞拉斯 柳田 利林费尔德",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[再臨の車窓]セラス 柳田 リリエンフェルト を4回解放した記念のステッカー",
+    "translation": {
+      "en": {
+        "text": "Commemorative sticker for releasing [Train Window of Sairin] Ceras Yanagida Lilienfeld 4 times",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[再临的车窗]塞拉斯 柳田 利林费尔德 解放4次纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[再臨の車窓]セラス 柳田 リリエンフェルト 解放完了",
+    "translation": {
+      "en": {
+        "text": "[Train Window of Sairin] Ceras Yanagida Lilienfeld released successfully",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[再临的车窗]塞拉斯 柳田 利林费尔德 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[冬のおくりもの]乙宗 梢",
     "translation": {
       "zh-CN": {
@@ -72328,6 +72393,45 @@
       "en": {
         "text": "[Ribbon of Happiness] Tsuzuri Yugiri unlock completed",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[廻天の車窓]桂城 泉",
+    "translation": {
+      "en": {
+        "text": "[Train Window of Kaiten] Izumi Katsuragi",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[回天的车窗]桂城泉",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[廻天の車窓]桂城 泉 を4回解放した記念のステッカー",
+    "translation": {
+      "en": {
+        "text": "Commemorative sticker for releasing [Train Window of Kaiten] Izumi Katsuragi 4 times",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[回天的车窗]桂城泉 解放4次纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[廻天の車窓]桂城 泉 解放完了",
+    "translation": {
+      "en": {
+        "text": "[Train Window of Kaiten] Izumi Katsuragi released successfully",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[回天的车窗]桂城泉 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -79244,6 +79348,32 @@
       "en": {
         "text": "「Aim for Love Live! Victory!」",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "「花咲特急☆エーデルギャラクシーツアー アテンダントセラスパック」を購入",
+    "translation": {
+      "en": {
+        "text": "Purchased 'Hanasaku Express☆Edel Galaxy Tour Attendant Ceras Pack'",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "购买「花咲特急☆Edel Galaxy Tour 乘务员塞拉斯包」",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "「花咲特急☆エーデルギャラクシーツアー アテンダント泉パック」を購入",
+    "translation": {
+      "en": {
+        "text": "Purchased 'Hanasaku Express☆Edel Galaxy Tour Attendant Izumi Pack'",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "购买「花咲特急☆Edel Galaxy Tour 乘务员泉包」",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -116168,6 +116298,19 @@
     }
   },
   {
+    "raw": "宇宙ギャラクシー・ビッグEdel Note号、発進！",
+    "translation": {
+      "en": {
+        "text": "Space Galaxy Big Edel Note, departing!",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "宇宙Galaxy·Big Edel Note号,出发!",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "安養寺 姫芽のスペシャルアピールLv/スキルLvを合計100回上げた記念のステッカー",
     "translation": {
       "zh-CN": {
@@ -127747,6 +127890,19 @@
       "en": {
         "text": "Our Town, I Tried Filming It Mari TOP30000",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "私の物語を切り拓くのは、私自身だ。",
+    "translation": {
+      "en": {
+        "text": "I will carve out my own story myself.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "开拓我的故事的,是我自己。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

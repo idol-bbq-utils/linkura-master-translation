@@ -5018,6 +5018,19 @@
     }
   },
   {
+    "raw": "[再臨の車窓]セラス 柳田 リリエンフェルト 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[Sairin no Shasou] Ceras Yanagida Lilienfeld Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[再臨的车窗]塞拉斯 柳田 利林费尔德 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[冬のおくりもの]乙宗 梢 解放Pt.",
     "translation": {
       "zh-CN": {
@@ -5586,6 +5599,19 @@
       "en": {
         "text": "[Ribbon of Happiness] Tsuzuri Yugiri Liberation Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[廻天の車窓]桂城 泉 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[Kaiten no Shasou] Izumi Katsuragi Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[回天的车窗]桂城泉 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
