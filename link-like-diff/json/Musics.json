@@ -1490,6 +1490,13 @@
             "ReleaseConditionText": "初めから習得"
         },
         {
+            "Id": 405135,
+            "Title": "リブウト",
+            "TitleFurigana": "りぶうと",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
             "Id": 405201,
             "Title": "テレパシ",
             "TitleFurigana": "てれぱし",

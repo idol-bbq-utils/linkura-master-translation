@@ -17199,6 +17199,370 @@
     }
   },
   {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$1334$ptずつ増加する。さらにこのセクション中、AP回復速度を-33%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,Mental降至0也不会Mental Down,Vo Pt.每秒增加$1334$pt。此外,本小节中,AP回复速度-33%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not decrease even when Mental reaches 0, and Voltage Pt. increases by $1334$ pt every second. Additionally, during this section, reduce AP Recovery Speed by -33%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$1334$ptずつ増加する。さらにこのセクション中、手札の上限枚数を-3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,Mental降至0也不会Mental Down,Vo Pt.每秒增加$1334$pt。此外,本小节中,手牌上限减少3张。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not decrease even when Mental reaches 0, and Voltage Pt. increases by $1334$ pt every second. Additionally, during this section, reduce the maximum number of cards in hand by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$1467$ptずつ増加する。さらにこのセクション中、AP回復速度を-33%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,Mental降至0也不会Mental Down,Vo Pt.每秒增加$1467$pt。此外,本小节中,AP回复速度-33%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not decrease even when Mental reaches 0, and Voltage Pt. increases by $1467$ pt every second. Additionally, during this section, reduce AP Recovery Speed by -33%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$1467$ptずつ増加する。さらにこのセクション中、手札の上限枚数を-3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,Mental降至0也不会Mental Down,Vo Pt.每秒增加$1467$pt。此外,本小节中,手牌上限减少3张。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not decrease even when Mental reaches 0, and Voltage Pt. increases by $1467$ pt every second. Additionally, during this section, reduce the maximum number of cards in hand by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$1600$ptずつ増加する。さらにこのセクション中、AP回復速度を-33%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,Mental降至0也不会Mental Down,Vo Pt.每秒增加$1600$pt。此外,本小节中,AP回复速度-33%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not decrease even when Mental reaches 0, and Voltage Pt. increases by $1600$ pt every second. Additionally, during this section, reduce AP Recovery Speed by -33%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$1600$ptずつ増加する。さらにこのセクション中、手札の上限枚数を-3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,Mental降至0也不会Mental Down,Vo Pt.每秒增加$1600$pt。此外,本小节中,手牌上限减少3张。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not decrease even when Mental reaches 0, and Voltage Pt. increases by $1600$ pt every second. Additionally, during this section, reduce the maximum number of cards in hand by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$1734$ptずつ増加する。さらにこのセクション中、AP回復速度を-33%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,Mental降至0也不会Mental Down,Vo Pt.每秒增加$1734$pt。此外,本小节中,AP回复速度-33%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not decrease even when Mental reaches 0, and Voltage Pt. increases by $1734$ pt every second. Additionally, during this section, reduce AP Recovery Speed by -33%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$1734$ptずつ増加する。さらにこのセクション中、手札の上限枚数を-3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,Mental降至0也不会Mental Down,Vo Pt.每秒增加$1734$pt。此外,本小节中,手牌上限减少3张。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not decrease even when Mental reaches 0, and Voltage Pt. increases by $1734$ pt every second. Additionally, during this section, reduce the maximum number of cards in hand by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$1867$ptずつ増加する。さらにこのセクション中、AP回復速度を-33%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,Mental降至0也不会Mental Down,Vo Pt.每秒增加$1867$pt。此外,本小节中,AP回复速度-33%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not decrease even when Mental reaches 0, and Voltage Pt. increases by $1867$ pt every second. Additionally, during this section, reduce AP Recovery Speed by -33%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$1867$ptずつ増加する。さらにこのセクション中、手札の上限枚数を-3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,Mental降至0也不会Mental Down,Vo Pt.每秒增加$1867$pt。此外,本小节中,手牌上限减少3张。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not decrease even when Mental reaches 0, and Voltage Pt. increases by $1867$ pt every second. Additionally, during this section, reduce the maximum number of cards in hand by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$2000$ptずつ増加する。さらにこのセクション中、AP回復速度を-33%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,Mental降至0也不会Mental Down,Vo Pt.每秒增加$2000$pt。此外,本小节中,AP回复速度-33%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not decrease even when Mental reaches 0, and Voltage Pt. increases by $2000$ pt every second. Additionally, during this section, reduce AP Recovery Speed by -33%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$2000$ptずつ増加する。さらにこのセクション中、手札の上限枚数を-3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,Mental降至0也不会Mental Down,Vo Pt.每秒增加$2000$pt。此外,本小节中,手牌上限减少3张。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not decrease even when Mental reaches 0, and Voltage Pt. increases by $2000$ pt every second. Additionally, during this section, reduce the maximum number of cards in hand by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$2134$ptずつ増加する。さらにこのセクション中、AP回復速度を-33%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,Mental降至0也不会Mental Down,Vo Pt.每秒增加$2134$pt。此外,本小节中,AP回复速度-33%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not decrease even when Mental reaches 0, and Voltage Pt. increases by $2134$ pt every second. Additionally, during this section, reduce AP Recovery Speed by -33%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$2134$ptずつ増加する。さらにこのセクション中、手札の上限枚数を-3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,Mental降至0也不会Mental Down,Vo Pt.每秒增加$2134$pt。此外,本小节中,手牌上限减少3张。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not decrease even when Mental reaches 0, and Voltage Pt. increases by $2134$ pt every second. Additionally, during this section, reduce the maximum number of cards in hand by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$2267$ptずつ増加する。さらにこのセクション中、AP回復速度を-33%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,Mental降至0也不会Mental Down,Vo Pt.每秒增加$2267$pt。此外,本小节中,AP回复速度-33%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not decrease even when Mental reaches 0, and Voltage Pt. increases by $2267$ pt every second. Additionally, during this section, reduce AP Recovery Speed by -33%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$2267$ptずつ増加する。さらにこのセクション中、手札の上限枚数を-3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,Mental降至0也不会Mental Down,Vo Pt.每秒增加$2267$pt。此外,本小节中,手牌上限减少3张。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not decrease even when Mental reaches 0, and Voltage Pt. increases by $2267$ pt every second. Additionally, during this section, reduce the maximum number of cards in hand by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$2400$ptずつ増加する。さらにこのセクション中、AP回復速度を-33%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,Mental降至0也不会Mental Down,Vo Pt.每秒增加$2400$pt。此外,本小节中,AP回复速度-33%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not decrease even when Mental reaches 0, and Voltage Pt. increases by $2400$ pt every second. Additionally, during this section, reduce AP Recovery Speed by -33%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$2400$ptずつ増加する。さらにこのセクション中、手札の上限枚数を-3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,Mental降至0也不会Mental Down,Vo Pt.每秒增加$2400$pt。此外,本小节中,手牌上限减少3张。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not decrease even when Mental reaches 0, and Voltage Pt. increases by $2400$ pt every second. Additionally, during this section, reduce the maximum number of cards in hand by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$2667$ptずつ増加する。さらにこのセクション中、AP回復速度を-33%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,Mental降至0也不会Mental Down,Vo Pt.每秒增加$2667$pt。此外,本小节中,AP回复速度-33%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not decrease even when Mental reaches 0, and Voltage Pt. increases by $2667$ pt every second. Additionally, during this section, reduce AP Recovery Speed by -33%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$2667$ptずつ増加する。さらにこのセクション中、手札の上限枚数を-3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,Mental降至0也不会Mental Down,Vo Pt.每秒增加$2667$pt。此外,本小节中,手牌上限减少3张。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not decrease even when Mental reaches 0, and Voltage Pt. increases by $2667$ pt every second. Additionally, during this section, reduce the maximum number of cards in hand by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$2800$ptずつ増加する。さらにこのセクション中、AP回復速度を-33%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,Mental降至0也不会Mental Down,Vo Pt.每秒增加$2800$pt。此外,本小节中,AP回复速度-33%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not decrease even when Mental reaches 0, and Voltage Pt. increases by $2800$ pt every second. Additionally, during this section, reduce AP Recovery Speed by -33%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$2800$ptずつ増加する。さらにこのセクション中、手札の上限枚数を-3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,Mental降至0也不会Mental Down,Vo Pt.每秒增加$2800$pt。此外,本小节中,手牌上限减少3张。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not decrease even when Mental reaches 0, and Voltage Pt. increases by $2800$ pt every second. Additionally, during this section, reduce the maximum number of cards in hand by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$2934$ptずつ増加する。さらにこのセクション中、AP回復速度を-33%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,Mental降至0也不会Mental Down,Vo Pt.每秒增加$2934$pt。此外,本小节中,AP回复速度-33%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not decrease even when Mental reaches 0, and Voltage Pt. increases by $2934$ pt every second. Additionally, during this section, reduce AP Recovery Speed by -33%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$2934$ptずつ増加する。さらにこのセクション中、手札の上限枚数を-3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中,Mental降至0也不会Mental Down,Vo Pt.每秒增加$2934$pt。此外,本小节中,手牌上限减少3张。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not decrease even when Mental reaches 0, and Voltage Pt. increases by $2934$ pt every second. Additionally, during this section, reduce the maximum number of cards in hand by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$3067$ptずつ増加する。さらにこのセクション中、AP回復速度を-33%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，Mental为0时也不会Mental Down，Vo Pt.每秒增加$3067$pt。此外，本小节中，AP回复速度-33%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not down even when Mental reaches 0, and Voltage Pt. increases by $3067$ pt every second. Additionally, during this section, reduce AP Recovery Speed by -33%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$3067$ptずつ増加する。さらにこのセクション中、手札の上限枚数を-3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，Mental为0时也不会Mental Down，Vo Pt.每秒增加$3067$pt。此外，本小节中，手牌上限-3张。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not down even when Mental reaches 0, and Voltage Pt. increases by $3067$ pt every second. Additionally, during this section, reduce the maximum number of cards in hand by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$3333$ptずつ増加する。さらにこのセクション中、AP回復速度を-33%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，Mental为0时也不会Mental Down，Vo Pt.每秒增加$3333$pt。此外，本小节中，AP回复速度-33%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not down even when Mental reaches 0, and Voltage Pt. increases by $3333$ pt every second. Additionally, during this section, reduce AP Recovery Speed by -33%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、ボルテージPt.が1秒ごとに$3333$ptずつ増加する。さらにこのセクション中、手札の上限枚数を-3枚減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，Mental为0时也不会Mental Down，Vo Pt.每秒增加$3333$pt。此外，本小节中，手牌上限-3张。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this stage, Mental will not down even when Mental reaches 0, and Voltage Pt. increases by $3333$ pt every second. Additionally, during this section, reduce the maximum number of cards in hand by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の100％減少させる。さらにこのステージ中、ハート上限を$+1200$する。",
     "translation": {
       "zh-CN": {
@@ -129467,6 +129831,19 @@
     }
   },
   {
+    "raw": "手札にある状態でさやかのスキルを使用するたび、手札をシャッフル、このセクション中、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の100％減少、デッキ内の小鈴のスキルの消費APを-20する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在手牌中时每次使用沙耶香的技能，手牌洗牌，本小节中，Mental为0时也不会Mental Down，失去最大Mental值的100%，卡组中小铃的技能消费AP-20。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Each time Sayaka's skill is used while this card is in hand, shuffle your hand. During this section, Mental will not down even when Mental reaches 0, decrease Mental by 100% of its maximum value, and reduce the AP cost of Kosuzu's skills in the deck by -20.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "手札にある状態でみらくらぱーく！のスキルを使用するたび、姫芽が《イグニッションモード》になる。",
     "translation": {
       "zh-CN": {
@@ -130490,6 +130867,19 @@
       "en": {
         "text": "While in hand, increase AP recovery speed by +10% for this section each time a skill with Skill Heart gain effect as main effect is used.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "手札にある状態で小鈴のスキルを使用するたび、手札をシャッフル、このセクション中、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の100％減少、デッキ内のさやかのスキルの消費APを-20する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在手牌中时每次使用小铃的技能，手牌洗牌，本小节中，Mental为0时也不会Mental Down，失去最大Mental值的100%，卡组中沙耶香的技能消费AP-20。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Each time Kosuzu's skill is used while this card is in hand, shuffle your hand. During this section, Mental will not down even when Mental reaches 0, decrease Mental by 100% of its maximum value, and reduce the AP cost of Sayaka's skills in the deck by -20.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -132115,6 +132505,370 @@
       "en": {
         "text": "Shuffle your hand. Additionally, increase the next Voltage Gain effect you use by $+9.5%$. The effect amount increases by up to 200x for every 15 Voltage Lv., up to a maximum of 150 Lv.",
         "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間さやかが使用するボルテージゲイン効果を$+1040%$、メンタルが0のとき、このセクション中、ムード値を$+26$、ムードがハッピー、メロウ100でメンタルが0のとき、このステージ中、獲得するLOVEを$+1040%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "手牌洗牌。并且气氛为Happy或Mellow任一达到100时，接下来5次沙耶香使用的获得Vo Pt.效果$+1040%$，Mental为0时，本小节中，气氛值$+26$，气氛为Happy或Mellow 100且Mental为0时，本场Live中，获得的LOVE$+1040%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Voltage Gain effect used by Sayaka by $+1040%$ for 5 turns. When Mental is 0, increase Mood Value by $+26$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase LOVE gained by $+1040%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間さやかが使用するボルテージゲイン効果を$+1120%$、メンタルが0のとき、このセクション中、ムード値を$+28$、ムードがハッピー、メロウ100でメンタルが0のとき、このステージ中、獲得するLOVEを$+1120%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "手牌洗牌。并且气氛为Happy或Mellow任一达到100时，接下来5次沙耶香使用的获得Vo Pt.效果$+1120%$，Mental为0时，本小节中，气氛值$+28$，气氛为Happy或Mellow 100且Mental为0时，本场Live中，获得的LOVE$+1120%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Voltage Gain effect used by Sayaka by $+1120%$ for 5 turns. When Mental is 0, increase Mood Value by $+28$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase LOVE gained by $+1120%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間さやかが使用するボルテージゲイン効果を$+1200%$、メンタルが0のとき、このセクション中、ムード値を$+30$、ムードがハッピー、メロウ100でメンタルが0のとき、このステージ中、獲得するLOVEを$+1200%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "手牌洗牌。并且气氛为Happy或Mellow任一达到100时，接下来5次沙耶香使用的获得Vo Pt.效果$+1200%$，Mental为0时，本小节中，气氛值$+30$，气氛为Happy或Mellow 100且Mental为0时，本场Live中，获得的LOVE$+1200%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Voltage Gain effect used by Sayaka by $+1200%$ for 5 turns. When Mental is 0, increase Mood Value by $+30$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase LOVE gained by $+1200%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間さやかが使用するボルテージゲイン効果を$+1280%$、メンタルが0のとき、このセクション中、ムード値を$+32$、ムードがハッピー、メロウ100でメンタルが0のとき、このステージ中、獲得するLOVEを$+1280%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "手牌洗牌。并且气氛为Happy或Mellow任一达到100时，接下来5次沙耶香使用的获得Vo Pt.效果$+1280%$，Mental为0时，本小节中，气氛值$+32$，气氛为Happy或Mellow 100且Mental为0时，本场Live中，获得的LOVE$+1280%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Voltage Gain effect used by Sayaka by $+1280%$ for 5 turns. When Mental is 0, increase Mood Value by $+32$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase LOVE gained by $+1280%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間さやかが使用するボルテージゲイン効果を$+1360%$、メンタルが0のとき、このセクション中、ムード値を$+34$、ムードがハッピー、メロウ100でメンタルが0のとき、このステージ中、獲得するLOVEを$+1360%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "手牌洗牌。并且气氛为Happy或Mellow任一达到100时，接下来5次沙耶香使用的获得Vo Pt.效果$+1360%$，Mental为0时，本小节中，气氛值$+34$，气氛为Happy或Mellow 100且Mental为0时，本场Live中，获得的LOVE$+1360%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Voltage Gain effect used by Sayaka by $+1360%$ for 5 turns. When Mental is 0, increase Mood Value by $+34$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase LOVE gained by $+1360%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間さやかが使用するボルテージゲイン効果を$+1440%$、メンタルが0のとき、このセクション中、ムード値を$+36$、ムードがハッピー、メロウ100でメンタルが0のとき、このステージ中、獲得するLOVEを$+1440%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "手牌洗牌。并且气氛为Happy或Mellow任一达到100时，接下来5次沙耶香使用的获得Vo Pt.效果$+1440%$，Mental为0时，本小节中，气氛值$+36$，气氛为Happy或Mellow 100且Mental为0时，本场Live中，获得的LOVE$+1440%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Voltage Gain effect used by Sayaka by $+1440%$ for 5 turns. When Mental is 0, increase Mood Value by $+36$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase LOVE gained by $+1440%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間さやかが使用するボルテージゲイン効果を$+1600%$、メンタルが0のとき、このセクション中、ムード値を$+40$、ムードがハッピー、メロウ100でメンタルが0のとき、このステージ中、獲得するLOVEを$+1600%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "手牌洗牌。并且气氛为Happy或Mellow任一达到100时，接下来5次沙耶香使用的获得Vo Pt.效果$+1600%$，Mental为0时，本小节中，气氛值$+40$，气氛为Happy或Mellow 100且Mental为0时，本场Live中，获得的LOVE$+1600%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Voltage Gain effect used by Sayaka by $+1600%$ for 5 turns. When Mental is 0, increase Mood Value by $+40$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase LOVE gained by $+1600%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間さやかが使用するボルテージゲイン効果を$+1680%$、メンタルが0のとき、このセクション中、ムード値を$+42$、ムードがハッピー、メロウ100でメンタルが0のとき、このステージ中、獲得するLOVEを$+1680%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "手牌洗牌。并且气氛为Happy或Mellow任一达到100时，接下来5次沙耶香使用的获得Vo Pt.效果$+1680%$，Mental为0时，本小节中，气氛值$+42$，气氛为Happy或Mellow 100且Mental为0时，本场Live中，获得的LOVE$+1680%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Voltage Gain effect used by Sayaka by $+1680%$ for 5 turns. When Mental is 0, increase Mood Value by $+42$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase LOVE gained by $+1680%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間さやかが使用するボルテージゲイン効果を$+1760%$、メンタルが0のとき、このセクション中、ムード値を$+44$、ムードがハッピー、メロウ100でメンタルが0のとき、このステージ中、獲得するLOVEを$+1760%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "手牌洗牌。并且气氛为Happy或Mellow任一达到100时，接下来5次沙耶香使用的获得Vo Pt.效果$+1760%$，Mental为0时，本小节中，气氛值$+44$，气氛为Happy或Mellow 100且Mental为0时，本场Live中，获得的LOVE$+1760%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Voltage Gain effect used by Sayaka by $+1760%$ for 5 turns. When Mental is 0, increase Mood Value by $+44$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase LOVE gained by $+1760%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間さやかが使用するボルテージゲイン効果を$+1840%$、メンタルが0のとき、このセクション中、ムード値を$+46$、ムードがハッピー、メロウ100でメンタルが0のとき、このステージ中、獲得するLOVEを$+1840%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "手牌洗牌。并且气氛为Happy或Mellow任一达到100时，接下来5次沙耶香使用的获得Vo Pt.效果$+1840%$，Mental为0时，本小节中，气氛值$+46$，气氛为Happy或Mellow 100且Mental为0时，本场Live中，获得的LOVE$+1840%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Voltage Gain effect used by Sayaka by $+1840%$ for 5 turns. When Mental is 0, increase Mood Value by $+46$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase LOVE gained by $+1840%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間さやかが使用するボルテージゲイン効果を$+2000%$、メンタルが0のとき、このセクション中、ムード値を$+50$、ムードがハッピー、メロウ100でメンタルが0のとき、このステージ中、獲得するLOVEを$+2000%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "手牌洗牌。并且气氛为Happy或Mellow任一达到100时，接下来5次沙耶香使用的获得Vo Pt.效果$+2000%$，Mental为0时，本小节中，气氛值$+50$，气氛为Happy或Mellow 100且Mental为0时，本场Live中，获得的LOVE$+2000%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Voltage Gain effect used by Sayaka by $+2000%$ for 5 turns. When Mental is 0, increase Mood Value by $+50$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase LOVE gained by $+2000%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間さやかが使用するボルテージゲイン効果を$+800%$、メンタルが0のとき、このセクション中、ムード値を$+20$、ムードがハッピー、メロウ100でメンタルが0のとき、このステージ中、獲得するLOVEを$+800%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "手牌洗牌。并且气氛为Happy或Mellow任一达到100时，接下来5次沙耶香使用的获得Vo Pt.效果$+800%$，Mental为0时，本小节中，气氛值$+20$，气氛为Happy或Mellow 100且Mental为0时，本场Live中，获得的LOVE$+800%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Voltage Gain effect used by Sayaka by $+800%$ for 5 turns. When Mental is 0, increase Mood Value by $+20$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase LOVE gained by $+800%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間さやかが使用するボルテージゲイン効果を$+880%$、メンタルが0のとき、このセクション中、ムード値を$+22$、ムードがハッピー、メロウ100でメンタルが0のとき、このステージ中、獲得するLOVEを$+880%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "手牌洗牌。并且气氛为Happy或Mellow任一达到100时，接下来5次沙耶香使用的获得Vo Pt.效果$+880%$，Mental为0时，本小节中，气氛值$+22$，气氛为Happy或Mellow 100且Mental为0时，本场Live中，获得的LOVE$+880%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Voltage Gain effect used by Sayaka by $+880%$ for 5 turns. When Mental is 0, increase Mood Value by $+22$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase LOVE gained by $+880%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間さやかが使用するボルテージゲイン効果を$+960%$、メンタルが0のとき、このセクション中、ムード値を$+24$、ムードがハッピー、メロウ100でメンタルが0のとき、このステージ中、獲得するLOVEを$+960%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "手牌洗牌。并且气氛为Happy或Mellow任一达到100时，接下来5次沙耶香使用的获得Vo Pt.效果$+960%$，Mental为0时，本小节中，气氛值$+24$，气氛为Happy或Mellow 100且Mental为0时，本场Live中，获得的LOVE$+960%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Voltage Gain effect used by Sayaka by $+960%$ for 5 turns. When Mental is 0, increase Mood Value by $+24$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase LOVE gained by $+960%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間小鈴が使用するラブアトラクト効果を$+1040%$、メンタルが0のとき、このセクション中、ムード値を$+26$、ムードがハッピー、メロウ100でメンタルが0のとき、ボルテージPt.を$+624$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "手牌洗牌。并且气氛为Happy或Mellow任一达到100时，接下来5次小铃使用的LOVE+效果$+1040%$，Mental为0时，本小节中，气氛值$+26$，气氛为Happy或Mellow 100且Mental为0时，Vo Pt.$+624$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Love Attract effect used by Kosuzu by $+1040%$ for 5 turns. When Mental is 0, increase Mood Value by $+26$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase Voltage Pt. by $+624$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間小鈴が使用するラブアトラクト効果を$+1120%$、メンタルが0のとき、このセクション中、ムード値を$+28$、ムードがハッピー、メロウ100でメンタルが0のとき、ボルテージPt.を$+672$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "手牌洗牌。并且气氛为Happy或Mellow任一达到100时，接下来5次小铃使用的LOVE+效果$+1120%$，Mental为0时，本小节中，气氛值$+28$，气氛为Happy或Mellow 100且Mental为0时，Vo Pt.$+672$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Love Attract effect used by Kosuzu by $+1120%$ for 5 turns. When Mental is 0, increase Mood Value by $+28$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase Voltage Pt. by $+672$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間小鈴が使用するラブアトラクト効果を$+1200%$、メンタルが0のとき、このセクション中、ムード値を$+30$、ムードがハッピー、メロウ100でメンタルが0のとき、ボルテージPt.を$+720$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "手牌洗牌。并且气氛为Happy或Mellow任一达到100时，接下来5次小铃使用的LOVE+效果$+1200%$，Mental为0时，本小节中，气氛值$+30$，气氛为Happy或Mellow 100且Mental为0时，Vo Pt.$+720$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Love Attract effect used by Kosuzu by $+1200%$ for 5 turns. When Mental is 0, increase Mood Value by $+30$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase Voltage Pt. by $+720$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間小鈴が使用するラブアトラクト効果を$+1280%$、メンタルが0のとき、このセクション中、ムード値を$+32$、ムードがハッピー、メロウ100でメンタルが0のとき、ボルテージPt.を$+768$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "手牌洗牌。并且气氛为Happy或Mellow任一达到100时，接下来5次小铃使用的LOVE+效果$+1280%$，Mental为0时，本小节中，气氛值$+32$，气氛为Happy或Mellow 100且Mental为0时，Vo Pt.$+768$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Love Attract effect used by Kosuzu by $+1280%$ for 5 turns. When Mental is 0, increase Mood Value by $+32$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase Voltage Pt. by $+768$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間小鈴が使用するラブアトラクト効果を$+1360%$、メンタルが0のとき、このセクション中、ムード値を$+34$、ムードがハッピー、メロウ100でメンタルが0のとき、ボルテージPt.を$+816$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "洗牌手牌。并且气氛为Happy或Mellow任一达到100时，接下来5次小铃使用的LOVE+效果$+1360%$，Mental为0时，本小节中，气氛值$+34$，气氛为Happy或Mellow 100且Mental为0时，Vo Pt.$+816$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Love Attract effect used by Kosuzu by $+1360%$ for 5 turns. When Mental is 0, increase Mood Value by $+34$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase Voltage Pt. by $+816$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間小鈴が使用するラブアトラクト効果を$+1440%$、メンタルが0のとき、このセクション中、ムード値を$+36$、ムードがハッピー、メロウ100でメンタルが0のとき、ボルテージPt.を$+864$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "洗牌手牌。并且气氛为Happy或Mellow任一达到100时，接下来5次小铃使用的LOVE+效果$+1440%$，Mental为0时，本小节中，气氛值$+36$，气氛为Happy或Mellow 100且Mental为0时，Vo Pt.$+864$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Love Attract effect used by Kosuzu by $+1440%$ for 5 turns. When Mental is 0, increase Mood Value by $+36$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase Voltage Pt. by $+864$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間小鈴が使用するラブアトラクト効果を$+1600%$、メンタルが0のとき、このセクション中、ムード値を$+40$、ムードがハッピー、メロウ100でメンタルが0のとき、ボルテージPt.を$+960$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "洗牌手牌。并且气氛为Happy或Mellow任一达到100时，接下来5次小铃使用的LOVE+效果$+1600%$，Mental为0时，本小节中，气氛值$+40$，气氛为Happy或Mellow 100且Mental为0时，Vo Pt.$+960$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Love Attract effect used by Kosuzu by $+1600%$ for 5 turns. When Mental is 0, increase Mood Value by $+40$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase Voltage Pt. by $+960$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間小鈴が使用するラブアトラクト効果を$+1680%$、メンタルが0のとき、このセクション中、ムード値を$+42$、ムードがハッピー、メロウ100でメンタルが0のとき、ボルテージPt.を$+1008$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "洗牌手牌。并且气氛为Happy或Mellow任一达到100时，接下来5次小铃使用的LOVE+效果$+1680%$，Mental为0时，本小节中，气氛值$+42$，气氛为Happy或Mellow 100且Mental为0时，Vo Pt.$+1008$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Love Attract effect used by Kosuzu by $+1680%$ for 5 turns. When Mental is 0, increase Mood Value by $+42$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase Voltage Pt. by $+1008$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間小鈴が使用するラブアトラクト効果を$+1760%$、メンタルが0のとき、このセクション中、ムード値を$+44$、ムードがハッピー、メロウ100でメンタルが0のとき、ボルテージPt.を$+1056$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "洗牌手牌。并且气氛为Happy或Mellow任一达到100时，接下来5次小铃使用的LOVE+效果$+1760%$，Mental为0时，本小节中，气氛值$+44$，气氛为Happy或Mellow 100且Mental为0时，Vo Pt.$+1056$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Love Attract effect used by Kosuzu by $+1760%$ for 5 turns. When Mental is 0, increase Mood Value by $+44$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase Voltage Pt. by $+1056$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間小鈴が使用するラブアトラクト効果を$+1840%$、メンタルが0のとき、このセクション中、ムード値を$+46$、ムードがハッピー、メロウ100でメンタルが0のとき、ボルテージPt.を$+1104$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "洗牌手牌。并且气氛为Happy或Mellow任一达到100时，接下来5次小铃使用的LOVE+效果$+1840%$，Mental为0时，本小节中，气氛值$+46$，气氛为Happy或Mellow 100且Mental为0时，Vo Pt.$+1104$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Love Attract effect used by Kosuzu by $+1840%$ for 5 turns. When Mental is 0, increase Mood Value by $+46$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase Voltage Pt. by $+1104$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間小鈴が使用するラブアトラクト効果を$+2000%$、メンタルが0のとき、このセクション中、ムード値を$+50$、ムードがハッピー、メロウ100でメンタルが0のとき、ボルテージPt.を$+1200$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "洗牌手牌。并且气氛为Happy或Mellow任一达到100时，接下来5次小铃使用的LOVE+效果$+2000%$，Mental为0时，本小节中，气氛值$+50$，气氛为Happy或Mellow 100且Mental为0时，Vo Pt.$+1200$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Love Attract effect used by Kosuzu by $+2000%$ for 5 turns. When Mental is 0, increase Mood Value by $+50$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase Voltage Pt. by $+1200$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間小鈴が使用するラブアトラクト効果を$+800%$、メンタルが0のとき、このセクション中、ムード値を$+20$、ムードがハッピー、メロウ100でメンタルが0のとき、ボルテージPt.を$+480$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "洗牌手牌。并且气氛为Happy或Mellow任一达到100时，接下来5次小铃使用的LOVE+效果$+800%$，Mental为0时，本小节中，气氛值$+20$，气氛为Happy或Mellow 100且Mental为0时，Vo Pt.$+480$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Love Attract effect used by Kosuzu by $+800%$ for 5 turns. When Mental is 0, increase Mood Value by $+20$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase Voltage Pt. by $+480$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間小鈴が使用するラブアトラクト効果を$+880%$、メンタルが0のとき、このセクション中、ムード値を$+22$、ムードがハッピー、メロウ100でメンタルが0のとき、ボルテージPt.を$+528$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "洗牌手牌。并且气氛为Happy或Mellow任一达到100时，接下来5次小铃使用的LOVE+效果$+880%$，Mental为0时，本小节中，气氛值$+22$，气氛为Happy或Mellow 100且Mental为0时，Vo Pt.$+528$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Love Attract effect used by Kosuzu by $+880%$ for 5 turns. When Mental is 0, increase Mood Value by $+22$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase Voltage Pt. by $+528$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をシャフルする。さらにムードがハッピー、メロウいずれか100のとき、5回の間小鈴が使用するラブアトラクト効果を$+960%$、メンタルが0のとき、このセクション中、ムード値を$+24$、ムードがハッピー、メロウ100でメンタルが0のとき、ボルテージPt.を$+576$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "洗牌手牌。并且气氛为Happy或Mellow任一达到100时，接下来5次小铃使用的LOVE+效果$+960%$，Mental为0时，本小节中，气氛值$+24$，气氛为Happy或Mellow 100且Mental为0时，Vo Pt.$+576$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Love Attract effect used by Kosuzu by $+960%$ for 5 turns. When Mental is 0, increase Mood Value by $+24$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase Voltage Pt. by $+576$.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

@@ -6513,6 +6513,19 @@
     }
   },
   {
+    "raw": "ダークネスサン",
+    "translation": {
+      "zh-CN": {
+        "text": "黑暗太阳",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Darkness Sun",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "チアフルアトラクション",
     "translation": {
       "zh-CN": {
@@ -10829,6 +10842,19 @@
     }
   },
   {
+    "raw": "フローズンサン",
+    "translation": {
+      "zh-CN": {
+        "text": "冰冻太阳",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Frozen Sun",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ブライトネス",
     "translation": {
       "zh-CN": {
@@ -12441,6 +12467,32 @@
     }
   },
   {
+    "raw": "リブウトアトラクト",
+    "translation": {
+      "zh-CN": {
+        "text": "复活吸引",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reboot Attract",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "リブウトボルテージ",
+    "translation": {
+      "zh-CN": {
+        "text": "复活电压",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reboot Voltage",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "リブートアトラクト",
     "translation": {
       "zh-CN": {
@@ -12957,6 +13009,32 @@
       "zh-CN": {
         "text": "Wide Heat",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ワイルドソウル",
+    "translation": {
+      "zh-CN": {
+        "text": "狂野灵魂",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Wild Soul",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ワイルドドリーム",
+    "translation": {
+      "zh-CN": {
+        "text": "狂野梦想",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Wild Dream",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

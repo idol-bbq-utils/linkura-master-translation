@@ -63271,6 +63271,45 @@
     }
   },
   {
+    "raw": "[いちご123]セラス 柳田 リリエンフェルト",
+    "translation": {
+      "zh-CN": {
+        "text": "[いちご123]塞拉斯 柳田 利林费尔德",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Ichigo123] Ceras Yanagida Lilienfeld",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[いちご123]セラス 柳田 リリエンフェルト を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[いちご123]塞拉斯 柳田 利林费尔德 解放4次纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Ichigo123] A sticker commemorating the 4th release of Ceras Yanagida Lilienfeld",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[いちご123]セラス 柳田 リリエンフェルト 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[いちご123]塞拉斯 柳田 利林费尔德 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Ichigo123] Ceras Yanagida Lilienfeld released successfully",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[いつでも、いつまでも]乙宗 梢",
     "translation": {
       "zh-CN": {
@@ -69390,6 +69429,84 @@
       "en": {
         "text": "[Dream Disease] Ginko Momose Unlock Complete",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[リブウト]徒町 小鈴",
+    "translation": {
+      "zh-CN": {
+        "text": "[リブウト]徒町小铃",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Reboot] Kosuzu Kachimachi",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[リブウト]徒町 小鈴 を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[リブウト]徒町小铃 解放4次纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Reboot] A sticker commemorating the 4th release of Kosuzu Kachimachi",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[リブウト]徒町 小鈴 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[リブウト]徒町小铃 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Reboot] Kosuzu Kachimachi released successfully",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[リブウト]村野 さやか",
+    "translation": {
+      "zh-CN": {
+        "text": "[リブウト]村野沙耶香",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Reboot] Sayaka Murano",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[リブウト]村野 さやか を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[リブウト]村野沙耶香 解放4次纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Reboot] A sticker commemorating the 4th release of Sayaka Murano",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[リブウト]村野 さやか 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[リブウト]村野沙耶香 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Reboot] Sayaka Murano released successfully",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -85536,6 +85653,45 @@
       "en": {
         "text": "『ユメワズライ』Mastery Lv.30 Reached",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "『リブウト』のマスタリーLv.を30にした記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "『リブウト』精通等级达到30的纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "A sticker commemorating reaching Mastery Lv.30 for 『Reboot』",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "『リブウト』マエストロ",
+    "translation": {
+      "zh-CN": {
+        "text": "『リブウト』大师",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "『Reboot』 Maestro",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "『リブウト』マスタリーLv.30到達",
+    "translation": {
+      "zh-CN": {
+        "text": "『リブウト』精通等级30达成",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "『Reboot』 Mastery Lv.30 Achieved",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

@@ -3107,6 +3107,19 @@
     }
   },
   {
+    "raw": "[いちご123]セラス 柳田 リリエンフェルト 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[いちご123]塞拉斯 柳田 利林费尔德 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[いちご123] Ceras Yanagida Lilienfeld Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[いつでも、いつまでも]乙宗 梢 解放Pt.",
     "translation": {
       "zh-CN": {
@@ -4676,6 +4689,32 @@
       "en": {
         "text": "[Yumewazurai] Ginko Momose Unlock Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[リブウト]徒町 小鈴 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[リブウト]徒町 小铃 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[リブウト] Kosuzu Kachimachi Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[リブウト]村野 さやか 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[リブウト]村野 沙耶香 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[リブウト] Sayaka Murano Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
