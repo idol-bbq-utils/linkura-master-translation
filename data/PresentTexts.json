@@ -6916,6 +6916,19 @@
     }
   },
   {
+    "raw": "CD『Sayo-Shigure / リブウト / Hip, hip, hooray! / 令嬢モブ！』シリアルコード特典です。",
+    "translation": {
+      "en": {
+        "text": "Items obtained as a serial code bonus from the CD 『Sayo-Shigure / リブウト / Hip, hip, hooray! / 令嬢モブ！』.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "CD『Sayo-Shigure / リブウト / Hip, hip, hooray! / 令嬢モブ！』序列号特典。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "CD『Sparkly Spot』シリアルコード特典です。",
     "translation": {
       "zh-CN": {
@@ -14430,6 +14443,292 @@
     }
   },
   {
+    "raw": "Live Grand Prix 105期FinalTerm 第2回 個人戦 10001位～15000位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 10001st-15000th in the Live Grand Prix 105 Season Final, 2nd Tournament, Individual Competition.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第2回 个人战 10001位～15000位的奖品。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第2回 個人戦 1001位～2000位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 1001st-2000th in the Live Grand Prix 105 Season Final, 2nd Tournament, Individual Competition.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第2回 个人战 1001位～2000位的奖品。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第2回 個人戦 101位～200位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 101st-200th in the Live Grand Prix 105 Season Final, 2nd Tournament, Individual Competition.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第2回 个人战 101位～200位的奖品。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第2回 個人戦 10位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 10th in the Live Grand Prix 105 Season Final, 2nd Tournament, Individual Competition.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第2回 个人战 第10名的奖品。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第2回 個人戦 11位～100位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 11th-100th in the Live Grand Prix 105 Season Final, 2nd Tournament, Individual Competition.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第2回 个人战 11位～100位的奖品。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第2回 個人戦 15001位～のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 15001st and above in the Live Grand Prix 105 Season Final, 2nd Tournament, Individual Competition.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第2回 个人战 15001位及以上的奖品。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第2回 個人戦 1位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 1st in the Live Grand Prix 105 Season Final, 2nd Tournament, Individual Competition.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第2回 个人战 第1名的奖品。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第2回 個人戦 1位～200位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 1st-200th in the Live Grand Prix 105 Season Final, 2nd Tournament, Individual Competition.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第2回 个人战 1位～200位的奖品。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第2回 個人戦 2001位～3000位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 2001st-3000th in the Live Grand Prix 105 Season Final, 2nd Tournament, Individual Competition.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第2回 个人战 2001位～3000位的奖品。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第2回 個人戦 201位～500位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 201st-500th in the Live Grand Prix 105 Season Final, 2nd Tournament, Individual Competition.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第2回 个人战 201位～500位的奖品。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第2回 個人戦 2位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 2nd in the Live Grand Prix 105 Season Final, 2nd Tournament, Individual Competition.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第2回 个人战 第2名的奖品。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第2回 個人戦 3001位～5000位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 3001st-5000th in the Live Grand Prix 105 Season Final, 2nd Tournament, Individual Competition.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第2回 个人战 3001位～5000位的奖品。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第2回 個人戦 3位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 3rd in the Live Grand Prix 105 Season Final, 2nd Tournament, Individual Competition.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第2回 个人战 第3名的奖品。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第2回 個人戦 4位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 4th in the Live Grand Prix 105 Season Final, 2nd Tournament, Individual Competition.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第2回 个人战 第4名的奖品。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第2回 個人戦 5001位～7000位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 5001st-7000th in the Live Grand Prix 105 Season Final, 2nd Tournament, Individual Competition.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第2回 个人战 5001位～7000位的奖品。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第2回 個人戦 501位～1000位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 501st-1000th in the Live Grand Prix 105 Season Final, 2nd Tournament, Individual Competition.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第2回 个人战 501位～1000位的奖品。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第2回 個人戦 5位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 5th in the Live Grand Prix 105 Season Final, 2nd Tournament, Individual Competition.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第2回 个人战 第5名的奖品。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第2回 個人戦 6位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 6th in the Live Grand Prix 105 Season Final, 2nd Tournament, Individual Competition.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第2回 个人战 第6名的奖品。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第2回 個人戦 7001位～10000位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 7001st-10000th in the Live Grand Prix 105 Season Final, 2nd Tournament, Individual Competition.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第2回 个人战 7001位～10000位的奖品。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第2回 個人戦 7位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 7th in the Live Grand Prix 105 Season Final, 2nd Tournament, Individual Competition.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第2回 个人战 第7名的奖品。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第2回 個人戦 8位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 8th in the Live Grand Prix 105 Season Final, 2nd Tournament, Individual Competition.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第2回 个人战 第8名的奖品。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第2回 個人戦 9位のプライズです。",
+    "translation": {
+      "en": {
+        "text": "A prize for placing 9th in the Live Grand Prix 105 Season Final, 2nd Tournament, Individual Competition.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第2回 个人战 第9名的奖品。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "Live Grand Prix 105期OpeningTerm 個人戦 10001位～15000位のプライズです。",
     "translation": {
       "zh-CN": {
@@ -16510,6 +16809,19 @@
     }
   },
   {
+    "raw": "「Nεw Black リリックビデオステッカーパック」を購入して獲得したアイテムです。",
+    "translation": {
+      "en": {
+        "text": "Items obtained by purchasing the 'Nεw Black Lyric Video Sticker Pack'.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "购买「Nεw Black リリックビデオステッカーパック」获得的道具。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "「POP UP SHOP ～チャイナコレクション～ DOLLCHESTRAパック」を購入して獲得したアイテムです。",
     "translation": {
       "en": {
@@ -16796,6 +17108,19 @@
     }
   },
   {
+    "raw": "「Wシャッフル♡よくばりバレンタインパック」を購入して獲得したアイテムです。",
+    "translation": {
+      "en": {
+        "text": "Items obtained by purchasing the 'W Shuffle♡ Greedy Valentine Pack'.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "购买「W洗牌♡贪心情人节组合包」获得的道具。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "「[104期、ある日の夕暮れ] メモリアルアート」を購入して獲得したアイテムです。",
     "translation": {
       "zh-CN": {
@@ -16883,6 +17208,32 @@
       "en": {
         "text": "This is a support present for \"Kimashi!! Mira-Pa! Room Radio\"!",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "「ちょ、尊いLOVE リリックビデオステッカーずっぎゅーんブースターパック」を購入して獲得したアイテムです。",
+    "translation": {
+      "en": {
+        "text": "Items obtained by purchasing the 'Cho, Tōtoi LOVE Lyric Video Sticker Zuggyun Booster Pack'.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "购买「ちょ、尊いLOVE 歌词视频贴纸超戳心加速包」获得的道具。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "「ちょ、尊いLOVE リリックビデオステッカーパック」を購入して獲得したアイテムです。",
+    "translation": {
+      "en": {
+        "text": "Items obtained by purchasing the 'Cho, Tōtoi LOVE Lyric Video Sticker Pack'.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "购买「ちょ、尊いLOVE 歌词视频贴纸包」获得的道具。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -18898,6 +19249,19 @@
       "en": {
         "text": "This is a present obtained from Daily Missions.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ハッピーバレンタイン♡ 満腹！チョコレートケーキプレゼントです！",
+    "translation": {
+      "en": {
+        "text": "Happy Valentine's Day♡ A stuffed-full Chocolate Cake gift!",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "情人节快乐♡ 吃到饱！巧克力蛋糕礼物！",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

@@ -2220,6 +2220,12 @@
             "RequirementText": "[Echoes Beyond]大沢 瑠璃乃 解放完了"
         },
         {
+            "Id": 10335341,
+            "Name": "[平成ギャルズ!!!!]大沢 瑠璃乃",
+            "Text": "[平成ギャルズ!!!!]大沢 瑠璃乃 を4回解放した記念のステッカー",
+            "RequirementText": "[平成ギャルズ!!!!]大沢 瑠璃乃 解放完了"
+        },
+        {
             "Id": 10338011,
             "Name": "[Prism Echo]大沢 瑠璃乃",
             "Text": "[Prism Echo]大沢 瑠璃乃 を4回解放した記念のステッカー",
@@ -2902,6 +2908,12 @@
             "Name": "[Echoes Beyond]安養寺 姫芽",
             "Text": "[Echoes Beyond]安養寺 姫芽 を4回解放した記念のステッカー",
             "RequirementText": "[Echoes Beyond]安養寺 姫芽 解放完了"
+        },
+        {
+            "Id": 10435231,
+            "Name": "[IcHiGo milK love]安養寺 姫芽",
+            "Text": "[IcHiGo milK love]安養寺 姫芽 を4回解放した記念のステッカー",
+            "RequirementText": "[IcHiGo milK love]安養寺 姫芽 解放完了"
         },
         {
             "Id": 10438011,
@@ -11070,6 +11082,132 @@
             "RequirementText": "Live Grand Prix 105期FinalTerm 第1回 個人戦に参加"
         },
         {
+            "Id": 20351101,
+            "Name": "Live Grand Prix 105期FinalTerm 第2回 個人戦 1位",
+            "Text": "Live Grand Prix 105期FinalTerm 第2回 個人戦 1位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第2回 個人戦 1位 入賞"
+        },
+        {
+            "Id": 20351102,
+            "Name": "Live Grand Prix 105期FinalTerm 第2回 個人戦 2位",
+            "Text": "Live Grand Prix 105期FinalTerm 第2回 個人戦 2位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第2回 個人戦 2位 入賞"
+        },
+        {
+            "Id": 20351103,
+            "Name": "Live Grand Prix 105期FinalTerm 第2回 個人戦 3位",
+            "Text": "Live Grand Prix 105期FinalTerm 第2回 個人戦 3位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第2回 個人戦 3位 入賞"
+        },
+        {
+            "Id": 20351104,
+            "Name": "Live Grand Prix 105期FinalTerm 第2回 個人戦 4位",
+            "Text": "Live Grand Prix 105期FinalTerm 第2回 個人戦 4位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第2回 個人戦 4位 入賞"
+        },
+        {
+            "Id": 20351105,
+            "Name": "Live Grand Prix 105期FinalTerm 第2回 個人戦 5位",
+            "Text": "Live Grand Prix 105期FinalTerm 第2回 個人戦 5位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第2回 個人戦 5位 入賞"
+        },
+        {
+            "Id": 20351106,
+            "Name": "Live Grand Prix 105期FinalTerm 第2回 個人戦 6位",
+            "Text": "Live Grand Prix 105期FinalTerm 第2回 個人戦 6位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第2回 個人戦 6位 入賞"
+        },
+        {
+            "Id": 20351107,
+            "Name": "Live Grand Prix 105期FinalTerm 第2回 個人戦 7位",
+            "Text": "Live Grand Prix 105期FinalTerm 第2回 個人戦 7位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第2回 個人戦 7位 入賞"
+        },
+        {
+            "Id": 20351108,
+            "Name": "Live Grand Prix 105期FinalTerm 第2回 個人戦 8位",
+            "Text": "Live Grand Prix 105期FinalTerm 第2回 個人戦 8位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第2回 個人戦 8位 入賞"
+        },
+        {
+            "Id": 20351109,
+            "Name": "Live Grand Prix 105期FinalTerm 第2回 個人戦 9位",
+            "Text": "Live Grand Prix 105期FinalTerm 第2回 個人戦 9位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第2回 個人戦 9位 入賞"
+        },
+        {
+            "Id": 20351110,
+            "Name": "Live Grand Prix 105期FinalTerm 第2回 個人戦 10位",
+            "Text": "Live Grand Prix 105期FinalTerm 第2回 個人戦 10位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第2回 個人戦 10位 入賞"
+        },
+        {
+            "Id": 20351111,
+            "Name": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP100位",
+            "Text": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP100位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP100位 入賞"
+        },
+        {
+            "Id": 20351112,
+            "Name": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP200位",
+            "Text": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP200位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP200位 入賞"
+        },
+        {
+            "Id": 20351113,
+            "Name": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP500位",
+            "Text": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP500位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP500位 入賞"
+        },
+        {
+            "Id": 20351114,
+            "Name": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP1000位",
+            "Text": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP1000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP1000位 入賞"
+        },
+        {
+            "Id": 20351115,
+            "Name": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP2000位",
+            "Text": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP2000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP2000位 入賞"
+        },
+        {
+            "Id": 20351116,
+            "Name": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP3000位",
+            "Text": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP3000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP3000位 入賞"
+        },
+        {
+            "Id": 20351117,
+            "Name": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP5000位",
+            "Text": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP5000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP5000位 入賞"
+        },
+        {
+            "Id": 20351118,
+            "Name": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP7000位",
+            "Text": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP7000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP7000位 入賞"
+        },
+        {
+            "Id": 20351119,
+            "Name": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP10000位",
+            "Text": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP10000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP10000位 入賞"
+        },
+        {
+            "Id": 20351120,
+            "Name": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP15000位",
+            "Text": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP15000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第2回 個人戦 TOP15000位 入賞"
+        },
+        {
+            "Id": 20351121,
+            "Name": "Live Grand Prix 105期FinalTerm 第2回 個人戦 参加",
+            "Text": "Live Grand Prix 105期FinalTerm 第2回 個人戦 参加賞のステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第2回 個人戦に参加"
+        },
+        {
             "Id": 40103101,
             "Name": "『Dream Believers（4人Ver.）』マエストロ",
             "Text": "『Dream Believers（4人Ver.）』のマスタリーLv.を30にした記念のステッカー",
@@ -13326,6 +13464,216 @@
             "RequirementText": "「花咲特急☆エーデルギャラクシーツアー アテンダント泉パック」を購入"
         },
         {
+            "Id": 90000152,
+            "Name": "[ちょ、とうといらぶ]大沢 瑠璃乃①",
+            "Text": "そっちも⼤正解",
+            "RequirementText": "「ちょ、尊いLOVE リリックビデオステッカーパック」を購入"
+        },
+        {
+            "Id": 90000153,
+            "Name": "[ちょ、とうといらぶ]村野 さやか①",
+            "Text": "尊 in LOVE",
+            "RequirementText": "「ちょ、尊いLOVE リリックビデオステッカーパック」を購入"
+        },
+        {
+            "Id": 90000154,
+            "Name": "[ちょ、とうといらぶ]徒町 小鈴①",
+            "Text": "なんでも⼤正解",
+            "RequirementText": "「ちょ、尊いLOVE リリックビデオステッカーパック」を購入"
+        },
+        {
+            "Id": 90000155,
+            "Name": "[ちょ、とうといらぶ]セラス 柳田 リリエンフェルト①",
+            "Text": "こっちも⼤正解",
+            "RequirementText": "「ちょ、尊いLOVE リリックビデオステッカーパック」を購入"
+        },
+        {
+            "Id": 90000156,
+            "Name": "[ちょ、とうといらぶ]ずっぎゅーん",
+            "Text": "ずっぎゅーん",
+            "RequirementText": "「ちょ、尊いLOVE リリックビデオステッカーずっぎゅーんブースターパック」を購入"
+        },
+        {
+            "Id": 90000157,
+            "Name": "[ちょ、とうといらぶ]大沢 瑠璃乃②",
+            "Text": "メイド No.151",
+            "RequirementText": "「ちょ、尊いLOVE リリックビデオステッカーずっぎゅーんブースターパック」を購入"
+        },
+        {
+            "Id": 90000158,
+            "Name": "[ちょ、とうといらぶ]徒町 小鈴②",
+            "Text": "メイド No.152",
+            "RequirementText": "「ちょ、尊いLOVE リリックビデオステッカーずっぎゅーんブースターパック」を購入"
+        },
+        {
+            "Id": 90000159,
+            "Name": "[ちょ、とうといらぶ]セラス 柳田 リリエンフェルト②",
+            "Text": "メイド No.153",
+            "RequirementText": "「ちょ、尊いLOVE リリックビデオステッカーずっぎゅーんブースターパック」を購入"
+        },
+        {
+            "Id": 90000160,
+            "Name": "[ちょ、とうといらぶ]村野 さやか②",
+            "Text": "お嬢様",
+            "RequirementText": "「ちょ、尊いLOVE リリックビデオステッカーずっぎゅーんブースターパック」を購入"
+        },
+        {
+            "Id": 90000161,
+            "Name": "[ちょ、とうといらぶ]徒町 小鈴③",
+            "Text": "いかがですか？ お嬢様",
+            "RequirementText": "「ちょ、尊いLOVE リリックビデオステッカーずっぎゅーんブースターパック」を購入"
+        },
+        {
+            "Id": 90000162,
+            "Name": "[ちょ、とうといらぶ]セラス 柳田 リリエンフェルト③",
+            "Text": "それなら お任せあれ",
+            "RequirementText": "「ちょ、尊いLOVE リリックビデオステッカーずっぎゅーんブースターパック」を購入"
+        },
+        {
+            "Id": 90000163,
+            "Name": "[ちょ、とうといらぶ]大沢 瑠璃乃③",
+            "Text": "鏡の前に どうぞ",
+            "RequirementText": "「ちょ、尊いLOVE リリックビデオステッカーずっぎゅーんブースターパック」を購入"
+        },
+        {
+            "Id": 90000164,
+            "Name": "[ちょ、とうといらぶ]村野 さやか③",
+            "Text": "きゅるん警報が発令中",
+            "RequirementText": "「ちょ、尊いLOVE リリックビデオステッカーずっぎゅーんブースターパック」を購入"
+        },
+        {
+            "Id": 90000165,
+            "Name": "[ちょ、とうといらぶ]セラス 柳田 リリエンフェルト④",
+            "Text": "ハートが持たんて",
+            "RequirementText": "「ちょ、尊いLOVE リリックビデオステッカーずっぎゅーんブースターパック」を購入"
+        },
+        {
+            "Id": 90000166,
+            "Name": "[ちょ、とうといらぶ]大沢 瑠璃乃④",
+            "Text": "MondayからSunday",
+            "RequirementText": "「ちょ、尊いLOVE リリックビデオステッカーずっぎゅーんブースターパック」を購入"
+        },
+        {
+            "Id": 90000167,
+            "Name": "[ちょ、とうといらぶ]徒町 小鈴④",
+            "Text": "まさか！ここは天国？",
+            "RequirementText": "「ちょ、尊いLOVE リリックビデオステッカーずっぎゅーんブースターパック」を購入"
+        },
+        {
+            "Id": 90000168,
+            "Name": "[ちょ、とうといらぶ]セラス 柳田 リリエンフェルト⑤",
+            "Text": "じゃ",
+            "RequirementText": "「ちょ、尊いLOVE リリックビデオステッカーずっぎゅーんブースターパック」を購入"
+        },
+        {
+            "Id": 90000169,
+            "Name": "[ちょ、とうといらぶ]大沢 瑠璃乃⑤",
+            "Text": "そんなところで",
+            "RequirementText": "「ちょ、尊いLOVE リリックビデオステッカーずっぎゅーんブースターパック」を購入"
+        },
+        {
+            "Id": 90000170,
+            "Name": "[ちょ、とうといらぶ]徒町 小鈴⑤",
+            "Text": "撮影会を",
+            "RequirementText": "「ちょ、尊いLOVE リリックビデオステッカーずっぎゅーんブースターパック」を購入"
+        },
+        {
+            "Id": 90000171,
+            "Name": "[ちょ、とうといらぶ]村野 さやか④",
+            "Text": "ちょ、しんどいLOVE",
+            "RequirementText": "「ちょ、尊いLOVE リリックビデオステッカーずっぎゅーんブースターパック」を購入"
+        },
+        {
+            "Id": 90000172,
+            "Name": "[ちょ、とうといらぶ]徒町 小鈴⑥",
+            "Text": "ちょっぴりおセンチ",
+            "RequirementText": "「ちょ、尊いLOVE リリックビデオステッカーずっぎゅーんブースターパック」を購入"
+        },
+        {
+            "Id": 90000173,
+            "Name": "[ちょ、とうといらぶ]大沢 瑠璃乃⑥",
+            "Text": "王⼦にJealousy",
+            "RequirementText": "「ちょ、尊いLOVE リリックビデオステッカーずっぎゅーんブースターパック」を購入"
+        },
+        {
+            "Id": 90000174,
+            "Name": "[ちょ、とうといらぶ]村野 さやか⑤",
+            "Text": "⾔うなれば 可愛さの頂点",
+            "RequirementText": "「ちょ、尊いLOVE リリックビデオステッカーずっぎゅーんブースターパック」を購入"
+        },
+        {
+            "Id": 90000175,
+            "Name": "[にゅーぶらっく]安養寺 姫芽",
+            "Text": "“私は美しい 素晴らしい 輝いてるわ”",
+            "RequirementText": "「Nεw Black リリックビデオステッカーパック」を購入"
+        },
+        {
+            "Id": 90000176,
+            "Name": "[にゅーぶらっく]日野下 花帆",
+            "Text": "魔法をかけよう",
+            "RequirementText": "「Nεw Black リリックビデオステッカーパック」を購入"
+        },
+        {
+            "Id": 90000177,
+            "Name": "[にゅーぶらっく]百生 吟子",
+            "Text": "悔しいよって泣く⽅がマシね",
+            "RequirementText": "「Nεw Black リリックビデオステッカーパック」を購入"
+        },
+        {
+            "Id": 90000178,
+            "Name": "[にゅーぶらっく]桂城 泉",
+            "Text": "悲しいから泣くなんてナンセンス",
+            "RequirementText": "「Nεw Black リリックビデオステッカーパック」を購入"
+        },
+        {
+            "Id": 90000179,
+            "Name": "[へいせいぎゃるず!!!!♡バレンタイン]大沢 瑠璃乃",
+            "Text": "ポケット叩けばギャル・ギャル・ギャルズ",
+            "RequirementText": "「Wシャッフル♡よくばりバレンタインパック」を購入"
+        },
+        {
+            "Id": 90000180,
+            "Name": "[へいせいぎゃるず!!!!♡バレンタイン]村野 さやか",
+            "Text": "割れたビスケはタルト生地になる",
+            "RequirementText": "「Wシャッフル♡よくばりバレンタインパック」を購入"
+        },
+        {
+            "Id": 90000181,
+            "Name": "[へいせいぎゃるず!!!!♡バレンタイン]徒町 小鈴",
+            "Text": "平成から令和へ ファッションからマインドへ",
+            "RequirementText": "「Wシャッフル♡よくばりバレンタインパック」を購入"
+        },
+        {
+            "Id": 90000182,
+            "Name": "[へいせいぎゃるず!!!!♡バレンタイン]セラス 柳田 リリエンフェルト",
+            "Text": "とりまぶっちゃけ何言ってるかわかんないYEAH〜",
+            "RequirementText": "「Wシャッフル♡よくばりバレンタインパック」を購入"
+        },
+        {
+            "Id": 90000183,
+            "Name": "[いちごみるくらぶ♡バレンタイン]安養寺 姫芽",
+            "Text": "ドレスコードは 気にしないで\nそのままエスコートするよ",
+            "RequirementText": "「Wシャッフル♡よくばりバレンタインパック」を購入"
+        },
+        {
+            "Id": 90000184,
+            "Name": "[いちごみるくらぶ♡バレンタイン]日野下 花帆",
+            "Text": "⽬の前にいる 君だけの王⼦様を⾒てよ",
+            "RequirementText": "「Wシャッフル♡よくばりバレンタインパック」を購入"
+        },
+        {
+            "Id": 90000185,
+            "Name": "[いちごみるくらぶ♡バレンタイン]百生 吟子",
+            "Text": "照れ隠しかな？ 可愛いね\nすぐに瞳逸らさないでよ",
+            "RequirementText": "「Wシャッフル♡よくばりバレンタインパック」を購入"
+        },
+        {
+            "Id": 90000186,
+            "Name": "[いちごみるくらぶ♡バレンタイン]桂城 泉",
+            "Text": "扉を開けてごらん ⽇常なんて忘れさせるよ",
+            "RequirementText": "「Wシャッフル♡よくばりバレンタインパック」を購入"
+        },
+        {
             "Id": 90010210,
             "Name": "Kozue Birthday 2023",
             "Text": "Happy 17th Birthday to Dear Kozue!",
@@ -13720,6 +14068,12 @@
             "Name": "Jacket『ちょ、尊いLOVE / Nεw Black』",
             "Text": "オギャッと⽣まれた平成ギャルズ\nIcHiGo milKに染まれ 甘い夢を一緒に見よう",
             "RequirementText": "CD『ちょ、尊いLOVE / Nεw Black』購入特典"
+        },
+        {
+            "Id": 90405130,
+            "Name": "Jacket『Sayo-Shigure / リブウト / Hip, hip, hooray! / 令嬢モブ！』",
+            "Text": "「またあした」で目を閉じれば　再起動-リブウト-したココロ　Go for it!　でも今夜限りじゃモブ！モブ！",
+            "RequirementText": "CD『Sayo-Shigure / リブウト / Hip, hip, hooray! / 令嬢モブ！』購入特典"
         },
         {
             "Id": 90405133,

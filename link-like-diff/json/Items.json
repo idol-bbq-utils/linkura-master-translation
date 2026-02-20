@@ -4146,6 +4146,12 @@
             "Description": "スタイル解放素材(大沢 瑠璃乃)"
         },
         {
+            "Id": 4033534,
+            "Name": "[平成ギャルズ!!!!]大沢 瑠璃乃 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(大沢 瑠璃乃)"
+        },
+        {
             "Id": 4033801,
             "Name": "[Prism Echo]大沢 瑠璃乃  解放Pt.",
             "NameFurigana": "かいほうぽいんと",
@@ -4784,6 +4790,12 @@
         {
             "Id": 4043522,
             "Name": "[Echoes Beyond]安養寺 姫芽 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(安養寺 姫芽)"
+        },
+        {
+            "Id": 4043523,
+            "Name": "[IcHiGo milK love]安養寺 姫芽 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
             "Description": "スタイル解放素材(安養寺 姫芽)"
         },

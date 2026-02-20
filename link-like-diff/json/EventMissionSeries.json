@@ -44,6 +44,11 @@
             "Id": 10008,
             "Name": "忘れられない煉獄い夏！リズミックサマー期間限定ミッション（スクステ）",
             "Description": "忘れられない煉獄い夏！リズミックサマー期間限定ミッションです。"
+        },
+        {
+            "Id": 10009,
+            "Name": "Live Grand Prix 105期FinalTerm 第2回 個人戦",
+            "Description": "Live Grand Prix 105期FinalTerm 第2回 個人戦"
         }
     ]
 }

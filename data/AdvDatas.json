@@ -52,6 +52,19 @@
     }
   },
   {
+    "raw": "第11話『みんなで、花咲きたい！』",
+    "translation": {
+      "en": {
+        "text": "Episode 11: \"We All Want to Bloom Together!\"",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "第11话『大家一起，绽放如花！』",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "第11話『スクールアイドルクラブのために！（？）』",
     "translation": {
       "zh-CN": {

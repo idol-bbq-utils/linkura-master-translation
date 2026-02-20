@@ -2405,6 +2405,45 @@
     }
   },
   {
+    "raw": "ライブグランプリでステージAを1日1回以上クリアしよう",
+    "translation": {
+      "en": {
+        "text": "Clear Stage A in the Live Grand Prix at least once per day",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "在Live大奖赛中通关阶段A，每日至少1次",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ライブグランプリでステージBを1日1回以上クリアしよう",
+    "translation": {
+      "en": {
+        "text": "Clear Stage B in the Live Grand Prix at least once per day",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "在Live大奖赛中通关阶段B，每日至少1次",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ライブグランプリでステージCを1日1回以上クリアしよう",
+    "translation": {
+      "en": {
+        "text": "Clear Stage C in the Live Grand Prix at least once per day",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "在Live大奖赛中通关阶段C，每日至少1次",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ラーニングライブを100回クリアしよう",
     "translation": {
       "zh-CN": {
@@ -2973,6 +3012,123 @@
       "en": {
         "text": "Clear songs with Ginko Momose as center 5 times",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "累計2日、ライブグランプリでステージAを1日1回以上クリアしよう",
+    "translation": {
+      "en": {
+        "text": "Clear Stage A in the Live Grand Prix at least once per day for a cumulative total of 2 days",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "累计2天，在Live大奖赛中通关阶段A，每日至少1次",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "累計2日、ライブグランプリでステージBを1日1回以上クリアしよう",
+    "translation": {
+      "en": {
+        "text": "Clear Stage B in the Live Grand Prix at least once per day for a cumulative total of 2 days",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "累计2天，在Live大奖赛中通关阶段B，每日至少1次",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "累計2日、ライブグランプリでステージCを1日1回以上クリアしよう",
+    "translation": {
+      "en": {
+        "text": "Clear Stage C in the Live Grand Prix at least once per day for a cumulative total of 2 days",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "累计2天，在Live大奖赛中通关阶段C，每日至少1次",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "累計3日、ライブグランプリでステージAを1日1回以上クリアしよう",
+    "translation": {
+      "en": {
+        "text": "Clear Stage A in the Live Grand Prix at least once per day for a cumulative total of 3 days",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "累计3天，在Live大奖赛中通关阶段A，每日至少1次",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "累計3日、ライブグランプリでステージBを1日1回以上クリアしよう",
+    "translation": {
+      "en": {
+        "text": "Clear Stage B in the Live Grand Prix at least once per day for a cumulative total of 3 days",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "累计3天，在Live大奖赛中通关阶段B，每日至少1次",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "累計3日、ライブグランプリでステージCを1日1回以上クリアしよう",
+    "translation": {
+      "en": {
+        "text": "Clear Stage C in the Live Grand Prix at least once per day for a cumulative total of 3 days",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "累计3天，在Live大奖赛中通关阶段C，每日至少1次",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "累計4日、ライブグランプリでステージAを1日1回以上クリアしよう",
+    "translation": {
+      "en": {
+        "text": "Clear Stage A in the Live Grand Prix at least once per day for a cumulative total of 4 days",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "累计4天，在Live大奖赛中通关阶段A，每日至少1次",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "累計4日、ライブグランプリでステージBを1日1回以上クリアしよう",
+    "translation": {
+      "en": {
+        "text": "Clear Stage B in the Live Grand Prix at least once per day for a cumulative total of 4 days",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "累计4天，在Live大奖赛中通关阶段B，每日至少1次",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "累計4日、ライブグランプリでステージCを1日1回以上クリアしよう",
+    "translation": {
+      "en": {
+        "text": "Clear Stage C in the Live Grand Prix at least once per day for a cumulative total of 4 days",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "累计4天，在Live大奖赛中通关阶段C，每日至少1次",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

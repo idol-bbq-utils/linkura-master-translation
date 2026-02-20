@@ -319,6 +319,11 @@
             "Id": 805110,
             "Name": "Live Grand Prix 105期FinalTerm 第1回 個人戦",
             "Description": "Live Grand Prix 105期FinalTerm 第1回 個人戦"
+        },
+        {
+            "Id": 805111,
+            "Name": "Live Grand Prix 105期FinalTerm 第2回 個人戦",
+            "Description": "Live Grand Prix 105期FinalTerm 第2回 個人戦"
         }
     ]
 }

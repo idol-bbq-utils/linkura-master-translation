@@ -89,7 +89,8 @@ Do not include any explanatory text!!!
 Do not return markdown code format!!!
 Do not return markdown code like ```json...```
 just return json string
-Example format: ["translated text 1", "translated text 2", ...]
+You should escape special characters in the translated texts properly to ensure valid JSON output.
+Example format: ["translated text 1", "translated text 2", "translated \"escaped\" text \n 3", ...]
 """
         
         # print(f"Prompt for chunk {chunk_idx + 1}:")

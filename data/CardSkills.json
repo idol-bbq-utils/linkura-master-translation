@@ -17017,6 +17017,318 @@
     }
   },
   {
+    "raw": "このステージ中、ムード値をハッピー方向に$+10$する。さらにデッキ内の瑠璃乃のスキルの消費APを-1、小鈴のスキルの消費APを-2、セラスのスキルの消費APを-3する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Mood Value in the Happy direction by $+10$. Additionally, reduce the AP cost of Rurino's skills in the deck by -1, Kosuzu's skills by -2, and Ceras's skills by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，气氛值向Happy方向$+10$。此外，本场Live中，牌库内瑠璃乃技能消耗AP-1、小铃技能消耗AP-2、塞拉斯技能消耗AP-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値をハッピー方向に$+11$する。さらにデッキ内の瑠璃乃のスキルの消費APを-1、小鈴のスキルの消費APを-2、セラスのスキルの消費APを-3する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Mood Value in the Happy direction by $+11$. Additionally, reduce the AP cost of Rurino's skills in the deck by -1, Kosuzu's skills by -2, and Ceras's skills by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，气氛值向Happy方向$+11$。此外，本场Live中，牌库内瑠璃乃技能消耗AP-1、小铃技能消耗AP-2、塞拉斯技能消耗AP-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値をハッピー方向に$+12$する。さらにデッキ内の瑠璃乃のスキルの消費APを-1、小鈴のスキルの消費APを-2、セラスのスキルの消費APを-3する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Mood Value in the Happy direction by $+12$. Additionally, reduce the AP cost of Rurino's skills in the deck by -1, Kosuzu's skills by -2, and Ceras's skills by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，气氛值向Happy方向$+12$。此外，本场Live中，牌库内瑠璃乃技能消耗AP-1、小铃技能消耗AP-2、塞拉斯技能消耗AP-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値をハッピー方向に$+13$する。さらにデッキ内の瑠璃乃のスキルの消費APを-1、小鈴のスキルの消費APを-2、セラスのスキルの消費APを-3する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Mood Value in the Happy direction by $+13$. Additionally, reduce the AP cost of Rurino's skills in the deck by -1, Kosuzu's skills by -2, and Ceras's skills by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，气氛值向Happy方向$+13$。此外，本场Live中，牌库内瑠璃乃技能消耗AP-1、小铃技能消耗AP-2、塞拉斯技能消耗AP-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値をハッピー方向に$+14$する。さらにデッキ内の瑠璃乃のスキルの消費APを-1、小鈴のスキルの消費APを-2、セラスのスキルの消費APを-3する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Mood Value in the Happy direction by $+14$. Additionally, reduce the AP cost of Rurino's skills in the deck by -1, Kosuzu's skills by -2, and Ceras's skills by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，气氛值向Happy方向$+14$。此外，本场Live中，牌库内瑠璃乃技能消耗AP-1、小铃技能消耗AP-2、塞拉斯技能消耗AP-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値をハッピー方向に$+15$する。さらにデッキ内の瑠璃乃のスキルの消費APを-1、小鈴のスキルの消費APを-2、セラスのスキルの消費APを-3する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Mood Value in the Happy direction by $+15$. Additionally, reduce the AP cost of Rurino's skills in the deck by -1, Kosuzu's skills by -2, and Ceras's skills by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，气氛值向Happy方向$+15$。此外，本场Live中，牌库内瑠璃乃技能消耗AP-1、小铃技能消耗AP-2、塞拉斯技能消耗AP-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値をハッピー方向に$+19$する。さらにこのステージ中、メンタルが1秒ごとに最大値の$19%$回復、ボルテージPt.が1秒ごとに$190$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Mood Value in the Happy direction by $+19$. Additionally, during this stage, Mental recovers by $19%$ of its maximum value every second, and Voltage Pt. increases by $190$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，气氛值向Happy方向$+19$。此外，本场Live中，Mental每秒恢复最大值的$19%$，Vo Pt.每秒增加$190$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値をハッピー方向に$+21$する。さらにこのステージ中、メンタルが1秒ごとに最大値の$21%$回復、ボルテージPt.が1秒ごとに$210$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Mood Value in the Happy direction by $+21$. Additionally, during this stage, Mental recovers by $21%$ of its maximum value every second, and Voltage Pt. increases by $210$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，气氛值向Happy方向$+21$。此外，本场Live中，Mental每秒恢复最大值的$21%$，Vo Pt.每秒增加$210$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値をハッピー方向に$+23$する。さらにこのステージ中、メンタルが1秒ごとに最大値の$23%$回復、ボルテージPt.が1秒ごとに$230$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Mood Value in the Happy direction by $+23$. Additionally, during this stage, Mental recovers by $23%$ of its maximum value every second, and Voltage Pt. increases by $230$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，气氛值向Happy方向$+23$。此外，本场Live中，Mental每秒恢复最大值的$23%$，Vo Pt.每秒增加$230$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値をハッピー方向に$+24$する。さらにこのステージ中、メンタルが1秒ごとに最大値の$24%$回復、ボルテージPt.が1秒ごとに$240$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Mood Value in the Happy direction by $+24$. Additionally, during this stage, Mental recovers by $24%$ of its maximum value every second, and Voltage Pt. increases by $240$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，气氛值向Happy方向$+24$。此外，本场Live中，Mental每秒恢复最大值的$24%$，Vo Pt.每秒增加$240$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値をハッピー方向に$+26$する。さらにこのステージ中、メンタルが1秒ごとに最大値の$26%$回復、ボルテージPt.が1秒ごとに$260$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Mood Value in the Happy direction by $+26$. Additionally, during this stage, Mental recovers by $26%$ of its maximum value every second, and Voltage Pt. increases by $260$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，气氛值向Happy方向$+26$。此外，本场Live中，Mental每秒恢复最大值的$26%$，Vo Pt.每秒增加$260$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値をハッピー方向に$+28$する。さらにこのステージ中、メンタルが1秒ごとに最大値の$28%$回復、ボルテージPt.が1秒ごとに$280$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Mood Value in the Happy direction by $+28$. Additionally, during this stage, Mental recovers by $28%$ of its maximum value every second, and Voltage Pt. increases by $280$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，气氛值向Happy方向$+28$。此外，本场Live中，Mental每秒恢复最大值的$28%$，Vo Pt.每秒增加$280$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値をハッピー方向に$+30$する。さらにこのステージ中、メンタルが1秒ごとに最大値の$30%$回復、ボルテージPt.が1秒ごとに$300$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Mood Value in the Happy direction by $+30$. Additionally, during this stage, Mental recovers by $30%$ of its maximum value every second, and Voltage Pt. increases by $300$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，气氛值向Happy方向$+30$。此外，本场Live中，Mental每秒恢复最大值的$30%$，Vo Pt.每秒增加$300$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値をハッピー方向に$+32$する。さらにこのステージ中、メンタルが1秒ごとに最大値の$32%$回復、ボルテージPt.が1秒ごとに$320$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Mood Value in the Happy direction by $+32$. Additionally, during this stage, Mental recovers by $32%$ of its maximum value every second, and Voltage Pt. increases by $320$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，气氛值向Happy方向$+32$。此外，本场Live中，Mental每秒恢复最大值的$32%$，Vo Pt.每秒增加$320$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値をハッピー方向に$+34$する。さらにこのステージ中、メンタルが1秒ごとに最大値の$34%$回復、ボルテージPt.が1秒ごとに$340$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Mood Value in the Happy direction by $+34$. Additionally, during this stage, Mental recovers by $34%$ of its maximum value every second, and Voltage Pt. increases by $340$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，气氛值向Happy方向$+34$。此外，本场Live中，Mental每秒恢复最大值的$34%$，Vo Pt.每秒增加$340$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値をハッピー方向に$+37$する。さらにこのステージ中、メンタルが1秒ごとに最大値の$37%$回復、ボルテージPt.が1秒ごとに$370$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Mood Value in the Happy direction by $+37$. Additionally, during this stage, Mental recovers by $37%$ of its maximum value every second, and Voltage Pt. increases by $370$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，气氛值向Happy方向$+37$。此外，本场Live中，Mental每秒恢复最大值的$37%$，Vo Pt.每秒增加$370$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値をハッピー方向に$+39$する。さらにこのステージ中、メンタルが1秒ごとに最大値の$39%$回復、ボルテージPt.が1秒ごとに$390$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Mood Value in the Happy direction by $+39$. Additionally, during this stage, Mental recovers by $39%$ of its maximum value every second, and Voltage Pt. increases by $390$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，气氛值向Happy方向$+39$。此外，本场Live中，Mental每秒恢复最大值的$39%$，Vo Pt.每秒增加$390$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値をハッピー方向に$+41$する。さらにこのステージ中、メンタルが1秒ごとに最大値の$41%$回復、ボルテージPt.が1秒ごとに$410$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Mood Value in the Happy direction by $+41$. Additionally, during this stage, Mental recovers by $41%$ of its maximum value every second, and Voltage Pt. increases by $410$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，气氛值向Happy方向$+41$。此外，本场Live中，Mental每秒恢复最大值的$41%$，Vo Pt.每秒增加$410$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値をハッピー方向に$+43$する。さらにこのステージ中、メンタルが1秒ごとに最大値の$43%$回復、ボルテージPt.が1秒ごとに$430$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Mood Value in the Happy direction by $+43$. Additionally, during this stage, Mental recovers by $43%$ of its maximum value every second, and Voltage Pt. increases by $430$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，气氛值向Happy方向$+43$。此外，本场Live中，Mental每秒恢复最大值的$43%$，Vo Pt.每秒增加$430$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値をハッピー方向に$+46$する。さらにこのステージ中、メンタルが1秒ごとに最大値の$46%$回復、ボルテージPt.が1秒ごとに$460$ptずつ増加する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Mood Value in the Happy direction by $+46$. Additionally, during this stage, Mental recovers by $46%$ of its maximum value every second, and Voltage Pt. increases by $460$ pt every second.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，气氛值向Happy方向$+46$。此外，本场Live中，Mental每秒恢复最大值的$46%$，Vo Pt.每秒增加$460$pt。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値をハッピー方向に$+6$する。さらにデッキ内の瑠璃乃のスキルの消費APを-1、小鈴のスキルの消費APを-2、セラスのスキルの消費APを-3する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Mood Value in the Happy direction by $+6$. Additionally, reduce the AP cost of Rurino's skills in the deck by -1, Kosuzu's skills by -2, and Ceras's skills by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，气氛值向Happy方向$+6$。此外，本场Live中，牌库内瑠璃乃技能消耗AP-1、小铃技能消耗AP-2、塞拉斯技能消耗AP-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値をハッピー方向に$+7$する。さらにデッキ内の瑠璃乃のスキルの消費APを-1、小鈴のスキルの消費APを-2、セラスのスキルの消費APを-3する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Mood Value in the Happy direction by $+7$. Additionally, reduce the AP cost of Rurino's skills in the deck by -1, Kosuzu's skills by -2, and Ceras's skills by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，气氛值向Happy方向$+7$。此外，本场Live中，牌库内瑠璃乃技能消耗AP-1、小铃技能消耗AP-2、塞拉斯技能消耗AP-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値をハッピー方向に$+8$する。さらにデッキ内の瑠璃乃のスキルの消費APを-1、小鈴のスキルの消費APを-2、セラスのスキルの消費APを-3する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Mood Value in the Happy direction by $+8$. Additionally, reduce the AP cost of Rurino's skills in the deck by -1, Kosuzu's skills by -2, and Ceras's skills by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，气氛值向Happy方向$+8$。此外，本场Live中，牌库内瑠璃乃技能消耗AP-1、小铃技能消耗AP-2、塞拉斯技能消耗AP-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値をハッピー方向に$+9$する。さらにデッキ内の瑠璃乃のスキルの消費APを-1、小鈴のスキルの消費APを-2、セラスのスキルの消費APを-3する。",
+    "translation": {
+      "en": {
+        "text": "During this stage, increase Mood Value in the Happy direction by $+9$. Additionally, reduce the AP cost of Rurino's skills in the deck by -1, Kosuzu's skills by -2, and Ceras's skills by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本场Live中，气氛值向Happy方向$+9$。此外，本场Live中，牌库内瑠璃乃技能消耗AP-1、小铃技能消耗AP-2、塞拉斯技能消耗AP-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、ムード値をメロウ方向に$+14$し、このセクション中、手札の上限枚数を2枚減少する。さらにムードがメロウ100のとき、このステージ中、ビートハートの出現個数を+1し、手札をリセットシャッフルする。",
     "translation": {
       "en": {
@@ -42185,6 +42497,19 @@
     }
   },
   {
+    "raw": "このセクション中、AP回復速度を$+102%$し、ビートハートの出現個数を$+10$する。さらに手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase AP Recovery Speed by $+102%$ and increase the number of Beat Hearts appearing by $+10$. Additionally, reset and shuffle your hand.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+102%$，跳心出现数量$+10$。并且将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、AP回復速度を$+102%$し、手札の上限枚数を3枚減少する。さらにAPを$20$回復し、デッキ内の全てのスキルの消費AP-20。",
     "translation": {
       "zh-CN": {
@@ -42193,6 +42518,19 @@
       },
       "en": {
         "text": "During this section, increase AP Recovery Speed by $+102%$ and reduce the maximum number of cards in hand by 3. Additionally, restore $20$ AP and reduce the AP cost of all skills in the deck by -20.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、AP回復速度を$+108%$し、ビートハートの出現個数を$+11$する。さらに手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase AP Recovery Speed by $+108%$ and increase the number of Beat Hearts appearing by $+11$. Additionally, reset and shuffle your hand.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+108%$，跳心出现数量$+11$。并且将手牌重置洗牌。",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -42276,6 +42614,32 @@
     }
   },
   {
+    "raw": "このセクション中、AP回復速度を$+120%$し、ビートハートの出現個数を$+12$する。さらに手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase AP Recovery Speed by $+120%$ and increase the number of Beat Hearts appearing by $+12$. Additionally, reset and shuffle your hand.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+120%$，跳心出现数量$+12$。并且将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、AP回復速度を$+126%$し、ビートハートの出現個数を$+13$する。さらに手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase AP Recovery Speed by $+126%$ and increase the number of Beat Hearts appearing by $+13$. Additionally, reset and shuffle your hand.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+126%$，跳心出现数量$+13$。并且将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、AP回復速度を$+13.2%$する。さらにボルテージLv.10以上のとき、このセクション中、ビートハートの出現個数を+2する。",
     "translation": {
       "zh-CN": {
@@ -42311,6 +42675,32 @@
       "en": {
         "text": "During this section, increase AP recovery speed by $+13.6%$.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、AP回復速度を$+132%$し、ビートハートの出現個数を$+13$する。さらに手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase AP Recovery Speed by $+132%$ and increase the number of Beat Hearts appearing by $+13$. Additionally, reset and shuffle your hand.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+132%$，跳心出现数量$+13$。并且将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、AP回復速度を$+138%$し、ビートハートの出現個数を$+14$する。さらに手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase AP Recovery Speed by $+138%$ and increase the number of Beat Hearts appearing by $+14$. Additionally, reset and shuffle your hand.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+138%$，跳心出现数量$+14$。并且将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -42376,6 +42766,19 @@
       "en": {
         "text": "During this section, increase AP recovery speed by $+15.6%$. Additionally, when Voltage Lv. is 10 or higher, increase beat heart appearance by +2 during this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、AP回復速度を$+150%$し、ビートハートの出現個数を$+15$する。さらに手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase AP Recovery Speed by $+150%$ and increase the number of Beat Hearts appearing by $+15$. Additionally, reset and shuffle your hand.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+150%$，跳心出现数量$+15$。并且将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -42913,6 +43316,19 @@
     }
   },
   {
+    "raw": "このセクション中、AP回復速度を$+60%$し、ビートハートの出現個数を$+6$する。さらに手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase AP Recovery Speed by $+60%$ and increase the number of Beat Hearts appearing by $+6$. Additionally, reset and shuffle your hand.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+60%$，跳心出现数量$+6$。并且将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、AP回復速度を$+60.8%$する。",
     "translation": {
       "zh-CN": {
@@ -42978,6 +43394,19 @@
     }
   },
   {
+    "raw": "このセクション中、AP回復速度を$+66%$し、ビートハートの出現個数を$+7$する。さらに手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase AP Recovery Speed by $+66%$ and increase the number of Beat Hearts appearing by $+7$. Additionally, reset and shuffle your hand.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+66%$，跳心出现数量$+7$。并且将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、AP回復速度を$+66%$する。",
     "translation": {
       "zh-CN": {
@@ -43030,6 +43459,19 @@
     }
   },
   {
+    "raw": "このセクション中、AP回復速度を$+72%$し、ビートハートの出現個数を$+7$する。さらに手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase AP Recovery Speed by $+72%$ and increase the number of Beat Hearts appearing by $+7$. Additionally, reset and shuffle your hand.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+72%$，跳心出现数量$+7$。并且将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、AP回復速度を$+72%$する。さらに手札にある全てのスキルの消費AP-9。",
     "translation": {
       "zh-CN": {
@@ -43065,6 +43507,19 @@
       "en": {
         "text": "During this section, AP recovery speed $+75.6%$. Additionally, all skills in hand have their AP cost reduced by 9.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、AP回復速度を$+78%$し、ビートハートの出現個数を$+8$する。さらに手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase AP Recovery Speed by $+78%$ and increase the number of Beat Hearts appearing by $+8$. Additionally, reset and shuffle your hand.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+78%$，跳心出现数量$+8$。并且将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -43147,6 +43602,19 @@
     }
   },
   {
+    "raw": "このセクション中、AP回復速度を$+84%$し、ビートハートの出現個数を$+8$する。さらに手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase AP Recovery Speed by $+84%$ and increase the number of Beat Hearts appearing by $+8$. Additionally, reset and shuffle your hand.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+84%$，跳心出现数量$+8$。并且将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、AP回復速度を$+85.7%$し、手札の上限枚数を3枚減少する。さらにAPを$16$回復する。",
     "translation": {
       "zh-CN": {
@@ -43212,6 +43680,19 @@
     }
   },
   {
+    "raw": "このセクション中、AP回復速度を$+90%$し、ビートハートの出現個数を$+9$する。さらに手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase AP Recovery Speed by $+90%$ and increase the number of Beat Hearts appearing by $+9$. Additionally, reset and shuffle your hand.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+90%$，跳心出现数量$+9$。并且将手牌重置洗牌。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、AP回復速度を$+90%$する。さらに手札にある全てのスキルの消費AP-9。",
     "translation": {
       "zh-CN": {
@@ -43233,6 +43714,19 @@
       },
       "en": {
         "text": "During this section, increase AP recovery speed by +93.9% and reduce the maximum number of cards in hand by 3. Additionally, restore 18 AP and reduce the AP cost of all skills in the deck by -20.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、AP回復速度を$+96%$し、ビートハートの出現個数を$+10$する。さらに手札をリセットシャッフルする。",
+    "translation": {
+      "en": {
+        "text": "During this section, increase AP Recovery Speed by $+96%$ and increase the number of Beat Hearts appearing by $+10$. Additionally, reset and shuffle your hand.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "本小节中，AP回复速度$+96%$，跳心出现数量$+10$。并且将手牌重置洗牌。",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -111475,6 +111969,19 @@
     }
   },
   {
+    "raw": "ムードがハッピー100で手札にある間、セラス、瑠璃乃、小鈴のスキルを使用したとき、それぞれ15回の間、メンタルリカバー効果を+15%、スキルハート獲得効果による獲得数を+15%、ムード値変動効果を+15％し、このスキルの消費APを-10する。",
+    "translation": {
+      "en": {
+        "text": "While in hand with Mood at Happy 100, when a skill is used by Ceras, Rurino, or Kosuzu, for 15 turns each, increase Mental Recovery effect by +15%, increase the amount gained from Skill Heart gain effects by +15%, increase Mood value change effects by +15%, and reduce this skill's AP cost by -10.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "气氛为Happy100且处于手牌中时，使用塞拉斯、瑠璃乃、小铃的技能时，各自在接下来15次中，Mental恢复效果+15%、获得技能心心效果的获得数+15%、气氛值变动效果+15%，并且本技能消费AP-10。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ムードがハッピー100以上でドローした時、ビートハート150回分のスキルハートを獲得する。さらにこのスキルを使用すると、デッキから除外される。",
     "translation": {
       "zh-CN": {
@@ -116142,6 +116649,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$102.68%$回復させ、ビートハート$104回分$のスキルハートを獲得する。さらにこのセクション中、ムード値をハッピー方向に$+105$し、AP回復速度を-15%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $102.68%$ of its maximum value and gain Skill Hearts equivalent to $104$ beats of Beat Hearts. Additionally, during this section, increase Mood in the Happy direction by $+105$ and reduce AP Recovery Speed by -15%.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$102.68%$，获得$104倍$跳心的技能心心。并且本小节中，气氛值向Happy方向$+105$，AP回复速度-15%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$1020%$回復、このステージ中、それぞれメンタル最大値の$1020%$分のメンタル自然減少、メンタル直接ダメージを無効にし、APを10減少、ボルテージPt.を-1020する。さらにビートハート$1020回分$のスキルハートを獲得し、それぞれ3回の間梢、綴理が使用するスキルハート獲得効果による獲得数を$+102%$する。",
     "translation": {
       "zh-CN": {
@@ -116189,6 +116709,19 @@
       },
       "en": {
         "text": "Restore Mental to $105.6%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, shuffle the hand, gain Skill Hearts equivalent to $264$ beats, and nullify $48.4%$ of the maximum Mental value as natural Mental decay during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$108.72%$回復させ、ビートハート$110回分$のスキルハートを獲得する。さらにこのセクション中、ムード値をハッピー方向に$+111$し、AP回復速度を-15%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $108.72%$ of its maximum value and gain Skill Hearts equivalent to $110$ beats of Beat Hearts. Additionally, during this section, increase Mood in the Happy direction by $+111$ and reduce AP Recovery Speed by -15%.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$108.72%$，获得$110倍$跳心的技能心心。并且本小节中，气氛值向Happy方向$+111$，AP回复速度-15%。",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -117299,6 +117832,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$120.8%$回復させ、ビートハート$122回分$のスキルハートを獲得する。さらにこのセクション中、ムード値をハッピー方向に$+123$し、AP回復速度を-15%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $120.8%$ of its maximum value and gain Skill Hearts equivalent to $122$ beats of Beat Hearts. Additionally, during this section, increase Mood in the Happy direction by $+123$ and reduce AP Recovery Speed by -15%.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$120.8%$，获得$122倍$跳心的技能心心。并且本小节中，气氛值向Happy方向$+123$，AP回复速度-15%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$126.84%$回復させ、ビートハート$128回分$のスキルハートを獲得する。さらにこのセクション中、ムード値をハッピー方向に$+129$し、AP回復速度を-15%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $126.84%$ of its maximum value and gain Skill Hearts equivalent to $128$ beats of Beat Hearts. Additionally, during this section, increase Mood in the Happy direction by $+129$ and reduce AP Recovery Speed by -15%.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$126.84%$，获得$128倍$跳心的技能心心。并且本小节中，气氛值向Happy方向$+129$，AP回复速度-15%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$13%$回復させる。",
     "translation": {
       "zh-CN": {
@@ -117684,6 +118243,32 @@
       },
       "zh-CN": {
         "text": "恢复最大mental值的$132%$。并且Mental在100%以上时，获得$1320倍$跳心的技能心心，本小节中，获得LOVE$+3520%$，Vo Pt.$+352$，mental值达到0也不会进入Mental Down状态，失去最大mental值的99%（固定值）。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$132.88%$回復させ、ビートハート$134回分$のスキルハートを獲得する。さらにこのセクション中、ムード値をハッピー方向に$+135$し、AP回復速度を-15%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $132.88%$ of its maximum value and gain Skill Hearts equivalent to $134$ beats of Beat Hearts. Additionally, during this section, increase Mood in the Happy direction by $+135$ and reduce AP Recovery Speed by -15%.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$132.88%$，获得$134倍$跳心的技能心心。并且本小节中，气氛值向Happy方向$+135$，AP回复速度-15%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$138.92%$回復させ、ビートハート$140回分$のスキルハートを獲得する。さらにこのセクション中、ムード値をハッピー方向に$+141$し、AP回復速度を-15%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $138.92%$ of its maximum value and gain Skill Hearts equivalent to $140$ beats of Beat Hearts. Additionally, during this section, increase Mood in the Happy direction by $+141$ and reduce AP Recovery Speed by -15%.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$138.92%$，获得$140倍$跳心的技能心心。并且本小节中，气氛值向Happy方向$+141$，AP回复速度-15%。",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -118322,6 +118907,19 @@
       "en": {
         "text": "Restore Mental by $15.84%$ of maximum value. Additionally, when Mental is 100% or higher, gain Skill Heart equivalent to $20$ Beat Hearts.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$151%$回復させ、ビートハート$152回分$のスキルハートを獲得する。さらにこのセクション中、ムード値をハッピー方向に$+153$し、AP回復速度を-15%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $151%$ of its maximum value and gain Skill Hearts equivalent to $152$ beats of Beat Hearts. Additionally, during this section, increase Mood in the Happy direction by $+153$ and reduce AP Recovery Speed by -15%.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$151%$，获得$152倍$跳心的技能心心。并且本小节中，气氛值向Happy方向$+153$，AP回复速度-15%。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -123812,6 +124410,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$60.4%$回復させ、ビートハート$61回分$のスキルハートを獲得する。さらにこのセクション中、ムード値をハッピー方向に$+62$し、AP回復速度を-15%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $60.4%$ of its maximum value and gain Skill Hearts equivalent to $61$ beats of Beat Hearts. Additionally, during this section, increase Mood in the Happy direction by $+62$ and reduce AP Recovery Speed by -15%.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$60.4%$，获得$61倍$跳心的技能心心。并且本小节中，气氛值向Happy方向$+62$，AP回复速度-15%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$612%$回復、このステージ中、それぞれメンタル最大値の$612%$分のメンタル自然減少、メンタル直接ダメージを無効にし、APを10減少、ボルテージPt.を-1020する。さらにビートハート$612回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -123950,6 +124561,19 @@
       },
       "en": {
         "text": "Restore Mental to $652.8%$ of its maximum value. During this stage, nullify Mental natural decay and Mental direct damage equivalent to $652.8%$ of the maximum Mental value respectively, reduce AP by 10, and decrease Voltage Pt. by -1020. Additionally, gain Skill Hearts equivalent to $653$ beats.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$66.44%$回復させ、ビートハート$67回分$のスキルハートを獲得する。さらにこのセクション中、ムード値をハッピー方向に$+68$し、AP回復速度を-15%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $66.44%$ of its maximum value and gain Skill Hearts equivalent to $67$ beats of Beat Hearts. Additionally, during this section, increase Mood in the Happy direction by $+68$ and reduce AP Recovery Speed by -15%.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$66.44%$，获得$67倍$跳心的技能心心。并且本小节中，气氛值向Happy方向$+68$，AP回复速度-15%。",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -124800,6 +125424,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$72.48%$回復させ、ビートハート$73回分$のスキルハートを獲得する。さらにこのセクション中、ムード値をハッピー方向に$+74$し、AP回復速度を-15%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $72.48%$ of its maximum value and gain Skill Hearts equivalent to $73$ beats. Additionally, during this section, increase Mood Value in the Happy direction by $+74$ and reduce AP Recovery Speed by -15%.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$72.48%$，获得$73倍$跳心的技能心心。并且本小节中，气氛值向Happy方向$+74$，AP回复速度-15%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$73.6%$回復、このセクション中、ムード値をハッピー方向に$+14$する。さらにムードがハッピー100のとき、手札をシャッフル、メンタルが200%以上のとき、このステージ中、メンタルの最大値の$506%$分のメンタル直接ダメージを無効、ハート上限を$+1288$、5回の間ラブアトラクト効果を$+552%$し、このセクション中、AP回復速度を$+18.4%$する。",
     "translation": {
       "en": {
@@ -124900,6 +125537,19 @@
       "en": {
         "text": "Restores Mental by $77.44%$ of maximum value. Additionally, when Mental is at 100%, increases the number of Beat Hearts that appear by $+7$ during this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$78.52%$回復させ、ビートハート$79回分$のスキルハートを獲得する。さらにこのセクション中、ムード値をハッピー方向に$+80$し、AP回復速度を-15%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $78.52%$ of its maximum value and gain Skill Hearts equivalent to $79$ beats. Additionally, during this section, increase Mood Value in the Happy direction by $+80$ and reduce AP Recovery Speed by -15%.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$78.52%$，获得$79倍$跳心的技能心心。并且本小节中，气氛值向Happy方向$+80$，AP回复速度-15%。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -125710,6 +126360,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$84.56%$回復させ、ビートハート$85回分$のスキルハートを獲得する。さらにこのセクション中、ムード値をハッピー方向に$+86$し、AP回復速度を-15%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $84.56%$ of its maximum value and gain Skill Hearts equivalent to $85$ beats. Additionally, during this section, increase Mood Value in the Happy direction by $+86$ and reduce AP Recovery Speed by -15%.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$84.56%$，获得$85倍$跳心的技能心心。并且本小节中，气氛值向Happy方向$+86$，AP回复速度-15%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$856.8%$回復、このステージ中、それぞれメンタル最大値の$856.8%$分のメンタル自然減少、メンタル直接ダメージを無効にし、APを10減少、ボルテージPt.を-1020する。さらにビートハート$857回分$のスキルハートを獲得し、それぞれ3回の間梢、綴理が使用するスキルハート獲得効果による獲得数を$+85.7%$する。",
     "translation": {
       "zh-CN": {
@@ -126256,6 +126919,19 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$90.6%$回復させ、ビートハート$92回分$のスキルハートを獲得する。さらにこのセクション中、ムード値をハッピー方向に$+92$し、AP回復速度を-15%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $90.6%$ of its maximum value and gain Skill Hearts equivalent to $92$ beats. Additionally, during this section, increase Mood Value in the Happy direction by $+92$ and reduce AP Recovery Speed by -15%.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$90.6%$，获得$92倍$跳心的技能心心。并且本小节中，气氛值向Happy方向$+92$，AP回复速度-15%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$92%$回復させる。さらに5回の間メンタルリカバー効果を$+92%$し、このセクション中、AP回復速度を-20%する。",
     "translation": {
       "en": {
@@ -126342,6 +127018,19 @@
       },
       "en": {
         "text": "Restore Mental to $96%$ of its maximum value. Additionally, when Mental reaches or exceeds $100%$, shuffle the hand, gain Skill Hearts equivalent to $240$ beats, and nullify $44%$ of the maximum Mental value as natural Mental decrease during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$96.64%$回復させ、ビートハート$98回分$のスキルハートを獲得する。さらにこのセクション中、ムード値をハッピー方向に$+98$し、AP回復速度を-15%する。",
+    "translation": {
+      "en": {
+        "text": "Restore Mental to $96.64%$ of its maximum value and gain Skill Hearts equivalent to $98$ beats. Additionally, during this section, increase Mood Value in the Happy direction by $+98$ and reduce AP Recovery Speed by -15%.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "恢复最大Mental值的$96.64%$，获得$98倍$跳心的技能心心。并且本小节中，气氛值向Happy方向$+98$，AP回复速度-15%。",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -129974,6 +130663,19 @@
     }
   },
   {
+    "raw": "手札にある状態でセクションが変わるたび、APが8減少し、1セクション目のとき、このステージ中、手札の上限枚数を1枚増加、ビートハートの出現個数を+5、ムード値変動効果を+365%し、2セクション目のとき、このステージ中、メンタルが0になってもメンタルダウンしなくなり、ビートハートの出現個数を+10、ハート上限増加効果を+365%し、3セクション目のとき、このステージ中、手札の上限枚数を2枚増加、ビートハートの出現個数を+20、ラブアトラクト効果を+1040%、ボルテージゲイン効果を+1040%し、4セクション目のとき、このステージ中、ビートハートの出現個数を+40し、あらゆるスキルの効果値を46%増幅する。",
+    "translation": {
+      "en": {
+        "text": "Each time the section changes while this card is in your hand, AP decreases by 8. During the 1st section, increase the maximum hand size by 1, increase the number of Beat Hearts appearing by +5, and increase Mood Value change effects by +365% for the rest of this stage. During the 2nd section, Mental Down no longer triggers even when Mental reaches 0, increase the number of Beat Hearts appearing by +10, and increase the Heart Cap increase effect by +365% for the rest of this stage. During the 3rd section, increase the maximum hand size by 2, increase the number of Beat Hearts appearing by +20, increase Love Attract effect by +1040%, and increase Voltage Gain effect by +1040% for the rest of this stage. During the 4th section, increase the number of Beat Hearts appearing by +40 and amplify the effect values of all skills by 46% for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "在手牌中处于该状态时，每次小节切换，AP减少8，第1小节时，本场Live中，手牌上限增加1张，跳心出现数量+5，气氛值变动效果+365%；第2小节时，本场Live中，Mental降至0也不会发生Mental崩溃，跳心出现数量+10，心心上限增加效果+365%；第3小节时，本场Live中，手牌上限增加2张，跳心出现数量+20，LOVE+效果+1040%，获得Vo Pt.效果+1040%；第4小节时，本场Live中，跳心出现数量+40，所有技能效果值增幅46%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "手札にある状態でセクションが変わるたび、APを2回復し、手札のこのスキルの消費AP-4する。",
     "translation": {
       "zh-CN": {
@@ -130711,6 +131413,19 @@
       "en": {
         "text": "While in hand, when 100 hearts are collected, reduce this skill's AP cost by 3, gain +12 Voltage Pt., and increase heart limit by +100 for this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "手札にある状態でハートを150個回収したとき、ビートハート15回分のスキルハートを獲得、このスキルの消費APを-9する。ハートを1530個回収したとき、ビートハート50回分のスキルハートを獲得、メンタルを最大値の50%回復させる。ハートを15360個回収したとき、ビートハート150回分のスキルハートを獲得、このセクション中、AP回復速度を+15%する。ハートを153690個回収したとき、ビートハート500回分のスキルハートを獲得し、15回の間ハート上限増加効果を+369%する。",
+    "translation": {
+      "en": {
+        "text": "When 150 Hearts are collected while this card is in hand, gain Skill Hearts equivalent to 15 beats and reduce this skill's AP cost by -9. When 1530 Hearts are collected, gain Skill Hearts equivalent to 50 beats and restore Mental to 50% of its maximum value. When 15360 Hearts are collected, gain Skill Hearts equivalent to 150 beats and increase AP Recovery Speed by +15% during this section. When 153690 Hearts are collected, gain Skill Hearts equivalent to 500 beats and increase the Heart Cap increase effect by +369% for 15 turns.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "在手牌中处于该状态时，回收150个心心时，获得15倍跳心的技能心心，此技能消耗AP-9。回收1530个心心时，获得50倍跳心的技能心心，恢复最大Mental值的50%。回收15360个心心时，获得150倍跳心的技能心心，本小节中，AP回复速度+15%。回收153690个心心时，获得500倍跳心的技能心心，并且接下来15次心心上限增加效果+369%。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -132868,6 +133583,370 @@
       },
       "en": {
         "text": "Shuffle your hand. Additionally, when Mood is either Happy or Mellow 100, increase the Love Attract effect used by Kosuzu by $+960%$ for 5 turns. When Mental is 0, increase Mood Value by $+24$ during this section. When Mood is Happy or Mellow 100 and Mental is 0, increase Voltage Pt. by $+576$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、このセクション中、ムード値をハッピー方向に$+19$する。さらにムードがハッピー100のとき、ボルテージPt.を$+336$し、このステージ中、獲得するLOVEを$+80%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand and increase Mood Value in the Happy direction by $+19$ during this section. Additionally, when Mood is Happy 100, increase Voltage Pt. by $+336$ and increase LOVE gained by $+80%$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，本小节中，气氛值向Happy方向$+19$。并且气氛为Happy100时，Vo Pt.$+336$，本场Live中，获得的LOVE$+80%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、このセクション中、ムード値をハッピー方向に$+21$する。さらにムードがハッピー100のとき、ボルテージPt.を$+370$し、このステージ中、獲得するLOVEを$+88%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand and increase Mood Value in the Happy direction by $+21$ during this section. Additionally, when Mood is Happy 100, increase Voltage Pt. by $+370$ and increase LOVE gained by $+88%$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，本小节中，气氛值向Happy方向$+21$。并且气氛为Happy100时，Vo Pt.$+370$，本场Live中，获得的LOVE$+88%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、このセクション中、ムード値をハッピー方向に$+23$する。さらにムードがハッピー100のとき、ボルテージPt.を$+403$し、このステージ中、獲得するLOVEを$+96%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand and increase Mood Value in the Happy direction by $+23$ during this section. Additionally, when Mood is Happy 100, increase Voltage Pt. by $+403$ and increase LOVE gained by $+96%$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，本小节中，气氛值向Happy方向$+23$。并且气氛为Happy100时，Vo Pt.$+403$，本场Live中，获得的LOVE$+96%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、このセクション中、ムード値をハッピー方向に$+24$する。さらにムードがハッピー100のとき、ボルテージPt.を$+437$し、このステージ中、獲得するLOVEを$+104%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand and increase Mood Value in the Happy direction by $+24$ during this section. Additionally, when Mood is Happy 100, increase Voltage Pt. by $+437$ and increase LOVE gained by $+104%$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，本小节中，气氛值向Happy方向$+24$。并且气氛为Happy100时，Vo Pt.$+437$，本场Live中，获得的LOVE$+104%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、このセクション中、ムード値をハッピー方向に$+26$する。さらにムードがハッピー100のとき、ボルテージPt.を$+470$し、このステージ中、獲得するLOVEを$+112%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand and increase Mood Value in the Happy direction by $+26$ during this section. Additionally, when Mood is Happy 100, increase Voltage Pt. by $+470$ and increase LOVE gained by $+112%$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，本小节中，气氛值向Happy方向$+26$。并且气氛为Happy100时，Vo Pt.$+470$，本场Live中，获得的LOVE$+112%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、このセクション中、ムード値をハッピー方向に$+28$する。さらにムードがハッピー100のとき、ボルテージPt.を$+504$し、このステージ中、獲得するLOVEを$+120%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand and increase Mood Value in the Happy direction by $+28$ during this section. Additionally, when Mood is Happy 100, increase Voltage Pt. by $+504$ and increase LOVE gained by $+120%$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，本小节中，气氛值向Happy方向$+28$。并且气氛为Happy100时，Vo Pt.$+504$，本场Live中，获得的LOVE$+120%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、このセクション中、ムード値をハッピー方向に$+30$する。さらにムードがハッピー100のとき、ボルテージPt.を$+538$し、このステージ中、獲得するLOVEを$+128%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand and increase Mood Value in the Happy direction by $+30$ during this section. Additionally, when Mood is Happy 100, increase Voltage Pt. by $+538$ and increase LOVE gained by $+128%$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，本小节中，气氛值向Happy方向$+30$。并且气氛为Happy100时，Vo Pt.$+538$，本场Live中，获得的LOVE$+128%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、このセクション中、ムード値をハッピー方向に$+32$する。さらにムードがハッピー100のとき、ボルテージPt.を$+571$し、このステージ中、獲得するLOVEを$+136%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand and increase Mood Value in the Happy direction by $+32$ during this section. Additionally, when Mood is Happy 100, increase Voltage Pt. by $+571$ and increase LOVE gained by $+136%$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，本小节中，气氛值向Happy方向$+32$。并且气氛为Happy100时，Vo Pt.$+571$，本场Live中，获得的LOVE$+136%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、このセクション中、ムード値をハッピー方向に$+34$する。さらにムードがハッピー100のとき、ボルテージPt.を$+605$し、このステージ中、獲得するLOVEを$+144%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand and increase Mood Value in the Happy direction by $+34$ during this section. Additionally, when Mood is Happy 100, increase Voltage Pt. by $+605$ and increase LOVE gained by $+144%$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，本小节中，气氛值向Happy方向$+34$。并且气氛为Happy100时，Vo Pt.$+605$，本场Live中，获得的LOVE$+144%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、このセクション中、ムード値をハッピー方向に$+37$する。さらにムードがハッピー100のとき、ボルテージPt.を$+672$し、このステージ中、獲得するLOVEを$+160%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand and increase Mood Value in the Happy direction by $+37$ during this section. Additionally, when Mood is Happy 100, increase Voltage Pt. by $+672$ and increase LOVE gained by $+160%$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，本小节中，气氛值向Happy方向$+37$。并且气氛为Happy100时，Vo Pt.$+672$，本场Live中，获得的LOVE$+160%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、このセクション中、ムード値をハッピー方向に$+39$する。さらにムードがハッピー100のとき、ボルテージPt.を$+706$し、このステージ中、獲得するLOVEを$+168%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand and increase Mood Value in the Happy direction by $+39$ during this section. Additionally, when Mood is Happy 100, increase Voltage Pt. by $+706$ and increase LOVE gained by $+168%$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，本小节中，气氛值向Happy方向$+39$。并且气氛为Happy100时，Vo Pt.$+706$，本场Live中，获得的LOVE$+168%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、このセクション中、ムード値をハッピー方向に$+41$する。さらにムードがハッピー100のとき、ボルテージPt.を$+739$し、このステージ中、獲得するLOVEを$+176%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand and increase Mood Value in the Happy direction by $+41$ during this section. Additionally, when Mood is Happy 100, increase Voltage Pt. by $+739$ and increase LOVE gained by $+176%$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，本小节中，气氛值向Happy方向$+41$。并且气氛为Happy100时，Vo Pt.$+739$，本场Live中，获得的LOVE$+176%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、このセクション中、ムード値をハッピー方向に$+43$する。さらにムードがハッピー100のとき、ボルテージPt.を$+773$し、このステージ中、獲得するLOVEを$+184%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand and increase Mood Value in the Happy direction by $+43$ during this section. Additionally, when Mood is Happy 100, increase Voltage Pt. by $+773$ and increase LOVE gained by $+184%$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，本小节中，气氛值向Happy方向$+43$。并且气氛为Happy100时，Vo Pt.$+773$，本场Live中，获得的LOVE$+184%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、このセクション中、ムード値をハッピー方向に$+46$する。さらにムードがハッピー100のとき、ボルテージPt.を$+840$し、このステージ中、獲得するLOVEを$+200%$する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand and increase Mood Value in the Happy direction by $+46$ during this section. Additionally, when Mood is Happy 100, increase Voltage Pt. by $+840$ and increase LOVE gained by $+200%$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，本小节中，气氛值向Happy方向$+46$。并且气氛为Happy100时，Vo Pt.$+840$，本场Live中，获得的LOVE$+200%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルが200%以上のとき、ビートハート$228回分$のスキルハートを獲得し、このステージ中、ハート上限を$+547$する。さらにカードがステージにセットされ、獲得するハートを吸収する。ハートを150個吸収したとき、ビートハート$148回分$のスキルハートを獲得し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand. When Mental is 200% or higher, gain Skill Hearts equivalent to $228$ beats and increase Heart Cap by $+547$ for the rest of this stage. Additionally, the card is set to the stage and absorbs Hearts gained. When 150 Hearts are absorbed, gain Skill Hearts equivalent to $148$ beats and move to the discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，Mental为200%以上时，获得$228倍$跳心的技能心心，并且本场Live中，心心上限$+547$。此外，将卡牌放置在场上，吸收获得的心心。吸收150个心心时，获得$148倍$跳心的技能心心，移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルが200%以上のとき、ビートハート$251回分$のスキルハートを獲得し、このステージ中、ハート上限を$+602$する。さらにカードがステージにセットされ、獲得するハートを吸収する。ハートを150個吸収したとき、ビートハート$163回分$のスキルハートを獲得し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand. When Mental is 200% or higher, gain Skill Hearts equivalent to $251$ beats and increase Heart Cap by $+602$ for the rest of this stage. Additionally, the card is set to the stage and absorbs Hearts gained. When 150 Hearts are absorbed, gain Skill Hearts equivalent to $163$ beats and move to the discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，Mental为200%以上时，获得$251倍$跳心的技能心心，并且本场Live中，心心上限$+602$。此外，将卡牌放置在场上，吸收获得的心心。吸收150个心心时，获得$163倍$跳心的技能心心，移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルが200%以上のとき、ビートハート$274回分$のスキルハートを獲得し、このステージ中、ハート上限を$+656$する。さらにカードがステージにセットされ、獲得するハートを吸収する。ハートを150個吸収したとき、ビートハート$178回分$のスキルハートを獲得し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand. When Mental is 200% or higher, gain Skill Hearts equivalent to $274$ beats and increase Heart Cap by $+656$ for the rest of this stage. Additionally, the card is set to the stage and absorbs Hearts gained. When 150 Hearts are absorbed, gain Skill Hearts equivalent to $178$ beats and move to the discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，Mental为200%以上时，获得$274倍$跳心的技能心心，并且本场Live中，心心上限$+656$。此外，将卡牌放置在场上，吸收获得的心心。吸收150个心心时，获得$178倍$跳心的技能心心，移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルが200%以上のとき、ビートハート$296回分$のスキルハートを獲得し、このステージ中、ハート上限を$+711$する。さらにカードがステージにセットされ、獲得するハートを吸収する。ハートを150個吸収したとき、ビートハート$192回分$のスキルハートを獲得し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand. When Mental is 200% or higher, gain Skill Hearts equivalent to $296$ beats of Beat Hearts and increase Heart Cap by $+711$ for this stage. Additionally, the card is set to the stage and absorbs Hearts gained. When 150 Hearts are absorbed, gain Skill Hearts equivalent to $192$ beats of Beat Hearts and move to the discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，Mental为200%以上时，获得$296倍$跳心的技能心心，本场Live中，心心上限$+711$。并且将卡牌放置在场上，吸收获得的心心。吸收150个心心时，获得$192倍$跳心的技能心心，移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルが200%以上のとき、ビートハート$319回分$のスキルハートを獲得し、このステージ中、ハート上限を$+766$する。さらにカードがステージにセットされ、獲得するハートを吸収する。ハートを150個吸収したとき、ビートハート$207回分$のスキルハートを獲得し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand. When Mental is 200% or higher, gain Skill Hearts equivalent to $319$ beats of Beat Hearts and increase Heart Cap by $+766$ for this stage. Additionally, the card is set to the stage and absorbs Hearts gained. When 150 Hearts are absorbed, gain Skill Hearts equivalent to $207$ beats of Beat Hearts and move to the discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，Mental为200%以上时，获得$319倍$跳心的技能心心，本场Live中，心心上限$+766$。并且将卡牌放置在场上，吸收获得的心心。吸收150个心心时，获得$207倍$跳心的技能心心，移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルが200%以上のとき、ビートハート$342回分$のスキルハートを獲得し、このステージ中、ハート上限を$+821$する。さらにカードがステージにセットされ、獲得するハートを吸収する。ハートを150個吸収したとき、ビートハート$222回分$のスキルハートを獲得し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand. When Mental is 200% or higher, gain Skill Hearts equivalent to $342$ beats of Beat Hearts and increase Heart Cap by $+821$ for this stage. Additionally, the card is set to the stage and absorbs Hearts gained. When 150 Hearts are absorbed, gain Skill Hearts equivalent to $222$ beats of Beat Hearts and move to the discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，Mental为200%以上时，获得$342倍$跳心的技能心心，本场Live中，心心上限$+821$。并且将卡牌放置在场上，吸收获得的心心。吸收150个心心时，获得$222倍$跳心的技能心心，移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルが200%以上のとき、ビートハート$365回分$のスキルハートを獲得し、このステージ中、ハート上限を$+875$する。さらにカードがステージにセットされ、獲得するハートを吸収する。ハートを150個吸収したとき、ビートハート$237回分$のスキルハートを獲得し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand. When Mental is 200% or higher, gain Skill Hearts equivalent to $365$ beats of Beat Hearts and increase Heart Cap by $+875$ for this stage. Additionally, the card is set to the stage and absorbs Hearts gained. When 150 Hearts are absorbed, gain Skill Hearts equivalent to $237$ beats of Beat Hearts and move to the discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，Mental为200%以上时，获得$365倍$跳心的技能心心，本场Live中，心心上限$+875$。并且将卡牌放置在场上，吸收获得的心心。吸收150个心心时，获得$237倍$跳心的技能心心，移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルが200%以上のとき、ビートハート$388回分$のスキルハートを獲得し、このステージ中、ハート上限を$+930$する。さらにカードがステージにセットされ、獲得するハートを吸収する。ハートを150個吸収したとき、ビートハート$252回分$のスキルハートを獲得し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand. When Mental is 200% or higher, gain Skill Hearts equivalent to $388$ beats of Beat Hearts and increase Heart Cap by $+930$ for this stage. Additionally, the card is set to the stage and absorbs Hearts gained. When 150 Hearts are absorbed, gain Skill Hearts equivalent to $252$ beats of Beat Hearts and move to the discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，Mental为200%以上时，获得$388倍$跳心的技能心心，本场Live中，心心上限$+930$。并且将卡牌放置在场上，吸收获得的心心。吸收150个心心时，获得$252倍$跳心的技能心心，移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルが200%以上のとき、ビートハート$410回分$のスキルハートを獲得し、このステージ中、ハート上限を$+985$する。さらにカードがステージにセットされ、獲得するハートを吸収する。ハートを150個吸収したとき、ビートハート$266回分$のスキルハートを獲得し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand. When Mental is 200% or higher, gain Skill Hearts equivalent to $410$ beats of Beat Hearts and increase Heart Cap by $+985$ for this stage. Additionally, the card is set to the stage and absorbs Hearts gained. When 150 Hearts are absorbed, gain Skill Hearts equivalent to $266$ beats of Beat Hearts and move to the discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，Mental为200%以上时，获得$410倍$跳心的技能心心，本场Live中，心心上限$+985$。并且将卡牌放置在场上，吸收获得的心心。吸收150个心心时，获得$266倍$跳心的技能心心，移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルが200%以上のとき、ビートハート$456回分$のスキルハートを獲得し、このステージ中、ハート上限を$+1094$する。さらにカードがステージにセットされ、獲得するハートを吸収する。ハートを150個吸収したとき、ビートハート$296回分$のスキルハートを獲得し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand. When Mental is 200% or higher, gain Skill Hearts equivalent to $456$ beats of Beat Hearts and increase Heart Cap by $+1094$ for this stage. Additionally, the card is set to the stage and absorbs Hearts gained. When 150 Hearts are absorbed, gain Skill Hearts equivalent to $296$ beats of Beat Hearts and move to the discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，Mental为200%以上时，获得$456倍$跳心的技能心心，本场Live中，心心上限$+1094$。并且将卡牌放置在场上，吸收获得的心心。吸收150个心心时，获得$296倍$跳心的技能心心，移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルが200%以上のとき、ビートハート$479回分$のスキルハートを獲得し、このステージ中、ハート上限を$+1149$する。さらにカードがステージにセットされ、獲得するハートを吸収する。ハートを150個吸収したとき、ビートハート$311回分$のスキルハートを獲得し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand. When Mental is 200% or higher, gain Skill Hearts equivalent to $479$ beats of Beat Hearts and increase Heart Cap by $+1149$ for this stage. Additionally, the card is set to the stage and absorbs Hearts gained. When 150 Hearts are absorbed, gain Skill Hearts equivalent to $311$ beats of Beat Hearts and move to the discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，Mental为200%以上时，获得$479倍$跳心的技能心心，本场Live中，心心上限$+1149$。并且将卡牌放置在场上，吸收获得的心心。吸收150个心心时，获得$311倍$跳心的技能心心，移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルが200%以上のとき、ビートハート$502回分$のスキルハートを獲得し、このステージ中、ハート上限を$+1203$する。さらにカードがステージにセットされ、獲得するハートを吸収する。ハートを150個吸収したとき、ビートハート$326回分$のスキルハートを獲得し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand. When Mental is 200% or higher, gain Skill Hearts equivalent to $502$ beats of Beat Hearts and increase Heart Cap by $+1203$ for this stage. Additionally, the card is set to the stage and absorbs Hearts gained. When 150 Hearts are absorbed, gain Skill Hearts equivalent to $326$ beats of Beat Hearts and move to the discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，Mental为200%以上时，获得$502倍$跳心的技能心心，本场Live中，心心上限$+1203$。并且将卡牌放置在场上，吸收获得的心心。吸收150个心心时，获得$326倍$跳心的技能心心，移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルが200%以上のとき、ビートハート$524回分$のスキルハートを獲得し、このステージ中、ハート上限を$+1258$する。さらにカードがステージにセットされ、獲得するハートを吸収する。ハートを150個吸収したとき、ビートハート$340回分$のスキルハートを獲得し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand. When Mental is 200% or higher, gain Skill Hearts equivalent to $524$ beats of Beat Hearts and increase Heart Cap by $+1258$ for this stage. Additionally, the card is set to the stage and absorbs Hearts gained. When 150 Hearts are absorbed, gain Skill Hearts equivalent to $340$ beats of Beat Hearts and move to the discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，Mental为200%以上时，获得$524倍$跳心的技能心心，本场Live中，心心上限$+1258$。并且将卡牌放置在场上，吸收获得的心心。吸收150个心心时，获得$340倍$跳心的技能心心，移动至弃牌堆。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルし、メンタルが200%以上のとき、ビートハート$570回分$のスキルハートを獲得し、このステージ中、ハート上限を$+1368$する。さらにカードがステージにセットされ、獲得するハートを吸収する。ハートを150個吸収したとき、ビートハート$369回分$のスキルハートを獲得し、捨札に移動する。",
+    "translation": {
+      "en": {
+        "text": "Reset and shuffle your hand. When Mental is 200% or higher, gain Skill Hearts equivalent to $570$ beats of Beat Hearts and increase Heart Cap by $+1368$ for this stage. Additionally, the card is set to the stage and absorbs Hearts gained. When 150 Hearts are absorbed, gain Skill Hearts equivalent to $369$ beats of Beat Hearts and move to the discard pile.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "将手牌重置洗牌，Mental为200%以上时，获得$570倍$跳心的技能心心，本场Live中，心心上限$+1368$。并且将卡牌放置在场上，吸收获得的心心。吸收150个心心时，获得$369倍$跳心的技能心心，移动至弃牌堆。",
         "author": "claude-sonnet-4-5-20250929"
       }
     }

@@ -1001,6 +1001,19 @@
     }
   },
   {
+    "raw": "ステージ開始時、デッキの全てのさやかの消費APをステージ中常に-10する。また、さやか、瑠璃乃、小鈴、セラスのスキルを使用するたび、ボルテージを+5000し、花帆、吟子、姫芽、泉のスキルを使用するたび、ボルテージを-5000する。",
+    "translation": {
+      "en": {
+        "text": "At stage start, all of Sayaka's cards in the deck have their AP cost permanently reduced by -10 throughout the stage. Also, each time Sayaka, Rurino, Kosuzu, or Ceras uses their skill, gain +5000 Voltage, and each time Kaho, Ginko, Hime, or Izumi uses their skill, lose -5000 Voltage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live开始时，使牌组中所有沙耶香卡牌的消耗AP在本阶段始终降低10。此外，每当沙耶香、瑠璃乃、小铃、塞拉斯使用技能时，Voltage增加5000点，每当花帆、吟子、姬芽、泉使用技能时，Voltage减少5000点。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ステージ開始時、デッキの全てのカードの消費APをステージ中常に+2し、メイン効果がメンタル回復のスキルを使用するたび、APを5回復する。",
     "translation": {
       "en": {
@@ -1521,6 +1534,19 @@
     }
   },
   {
+    "raw": "メイン効果がリシャッフルのスキルを使用するたび、ボルテージを+2000し、このステージ中、獲得するLOVEを+1000%する。またステージ開始時、メイン効果がメンタル回復であるデッキの全てのカードの消費APをステージ中常に+20し、山札が切れるたび、メンタルを現在値の75%減少する。",
+    "translation": {
+      "en": {
+        "text": "Each time a skill with the main effect of Reshuffle is used, gain +2000 Voltage and increase the LOVE gained by +1000% for the remainder of the stage. Also, at stage start, all cards in the deck whose main effect is Mental recovery have their AP cost permanently increased by +20 throughout the stage, and whenever the deck runs out, Mental decreases by 75% of its current value.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "每当使用主要效果为重新洗牌的技能时，Voltage增加2000点，且在本阶段获得的LOVE增加1000%。此外，Live开始时，使牌组中所有主要效果为恢复Mental值的卡牌的消耗AP在本阶段始终增加20，且每当牌库用完时，Mental值减少当前值的75%。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メイン効果がリシャッフルのスキルを使用するたび、ボルテージを-30000し、スキルを3回使用するたび、APが5回復する。",
     "translation": {
       "zh-CN": {
@@ -1751,6 +1777,19 @@
       "en": {
         "text": "For every use of Izumi or Ceras's skill, reduce the AP cost of all cards in the deck by 1.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "泉のスキルを使用するたび、手札を全て捨てて、山札から手札上限まで引き直し、APを15回復し、デッキの全てのカードの消費APを-3する。また、スキルを3回使用するたび、ステージ中、APの回復速度を-2%する。",
+    "translation": {
+      "en": {
+        "text": "Each time Izumi uses her skill, discard all cards in hand and redraw up to the hand limit from the deck, restore 15 AP, and reduce the AP cost of all cards in the deck by -3. Also, after every 3 skill uses, decrease the AP recovery rate by -2% for the remainder of the stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "每当泉使用技能时，丢弃所有手牌，从牌库重新抽取直到达到手牌上限，恢复15点AP，并使牌组中所有卡牌的消耗AP降低3。此外，每使用3次技能时，在本阶段内将AP的恢复速度降低2%。",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

@@ -572,6 +572,19 @@
     }
   },
   {
+    "raw": "ハッピーバレンタイン♡ 満腹！チョコレートケーキプレゼント",
+    "translation": {
+      "en": {
+        "text": "Happy Valentine's Day♡ Stuffed Full! Chocolate Cake Gift",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "情人节快乐♡ 吃饱！巧克力蛋糕礼物",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ハロウィンフェア♪Trick ＆ Cute♡ログインキャンペーン",
     "translation": {
       "en": {

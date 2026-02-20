@@ -520,6 +520,19 @@
     }
   },
   {
+    "raw": "Live Grand Prix 105期FinalTerm 第2回 個人戦",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix 105th Term Final Term Round 2 Individual Competition",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 第105期最终赛季 第2回 个人战",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "Live Grand Prix 105期OpeningTerm 個人戦",
     "translation": {
       "zh-CN": {

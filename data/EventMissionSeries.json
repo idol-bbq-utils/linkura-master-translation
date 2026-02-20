@@ -52,6 +52,19 @@
     }
   },
   {
+    "raw": "Live Grand Prix 105期FinalTerm 第2回 個人戦",
+    "translation": {
+      "en": {
+        "text": "Live Grand Prix Season 105 Final Term - 2nd Individual Battle",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Live Grand Prix 105期FinalTerm 第2回 个人赛",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "Now or Never リンクラ！1.5周年期間限定ミッション",
     "translation": {
       "zh-CN": {

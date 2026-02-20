@@ -156,6 +156,19 @@
     }
   },
   {
+    "raw": "みらくらぱーく！に所属するメンバーのアピール値が220％上昇",
+    "translation": {
+      "en": {
+        "text": "Members of Mira-Cra Park!'s Appeal values increase by 220%",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "Mira-Cra Park!成员的表现值提升220%",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "アピールアップ",
     "translation": {
       "zh-CN": {

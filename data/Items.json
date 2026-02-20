@@ -1872,6 +1872,19 @@
     }
   },
   {
+    "raw": "[IcHiGo milK love]安養寺 姫芽 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[IcHiGo milK love] Hime Anyoji Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[IcHiGo milK love]安养寺姬芽 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[Jolie Mademoiselle]徒町 小鈴 解放Pt.",
     "translation": {
       "zh-CN": {
@@ -5625,6 +5638,19 @@
       "en": {
         "text": "[Indoor Blooming Lattice] Megumi Fujishima Liberation Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[平成ギャルズ!!!!]大沢 瑠璃乃 解放Pt.",
+    "translation": {
+      "en": {
+        "text": "[平成ギャルズ!!!!] Rurino Osawa Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "[平成ギャルズ!!!!]大泽瑠璃乃 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

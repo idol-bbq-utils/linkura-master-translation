@@ -234,6 +234,19 @@
     }
   },
   {
+    "raw": "全国でのイベント開催のため発足したブルパ連合。\nだが、参加メンバーからの不安の声があることを\n知った花帆は、ある“作戦“に打って出る！",
+    "translation": {
+      "en": {
+        "text": "The Blupa Alliance was formed to host events across the country.\nBut upon learning that some participating members have voiced their concerns,\nKaho launches a certain \"strategy\"!",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "为在全国举办活动而成立的布尔帕联合。\n然而，花帆得知参与成员中存在不安的声音，\n于是决定采取某个“作战计划“！",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "初めての撫子祭に意気込む瑠璃乃。だが、慈が補\n習で準備に参加できず、姫芽とふたり、「みらく\nらぱーく！めぐ抜き」で準備を始めるが……!?",
     "translation": {
       "zh-CN": {
@@ -503,6 +516,19 @@
       "en": {
         "text": "Episode 10 'Ruri-Megu Fanfare'",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "第11話『みんなで、花咲きたい！』",
+    "translation": {
+      "en": {
+        "text": "Episode 11: 'We All Want to Bloom Together!'",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "第11话《大家一起，花开满放！》",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

@@ -26,6 +26,19 @@
     }
   },
   {
+    "raw": "123ハピネス",
+    "translation": {
+      "en": {
+        "text": "123 Happiness",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "123幸福",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "APエスカレート：メンタル & メンタルバリア：ハートキャプチャ",
     "translation": {
       "zh-CN": {
@@ -4238,6 +4251,19 @@
     }
   },
   {
+    "raw": "ギャルズヒストリー",
+    "translation": {
+      "en": {
+        "text": "Gals History",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "女孩历史",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ギルティアタック",
     "translation": {
       "en": {
@@ -5564,6 +5590,19 @@
     }
   },
   {
+    "raw": "シュガーリードリーム",
+    "translation": {
+      "en": {
+        "text": "Sugar Lead Dream",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "糖霜甜梦",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ショウタイム",
     "translation": {
       "zh-CN": {
@@ -5612,6 +5651,19 @@
       "en": {
         "text": "Shot: Belief & AP Reduce: Brave",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ショートアンドスウィート",
+    "translation": {
+      "en": {
+        "text": "Short and Sweet",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "短暂与甜蜜",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -6236,6 +6288,19 @@
       "zh-CN": {
         "text": "Saintess Buddy",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "セオリーオブエボリューション",
+    "translation": {
+      "en": {
+        "text": "Theory of Evolution",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "进化论",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -9776,6 +9841,19 @@
     }
   },
   {
+    "raw": "ハッピーストロベリー",
+    "translation": {
+      "en": {
+        "text": "Happy Strawberry",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "快乐草莓",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ハッピースリーズ",
     "translation": {
       "zh-CN": {
@@ -10746,6 +10824,19 @@
       },
       "zh-CN": {
         "text": "Freedom Wing",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "フリーティングラブ",
+    "translation": {
+      "en": {
+        "text": "Fleeting Love",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "zh-CN": {
+        "text": "短暂之恋",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
