@@ -689,6 +689,19 @@
     }
   },
   {
+    "raw": "R's パーク",
+    "translation": {
+      "zh-CN": {
+        "text": "R's Park",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "R's Park",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "S.I.コンダクター",
     "translation": {
       "zh-CN": {
@@ -845,6 +858,19 @@
     }
   },
   {
+    "raw": "さざなみ",
+    "translation": {
+      "zh-CN": {
+        "text": "涟漪",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Sazanami",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "さやかデザイン",
     "translation": {
       "zh-CN": {
@@ -867,6 +893,19 @@
       "zh-CN": {
         "text": "Mira-Cra 圈",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "みらくらスピリッツ",
+    "translation": {
+      "zh-CN": {
+        "text": "奇迹精神",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Mira-Cra Spirits",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -5135,6 +5174,19 @@
     }
   },
   {
+    "raw": "サザナミハーモニー",
+    "translation": {
+      "zh-CN": {
+        "text": "涟漪和声",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Sazanami Harmony",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "サステイン＊ドリーム",
     "translation": {
       "zh-CN": {
@@ -5707,6 +5759,19 @@
     }
   },
   {
+    "raw": "シールドエモーション",
+    "translation": {
+      "zh-CN": {
+        "text": "护盾情感",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Shield Emotion",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ジェネシスレルム",
     "translation": {
       "zh-CN": {
@@ -5885,6 +5950,19 @@
       "zh-CN": {
         "text": "Just Draw：Fever/Ritardando & Vibes & Ambience",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ジャストフォーフューチャー",
+    "translation": {
+      "zh-CN": {
+        "text": "只为未来",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Just for Future",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -7579,6 +7657,19 @@
     }
   },
   {
+    "raw": "チームメモリーズ",
+    "translation": {
+      "zh-CN": {
+        "text": "团队回忆",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Team Memories",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ツインスリーズ",
     "translation": {
       "zh-CN": {
@@ -7796,6 +7887,19 @@
       "en": {
         "text": "Toki no Ito",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "トモダチメモリーズ",
+    "translation": {
+      "zh-CN": {
+        "text": "伙伴回忆",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Friends Memories",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -10309,6 +10413,19 @@
     }
   },
   {
+    "raw": "ビタースウィート",
+    "translation": {
+      "zh-CN": {
+        "text": "苦甜",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Bittersweet",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ビヨンドヒーリング",
     "translation": {
       "zh-CN": {
@@ -11414,6 +11531,19 @@
     }
   },
   {
+    "raw": "ペインフルスマイル",
+    "translation": {
+      "zh-CN": {
+        "text": "痛苦的微笑",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Painful Smile",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ボイスオブクリエイション",
     "translation": {
       "zh-CN": {
@@ -11748,6 +11878,19 @@
       "zh-CN": {
         "text": "Moonlight Bloom",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メッセンジャー",
+    "translation": {
+      "zh-CN": {
+        "text": "信使",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Messenger",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -12918,6 +13061,19 @@
       "en": {
         "text": "Rain Fragment",
         "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "レター",
+    "translation": {
+      "zh-CN": {
+        "text": "信件",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Letter",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

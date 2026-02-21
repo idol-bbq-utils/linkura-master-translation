@@ -273,6 +273,19 @@
     }
   },
   {
+    "raw": "105期FinalTerm 第2回 サークル対抗戦",
+    "translation": {
+      "zh-CN": {
+        "text": "第105期最终赛季 第2回 社团对抗战",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "105th Term Final Term Round 2 Circle Competition",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "105期OpeningTerm サークル対抗戦",
     "translation": {
       "zh-CN": {

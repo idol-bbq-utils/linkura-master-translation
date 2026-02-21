@@ -232,5 +232,122 @@
         "author": "claude-sonnet-4-20250514"
       }
     }
+  },
+  {
+    "raw": "太陽ステージ-1",
+    "translation": {
+      "zh-CN": {
+        "text": "太阳舞台-1",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Sun Stage-1",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "太陽ステージ-2",
+    "translation": {
+      "zh-CN": {
+        "text": "太阳舞台-2",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Sun Stage-2",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "太陽ステージ-3",
+    "translation": {
+      "zh-CN": {
+        "text": "太阳舞台-3",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Sun Stage-3",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "雨ステージ-1",
+    "translation": {
+      "zh-CN": {
+        "text": "雨舞台-1",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Rain Stage-1",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "雨ステージ-2",
+    "translation": {
+      "zh-CN": {
+        "text": "雨舞台-2",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Rain Stage-2",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "雨ステージ-3",
+    "translation": {
+      "zh-CN": {
+        "text": "雨舞台-3",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Rain Stage-3",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "風ステージ-1",
+    "translation": {
+      "zh-CN": {
+        "text": "风舞台-1",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Wind Stage-1",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "風ステージ-2",
+    "translation": {
+      "zh-CN": {
+        "text": "风舞台-2",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Wind Stage-2",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "風ステージ-3",
+    "translation": {
+      "zh-CN": {
+        "text": "风舞台-3",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Wind Stage-3",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
   }
 ]

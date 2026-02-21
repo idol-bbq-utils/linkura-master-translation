@@ -1497,6 +1497,13 @@
             "ReleaseConditionText": "初めから習得"
         },
         {
+            "Id": 405136,
+            "Title": "トモダチになれる場所",
+            "TitleFurigana": "ともだちになれるばしょ",
+            "Description": "みらくらぱーく！",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
             "Id": 405201,
             "Title": "テレパシ",
             "TitleFurigana": "てれぱし",
@@ -1542,6 +1549,13 @@
             "Id": 405207,
             "Title": "あんなに一緒だったのに",
             "TitleFurigana": "あんなにいっしょだったのに",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 405208,
+            "Title": "気まぐれロマンティック",
+            "TitleFurigana": "きまぐれろまんてぃっく",
             "Description": "一般カバー",
             "ReleaseConditionText": "ミュージックPt. を使用して習得"
         },

@@ -728,6 +728,19 @@
     }
   },
   {
+    "raw": "ボルテージの上昇速度を+75%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Voltage的上升速度+75%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increases Voltage rise speed by 75%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ボルテージの上昇速度を-50%する。",
     "translation": {
       "zh-CN": {
@@ -737,6 +750,32 @@
       "en": {
         "text": "Decrease Voltage gain rate by -50%.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージの上昇速度を-90%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Voltage的上升速度-90%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Decreases Voltage rise speed by 90%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージを+10000する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Voltage+10000。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increases Voltage by 10000.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

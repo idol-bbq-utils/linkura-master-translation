@@ -7722,6 +7722,19 @@
     }
   },
   {
+    "raw": "このスキルを使用した時、手札をリセットシャッフル、デッキ内のみらくらぱーく！のスキルの消費APを-9し、このスキルを3回使用した時、さざなみカードを1種類(合計1枚)山札に追加する。さらにムードがハッピー、メロウいずれか100で手札にある間、メンタルが0になってもメンタルダウンしなくなり、メンタルが回復した時、回復量の300%の個数のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "使用本技能时，将手牌重置洗牌，卡组内Mira-Cra Park!技能的消费AP-9，本技能使用3次时，将1个种类的涟漪卡（合计1张）加入牌库。此外，气氛为Happy或Mellow任意一方达到100且在手牌中时，即使Mental降至0也不会Mental Down，Mental恢复时，获得恢复量300%数量的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When this skill is used, reset shuffle your hand, reduce the AP cost of Mira-Cra Park! skills in the deck by 9, and when this skill has been used 3 times, add 1 type (1 card total) of Sazanami card to the deck. Additionally, while in hand when Mood is either Happy or Mellow 100, Mental Down will no longer trigger even if Mental reaches 0, and when Mental is restored, gain Skill Hearts equal to 300% of the amount restored.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このスキルを使用するたび、5回までスキルの効果値が増加する。",
     "translation": {
       "zh-CN": {
@@ -8762,6 +8775,19 @@
     }
   },
   {
+    "raw": "このステージ中、AP回復速度を$+20%$する。さらにメンタルを最大値の200％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度$+20%$。并且失去最大Mental值的200%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+20%$ for this stage. Additionally, reduce Mental by 200% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、AP回復速度を$+20.3%$し、ムードがハッピー、メロウいずれかのとき、このセクション中、ムード値を$+59$する。さらにムードがハッピー、メロウいずれか64以上のとき、このステージ中、ハート上限を$+294$し、ボルテージPt.を$+386$する。",
     "translation": {
       "en": {
@@ -8784,6 +8810,58 @@
       "zh-CN": {
         "text": "本场Live中，AP回复速度$+22%$，气氛在Happy、Mellow其中之一时，本小节中，气氛值$+64$。并且气氛在Happy、Mellow其中之一64以上时，本场Live中，心心上限$+320$，Vo Pt.$+420$。",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を$+22%$する。さらにメンタルを最大値の200％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度$+22%$。并且失去最大Mental值的200%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+22%$ for this stage. Additionally, reduce Mental by 200% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を$+24%$する。さらにメンタルを最大値の200％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度$+24%$。并且失去最大Mental值的200%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+24%$ for this stage. Additionally, reduce Mental by 200% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を$+26%$する。さらにメンタルを最大値の200％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度$+26%$。并且失去最大Mental值的200%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+26%$ for this stage. Additionally, reduce Mental by 200% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を$+28%$する。さらにメンタルを最大値の200％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度$+28%$。并且失去最大Mental值的200%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+28%$ for this stage. Additionally, reduce Mental by 200% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -8887,6 +8965,58 @@
       },
       "en": {
         "text": "During this stage, increase AP Recovery Speed by $+3.9%$. Additionally, during this stage, nullify $5.12%$ of the maximum Mental value as natural Mental decay.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を$+30%$する。さらにメンタルを最大値の200％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度$+30%$。并且失去最大Mental值的200%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+30%$ for this stage. Additionally, reduce Mental by 200% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を$+32%$する。さらにメンタルを最大値の200％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度$+32%$。并且失去最大Mental值的200%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+32%$ for this stage. Additionally, reduce Mental by 200% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を$+34%$する。さらにメンタルを最大値の200％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度$+34%$。并且失去最大Mental值的200%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+34%$ for this stage. Additionally, reduce Mental by 200% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を$+36%$する。さらにメンタルを最大値の200％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度$+36%$。并且失去最大Mental值的200%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+36%$ for this stage. Additionally, reduce Mental by 200% of its maximum value.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -9048,6 +9178,58 @@
     }
   },
   {
+    "raw": "このステージ中、AP回復速度を$+40%$する。さらにメンタルを最大値の200％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度$+40%$。并且失去最大Mental值的200%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+40%$ for this stage. Additionally, reduce Mental by 200% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を$+42%$する。さらにメンタルを最大値の200％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度$+42%$。并且失去最大Mental值的200%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+42%$ for this stage. Additionally, reduce Mental by 200% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を$+44%$する。さらにメンタルを最大値の200％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度$+44%$。并且失去最大Mental值的200%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+44%$ for this stage. Additionally, reduce Mental by 200% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を$+46%$する。さらにメンタルを最大値の200％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度$+46%$。并且失去最大Mental值的200%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+46%$ for this stage. Additionally, reduce Mental by 200% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、AP回復速度を$+5.1%$する。さらにこのステージ中、メンタルの最大値の$6.72%$分のメンタルダメージを無効にする。",
     "translation": {
       "zh-CN": {
@@ -9173,6 +9355,19 @@
       },
       "en": {
         "text": "Increase AP Recovery Speed by $+5.6%$ during this stage. Additionally, when Voltage Lv. is 8 or higher, increase the amount gained from Skill Heart gain effects by $+11.2%$ during this stage, and when Voltage Lv. is 55 or higher, increase the amount gained from Skill Heart gain effects by $+112%$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を$+50%$する。さらにメンタルを最大値の200％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度$+50%$。并且失去最大Mental值的200%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase AP Recovery Speed by $+50%$ for this stage. Additionally, reduce Mental by 200% of its maximum value.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -29610,6 +29805,45 @@
       "en": {
         "text": "During this stage, each time you use skills from all members Ginko/Kaho/Kozue/Kosuzu/Sayaka/Tsuzuri/Hime/Rurino/Megumi, gain Skill Hearts equivalent to $5 times$ beat hearts 9 times. The effect amount of heart gain effects changes according to the total AP consumed. When each member's skill is used repeatedly, the AP consumption record is overwritten.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、手札の上限枚数を$1枚$増加する。さらにメンタルを最大値の200％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，手牌上限增加$1张$。并且失去最大Mental值的200%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase the maximum number of cards in hand by $1$ for this stage. Additionally, reduce Mental by 200% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、手札の上限枚数を$2枚$増加する。さらにメンタルを最大値の200％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，手牌上限增加$2张$。并且失去最大Mental值的200%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase the maximum number of cards in hand by $2$ for this stage. Additionally, reduce Mental by 200% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、手札の上限枚数を$3枚$増加する。さらにメンタルを最大値の200％減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，手牌上限增加$3张$。并且失去最大Mental值的200%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increase the maximum number of cards in hand by $3$ for this stage. Additionally, reduce Mental by 200% of its maximum value.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -50154,6 +50388,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+10$し、手札をリセットシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるスキルハート獲得効果による獲得数を$+480%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+10$，将手牌重置洗牌。此时抽到信件卡的概率大幅提升。此外，气氛为Happy或Mellow任意一方达到100时，本场Live中，使用信件卡所获得的技能心心数量$+480%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+10$ and reset shuffle your hand. At this time, the chance of drawing a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the amount gained from the Skill Heart gain effect by using Letter Cards by $+480%$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+10$する。さらにムードがハッピー、メロウいずれか100のとき、このセクション中、手札の上限枚数を2枚増加し、このステージ中、ハート上限を$+144$する。",
     "translation": {
       "zh-CN": {
@@ -50193,6 +50440,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+11$し、手札をリセットシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるスキルハート獲得効果による獲得数を$+520%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+11$，将手牌重置洗牌。此时抽到信件卡的概率大幅提升。此外，气氛为Happy或Mellow任意一方达到100时，本场Live中，使用信件卡所获得的技能心心数量$+520%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+11$ and reset shuffle your hand. At this time, the chance of drawing a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the amount gained from the Skill Heart gain effect by using Letter Cards by $+520%$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+11$する。さらにムードがハッピー、メロウいずれか100のとき、このセクション中、手札の上限枚数を2枚増加し、このステージ中、ハート上限を$+156$する。",
     "translation": {
       "zh-CN": {
@@ -50201,6 +50461,32 @@
       },
       "en": {
         "text": "During this section, increase Mood Value by $+11$. Additionally, when Mood is either Happy or Mellow at 100, increase the maximum number of cards in hand by 2 during this section and increase Heart Cap by $+156$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+12$し、手札をリセットシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるスキルハート獲得効果による獲得数を$+560%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+12$，将手牌重置洗牌。此时抽到信件卡的概率大幅提升。此外，气氛为Happy或Mellow任意一方达到100时，本场Live中，使用信件卡所获得的技能心心数量$+560%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+12$ and reset shuffle your hand. At this time, the chance of drawing a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the amount gained from the Skill Heart gain effect by using Letter Cards by $+560%$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+12$し、手札をリセットシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるスキルハート獲得効果による獲得数を$+600%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+12$，将手牌重置洗牌。此时抽到信件卡的概率大幅提升。此外，气氛为Happy或Mellow任意一方达到100时，本场Live中，使用信件卡所获得的技能心心数量$+600%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+12$ and reset shuffle your hand. At this time, the chance of drawing a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the amount gained from the Skill Heart gain effect by using Letter Cards by $+600%$ for this stage.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -50232,6 +50518,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+13$し、手札をリセットシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるスキルハート獲得効果による獲得数を$+640%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+13$，将手牌重置洗牌。此时抽到信件卡的概率大幅提升。此外，气氛为Happy或Mellow任意一方达到100时，本场Live中，使用信件卡所获得的技能心心数量$+640%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+13$ and reset shuffle your hand. At this time, the chance of drawing a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the amount gained from the Skill Heart gain effect by using Letter Cards by $+640%$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+13$する。さらにムードがハッピー、メロウいずれか100のとき、このセクション中、手札の上限枚数を2枚増加し、このステージ中、ハート上限を$+192$する。",
     "translation": {
       "zh-CN": {
@@ -50240,6 +50539,19 @@
       },
       "en": {
         "text": "During this section, increase Mood Value by $+13$. Additionally, when Mood is either Happy or Mellow at 100, increase the maximum number of cards in hand by 2 during this section and increase Heart Cap by $+192$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+14$し、手札をリセットシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるスキルハート獲得効果による獲得数を$+680%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+14$，将手牌重置洗牌。此时抽到信件卡的概率大幅提升。此外，气氛为Happy或Mellow任意一方达到100时，本场Live中，使用信件卡所获得的技能心心数量$+680%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+14$ and reset shuffle your hand. At this time, the chance of drawing a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the amount gained from the Skill Heart gain effect by using Letter Cards by $+680%$ for this stage.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -50258,6 +50570,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+15$し、手札をリセットシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるスキルハート獲得効果による獲得数を$+720%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+15$，将手牌重置洗牌。此时抽到信件卡的概率大幅提升。此外，气氛为Happy或Mellow任意一方达到100时，本场Live中，使用信件卡时获得技能心心的数量$+720%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+15$ and reset shuffle your hand. At this time, the probability of drawing a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the amount gained from Skill Heart gain effects triggered by using Letter Cards by $+720%$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+15$する。さらにムードがハッピー、メロウいずれか100のとき、このセクション中、手札の上限枚数を2枚増加し、このステージ中、ハート上限を$+216$する。",
     "translation": {
       "zh-CN": {
@@ -50266,6 +50591,19 @@
       },
       "en": {
         "text": "During this section, increase Mood Value by $+15$. Additionally, when Mood is either Happy or Mellow at 100, increase the maximum number of cards in hand by 2 during this section and increase Heart Cap by $+216$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+16$し、手札をリセットシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるスキルハート獲得効果による獲得数を$+800%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+16$，将手牌重置洗牌。此时抽到信件卡的概率大幅提升。此外，气氛为Happy或Mellow任意一方达到100时，本场Live中，使用信件卡时获得技能心心的数量$+800%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+16$ and reset shuffle your hand. At this time, the probability of drawing a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the amount gained from Skill Heart gain effects triggered by using Letter Cards by $+800%$ for this stage.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -50297,6 +50635,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+17$し、手札をリセットシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるスキルハート獲得効果による獲得数を$+840%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+17$，将手牌重置洗牌。此时抽到信件卡的概率大幅提升。此外，气氛为Happy或Mellow任意一方达到100时，本场Live中，使用信件卡时获得技能心心的数量$+840%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+17$ and reset shuffle your hand. At this time, the probability of drawing a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the amount gained from Skill Heart gain effects triggered by using Letter Cards by $+840%$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+17$する。さらにムードがハッピー、メロウいずれか100のとき、このセクション中、手札の上限枚数を2枚増加し、このステージ中、ハート上限を$+252$する。",
     "translation": {
       "zh-CN": {
@@ -50305,6 +50656,19 @@
       },
       "en": {
         "text": "During this section, increase Mood Value by $+17$. Additionally, when Mood is either Happy or Mellow at 100, increase the maximum number of cards in hand by 2 during this section and increase Heart Cap by $+252$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+18$し、手札をリセットシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるスキルハート獲得効果による獲得数を$+880%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+18$，将手牌重置洗牌。此时抽到信件卡的概率大幅提升。此外，气氛为Happy或Mellow任意一方达到100时，本场Live中，使用信件卡时获得技能心心的数量$+880%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+18$ and reset shuffle your hand. At this time, the probability of drawing a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the amount gained from Skill Heart gain effects triggered by using Letter Cards by $+880%$ for this stage.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -50336,6 +50700,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+19$し、手札をリセットシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるスキルハート獲得効果による獲得数を$+920%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+19$，将手牌重置洗牌。此时抽到信件卡的概率大幅提升。此外，气氛为Happy或Mellow任意一方达到100时，本场Live中，使用信件卡时获得技能心心的数量$+920%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+19$ and reset shuffle your hand. At this time, the probability of drawing a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the amount gained from Skill Heart gain effects triggered by using Letter Cards by $+920%$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+19$する。さらにムードがハッピー、メロウいずれか100のとき、このセクション中、手札の上限枚数を2枚増加し、このステージ中、ハート上限を$+276$する。",
     "translation": {
       "zh-CN": {
@@ -50344,6 +50721,32 @@
       },
       "en": {
         "text": "During this section, increase Mood Value by $+19$. Additionally, when Mood is either Happy or Mellow at 100, increase the maximum number of cards in hand by 2 during this section and increase Heart Cap by $+276$ during this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+20$し、メンタルを最大値の1000%減少させる。さらにビートハート$60回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+20$，失去最大Mental值的1000%。此外，获得$60倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+20$ and decrease Mental by 1000% of its maximum value. Additionally, gain Skill Hearts equivalent to $60$ Beat Hearts.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+20$し、手札をリセットシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるスキルハート獲得効果による獲得数を$+1000%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+20$，将手牌重置洗牌。此时抽到信件卡的概率大幅提升。此外，气氛为Happy或Mellow任意一方达到100时，本场Live中，使用信件卡时获得技能心心的数量$+1000%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+20$ and reset shuffle your hand. At this time, the probability of drawing a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the amount gained from Skill Heart gain effects triggered by using Letter Cards by $+1000%$ for this stage.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -50388,6 +50791,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+22$し、メンタルを最大値の1000%減少させる。さらにビートハート$66回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+22$，失去最大Mental值的1000%。此外，获得$66倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+22$ and decrease Mental by 1000% of its maximum value. Additionally, gain Skill Hearts equivalent to $66$ Beat Hearts.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+23$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+224$し、ビートハート$56回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -50397,6 +50813,19 @@
       "en": {
         "text": "During this section, increase Mood by $+23$. Additionally, if Mood is either Happy or Mellow at 100, increase Voltage Pt. by $+224$ and gain Skill Hearts equivalent to $56$ beats of Beat Hearts.",
         "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+24$し、メンタルを最大値の1000%減少させる。さらにビートハート$72回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+24$，失去最大Mental值的1000%。此外，获得$72倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+24$ and decrease Mental by 1000% of its maximum value. Additionally, gain Skill Hearts equivalent to $72$ Beat Hearts.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -50414,6 +50843,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+26$し、メンタルを最大値の1000%減少させる。さらにビートハート$78回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+26$，失去最大Mental值的1000%。此外，获得$78倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+26$ and decrease Mental by 1000% of its maximum value. Additionally, gain Skill Hearts equivalent to $78$ Beat Hearts.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+26$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+256$し、ビートハート$64回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -50423,6 +50865,19 @@
       "en": {
         "text": "During this section, increase Mood by $+26$. Additionally, if Mood is either Happy or Mellow at 100, increase Voltage Pt. by $+256$ and gain Skill Hearts equivalent to $64$ beats of Beat Hearts.",
         "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+28$し、メンタルを最大値の1000%減少させる。さらにビートハート$84回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+28$，失去最大Mental值的1000%。此外，获得$84倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+28$ and decrease Mental by 1000% of its maximum value. Additionally, gain Skill Hearts equivalent to $84$ Beat Hearts.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -50453,6 +50908,32 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+30$し、メンタルを最大値の1000%減少させる。さらにビートハート$90回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+30$，失去最大Mental值的1000%。此外，获得$90倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+30$ and decrease Mental by 1000% of its maximum value. Additionally, gain Skill Hearts equivalent to $90$ Beat Hearts.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+32$し、メンタルを最大値の1000%減少させる。さらにビートハート$96回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+32$，失去最大Mental值的1000%。此外，获得$96倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+32$ and decrease Mental by 1000% of its maximum value. Additionally, gain Skill Hearts equivalent to $96$ Beat Hearts.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+32$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+320$し、ビートハート$80回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -50466,6 +50947,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+34$し、メンタルを最大値の1000%減少させる。さらにビートハート$102回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+34$，失去最大Mental值的1000%。此外，获得$102倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+34$ and decrease Mental by 1000% of its maximum value. Additionally, gain Skill Hearts equivalent to $102$ Beat Hearts.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+34$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+336$し、ビートハート$84回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -50475,6 +50969,19 @@
       "en": {
         "text": "During this section, increase Mood by $+34$. Additionally, if Mood is either Happy or Mellow at 100, increase Voltage Pt. by $+336$ and gain Skill Hearts equivalent to $84$ beats of Beat Hearts.",
         "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+36$し、メンタルを最大値の1000%減少させる。さらにビートハート$108回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+36$，失去最大Mental值的1000%。此外，获得$108倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+36$ and decrease Mental by 1000% of its maximum value. Additionally, gain Skill Hearts equivalent to $108$ Beat Hearts.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -50518,6 +51025,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+40$し、メンタルを最大値の1000%減少させる。さらにビートハート$120回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+40$，失去最大Mental值的1000%。此外，获得$120倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+40$ and decrease Mental by 1000% of its maximum value. Additionally, gain Skill Hearts equivalent to $120$ Beat Hearts.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+40$し、手札の上限枚数を4枚増加する。さらにデッキ内の全てのスキルの消費AP-8。",
     "translation": {
       "zh-CN": {
@@ -50544,6 +51064,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+42$し、メンタルを最大値の1000%減少させる。さらにビートハート$126回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+42$，失去最大Mental值的1000%。此外，获得$126倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+42$ and decrease Mental by 1000% of its maximum value. Additionally, gain Skill Hearts equivalent to $126$ Beat Hearts.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+44$し、AP回復速度を$+35.2%$する。さらに16回の間泉が使用するスキルハート獲得効果による獲得数を$+352%$する。",
     "translation": {
       "zh-CN": {
@@ -50557,6 +51090,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+44$し、メンタルを最大値の1000%減少させる。さらにビートハート$132回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+44$，失去最大Mental值的1000%。此外，获得$132倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+44$ and decrease Mental by 1000% of its maximum value. Additionally, gain Skill Hearts equivalent to $132$ Beat Hearts.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+44$し、手札の上限枚数を4枚増加する。さらにデッキ内の全てのスキルの消費AP-8。",
     "translation": {
       "zh-CN": {
@@ -50565,6 +51111,19 @@
       },
       "en": {
         "text": "During this section, increase Mood value by $+44$ and increase the maximum number of cards in hand by 4. Additionally, reduce the AP cost of all skills in the deck by -8.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+46$し、メンタルを最大値の1000%減少させる。さらにビートハート$138回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+46$，失去最大Mental值的1000%。此外，获得$138倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+46$ and decrease Mental by 1000% of its maximum value. Additionally, gain Skill Hearts equivalent to $138$ Beat Hearts.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -50591,6 +51150,19 @@
       },
       "en": {
         "text": "During this section, increase Mood value by $+48$ and increase the maximum number of cards in hand by 4. Additionally, reduce the AP cost of all skills in the deck by -8.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+50$し、メンタルを最大値の1000%減少させる。さらにビートハート$150回分$のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+50$，失去最大Mental值的1000%。此外，获得$150倍$跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+50$ and decrease Mental by 1000% of its maximum value. Additionally, gain Skill Hearts equivalent to $150$ Beat Hearts.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -50752,6 +51324,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+8$し、手札をリセットシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるスキルハート獲得効果による獲得数を$+400%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+8$，将手牌重置洗牌。此时抽到信件卡的概率大幅提升。此外，气氛为Happy或Mellow任意一方达到100时，本场Live中，使用信件卡时获得技能心心的数量$+400%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+8$ and reset shuffle your hand. At this time, the probability of drawing a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the amount gained from Skill Heart gain effects triggered by using Letter Cards by $+400%$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+8$する。さらにムードがハッピー、メロウいずれか100のとき、このセクション中、手札の上限枚数を2枚増加し、このステージ中、ハート上限を$+120$する。",
     "translation": {
       "zh-CN": {
@@ -50838,6 +51423,19 @@
       },
       "en": {
         "text": "During this section, increase Mood value by $+88$ and increase the maximum number of cards in hand by 4. Additionally, reduce the AP cost of all skills in the deck by -8.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+9$し、手札をリセットシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるスキルハート獲得効果による獲得数を$+440%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+9$，将手牌重置洗牌。此时抽到信件卡的概率大幅提升。此外，气氛为Happy或Mellow任意一方达到100时，本场Live中，使用信件卡时获得技能心心的数量$+440%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+9$ and reset shuffle your hand. At this time, the probability of drawing a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the amount gained from Skill Heart gain effects triggered by using Letter Cards by $+440%$ for this stage.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -73099,6 +73697,19 @@
     }
   },
   {
+    "raw": "スキル使用時1回まで、レターカードを1種類(合計1枚)山札に追加する。さらにムードがハッピー、メロウいずれか100でドローしたとき、デッキ内のレターカードの消費APを-3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "每次使用技能最多1次，将1个种类的信件卡（合计1张）加入牌库。此外，气氛为Happy或Mellow任意一方达到100时抽到该卡，卡组中信件卡的消费AP-3。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Up to once per skill use, add 1 type (1 card total) of Letter Card to the deck. Additionally, when a Letter Card is drawn while Mood is either Happy or Mellow 100, reduce the AP cost of Letter Cards in the deck by 3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "スキル使用時1度だけ、Poupée en Lotus/Ginkoを1種類(合計1枚)山札に追加する。さらにドローした時、メンタルを最大値の6%回復させる。",
     "translation": {
       "zh-CN": {
@@ -77597,6 +78208,19 @@
     }
   },
   {
+    "raw": "ビートハート$10回分$のスキルハートを獲得、ボルテージPt.を$+40$、このステージ中、獲得するLOVEを$+10%$し、ハート上限を$+24$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$10倍$跳心的技能心心，Vo Pt.$+40$，本场Live中获得LOVE$+10%$，心心上限$+24$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $10$ Beat Hearts, increase Voltage Pt. by $+40$, increase LOVE gained by $+10%$ for this stage, and increase Heart Cap by $+24$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$10回分$のスキルハートを獲得し、このステージ中、獲得するLOVEを$+3.8%$する。さらにボルテージPt.を$+8$する。",
     "translation": {
       "zh-CN": {
@@ -78412,6 +79036,19 @@
       "en": {
         "text": "Gain Skill Hearts equivalent to $11$ beat hearts 9 times. Additionally, Hime enters 《Ignition Mode》.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$11回分$のスキルハートを獲得、ボルテージPt.を$+44$、このステージ中、獲得するLOVEを$+11%$し、ハート上限を$+26$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$11倍$跳心的技能心心，Vo Pt.$+44$，本场Live中，获得LOVE$+11%$，心心上限$+26$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $11$ Beat Hearts, increase Voltage Pt. by $+44$, increase LOVE gained by $+11%$ for this stage, and increase Heart Cap by $+26$.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -79404,6 +80041,19 @@
     }
   },
   {
+    "raw": "ビートハート$12回分$のスキルハートを獲得、ボルテージPt.を$+48$、このステージ中、獲得するLOVEを$+12%$し、ハート上限を$+29$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$12倍$跳心的技能心心，Vo Pt.$+48$，本场Live中，获得LOVE$+12%$，心心上限$+29$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $12$ Beat Hearts, increase Voltage Pt. by $+48$, increase LOVE gained by $+12%$ for this stage, and increase Heart Cap by $+29$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$12回分$のスキルハートを獲得し、このステージ中、獲得するLOVEを$+4.4%$する。さらにボルテージPt.を$+9$する。",
     "translation": {
       "zh-CN": {
@@ -80301,6 +80951,19 @@
     }
   },
   {
+    "raw": "ビートハート$13回分$のスキルハートを獲得、ボルテージPt.を$+52$、このステージ中、獲得するLOVEを$+13%$し、ハート上限を$+31$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$13倍$跳心的技能心心，Vo Pt.$+52$，本场Live中，获得LOVE$+13%$，心心上限$+31$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $13$ Beat Hearts, increase Voltage Pt. by $+52$, increase LOVE gained by $+13%$ for this stage, and increase Heart Cap by $+31$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$13回分$のスキルハートを獲得し、このステージ中、獲得するLOVEを$+6.4%$する。さらにAPを10回復する。",
     "translation": {
       "zh-CN": {
@@ -81068,6 +81731,19 @@
     }
   },
   {
+    "raw": "ビートハート$14回分$のスキルハートを獲得、ボルテージPt.を$+56$、このステージ中、獲得するLOVEを$+14%$し、ハート上限を$+34$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$14倍$跳心的技能心心，Vo Pt.$+56$，本场Live中，获得LOVE$+14%$，心心上限$+34$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $14$ Beat Hearts, increase Voltage Pt. by $+56$, increase LOVE gained by $+14%$ for this stage, and increase Heart Cap by $+34$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$14回分$のスキルハートを獲得し、このステージ中、獲得するLOVEを$+6.8%$する。さらにAPを10回復する。",
     "translation": {
       "zh-CN": {
@@ -81558,6 +82234,19 @@
       "en": {
         "text": "Gain Skill Hearts equivalent to $15$ Beat Hearts 9 times. Additionally, when Mental is 50% or below, gain an additional Skill Hearts equivalent to $20$ Beat Hearts 9 times.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$15回分$のスキルハートを獲得、ボルテージPt.を$+60$、このステージ中、獲得するLOVEを$+15%$し、ハート上限を$+36$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$15倍$跳心的技能心心，Vo Pt.$+60$，本场Live中，获得LOVE$+15%$，心心上限$+36$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $15$ Beat Hearts, increase Voltage Pt. by $+60$, increase LOVE gained by $+15%$ for this stage, and increase Heart Cap by $+36$.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -82147,6 +82836,19 @@
     }
   },
   {
+    "raw": "ビートハート$16回分$のスキルハートを獲得、ボルテージPt.を$+64$、このステージ中、獲得するLOVEを$+16%$し、ハート上限を$+38$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$16倍$跳心的技能心心，Vo Pt.$+64$，本场Live中，获得LOVE$+16%$，心心上限$+38$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $16$ Beat Hearts, increase Voltage Pt. by $+64$, increase LOVE gained by $+16%$ for this stage, and increase Heart Cap by $+38$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$16回分$のスキルハートを獲得し、このステージ中、ドレスカードの使用によるボルテージゲイン効果を$+60%$する。さらにデッキ枚数が22枚のとき、このステージ中、獲得するLOVEを$+240%$する。",
     "translation": {
       "zh-CN": {
@@ -82494,6 +83196,19 @@
       "en": {
         "text": "Gain Skill Hearts equal to $17$ Beat Hearts 9 times. Additionally, Hime enters 《Ignition Mode》.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$17回分$のスキルハートを獲得、ボルテージPt.を$+68$、このステージ中、獲得するLOVEを$+17%$し、ハート上限を$+41$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$17倍$跳心的技能心心，Vo Pt.$+68$，本场Live中，获得LOVE$+17%$，心心上限$+41$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $17$ Beat Hearts, increase Voltage Pt. by $+68$, increase LOVE gained by $+17%$ for this stage, and increase Heart Cap by $+41$.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -82871,6 +83586,19 @@
       "en": {
         "text": "Gain Skill Hearts equal to $18$ Beat Hearts 9 times. Additionally, Hime enters 《Ignition Mode》.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$18回分$のスキルハートを獲得、ボルテージPt.を$+72$、このステージ中、獲得するLOVEを$+18%$し、ハート上限を$+43$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$18倍$跳心的技能心心，Vo Pt.$+72$，本场Live中，获得LOVE$+18%$，心心上限$+43$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $18$ Beat Hearts, increase Voltage Pt. by $+72$, increase LOVE gained by $+18%$ for this stage, and increase Heart Cap by $+43$.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -83525,6 +84253,19 @@
     }
   },
   {
+    "raw": "ビートハート$20回分$のスキルハートを獲得、ボルテージPt.を$+80$、このステージ中、獲得するLOVEを$+20%$し、ハート上限を$+48$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$20倍$跳心的技能心心，Vo Pt.$+80$，本场Live中，获得LOVE$+20%$，心心上限$+48$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $20$ Beat Hearts, increase Voltage Pt. by $+80$, increase LOVE gained by $+20%$ for this stage, and increase Heart Cap by $+48$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$20回分$のスキルハートを獲得し、このステージ中、獲得するLOVEを$+10%$する。さらにAPを10回復する。",
     "translation": {
       "zh-CN": {
@@ -83876,6 +84617,19 @@
     }
   },
   {
+    "raw": "ビートハート$21回分$のスキルハートを獲得、ボルテージPt.を$+84$、このステージ中、獲得するLOVEを$+21%$し、ハート上限を$+50$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$21倍$跳心的技能心心，Vo Pt.$+84$，本场Live中，获得LOVE$+21%$，心心上限$+50$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $21$ Beat Hearts, increase Voltage Pt. by $+84$, increase LOVE gained by $+21%$ for this stage, and increase Heart Cap by $+50$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$21回分$のスキルハートを獲得し、このステージ中、ドレスカードの使用によるボルテージゲイン効果を$+78%$する。さらにデッキ枚数が22枚のとき、このステージ中、獲得するLOVEを$+312%$する。",
     "translation": {
       "zh-CN": {
@@ -84080,6 +84834,19 @@
       "en": {
         "text": "Gain Skill Hearts worth $22 times$ Beat Hearts 9 times. Additionally, up to 3 times, add 3 types of Dress 《AURORA FLOWER》 (3 cards total) to the deck.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$22回分$のスキルハートを獲得、ボルテージPt.を$+88$、このステージ中、獲得するLOVEを$+22%$し、ハート上限を$+53$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$22倍$跳心的技能心心，Vo Pt.$+88$，本场Live中，获得LOVE$+22%$，心心上限$+53$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $22$ Beat Hearts, increase Voltage Pt. by $+88$, increase LOVE gained by $+22%$ for this stage, and increase Heart Cap by $+53$.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -84392,6 +85159,19 @@
       "en": {
         "text": "Gain Skill Hearts worth $23 times$ Beat Hearts 9 times. Additionally, when Mental is 50% or below, gain additional Skill Hearts worth $30 times$ Beat Hearts 9 times.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$23回分$のスキルハートを獲得、ボルテージPt.を$+92$、このステージ中、獲得するLOVEを$+23%$し、ハート上限を$+55$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$23倍$跳心的技能心心，Vo Pt.$+92$，本场Live中，获得LOVE$+23%$，心心上限$+55$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $23$ Beat Hearts, increase Voltage Pt. by $+92$, increase LOVE gained by $+23%$ for this stage, and increase Heart Cap by $+55$.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -84821,6 +85601,19 @@
       "en": {
         "text": "Gain Skill Hearts equivalent to $25$ Beat Hearts 9 times. Additionally, add Dress 《AURORA FLOWER》 of 3 types (total 3 cards) to deck up to 3 times.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$25回分$のスキルハートを獲得、ボルテージPt.を$+100$、このステージ中、獲得するLOVEを$+25%$し、ハート上限を$+60$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$25倍$跳心的技能心心，Vo Pt.$+100$，本场Live中，获得LOVE$+25%$，心心上限$+60$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $25$ Beat Hearts, increase Voltage Pt. by $+100$, increase LOVE gained by $+25%$ for this stage, and increase Heart Cap by $+60$.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -112047,6 +112840,19 @@
     }
   },
   {
+    "raw": "ムードがハッピー、メロウいずれか100でドローしたとき、ビートハート$25回分$のスキルハートを獲得、ボルテージPt.を$+100$、このステージ中、獲得するLOVEを$+25%$し、ハート上限を$+60$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "气氛为Happy或Mellow任一达到100时抽到，获得$25倍$跳心的技能心心，Vo Pt.$+100$，本场Live中，获得LOVE$+25%$，心心上限$+60$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When drawn while Mood is either Happy or Mellow 100, gain Skill Hearts equivalent to $25$ Beat Hearts, increase Voltage Pt. by $+100$, increase LOVE gained by $+25%$ for this stage, and increase Heart Cap by $+60$.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ムードがハッピー、メロウいずれか50未満でドローしたとき、デッキ内の泉のスキルの消費APを-2、セラスのスキルの消費APを-8し、ムードがハッピー、メロウいずれか50以上でドローしたとき、デッキ内の泉のスキルの消費APを-8、セラスのスキルの消費APを-2する。",
     "translation": {
       "zh-CN": {
@@ -113746,6 +114552,19 @@
       "en": {
         "text": "When using skills at Mental 0%, discard all hand cards and draw skills up to hand limit from the deck. At this time, greatly increase the probability of drawing Sayaka Murano and Kosuzu Kachimachi cards. When using skills at Mellow 50 or higher, reduce AP cost of Sayaka Murano and Kosuzu Kachimachi skills in the deck by 3. Furthermore, while in hand, recover 12% of maximum Mental value each time sections change.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタル0でドローしたとき、ビートハート150回分のスキルハートを獲得し、ムードがハッピー、メロウいずれか100以上でドローしたとき、メンタルを最大値の1000%減少させ、デッキ内のみらくらぱーく！のメンバーのスキルの消費APを-11する。さらにムードがハッピー、メロウいずれか100以上で手札にある間、メンタルが0になってもメンタルダウンしなくなり、メンタルが回復した時、回復量の300%の個数のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Mental为0时抽到，获得150倍跳心的技能心心；气氛为Happy或Mellow任一达到100以上时抽到，失去最大Mental值的1000%，卡组中Mira-Cra Park!成员的技能消费AP-11。此外，气氛为Happy或Mellow任一达到100以上且在手牌中时，即使Mental归零也不会触发Mental崩溃，当Mental恢复时，获得恢复量300%个数的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When drawn at Mental 0, gain Skill Hearts equivalent to 150 Beat Hearts. When drawn while Mood is either Happy or Mellow 100 or higher, decrease Mental by 1000% of its maximum value and reduce the AP cost of Mira-Cra Park! members' skills in the deck by -11. Additionally, while in hand with Mood at either Happy or Mellow 100 or higher, Mental Down will no longer trigger even if Mental reaches 0, and when Mental is restored, gain Skill Hearts equal to 300% of the amount restored.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -122018,6 +122837,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$32%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、ビートハートの出現個数を+1、メンタルを最大値の$48%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+800$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$32%$。此外，气氛为Happy或Mellow任一达到100时，本场Live中，跳心出现数量+1，恢复最大Mental值的$48%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+800$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental by $32%$ of its maximum value. Additionally, when Mood is either Happy or Mellow 100, increase the number of Beat Hearts appearing by +1 and restore Mental by $48%$ of its maximum value for this stage. When Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+800$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$32%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、それぞれ3回の間みらくらぱーく！のメンバーが使用するラブアトラクト効果を$+1200%$、ボルテージゲイン効果を$+1200%$、メンタルを最大値の$48%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+800$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$32%$。此外，气氛为Happy或Mellow任一达到100时，分别接下来3次Mira-Cra Park!成员使用的LOVE+效果$+1200%$、获得Vo Pt.效果$+1200%$，恢复最大Mental值的$48%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+800$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental by $32%$ of its maximum value. Additionally, when Mood is either Happy or Mellow 100, increase the Love Attract effect and Voltage Gain effect used by Mira-Cra Park! members by $+1200%$ each for 3 turns and restore Mental by $48%$ of its maximum value. When Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+800$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$32.64%$回復させる。さらに、ビートハート$9回分$のスキルハートを獲得し、このセクション中、獲得するLOVEを$+7.7%$する。",
     "translation": {
       "zh-CN": {
@@ -122170,6 +123015,32 @@
       "en": {
         "text": "Restore Mental by $35.2%$ of maximum value and gain Skill Heart equivalent to $9$ beat hearts. Additionally, when deck has 30 or more cards, increase the next Love Attract effect used by Megumi by $+1848%$.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$35.2%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、ビートハートの出現個数を+1、メンタルを最大値の$52.8%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+880$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$35.2%$。此外，气氛为Happy或Mellow任一达到100时，本场Live中，跳心出现数量+1，恢复最大Mental值的$52.8%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+880$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental by $35.2%$ of its maximum value. Additionally, when Mood is either Happy or Mellow 100, increase the number of Beat Hearts appearing by +1 and restore Mental by $52.8%$ of its maximum value for this stage. When Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+880$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$35.2%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、それぞれ3回の間みらくらぱーく！のメンバーが使用するラブアトラクト効果を$+1320%$、ボルテージゲイン効果を$+1320%$、メンタルを最大値の$52.8%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+880$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$35.2%$。此外，气氛为Happy或Mellow任一达到100时，分别接下来3次Mira-Cra Park!成员使用的LOVE+效果$+1320%$、获得Vo Pt.效果$+1320%$，恢复最大Mental值的$52.8%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+880$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental by $35.2%$ of its maximum value. Additionally, when Mood is either Happy or Mellow 100, increase the Love Attract effect and Voltage Gain effect used by Mira-Cra Park! members by $+1320%$ each for 3 turns and restore Mental by $52.8%$ of its maximum value. When Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+880$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -122352,6 +123223,32 @@
       "en": {
         "text": "Restore Mental by $38.4%$ of maximum value. Additionally, gain Skill Heart equivalent to $10$ beat hearts and increase LOVE gained by $+9%$ for this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$38.4%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、ビートハートの出現個数を+1、メンタルを最大値の$57.6%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+960$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$38.4%$。此外，气氛为Happy或Mellow任一达到100时，本场Live中，跳心出现数量+1，恢复最大Mental值的$57.6%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+960$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental by $38.4%$ of its maximum value. Additionally, when Mood is either Happy or Mellow 100, increase the number of Beat Hearts appearing by +1 and restore Mental by $57.6%$ of its maximum value for this stage. When Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+960$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$38.4%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、それぞれ3回の間みらくらぱーく！のメンバーが使用するラブアトラクト効果を$+1440%$、ボルテージゲイン効果を$+1440%$、メンタルを最大値の$57.6%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+960$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$38.4%$。此外，气氛为Happy或Mellow任一达到100时，分别接下来3次Mira-Cra Park!成员使用的LOVE+效果$+1440%$、获得Vo Pt.效果$+1440%$，恢复最大Mental值的$57.6%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+960$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental by $38.4%$ of its maximum value. Additionally, when Mood is either Happy or Mellow 100, increase the Love Attract effect and Voltage Gain effect used by Mira-Cra Park! members by $+1440%$ each for 3 turns and restore Mental by $57.6%$ of its maximum value. When Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+960$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -122824,6 +123721,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$41.6%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、ビートハートの出現個数を+1、メンタルを最大値の$62.4%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+1040$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$41.6%$。此外，气氛为Happy或Mellow任一达到100时，本场Live中，跳心出现数量+1，恢复最大Mental值的$62.4%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+1040$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental by $41.6%$ of its maximum value. Additionally, when Mood is either Happy or Mellow 100, increase the number of Beat Hearts appearing by +1 and restore Mental by $62.4%$ of its maximum value for this stage. When Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+1040$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$41.6%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、それぞれ3回の間みらくらぱーく！のメンバーが使用するラブアトラクト効果を$+1560%$、ボルテージゲイン効果を$+1560%$、メンタルを最大値の$62.4%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+1040$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$41.6%$。此外，气氛为Happy或Mellow任一达到100时，分别接下来3次Mira-Cra Park!成员使用的LOVE+效果$+1560%$、获得Vo Pt.效果$+1560%$，恢复最大Mental值的$62.4%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+1040$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental by $41.6%$ of its maximum value. Additionally, when Mood is either Happy or Mellow 100, increase the Love Attract effect and Voltage Gain effect used by Mira-Cra Park! members by $+1560%$ each for 3 turns and restore Mental by $62.4%$ of its maximum value. When Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+1040$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$42%$回復させる。",
     "translation": {
       "zh-CN": {
@@ -122993,6 +123916,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$44.8%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、ビートハートの出現個数を+1、メンタルを最大値の$67.2%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+1120$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$44.8%$。此外，气氛为Happy或Mellow任一达到100时，本场Live中，跳心出现数量+1，恢复最大Mental值的$67.2%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+1120$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental by $44.8%$ of its maximum value. Additionally, when Mood is either Happy or Mellow 100, increase the number of Beat Hearts appearing by +1 and restore Mental by $67.2%$ of its maximum value for this stage. When Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+1120$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$44.8%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、それぞれ3回の間みらくらぱーく！のメンバーが使用するラブアトラクト効果を$+1680%$、ボルテージゲイン効果を$+1680%$、メンタルを最大値の$67.2%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+1120$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$44.8%$。此外，气氛为Happy或Mellow任一达到100时，分别接下来3次使用Mira-Cra Park!成员的LOVE+效果$+1680%$、获得Vo Pt.效果$+1680%$，恢复最大Mental值的$67.2%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+1120$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $44.8%$ of its maximum value. Additionally, if Mood is either Happy or Mellow 100, increase the Love Attract effect used by Mira-Cra Park! members by $+1680%$ and the Voltage Gain effect by $+1680%$ for 3 turns each, and restore Mental to $67.2%$ of its maximum value. If Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+1120$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$448.8%$回復、このステージ中、それぞれメンタル最大値の$448.8%$分のメンタル自然減少、メンタル直接ダメージを無効にし、APを10減少、ボルテージPt.を-1020する。さらにビートハート$449回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -123106,6 +124055,32 @@
       "en": {
         "text": "Restore Mental by $48%$ of max value. Additionally, gain Skill Hearts equivalent to $12$ Beat Hearts and increase LOVE gained by $+11.3%$ during this section.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$48%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、ビートハートの出現個数を+1、メンタルを最大値の$72%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+1200$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$48%$。此外，气氛为Happy或Mellow任一达到100时，本场Live中，跳心出现数量+1，恢复最大Mental值的$72%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+1200$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $48%$ of its maximum value. Additionally, if Mood is either Happy or Mellow 100, increase the number of Beat Hearts appearing by +1 for this stage and restore Mental to $72%$ of its maximum value. If Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+1200$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$48%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、それぞれ3回の間みらくらぱーく！のメンバーが使用するラブアトラクト効果を$+1800%$、ボルテージゲイン効果を$+1800%$、メンタルを最大値の$72%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+1200$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$48%$。此外，气氛为Happy或Mellow任一达到100时，分别接下来3次使用Mira-Cra Park!成员的LOVE+效果$+1800%$、获得Vo Pt.效果$+1800%$，恢复最大Mental值的$72%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+1200$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $48%$ of its maximum value. Additionally, if Mood is either Happy or Mellow 100, increase the Love Attract effect used by Mira-Cra Park! members by $+1800%$ and the Voltage Gain effect by $+1800%$ for 3 turns each, and restore Mental to $72%$ of its maximum value. If Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+1200$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -123617,6 +124592,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$51.2%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、ビートハートの出現個数を+1、メンタルを最大値の$76.8%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+1280$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$51.2%$。此外，气氛为Happy或Mellow任一达到100时，本场Live中，跳心出现数量+1，恢复最大Mental值的$76.8%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+1280$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $51.2%$ of its maximum value. Additionally, if Mood is either Happy or Mellow 100, increase the number of Beat Hearts appearing by +1 for this stage and restore Mental to $76.8%$ of its maximum value. If Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+1280$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$51.2%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、それぞれ3回の間みらくらぱーく！のメンバーが使用するラブアトラクト効果を$+1920%$、ボルテージゲイン効果を$+1920%$、メンタルを最大値の$76.8%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+1280$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$51.2%$。此外，气氛为Happy或Mellow任一达到100时，分别接下来3次使用Mira-Cra Park!成员的LOVE+效果$+1920%$、获得Vo Pt.效果$+1920%$，恢复最大Mental值的$76.8%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+1280$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $51.2%$ of its maximum value. Additionally, if Mood is either Happy or Mellow 100, increase the Love Attract effect used by Mira-Cra Park! members by $+1920%$ and the Voltage Gain effect by $+1920%$ for 3 turns each, and restore Mental to $76.8%$ of its maximum value. If Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+1280$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$52%$回復させる。さらに5回の間メンタルリカバー効果を$+52%$し、このセクション中、AP回復速度を-20%する。",
     "translation": {
       "en": {
@@ -123760,6 +124761,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$54.4%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、ビートハートの出現個数を+1、メンタルを最大値の$81.6%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+1360$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$54.4%$。此外，气氛为Happy或Mellow任一达到100时，本场Live中，跳心出现数量+1，恢复最大Mental值的$81.6%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+1360$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $54.4%$ of its maximum value. Additionally, if Mood is either Happy or Mellow 100, increase the number of Beat Hearts appearing by +1 for this stage and restore Mental to $81.6%$ of its maximum value. If Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+1360$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$54.4%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、それぞれ3回の間みらくらぱーく！のメンバーが使用するラブアトラクト効果を$+2040%$、ボルテージゲイン効果を$+2040%$、メンタルを最大値の$81.6%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+1360$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$54.4%$。此外，气氛为Happy或Mellow任一达到100时，分别接下来3次使用Mira-Cra Park!成员的LOVE+效果$+2040%$、获得Vo Pt.效果$+2040%$，恢复最大Mental值的$81.6%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+1360$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $54.4%$ of its maximum value. Additionally, if Mood is either Happy or Mellow 100, increase the Love Attract effect used by Mira-Cra Park! members by $+2040%$ and the Voltage Gain effect by $+2040%$ for 3 turns each, and restore Mental to $81.6%$ of its maximum value. If Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+1360$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$55.2%$回復させる。",
     "translation": {
       "zh-CN": {
@@ -123847,6 +124874,32 @@
       "zh-CN": {
         "text": "恢复最大Mental值的$57.6%$，本小节中，气氛值向Happy方向$+11$。并且气氛为Happy100时，将手牌洗牌，Mental为200%以上时，本场Live中，防止最大mental值$396%$的直接伤害，获得$432倍$跳心的技能心心，接下来5次获得Vo Pt.效果$+432%$，本小节中，手牌上限增加2张。",
         "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$57.6%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、ビートハートの出現個数を+1、メンタルを最大値の$86.4%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+1440$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$57.6%$。此外，气氛为Happy或Mellow任一达到100时，本场Live中，跳心出现数量+1，恢复最大Mental值的$86.4%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+1440$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $57.6%$ of its maximum value. Additionally, if Mood is either Happy or Mellow 100, increase the number of Beat Hearts appearing by +1 for this stage and restore Mental to $86.4%$ of its maximum value. If Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+1440$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$57.6%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、それぞれ3回の間みらくらぱーく！のメンバーが使用するラブアトラクト効果を$+2160%$、ボルテージゲイン効果を$+2160%$、メンタルを最大値の$86.4%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+1440$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$57.6%$。此外，气氛为Happy或Mellow任一达到100时，分别接下来3次使用Mira-Cra Park!成员的LOVE+效果$+2160%$、获得Vo Pt.效果$+2160%$，恢复最大Mental值的$86.4%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+1440$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $57.6%$ of its maximum value. Additionally, if Mood is either Happy or Mellow 100, increase the Love Attract effect used by Mira-Cra Park! members by $+2160%$ and the Voltage Gain effect by $+2160%$ for 3 turns each, and restore Mental to $86.4%$ of its maximum value. If Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+1440$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -124540,6 +125593,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$64%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、ビートハートの出現個数を+1、メンタルを最大値の$96%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+1600$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$64%$。此外，气氛为Happy或Mellow任一达到100时，本场Live中，跳心出现数量+1，恢复最大Mental值的$96%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+1600$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $64%$ of its maximum value. Additionally, if Mood is either Happy or Mellow 100, increase the number of Beat Hearts appearing by +1 for this stage and restore Mental to $96%$ of its maximum value. If Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+1600$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$64%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、それぞれ3回の間みらくらぱーく！のメンバーが使用するラブアトラクト効果を$+2400%$、ボルテージゲイン効果を$+2400%$、メンタルを最大値の$96%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+1600$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$64%$。此外，气氛为Happy或Mellow任一达到100时，分别接下来3次使用Mira-Cra Park!成员的LOVE+效果$+2400%$、获得Vo Pt.效果$+2400%$，恢复最大Mental值的$96%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+1600$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $64%$ of its maximum value. Additionally, if Mood is either Happy or Mellow 100, increase the Love Attract effect used by Mira-Cra Park! members by $+2400%$ and the Voltage Gain effect by $+2400%$ for 3 turns each, and restore Mental to $96%$ of its maximum value. If Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+1600$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$64%$回復させる。さらにメンタルが200%以上のとき、このステージ中、ハート上限を$+64$、獲得するLOVEを$+640%$、ボルテージPt.を$+640$し、ビートハート$640回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -124601,6 +125680,32 @@
       "zh-CN": {
         "text": "恢复最大Mental值的$67.2%$，本小节中，气氛值向Happy方向$+13$。并且气氛为Happy 100时，手牌洗牌，Mental为200%以上时，本场Live中，防止最大Mental值$462%$的Mental直接伤害，获得$504倍$跳心的技能心心，接下来5次获得Vo Pt.效果$+504%$，本小节中，手牌上限增加2张。",
         "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$67.2%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、ビートハートの出現個数を+1、メンタルを最大値の$100.8%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+1680$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$67.2%$。此外，气氛为Happy或Mellow任一达到100时，本场Live中，跳心出现数量+1，恢复最大Mental值的$100.8%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+1680$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $67.2%$ of its maximum value. Additionally, if Mood is either Happy or Mellow 100, increase the number of Beat Hearts appearing by +1 for this stage and restore Mental to $100.8%$ of its maximum value. If Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+1680$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$67.2%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、それぞれ3回の間みらくらぱーく！のメンバーが使用するラブアトラクト効果を$+2520%$、ボルテージゲイン効果を$+2520%$、メンタルを最大値の$100.8%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+1680$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$67.2%$。此外，气氛为Happy或Mellow任一达到100时，分别接下来3次使用Mira-Cra Park!成员的LOVE+效果$+2520%$、获得Vo Pt.效果$+2520%$，恢复最大Mental值的$100.8%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+1680$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $67.2%$ of its maximum value. Additionally, if Mood is either Happy or Mellow 100, increase the Love Attract effect used by Mira-Cra Park! members by $+2520%$ and the Voltage Gain effect by $+2520%$ for 3 turns each, and restore Mental to $100.8%$ of its maximum value. If Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+1680$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -125333,6 +126438,32 @@
     }
   },
   {
+    "raw": "メンタルを最大値の$70.4%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、ビートハートの出現個数を+1、メンタルを最大値の$105.6%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+1760$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$70.4%$。此外，气氛为Happy或Mellow任一达到100时，本场Live中，跳心出现数量+1，恢复最大Mental值的$105.6%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+1760$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $70.4%$ of its maximum value. Additionally, if Mood is either Happy or Mellow 100, increase the number of Beat Hearts appearing by +1 for this stage and restore Mental to $105.6%$ of its maximum value. If Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+1760$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$70.4%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、それぞれ3回の間みらくらぱーく！のメンバーが使用するラブアトラクト効果を$+2640%$、ボルテージゲイン効果を$+2640%$、メンタルを最大値の$105.6%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+1760$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$70.4%$。此外，气氛为Happy或Mellow任一达到100时，分别接下来3次使用Mira-Cra Park!成员的LOVE+效果$+2640%$、获得Vo Pt.效果$+2640%$，恢复最大Mental值的$105.6%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+1760$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $70.4%$ of its maximum value. Additionally, if Mood is either Happy or Mellow 100, increase the Love Attract effect used by Mira-Cra Park! members by $+2640%$ and the Voltage Gain effect by $+2640%$ for 3 turns each, and restore Mental to $105.6%$ of its maximum value. If Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+1760$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを最大値の$70.4%$回復させる。さらにメンタルが100%のとき、このセクション中、ビートハートの出現個数を$+6$する。",
     "translation": {
       "zh-CN": {
@@ -125459,6 +126590,32 @@
       "zh-CN": {
         "text": "恢复最大Mental值的$73.6%$，本小节中，气氛值向Happy方向$+14$。并且气氛为Happy 100时，手牌洗牌，Mental为200%以上时，本场Live中，防止最大Mental值$506%$的Mental直接伤害，获得$552倍$跳心的技能心心，接下来5次获得Vo Pt.效果$+552%$，本小节中，手牌上限增加2张。",
         "author": "glm-4.6"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$73.6%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、ビートハートの出現個数を+1、メンタルを最大値の$110.4%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+1840$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$73.6%$。此外，气氛为Happy或Mellow任一达到100时，本场Live中，跳心出现数量+1，恢复最大Mental值的$110.4%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+1840$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $73.6%$ of its maximum value. Additionally, if Mood is either Happy or Mellow 100, increase the number of Beat Hearts appearing by +1 for this stage and restore Mental to $110.4%$ of its maximum value. If Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+1840$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$73.6%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、それぞれ3回の間みらくらぱーく！のメンバーが使用するラブアトラクト効果を$+2760%$、ボルテージゲイン効果を$+2760%$、メンタルを最大値の$110.4%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+1840$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$73.6%$。此外，气氛为Happy或Mellow任一达到100时，分别接下来3次使用Mira-Cra Park!成员的LOVE+效果$+2760%$、获得Vo Pt.效果$+2760%$，恢复最大Mental值的$110.4%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+1840$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $73.6%$ of its maximum value. Additionally, if Mood is either Happy or Mellow 100, increase the Love Attract effect used by Mira-Cra Park! members by $+2760%$ and the Voltage Gain effect by $+2760%$ for 3 turns each, and restore Mental to $110.4%$ of its maximum value. If Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+1840$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -126239,6 +127396,32 @@
       "zh-CN": {
         "text": "恢复最大Mental值的$80%$。并且接下来5次Mental恢复效果$+80%$，本小节中，手牌上限-2。",
         "author": "deepseek-chat"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$80%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、ビートハートの出現個数を+1、メンタルを最大値の$120%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+2000$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$80%$。此外，气氛为Happy或Mellow任一达到100时，本场Live中，跳心出现数量+1，恢复最大Mental值的$120%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+2000$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $80%$ of its maximum value. Additionally, if Mood is either Happy or Mellow 100, increase the number of Beat Hearts appearing by +1 for this stage and restore Mental to $120%$ of its maximum value. If Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+2000$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メンタルを最大値の$80%$回復させる。さらにムードがハッピー、メロウいずれか100のとき、それぞれ3回の間みらくらぱーく！のメンバーが使用するラブアトラクト効果を$+3000%$、ボルテージゲイン効果を$+3000%$、メンタルを最大値の$120%$回復させ、ムードがハッピー、メロウいずれか100かつメンタルが200%以上のとき、このステージ中、ハート上限を$+2000$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "恢复最大Mental值的$80%$。此外，气氛为Happy或Mellow任一达到100时，分别接下来3次使用Mira-Cra Park!成员的LOVE+效果$+3000%$、获得Vo Pt.效果$+3000%$，恢复最大Mental值的$120%$，气氛为Happy或Mellow任一达到100且Mental在200%以上时，本场Live中，心心上限$+2000$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Restore Mental to $80%$ of its maximum value. Additionally, if Mood is either Happy or Mellow 100, increase the Love Attract effect used by Mira-Cra Park! members by $+3000%$ and the Voltage Gain effect by $+3000%$ for 3 turns each, and restore Mental to $120%$ of its maximum value. If Mood is either Happy or Mellow 100 and Mental is 200% or higher, increase Heart Cap by $+2000$ for this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -127045,6 +128228,19 @@
       "en": {
         "text": "Add 3 types of Remake Dress Cards «華・麗・雅» (total of 3 cards) to deck. Additionally, discard all cards in hand and draw cards up to hand limit from deck.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "レターカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的信件卡（合计1张）加入牌库。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Add 1 type (1 card total) of Letter card to the deck.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -157283,6 +158479,19 @@
       "en": {
         "text": "Each time Rurino Osawa's skill is used, this skill's AP cost in hand -2.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "瑠璃乃のスキル使用後以外ドローされず、スキル使用後、みらくらぱーく！のスキルをドローする確率大幅アップ。メンタル0でドローしたとき、ビートハート150回分のスキルハートを獲得し、ムードがハッピー、メロウ100以上でドローしたとき、それぞれ3回の間、みらくらぱーく！のメンバーとさざなみカードの使用によるスキルハート獲得効果による獲得数を+3000%、ハート上限増加効果を+1000%する。さらにムードがハッピー、メロウいずれか100で手札にある間、メンタルが0になってもメンタルダウンしなくなり、メンタルが回復した時、回復量の300%の個数のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "除瑠璃乃技能使用后外不会被抽到，技能使用后，抽到Mira-Cra Park!技能的概率大幅提升。Mental为0时抽到，获得150倍跳心的技能心心，气氛为Happy或Mellow100以上时抽到，接下来分别3次使用Mira-Cra Park!成员及涟漪卡获得技能心心时，其数量+3000%，心心上限增加效果+1000%。此外，气氛为Happy或Mellow任一达到100时，在手牌中期间，即使Mental变为0也不会发生Mental崩溃，Mental恢复时，获得数量为恢复量的300%的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Cannot be drawn except after Rurino uses a skill; after a skill is used, greatly increases the probability of drawing a Mira-Cra Park! skill. When drawn with Mental at 0, gain Skill Hearts equivalent to 150 Beat Hearts. When drawn with Mood at Happy or Mellow 100 or higher, increase the amount gained from Skill Heart gain effects from Mira-Cra Park! members and Sazanami card usage by +3000% and increase Heart Cap increase effects by +1000% for 3 turns each. Additionally, while in hand with Mood at either Happy or Mellow 100, Mental Down will no longer trigger even if Mental reaches 0, and when Mental is restored, gain Skill Hearts equal to 300% of the amount restored.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

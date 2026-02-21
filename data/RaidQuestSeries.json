@@ -76,5 +76,44 @@
         "author": "claude-sonnet-4-20250514"
       }
     }
+  },
+  {
+    "raw": "太陽ステージ",
+    "translation": {
+      "zh-CN": {
+        "text": "太阳舞台",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Sun Stage",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "雨ステージ",
+    "translation": {
+      "zh-CN": {
+        "text": "雨舞台",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Rain Stage",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "風ステージ",
+    "translation": {
+      "zh-CN": {
+        "text": "风舞台",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Wind Stage",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
   }
 ]

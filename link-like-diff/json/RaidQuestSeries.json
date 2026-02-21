@@ -54,6 +54,21 @@
             "Id": 9000304,
             "Name": "WinterFlower",
             "Description": "WinterFlower"
+        },
+        {
+            "Id": 9000401,
+            "Name": "雨ステージ",
+            "Description": "雨ステージ"
+        },
+        {
+            "Id": 9000402,
+            "Name": "風ステージ",
+            "Description": "風ステージ"
+        },
+        {
+            "Id": 9000403,
+            "Name": "太陽ステージ",
+            "Description": "太陽ステージ"
         }
     ]
 }

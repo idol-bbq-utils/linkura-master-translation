@@ -49,6 +49,11 @@
             "Id": 10009,
             "Name": "Live Grand Prix 105期FinalTerm 第2回 個人戦",
             "Description": "Live Grand Prix 105期FinalTerm 第2回 個人戦"
+        },
+        {
+            "Id": 10010,
+            "Name": "105期FinalTerm 第2回 サークル対抗戦",
+            "Description": "105期FinalTerm 第2回 サークル対抗戦"
         }
     ]
 }

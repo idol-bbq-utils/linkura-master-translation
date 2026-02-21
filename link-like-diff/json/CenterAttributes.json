@@ -5636,6 +5636,21 @@
             "Description": "みらくらぱーく！に所属するメンバーのアピール値が220％上昇"
         },
         {
+            "Id": 20335351,
+            "CenterAttributeName": "アピールアップ（みらくらぱーく！）",
+            "Description": "みらくらぱーく！に所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20335352,
+            "CenterAttributeName": "アピールアップ（みらくらぱーく！）",
+            "Description": "みらくらぱーく！に所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20335353,
+            "CenterAttributeName": "アピールアップ（みらくらぱーく！）",
+            "Description": "みらくらぱーく！に所属するメンバーのアピール値が200％上昇"
+        },
+        {
             "Id": 20338011,
             "CenterAttributeName": "アピールアップ（みらくらぱーく！）&APレデュース&CTレデュース",
             "Description": "みらくらぱーく！に所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少"
@@ -6424,6 +6439,21 @@
             "Id": 20424053,
             "CenterAttributeName": "アピールアップ",
             "Description": "全メンバーのアピール値が60％上昇"
+        },
+        {
+            "Id": 20424061,
+            "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
+            "Description": "DOLLCHESTRAに所属するメンバーのアピール値が150％上昇"
+        },
+        {
+            "Id": 20424062,
+            "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
+            "Description": "DOLLCHESTRAに所属するメンバーのアピール値が150％上昇"
+        },
+        {
+            "Id": 20424063,
+            "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
+            "Description": "DOLLCHESTRAに所属するメンバーのアピール値が150％上昇"
         },
         {
             "Id": 20425011,
@@ -7339,6 +7369,21 @@
             "Id": 20435233,
             "CenterAttributeName": "アピールアップ（みらくらぱーく！）",
             "Description": "みらくらぱーく！に所属するメンバーのアピール値が220％上昇"
+        },
+        {
+            "Id": 20435241,
+            "CenterAttributeName": "アピールアップ（みらくらぱーく！）",
+            "Description": "みらくらぱーく！に所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20435242,
+            "CenterAttributeName": "アピールアップ（みらくらぱーく！）",
+            "Description": "みらくらぱーく！に所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20435243,
+            "CenterAttributeName": "アピールアップ（みらくらぱーく！）",
+            "Description": "みらくらぱーく！に所属するメンバーのアピール値が200％上昇"
         },
         {
             "Id": 20438011,

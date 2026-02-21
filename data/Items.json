@@ -4082,6 +4082,32 @@
     }
   },
   {
+    "raw": "[トモダチになれる場所]大沢 瑠璃乃 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[トモダチになれる場所]大泽 瑠璃乃 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[トモダチになれる場所] Rurino Osawa Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[トモダチになれる場所]安養寺 姫芽 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[トモダチになれる場所]安养寺 姬芽 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[トモダチになれる場所] Hime Anyoji Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[ドライブ・スペード・クレイジー]桂城 泉 解放Pt.",
     "translation": {
       "zh-CN": {
@@ -5785,6 +5811,19 @@
     }
   },
   {
+    "raw": "[拝啓、未来の君へ]徒町 小鈴 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[拝啓、未来の君へ]徒町 小铃 解放Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[拝啓、未来の君へ] Kosuzu Kachimachi Liberation Pt.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[探求の舞踏会]徒町 小鈴 解放Pt.",
     "translation": {
       "zh-CN": {
@@ -7419,6 +7458,19 @@
       "en": {
         "text": "【TRY TRY SELECT!!!】UR Select Ticket",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【WAWO!】URセレクトチケット",
+    "translation": {
+      "zh-CN": {
+        "text": "【WAWO!】UR精选券",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "【WAWO!】 UR Select Ticket",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -10344,6 +10396,19 @@
       "en": {
         "text": "Retro Beef Bowl",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "わおうるとられあせれくとちけっと",
+    "translation": {
+      "zh-CN": {
+        "text": "【WAWO!】UR精选券",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "waourutorareaserukutchiketto",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

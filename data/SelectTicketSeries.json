@@ -676,6 +676,19 @@
     }
   },
   {
+    "raw": "【WAWO!】URセレクトチケット",
+    "translation": {
+      "zh-CN": {
+        "text": "【WAWO!】UR精选票",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "【WAWO!】UR Select Ticket",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "【みらくらぱーく！】SRセレクトチケット（103期通常のみ）",
     "translation": {
       "zh-CN": {
