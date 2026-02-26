@@ -18187,6 +18187,19 @@
     }
   },
   {
+    "raw": "4th Live Dreamのキャストライブによる\n蓮ノ大三角の「希望」が刻まれた\nメモリアルボックス",
+    "translation": {
+      "zh-CN": {
+        "text": "4th Live Dream的Cast Live演出\n铭刻着莲之大三角「希望」的\n纪念礼盒",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "A Memorial Box engraved with the \"Hope\" of the Hasu no Sora Great Triangle,\nborn from the cast live of 4th Live Dream",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "4月17日は渡辺 曜ちゃんのお誕生日♪",
     "translation": {
       "zh-CN": {
@@ -19513,6 +19526,19 @@
     }
   },
   {
+    "raw": "Blu-ray『4th Live Dream ～Bloom, The Dream Believers～ Blu-ray Memorial BOX』購入特典",
+    "translation": {
+      "zh-CN": {
+        "text": "Blu-ray『4th Live Dream ～Bloom, The Dream Believers～ Blu-ray Memorial BOX』购买特典",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Blu-ray 'Blu-ray Memorial BOX: 4th Live Dream ～Bloom, The Dream Believers～' Purchase Bonus",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "CD『37.5℃のファンタジー / アイマイメーデー / BLAST!! / 十六夜セレーネ』購入特典",
     "translation": {
       "zh-CN": {
@@ -20666,6 +20692,19 @@
       "en": {
         "text": "Jacket『37.5℃のファンタジー / アイマイメーデー / BLAST!! / 十六夜セレーネ』",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Jacket『4th Live Dream ～Bloom, The Dream Believers～ Blu-ray Memorial BOX』",
+    "translation": {
+      "zh-CN": {
+        "text": "Jacket『4th Live Dream ～Bloom, The Dream Believers～ Blu-ray Memorial BOX』",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Jacket '4th Live Dream ～Bloom, The Dream Believers～ Blu-ray Memorial BOX'",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
