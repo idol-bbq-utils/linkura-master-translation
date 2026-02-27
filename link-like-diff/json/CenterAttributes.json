@@ -3581,6 +3581,21 @@
             "Description": "全メンバーのアピール値が80％上昇"
         },
         {
+            "Id": 20315381,
+            "CenterAttributeName": "アピールアップ（スリーズブーケ）",
+            "Description": "スリーズブーケに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20315382,
+            "CenterAttributeName": "アピールアップ（スリーズブーケ）",
+            "Description": "スリーズブーケに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20315383,
+            "CenterAttributeName": "アピールアップ（スリーズブーケ）",
+            "Description": "スリーズブーケに所属するメンバーのアピール値が200％上昇"
+        },
+        {
             "Id": 20318011,
             "CenterAttributeName": "アピールアップ（スリーズブーケ）&APレデュース&CTレデュース",
             "Description": "スリーズブーケに所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少"
@@ -4664,6 +4679,21 @@
             "Id": 20325343,
             "CenterAttributeName": "アピールアップ",
             "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
+            "Id": 20325351,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が72％上昇"
+        },
+        {
+            "Id": 20325352,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が72％上昇"
+        },
+        {
+            "Id": 20325353,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が72％上昇"
         },
         {
             "Id": 20328011,
@@ -6226,6 +6256,21 @@
             "Description": "全メンバーのアピール値が80％上昇"
         },
         {
+            "Id": 20415231,
+            "CenterAttributeName": "アピールアップ（スリーズブーケ）",
+            "Description": "スリーズブーケに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20415232,
+            "CenterAttributeName": "アピールアップ（スリーズブーケ）",
+            "Description": "スリーズブーケに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20415233,
+            "CenterAttributeName": "アピールアップ（スリーズブーケ）",
+            "Description": "スリーズブーケに所属するメンバーのアピール値が200％上昇"
+        },
+        {
             "Id": 20418011,
             "CenterAttributeName": "アピールアップ（スリーズブーケ）&APレデュース&CTレデュース",
             "Description": "スリーズブーケに所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少"
@@ -6867,6 +6912,21 @@
         },
         {
             "Id": 20429013,
+            "CenterAttributeName": "アピールアップ（徒町小鈴）",
+            "Description": "徒町小鈴のアピール値が400％上昇"
+        },
+        {
+            "Id": 20429021,
+            "CenterAttributeName": "アピールアップ（徒町小鈴）",
+            "Description": "徒町小鈴のアピール値が400％上昇"
+        },
+        {
+            "Id": 20429022,
+            "CenterAttributeName": "アピールアップ（徒町小鈴）",
+            "Description": "徒町小鈴のアピール値が400％上昇"
+        },
+        {
+            "Id": 20429023,
             "CenterAttributeName": "アピールアップ（徒町小鈴）",
             "Description": "徒町小鈴のアピール値が400％上昇"
         },

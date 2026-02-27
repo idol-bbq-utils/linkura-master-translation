@@ -1180,6 +1180,22 @@
         {
             "Id": 1054504,
             "Description": "レアリティ：DR"
+        },
+        {
+            "Id": 1054601,
+            "Description": "WINTER LIMITED"
+        },
+        {
+            "Id": 1054602,
+            "Description": "PARTY LIMITED"
+        },
+        {
+            "Id": 1054603,
+            "Description": "GP PRIZE"
+        },
+        {
+            "Id": 1054604,
+            "Description": "レアリティ：DR"
         }
     ]
 }

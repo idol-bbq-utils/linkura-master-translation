@@ -338,6 +338,19 @@
     }
   },
   {
+    "raw": "105期第12シーズン",
+    "translation": {
+      "zh-CN": {
+        "text": "105期第12赛季",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Year 105, Season 12",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "105期第1シーズン",
     "translation": {
       "zh-CN": {

@@ -195,6 +195,19 @@
     }
   },
   {
+    "raw": "AP回復速度 -75%",
+    "translation": {
+      "zh-CN": {
+        "text": "AP回复速度 -75%",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "AP Recovery Speed -75%",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "AP回復速度 -999%",
     "translation": {
       "zh-CN": {
@@ -1157,6 +1170,19 @@
     }
   },
   {
+    "raw": "ライブ中、APの回復速度を-75%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "演出中，AP的回复速度降低75%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During a Live, reduces AP recovery speed by -75%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ライブ中、APの回復速度を-999%する。",
     "translation": {
       "zh-CN": {
@@ -1794,6 +1820,19 @@
     }
   },
   {
+    "raw": "ライブ中、手札の上限枚数を-3枚する。",
+    "translation": {
+      "zh-CN": {
+        "text": "演出中，手牌上限张数减少3张。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During a Live, reduces the maximum number of cards in hand by -3.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ライブ中、梢のスキル消費APを-1する。",
     "translation": {
       "zh-CN": {
@@ -2340,6 +2379,19 @@
     }
   },
   {
+    "raw": "手札上限 +2枚",
+    "translation": {
+      "zh-CN": {
+        "text": "手牌上限 +2张",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Hand Limit +2",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "手札上限 -1枚",
     "translation": {
       "zh-CN": {
@@ -2362,6 +2414,19 @@
       "en": {
         "text": "Hand limit -2 cards",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "手札上限 -3枚",
+    "translation": {
+      "zh-CN": {
+        "text": "手牌上限 -3张",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Hand Limit -3",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   }

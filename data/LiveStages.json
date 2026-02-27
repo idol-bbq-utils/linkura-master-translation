@@ -1027,6 +1027,19 @@
     }
   },
   {
+    "raw": "ステージ開始時、デッキの全てのカードの消費APをステージ中常に+2する。メイン効果がメンタル回復のスキルを使用するたび、デッキの全てのカードの消費APを-2し、APが5回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Live开始时，使牌组中所有卡牌的消耗AP在本阶段始终增加2。每当使用主要效果为恢复Mental值的技能时，使牌组中所有卡牌的消耗AP减少2，并恢复5点AP。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "At stage start, all cards in the deck have their AP cost increased by +2 throughout the stage. Each time a Mental-recovery skill is used, reduce the AP cost of all cards in the deck by -2 and restore 5 AP.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ステージ開始時、デッキの全てのカードの消費APをステージ中常に+3し、スキルを1回使用するたび、APを5回復する。",
     "translation": {
       "en": {
@@ -1061,6 +1074,19 @@
       },
       "en": {
         "text": "At stage start, all cards in the deck have their AP cost increased by +6 throughout the stage. Each time a Mental-recovery skill is used, decrease all cards in the deck's AP cost by -3 and restore 3 AP.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ステージ開始時、デッキの全てのカードの消費APをステージ中常に+6する。メイン効果がメンタル回復のスキルを使用するたび、デッキの全てのカードの消費APを-3し、APが3回復する。さらに山札が切れるたび、獲得するLOVEを-10000000%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Live开始时，使牌组中所有卡牌的消耗AP在本阶段始终增加6。每当使用主要效果为恢复Mental值的技能时，使牌组中所有卡牌的消耗AP减少3，并恢复3点AP。此外每当牌库用完时，获得的LOVE减少10000000%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "At stage start, all cards in the deck have their AP cost increased by +6 throughout the stage. Each time a Mental-recovery skill is used, reduce the AP cost of all cards in the deck by -3 and restore 3 AP. Additionally, whenever the deck runs out, decrease the LOVE gained by -10000000%.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -1235,6 +1261,19 @@
     }
   },
   {
+    "raw": "ステージ開始時、メイン効果がメンタルプロテクトおよびハートキャプチャであるデッキの全てのカードの消費APをステージ中常に+57する。また慈のスキルを使用するたび、APを20回復する。さらにスキルを1回使用するたび、ステージ中、APの回復速度を-4%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Live开始时，使牌组中所有主要效果为Mental Protect及心心捕获的卡牌的消耗AP在本阶段始终增加57。此外每当使用慈的技能时，恢复20点AP。且每使用1次技能时，在本阶段内将AP的恢复速度降低4%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "At stage start, all cards in the deck whose main effect is Mental Protect or Heart Capture have their AP cost permanently increased by +57 throughout the stage. Also, restore 20 AP each time Izumi's skill is used. Furthermore, the AP recovery rate decreases by -4% per stage each time a skill is used.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ステージ開始時、メイン効果がメンタル回復およびプロテクトおよびガードであるデッキの全てのカードの消費APをステージ中常に-3し、また山札が切れるたび、APを0にする。",
     "translation": {
       "zh-CN": {
@@ -1399,6 +1438,19 @@
       },
       "zh-CN": {
         "text": "每当使用主要效果为追加Token卡牌或心心捕获的技能时,Voltage增加1500点,此外每当使用主要效果为增加Voltage或Mental护盾的技能时,Voltage减少3000点。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メイン効果がハートキャプチャのスキルを使用するたび、デッキの全てのカードの消費APを-2する。また山札が切れるたび、メンタルを最大値の20%減少させる。",
+    "translation": {
+      "zh-CN": {
+        "text": "每当使用主要效果为心心捕获的技能时，使牌组中所有卡牌的消耗AP减少2。此外每当牌库用完时，使Mental减少最大值的20%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Each time a Heart Capture skill is used, reduce the AP cost of all cards in the deck by -2. Also, whenever the deck runs out, decrease Mental by 20% of its max value.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -1816,6 +1868,19 @@
       "en": {
         "text": "For every use of Izumi or Ceras's skill, reduce the AP cost of all cards in the deck by 1.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "泉、セラスのスキルを使用するたび、デッキの全てのカードの消費APを-3する。また、メイン効果がメンタル回復およびメンタルプロテクトのスキルを使用するたび、デッキの全てのカードの消費APを+10し、さらにスキルを3回使用するたび、メンタルを現在値の50%減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "每当使用泉、塞拉斯的技能时，使牌组中所有卡牌的消耗AP减少3。此外每当使用主要效果为恢复Mental值及Mental Protect的技能时，使牌组中所有卡牌的消耗AP增加10，且每使用3次技能时，Mental值减少当前值的50%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Each time Izumi or Ceras uses their skill, reduce the AP cost of all cards in the deck by -3. Also, each time a skill whose main effect is Mental recovery or Mental Protect is used, increase the AP cost of all cards in the deck by +10, and every 3 skill uses, decrease Mental by 50% of its current value.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

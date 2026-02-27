@@ -1410,6 +1410,12 @@
             "RequirementText": "[Sayo-Shigure]日野下 花帆 解放完了"
         },
         {
+            "Id": 10315381,
+            "Name": "[不思議と君とライブラリー]日野下 花帆",
+            "Text": "[不思議と君とライブラリー]日野下 花帆 を4回解放した記念のステッカー",
+            "RequirementText": "[不思議と君とライブラリー]日野下 花帆 解放完了"
+        },
+        {
             "Id": 10318011,
             "Name": "[Prism Echo]日野下 花帆",
             "Text": "[Prism Echo]日野下 花帆を4回解放した記念のステッカー",
@@ -1840,6 +1846,12 @@
             "Name": "[リブウト]村野 さやか",
             "Text": "[リブウト]村野 さやか を4回解放した記念のステッカー",
             "RequirementText": "[リブウト]村野 さやか 解放完了"
+        },
+        {
+            "Id": 10325351,
+            "Name": "[拝啓、未来の君へ]村野 さやか",
+            "Text": "[拝啓、未来の君へ]村野 さやか を4回解放した記念のステッカー",
+            "RequirementText": "[拝啓、未来の君へ]村野 さやか 解放完了"
         },
         {
             "Id": 10328011,
@@ -2466,6 +2478,12 @@
             "RequirementText": "[Sayo-Shigure]百生 吟子 解放完了"
         },
         {
+            "Id": 10415231,
+            "Name": "[不思議と君とライブラリー]百生 吟子",
+            "Text": "[不思議と君とライブラリー]百生 吟子 を4回解放した記念のステッカー",
+            "RequirementText": "[不思議と君とライブラリー]百生 吟子 解放完了"
+        },
+        {
             "Id": 10418011,
             "Name": "[Ether Aria]百生 吟子",
             "Text": "[Ether Aria]百生 吟子 を4回解放した記念のステッカー",
@@ -2728,6 +2746,12 @@
             "Name": "[16th Birthday]徒町 小鈴",
             "Text": "[16th Birthday]徒町 小鈴 を4回解放した記念のステッカー",
             "RequirementText": "[16th Birthday]徒町 小鈴 解放完了"
+        },
+        {
+            "Id": 10429021,
+            "Name": "[17th Birthday]徒町 小鈴",
+            "Text": "[17th Birthday]徒町 小鈴 を4回解放した記念のステッカー",
+            "RequirementText": "[17th Birthday]徒町 小鈴 解放完了"
         },
         {
             "Id": 10433011,
@@ -7192,6 +7216,120 @@
             "Name": "105期FinalTerm 第1回 サークル対抗戦 参加",
             "Text": "105期FinalTerm 第1回 サークル対抗戦 参加賞のステッカー",
             "RequirementText": "105期FinalTerm 第1回 サークル対抗戦に参加"
+        },
+        {
+            "Id": 20251101,
+            "Name": "105期FinalTerm 第2回 サークル対抗戦 1位",
+            "Text": "105期FinalTerm 第2回 サークル対抗戦 1位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第2回 サークル対抗戦 1位 入賞"
+        },
+        {
+            "Id": 20251102,
+            "Name": "105期FinalTerm 第2回 サークル対抗戦 2位",
+            "Text": "105期FinalTerm 第2回 サークル対抗戦 2位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第2回 サークル対抗戦 2位 入賞"
+        },
+        {
+            "Id": 20251103,
+            "Name": "105期FinalTerm 第2回 サークル対抗戦 3位",
+            "Text": "105期FinalTerm 第2回 サークル対抗戦 3位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第2回 サークル対抗戦 3位 入賞"
+        },
+        {
+            "Id": 20251104,
+            "Name": "105期FinalTerm 第2回 サークル対抗戦 4位",
+            "Text": "105期FinalTerm 第2回 サークル対抗戦 4位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第2回 サークル対抗戦 4位 入賞"
+        },
+        {
+            "Id": 20251105,
+            "Name": "105期FinalTerm 第2回 サークル対抗戦 5位",
+            "Text": "105期FinalTerm 第2回 サークル対抗戦 5位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第2回 サークル対抗戦 5位 入賞"
+        },
+        {
+            "Id": 20251106,
+            "Name": "105期FinalTerm 第2回 サークル対抗戦 6位",
+            "Text": "105期FinalTerm 第2回 サークル対抗戦 6位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第2回 サークル対抗戦 6位 入賞"
+        },
+        {
+            "Id": 20251107,
+            "Name": "105期FinalTerm 第2回 サークル対抗戦 7位",
+            "Text": "105期FinalTerm 第2回 サークル対抗戦 7位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第2回 サークル対抗戦 7位 入賞"
+        },
+        {
+            "Id": 20251108,
+            "Name": "105期FinalTerm 第2回 サークル対抗戦 8位",
+            "Text": "105期FinalTerm 第2回 サークル対抗戦 8位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第2回 サークル対抗戦 8位 入賞"
+        },
+        {
+            "Id": 20251109,
+            "Name": "105期FinalTerm 第2回 サークル対抗戦 9位",
+            "Text": "105期FinalTerm 第2回 サークル対抗戦 9位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第2回 サークル対抗戦 9位 入賞"
+        },
+        {
+            "Id": 20251110,
+            "Name": "105期FinalTerm 第2回 サークル対抗戦 10位",
+            "Text": "105期FinalTerm 第2回 サークル対抗戦 10位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第2回 サークル対抗戦 10位 入賞"
+        },
+        {
+            "Id": 20251111,
+            "Name": "105期FinalTerm 第2回 サークル対抗戦 TOP30位",
+            "Text": "105期FinalTerm 第2回 サークル対抗戦 TOP30位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第2回 サークル対抗戦 TOP30位 入賞"
+        },
+        {
+            "Id": 20251112,
+            "Name": "105期FinalTerm 第2回 サークル対抗戦 TOP100位",
+            "Text": "105期FinalTerm 第2回 サークル対抗戦 TOP100位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第2回 サークル対抗戦 TOP100位 入賞"
+        },
+        {
+            "Id": 20251113,
+            "Name": "105期FinalTerm 第2回 サークル対抗戦 TOP200位",
+            "Text": "105期FinalTerm 第2回 サークル対抗戦 TOP200位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第2回 サークル対抗戦 TOP200位 入賞"
+        },
+        {
+            "Id": 20251114,
+            "Name": "105期FinalTerm 第2回 サークル対抗戦 TOP300位",
+            "Text": "105期FinalTerm 第2回 サークル対抗戦 TOP300位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第2回 サークル対抗戦 TOP300位 入賞"
+        },
+        {
+            "Id": 20251115,
+            "Name": "105期FinalTerm 第2回 サークル対抗戦 TOP500位",
+            "Text": "105期FinalTerm 第2回 サークル対抗戦 TOP500位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第2回 サークル対抗戦 TOP500位 入賞"
+        },
+        {
+            "Id": 20251116,
+            "Name": "105期FinalTerm 第2回 サークル対抗戦 TOP1000位",
+            "Text": "105期FinalTerm 第2回 サークル対抗戦 TOP1000位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第2回 サークル対抗戦 TOP1000位 入賞"
+        },
+        {
+            "Id": 20251117,
+            "Name": "105期FinalTerm 第2回 サークル対抗戦 TOP1500位",
+            "Text": "105期FinalTerm 第2回 サークル対抗戦 TOP1500位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第2回 サークル対抗戦 TOP1500位 入賞"
+        },
+        {
+            "Id": 20251118,
+            "Name": "105期FinalTerm 第2回 サークル対抗戦 TOP2000位",
+            "Text": "105期FinalTerm 第2回 サークル対抗戦 TOP2000位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第2回 サークル対抗戦 TOP2000位 入賞"
+        },
+        {
+            "Id": 20251119,
+            "Name": "105期FinalTerm 第2回 サークル対抗戦 参加",
+            "Text": "105期FinalTerm 第2回 サークル対抗戦 参加賞のステッカー",
+            "RequirementText": "105期FinalTerm 第2回 サークル対抗戦に参加"
         },
         {
             "Id": 20330101,
@@ -12510,6 +12648,12 @@
             "RequirementText": "『トモダチになれる場所』マスタリーLv.30到達"
         },
         {
+            "Id": 40405137,
+            "Name": "『不思議と君とライブラリー』マエストロ",
+            "Text": "『不思議と君とライブラリー』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『不思議と君とライブラリー』マスタリーLv.30到達"
+        },
+        {
             "Id": 40405201,
             "Name": "『テレパシ』マエストロ",
             "Text": "『テレパシ』のマスタリーLv.を30にした記念のステッカー",
@@ -13828,6 +13972,12 @@
             "Name": "Kosuzu's 16th Birthday",
             "Text": "Happy 16th Birthday to Dear Kosuzu! 「徒町、15回目の誕生日を迎えましたー！　……あ、16です16！」",
             "RequirementText": "「Kosuzu's 16th Birthday セレブレイトパック」を購入"
+        },
+        {
+            "Id": 90010422,
+            "Name": "Kosuzu's 17th Birthday",
+            "Text": "Happy 17th Birthday to Dear Kosuzu!\n「17歳の徒町です！」",
+            "RequirementText": "「Kosuzu's 17th Birthday セレブレイトパック」を購入"
         },
         {
             "Id": 90010431,

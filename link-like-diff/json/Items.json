@@ -3378,6 +3378,12 @@
             "Description": "スタイル解放素材(日野下 花帆)"
         },
         {
+            "Id": 4031538,
+            "Name": "[不思議と君とライブラリー]日野下 花帆 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(日野下 花帆)"
+        },
+        {
             "Id": 4031801,
             "Name": "[Prism Echo]日野下 花帆 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
@@ -3788,6 +3794,12 @@
         {
             "Id": 4032534,
             "Name": "[リブウト]村野 さやか 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(村野 さやか)"
+        },
+        {
+            "Id": 4032535,
+            "Name": "[拝啓、未来の君へ]村野 さやか 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
             "Description": "スタイル解放素材(村野 さやか)"
         },
@@ -4380,6 +4392,12 @@
             "Description": "スタイル解放素材(百生 吟子)"
         },
         {
+            "Id": 4041523,
+            "Name": "[不思議と君とライブラリー]百生 吟子 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(百生 吟子)"
+        },
+        {
             "Id": 4041801,
             "Name": "[Ether Aria]百生 吟子 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
@@ -4616,6 +4634,12 @@
         {
             "Id": 4042901,
             "Name": "[16th Birthday]徒町 小鈴 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(徒町 小鈴)"
+        },
+        {
+            "Id": 4042902,
+            "Name": "[17th Birthday]徒町 小鈴 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
             "Description": "スタイル解放素材(徒町 小鈴)"
         },

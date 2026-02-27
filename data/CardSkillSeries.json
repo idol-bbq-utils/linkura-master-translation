@@ -780,6 +780,19 @@
     }
   },
   {
+    "raw": "《不思議と君とライブラリー》",
+    "translation": {
+      "zh-CN": {
+        "text": "《不思議と君とライブラリー》",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "《不思議と君とライブラリー》",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "《乙女詞華集》",
     "translation": {
       "en": {
@@ -2635,6 +2648,19 @@
       "en": {
         "text": "Immortal",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "インワンダーランド",
+    "translation": {
+      "zh-CN": {
+        "text": "在仙境中",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "In Wonderland",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -4797,6 +4823,19 @@
     }
   },
   {
+    "raw": "コスチューミング",
+    "translation": {
+      "zh-CN": {
+        "text": "服装设计",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Costuming",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "コンサートミストレス",
     "translation": {
       "en": {
@@ -4819,6 +4858,19 @@
       "en": {
         "text": "Coaching",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サインポスト",
+    "translation": {
+      "zh-CN": {
+        "text": "指路牌",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Signpost",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -6084,6 +6136,19 @@
     }
   },
   {
+    "raw": "スクステレッスン",
+    "translation": {
+      "zh-CN": {
+        "text": "学园偶像课程",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Skuste Lesson",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "スクリームフロムハート",
     "translation": {
       "zh-CN": {
@@ -6222,6 +6287,32 @@
       },
       "en": {
         "text": "Strong with Fragile",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ストーリーウィーバー",
+    "translation": {
+      "zh-CN": {
+        "text": "故事编织者",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Story Weaver",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ストーリーテラー",
+    "translation": {
+      "zh-CN": {
+        "text": "故事讲述者",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Storyteller",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -6548,6 +6639,19 @@
       "zh-CN": {
         "text": "Solar Coconut",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "タイムキープ",
+    "translation": {
+      "zh-CN": {
+        "text": "时间守护",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Time Keep",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -7852,6 +7956,19 @@
     }
   },
   {
+    "raw": "トゥフューチャー",
+    "translation": {
+      "zh-CN": {
+        "text": "奔向未来",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "To Future",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "トゥモローリボン",
     "translation": {
       "en": {
@@ -8446,6 +8563,19 @@
       "en": {
         "text": "Dress 《一生に夢が咲くように》",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ドレス《不思議と君とライブラリー》",
+    "translation": {
+      "zh-CN": {
+        "text": "礼服《不思議と君とライブラリー》",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Dress《不思議と君とライブラリー》",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -9867,6 +9997,19 @@
     }
   },
   {
+    "raw": "ナラティブ",
+    "translation": {
+      "zh-CN": {
+        "text": "叙事",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Narrative",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ナンファンジーホア",
     "translation": {
       "en": {
@@ -10478,6 +10621,19 @@
     }
   },
   {
+    "raw": "ピルグリム",
+    "translation": {
+      "zh-CN": {
+        "text": "朝圣者",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Pilgrim",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ファイアフラワー",
     "translation": {
       "en": {
@@ -10933,6 +11089,19 @@
     }
   },
   {
+    "raw": "フラワーブックマーク",
+    "translation": {
+      "zh-CN": {
+        "text": "花之书签",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Flower Bookmark",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "フリーダムウイング",
     "translation": {
       "en": {
@@ -11193,6 +11362,19 @@
     }
   },
   {
+    "raw": "ブルームクロニクル",
+    "translation": {
+      "zh-CN": {
+        "text": "花开编年史",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Bloom Chronicle",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ブルームコンダクター",
     "translation": {
       "en": {
@@ -11201,6 +11383,19 @@
       },
       "zh-CN": {
         "text": "绽放指挥者",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ブルームストーリー",
+    "translation": {
+      "zh-CN": {
+        "text": "花开故事",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Bloom Story",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -12060,6 +12255,19 @@
       "en": {
         "text": "Useful Capture",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ラビットクロック",
+    "translation": {
+      "zh-CN": {
+        "text": "兔子时钟",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Rabbit Clock",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

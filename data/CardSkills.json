@@ -819,6 +819,201 @@
     }
   },
   {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+32%$、手札の上限枚数を3枚増加し、ブルームストーリーカードを1種類(合計30枚)山札に追加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1小节使用时，本小节中，AP回复速度$+32%$，手牌上限增加3张，并将1个种类的Bloom Story卡（共计30张）加入牌库。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the first section, increase AP Recovery Speed by $+32%$ and increase the maximum number of cards in hand by 3 during this section, and add 1 type of Bloom Story Card (30 cards total) to the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+32%$、手札の上限枚数を3枚増加する。ブルームストーリーカードを1種類(合計30枚)山札に追加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1小节使用时，本小节中，AP回复速度$+32%$，手牌上限增加3张。将1个种类的Bloom Story卡（共计30张）加入牌库。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the first section, increase AP Recovery Speed by $+32%$ and increase the maximum number of cards in hand by 3 during this section. Add 1 type of Bloom Story Card (30 cards total) to the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+35.2%$、手札の上限枚数を3枚増加する。ブルームストーリーカードを1種類(合計30枚)山札に追加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1小节使用时，本小节中，AP回复速度$+35.2%$，手牌上限增加3张。将1个种类的Bloom Story卡（共计30张）加入牌库。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the first section, increase AP Recovery Speed by $+35.2%$ and increase the maximum number of cards in hand by 3 during this section. Add 1 type of Bloom Story Card (30 cards total) to the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+38.4%$、手札の上限枚数を3枚増加する。ブルームストーリーカードを1種類(合計30枚)山札に追加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1小节使用时，本小节中，AP回复速度$+38.4%$，手牌上限增加3张。将1个种类的Bloom Story卡（共计30张）加入牌库。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the first section, increase AP Recovery Speed by $+38.4%$ and increase the maximum number of cards in hand by 3 during this section. Add 1 type of Bloom Story Card (30 cards total) to the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+41.6%$、手札の上限枚数を3枚増加する。ブルームストーリーカードを1種類(合計30枚)山札に追加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1小节使用时，本小节中，AP回复速度$+41.6%$，手牌上限增加3张。将1个种类的Bloom Story卡（共计30张）加入牌库。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the first section, increase AP Recovery Speed by $+41.6%$ and increase the maximum number of cards in hand by 3 during this section. Add 1 type of Bloom Story Card (30 cards total) to the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+44.8%$、手札の上限枚数を3枚増加する。ブルームストーリーカードを1種類(合計30枚)山札に追加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1小节使用时，本小节中，AP回复速度$+44.8%$，手牌上限增加3张。将1个种类的Bloom Story卡（共计30张）加入牌库。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the first section, increase AP Recovery Speed by $+44.8%$ and increase the maximum number of cards in hand by 3 during this section. Add 1 type of Bloom Story Card (30 cards total) to the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+48%$、手札の上限枚数を3枚増加する。ブルームストーリーカードを1種類(合計30枚)山札に追加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1小节使用时，本小节中，AP回复速度$+48%$，手牌上限增加3张。将1个种类的Bloom Story卡（共计30张）加入牌库。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the first section, increase AP Recovery Speed by $+48%$ and increase the maximum number of cards in hand by 3 during this section. Add 1 type of Bloom Story Card (30 cards total) to the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+51.2%$、手札の上限枚数を3枚増加する。ブルームストーリーカードを1種類(合計30枚)山札に追加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1小节使用时，本小节中，AP回复速度$+51.2%$，手牌上限增加3张。将1个种类的Bloom Story卡（共计30张）加入牌库。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the first section, increase AP Recovery Speed by $+51.2%$ and increase the maximum number of cards in hand by 3 during this section. Add 1 type of Bloom Story Card (30 cards total) to the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+54.4%$、手札の上限枚数を3枚増加する。ブルームストーリーカードを1種類(合計30枚)山札に追加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1小节使用时，本小节中，AP回复速度$+54.4%$，手牌上限增加3张。将1个种类的Bloom Story卡（共计30张）加入牌库。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the first section, increase AP Recovery Speed by $+54.4%$ and increase the maximum number of cards in hand by 3 during this section. Add 1 type of Bloom Story Card (30 cards total) to the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+57.6%$、手札の上限枚数を3枚増加する。ブルームストーリーカードを1種類(合計30枚)山札に追加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1小节使用时，本小节中，AP回复速度$+57.6%$，手牌上限增加3张。将1个种类的Bloom Story卡（共计30张）加入牌库。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the first section, increase AP Recovery Speed by $+57.6%$ and increase the maximum number of cards in hand by 3 during this section. Add 1 type of Bloom Story Card (30 cards total) to the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+64%$、手札の上限枚数を3枚増加する。ブルームストーリーカードを1種類(合計30枚)山札に追加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1小节使用时，本小节中，AP回复速度$+64%$，手牌上限增加3张。将1个种类的Bloom Story卡（共计30张）加入牌库。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the first section, increase AP Recovery Speed by $+64%$ and increase the maximum number of cards in hand by 3 during this section. Add 1 type of Bloom Story Card (30 cards total) to the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+67.2%$、手札の上限枚数を3枚増加する。ブルームストーリーカードを1種類(合計30枚)山札に追加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1小节使用时，本小节中，AP回复速度$+67.2%$，手牌上限增加3张。将1个种类的Bloom Story卡（共计30张）加入牌库。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the first section, increase AP Recovery Speed by $+67.2%$ and increase the maximum number of cards in hand by 3 during this section. Add 1 type of Bloom Story Card (30 cards total) to the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+70.4%$、手札の上限枚数を3枚増加する。ブルームストーリーカードを1種類(合計30枚)山札に追加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1小节使用时，本小节中，AP回复速度$+70.4%$，手牌上限增加3张。将1个种类的Bloom Story卡（共计30张）加入牌库。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the first section, increase AP Recovery Speed by $+70.4%$ and increase the maximum number of cards in hand by 3 during this section. Add 1 type of Bloom Story Card (30 cards total) to the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+73.6%$、手札の上限枚数を3枚増加する。ブルームストーリーカードを1種類(合計30枚)山札に追加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1小节使用时，本小节中，AP回复速度$+73.6%$，手牌上限增加3张。将1个种类的Bloom Story卡（共计30张）加入牌库。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the first section, increase AP Recovery Speed by $+73.6%$ and increase the maximum number of cards in hand by 3 during this section. Add 1 type of Bloom Story Card (30 cards total) to the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+80%$、手札の上限枚数を3枚増加する。ブルームストーリーカードを1種類(合計30枚)山札に追加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1小节使用时，本小节中，AP回复速度$+80%$，手牌上限增加3张。将1个种类的Bloom Story卡（共计30张）加入牌库。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the first section, increase AP Recovery Speed by $+80%$ and increase the maximum number of cards in hand by 3 during this section. Add 1 type of Bloom Story Card (30 cards total) to the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "1セクション目にドローした時、APを5回復する。それ以外のセクションでドローした時、次に使用するメンタルリカバー効果を+50%する。",
     "translation": {
       "zh-CN": {
@@ -7718,6 +7913,19 @@
       "en": {
         "text": "After using this skill 6 times, it is removed from the deck.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このスキルを使用したとき、デッキ枚数が多いほど、ブルームストーリーカードが使用するあらゆるスキルの効果値を増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "使用本技能时，牌库中的卡牌数量越多，Bloom Story卡使用的所有技能效果值增幅越大。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When this skill is used, the more cards in the deck, the more the effect values of all skills used by Bloom Story Cards are amplified.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -51012,6 +51220,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+24$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるラブアトラクト効果を$+400%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+24$，并洗牌手牌。此时大幅提升抽到信件卡的概率。此外，气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用的LOVE+效果$+400%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+24$ and shuffle your hand. At this time, the chance to draw a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Love Attract effect from using Letter Cards by $+400%$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+24$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+240$し、ビートハート$60回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -51051,6 +51272,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+27$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるラブアトラクト効果を$+440%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+27$，并洗牌手牌。此时大幅提升抽到信件卡的概率。此外，气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用的LOVE+效果$+440%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+27$ and shuffle your hand. At this time, the chance to draw a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Love Attract effect from using Letter Cards by $+440%$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+28$し、メンタルを最大値の1000%減少させる。さらにビートハート$84回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -51073,6 +51307,19 @@
       "en": {
         "text": "During this section, increase Mood by $+28$. Additionally, if Mood is either Happy or Mellow at 100, increase Voltage Pt. by $+272$ and gain Skill Hearts equivalent to $68$ beats of Beat Hearts.",
         "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+29$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるラブアトラクト効果を$+480%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+29$，并洗牌手牌。此时大幅提升抽到信件卡的概率。此外，气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用的LOVE+效果$+480%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+29$ and shuffle your hand. At this time, the chance to draw a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Love Attract effect from using Letter Cards by $+480%$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -51116,6 +51363,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+32$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるラブアトラクト効果を$+520%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+32$，并洗牌手牌。此时大幅提升抽到信件卡的概率。此外，气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用的LOVE+效果$+520%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+32$ and shuffle your hand. At this time, the chance to draw a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Love Attract effect from using Letter Cards by $+520%$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+32$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+320$し、ビートハート$80回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -51137,6 +51397,19 @@
       },
       "en": {
         "text": "During this section, increase Mood Value by $+34$ and decrease Mental by 1000% of its maximum value. Additionally, gain Skill Hearts equivalent to $102$ Beat Hearts.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+34$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるラブアトラクト効果を$+560%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+34$，并洗牌手牌。此时大幅提升抽到信件卡的概率。此外，气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用的LOVE+效果$+560%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+34$ and shuffle your hand. At this time, the chance to draw a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Love Attract effect from using Letter Cards by $+560%$ for the rest of this stage.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -51168,6 +51441,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+36$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるラブアトラクト効果を$+600%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+36$，并洗牌手牌。此时大幅提升抽到信件卡的概率。此外，气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用的LOVE+效果$+600%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+36$ and shuffle your hand. At this time, the chance to draw a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Love Attract effect from using Letter Cards by $+600%$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+36$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+352$し、ビートハート$88回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -51190,6 +51476,19 @@
       "en": {
         "text": "During this section, increase Mood by $+37$. Additionally, if Mood is either Happy or Mellow at 100, increase Voltage Pt. by $+368$ and gain Skill Hearts equivalent to $92$ beats of Beat Hearts.",
         "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+39$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるラブアトラクト効果を$+640%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+39$，并洗牌手牌。此时大幅提升抽到信件卡的概率。此外，气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用的LOVE+效果$+640%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+39$ and shuffle your hand. At this time, the chance to draw a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Love Attract effect from using Letter Cards by $+640%$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -51246,6 +51545,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+41$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるラブアトラクト効果を$+680%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+41$，并洗牌手牌。此时大幅提升抽到信件卡的概率。此外，气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用的LOVE+效果$+680%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+41$ and shuffle your hand. At this time, the chance to draw a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Love Attract effect from using Letter Cards by $+680%$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+42$し、メンタルを最大値の1000%減少させる。さらにビートハート$126回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -51298,6 +51610,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+44$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるラブアトラクト効果を$+720%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+44$，并洗牌手牌。此时抽到信件卡的概率大幅提升。此外，气氛为Happy或Mellow任一达到100时，本场Live中，使用信件卡的LOVE+效果$+720%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+44$ and shuffle your hand. At this time, the chance to draw a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Love Attract effect from using Letter Cards by $+720%$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+46$し、メンタルを最大値の1000%減少させる。さらにビートハート$138回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -51337,6 +51662,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+48$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるラブアトラクト効果を$+800%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+48$，并洗牌手牌。此时抽到信件卡的概率大幅提升。此外，气氛为Happy或Mellow任一达到100时，本场Live中，使用信件卡的LOVE+效果$+800%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+48$ and shuffle your hand. At this time, the chance to draw a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Love Attract effect from using Letter Cards by $+800%$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+50$し、メンタルを最大値の1000%減少させる。さらにビートハート$150回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -51345,6 +51683,19 @@
       },
       "en": {
         "text": "During this section, increase Mood Value by $+50$ and decrease Mental by 1000% of its maximum value. Additionally, gain Skill Hearts equivalent to $150$ Beat Hearts.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+51$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるラブアトラクト効果を$+840%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+51$，并洗牌手牌。此时抽到信件卡的概率大幅提升。此外，气氛为Happy或Mellow任一达到100时，本场Live中，使用信件卡的LOVE+效果$+840%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+51$ and shuffle your hand. At this time, the chance to draw a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Love Attract effect from using Letter Cards by $+840%$ for the rest of this stage.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -51376,6 +51727,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+53$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるラブアトラクト効果を$+880%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+53$，并洗牌手牌。此时抽到信件卡的概率大幅提升。此外，气氛为Happy或Mellow任一达到100时，本场Live中，使用信件卡的LOVE+效果$+880%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+53$ and shuffle your hand. At this time, the chance to draw a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Love Attract effect from using Letter Cards by $+880%$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+56$し、AP回復速度を$+44.8%$する。さらに16回の間泉が使用するスキルハート獲得効果による獲得数を$+448%$する。",
     "translation": {
       "zh-CN": {
@@ -51402,6 +51766,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+56$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるラブアトラクト効果を$+920%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+56$，并洗牌手牌。此时抽到信件卡的概率大幅提升。此外，气氛为Happy或Mellow任一达到100时，本场Live中，使用信件卡的LOVE+效果$+920%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+56$ and shuffle your hand. At this time, the chance to draw a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Love Attract effect from using Letter Cards by $+920%$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+60$し、AP回復速度を$+48%$する。さらに16回の間泉が使用するスキルハート獲得効果による獲得数を$+480%$する。",
     "translation": {
       "zh-CN": {
@@ -51423,6 +51800,19 @@
       },
       "en": {
         "text": "During this section, increase Mood value by $+60$ and increase the maximum number of cards in hand by 4. Additionally, reduce the AP cost of all skills in the deck by -8.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+60$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるラブアトラクト効果を$+1000%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+60$，并洗牌手牌。此时抽到信件卡的概率大幅提升。此外，气氛为Happy或Mellow任一达到100时，本场Live中，使用信件卡的LOVE+效果$+1000%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase Mood Value by $+60$ and shuffle your hand. At this time, the chance to draw a Letter Card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Love Attract effect from using Letter Cards by $+1000%$ for the rest of this stage.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -60862,6 +61252,188 @@
       "en": {
         "text": "During this section, increase hand limit by 3 cards. Additionally, during this section, when mood is Happy, shift toward Mellow by $+33$, and when mood is Mellow, shift toward Happy by $+33$.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、手札の上限枚数を3枚増加する。さらにこのセクション中、ムード値をハッピー方向に$+32$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，手牌上限增加3张。此外，本小节中，气氛值向Happy方向$+32$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the maximum number of cards in hand by 3. Additionally, increase Mood Value in the Happy direction by $+32$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、手札の上限枚数を3枚増加する。さらにこのセクション中、ムード値をハッピー方向に$+36$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，手牌上限增加3张。此外，本小节中，气氛值向Happy方向$+36$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the maximum number of cards in hand by 3. Additionally, increase Mood Value in the Happy direction by $+36$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、手札の上限枚数を3枚増加する。さらにこのセクション中、ムード値をハッピー方向に$+39$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，手牌上限增加3张。此外，本小节中，气氛值向Happy方向$+39$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the maximum number of cards in hand by 3. Additionally, increase Mood Value in the Happy direction by $+39$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、手札の上限枚数を3枚増加する。さらにこのセクション中、ムード値をハッピー方向に$+42$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，手牌上限增加3张。此外，本小节中，气氛值向Happy方向$+42$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the maximum number of cards in hand by 3. Additionally, increase Mood Value in the Happy direction by $+42$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、手札の上限枚数を3枚増加する。さらにこのセクション中、ムード値をハッピー方向に$+45$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，手牌上限增加3张。此外，本小节中，气氛值向Happy方向$+45$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the maximum number of cards in hand by 3. Additionally, increase Mood Value in the Happy direction by $+45$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、手札の上限枚数を3枚増加する。さらにこのセクション中、ムード値をハッピー方向に$+48$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，手牌上限增加3张。此外，本小节中，气氛值向Happy方向$+48$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the maximum number of cards in hand by 3. Additionally, increase Mood Value in the Happy direction by $+48$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、手札の上限枚数を3枚増加する。さらにこのセクション中、ムード値をハッピー方向に$+52$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，手牌上限增加3张。此外，本小节中，气氛值向Happy方向$+52$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the maximum number of cards in hand by 3. Additionally, increase Mood Value in the Happy direction by $+52$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、手札の上限枚数を3枚増加する。さらにこのセクション中、ムード値をハッピー方向に$+55$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，手牌上限增加3张。此外，本小节中，气氛值向Happy方向$+55$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the maximum number of cards in hand by 3. Additionally, increase Mood Value in the Happy direction by $+55$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、手札の上限枚数を3枚増加する。さらにこのセクション中、ムード値をハッピー方向に$+58$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，手牌上限增加3张。此外，本小节中，气氛值向Happy方向$+58$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the maximum number of cards in hand by 3. Additionally, increase Mood Value in the Happy direction by $+58$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、手札の上限枚数を3枚増加する。さらにこのセクション中、ムード値をハッピー方向に$+64$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，手牌上限增加3张。此外，本小节中，气氛值向Happy方向$+64$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the maximum number of cards in hand by 3. Additionally, increase Mood Value in the Happy direction by $+64$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、手札の上限枚数を3枚増加する。さらにこのセクション中、ムード値をハッピー方向に$+68$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，手牌上限增加3张。此外，本小节中，气氛值向Happy方向$+68$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the maximum number of cards in hand by 3. Additionally, increase Mood Value in the Happy direction by $+68$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、手札の上限枚数を3枚増加する。さらにこのセクション中、ムード値をハッピー方向に$+71$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，手牌上限增加3张。此外，本小节中，气氛值向Happy方向$+71$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the maximum number of cards in hand by 3. Additionally, increase Mood Value in the Happy direction by $+71$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、手札の上限枚数を3枚増加する。さらにこのセクション中、ムード値をハッピー方向に$+74$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，手牌上限增加3张。此外，本小节中，气氛值向Happy方向$+74$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the maximum number of cards in hand by 3. Additionally, increase Mood Value in the Happy direction by $+74$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、手札の上限枚数を3枚増加する。さらにこのセクション中、ムード値をハッピー方向に$+80$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，手牌上限增加3张。此外，本小节中，气氛值向Happy方向$+80$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "During this section, increase the maximum number of cards in hand by 3. Additionally, increase Mood Value in the Happy direction by $+80$ during this section.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -73671,6 +74243,19 @@
     }
   },
   {
+    "raw": "スキル使用後、ブルームストーリーカードをドローする確率大幅アップ。さらにこのスキルを使用すると、デッキから除外される。",
+    "translation": {
+      "zh-CN": {
+        "text": "使用技能后，抽到盛绽故事卡的概率大幅提升。此外，使用本技能后，从卡组中移除。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "After using this skill, the chance to draw a Bloom Story Card is greatly increased. Additionally, using this skill removes it from the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "スキル使用後、吟子のカードをドローする確率大幅アップ。さらにスキル使用時、3回までAPを9回復する。",
     "translation": {
       "zh-CN": {
@@ -73875,6 +74460,19 @@
       "en": {
         "text": "Up to 1 time when using a skill, add 1 type (1 card total) of the Pair Card [Heart Q] Rurino Osawa to the deck. Additionally, when you collect 4000 Hearts while this is in your hand, gain Skill Hearts equivalent to 40 beats, and increase LOVE gained by $+400%$ for the rest of this stage.",
         "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "スキル使用時1回まで、レターカードを1種類(合計1枚)山札に追加する。さらにドローした時、デッキ内のレターカード1枚につきAPを3回復する。(最大15回復)",
+    "translation": {
+      "zh-CN": {
+        "text": "使用技能时最多1次，将1个种类的信件卡（共计1张）加入牌库。此外，抽牌时，卡组内每张信件卡回复3点AP（最多回复15点）。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Up to once per skill use, add 1 type of Letter Card (1 card total) to the deck. Additionally, when drawn, restore 3 AP for each Letter Card in the deck. (Maximum 15 restored)",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -76011,6 +76609,19 @@
     }
   },
   {
+    "raw": "ドレスカード《不思議と君とライブラリー》を1種類(合計3枚)山札に追加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将礼服卡《不思議と君とライブラリー》1个种类（共计3张）加入牌库。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Add 1 type of Dress Card 《不思議と君とライブラリー》 (3 cards total) to the deck.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ドレスカード《加賀友禅》を9種類(合計9枚)山札に追加する。",
     "translation": {
       "zh-CN": {
@@ -76513,6 +77124,58 @@
       },
       "zh-CN": {
         "text": "抽到时，卡组中雪花卡牌的技能消费AP-8。并且使用此技能时，本场Live中，AP回复速度+1%，并从卡组中除外。",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ドローしたとき、デッキ枚数が多いほどAPが増加し、このスキルを使用すると、ブルームストーリーカードを1種類(合計1枚)山札に追加し、デッキから除外される。さらにデッキ枚数が80枚以上で手札にある間、ブルームストーリーカードが使用するあらゆるスキルの効果値を+1001%増幅し、デッキ枚数が95枚以上でハートを500000個回収したとき、手札をシャッフルする。",
+    "translation": {
+      "zh-CN": {
+        "text": "抽到时，卡组张数越多AP越高，使用本技能时，将1个种类的盛绽故事卡（共计1张）加入牌库，并从卡组中移除。此外，卡组张数达到80张以上且在手牌中时，盛绽故事卡使用的所有技能效果值增幅+1001%，卡组张数达到95张以上时，回收500000个心心后，洗牌手牌。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When drawn, AP increases based on the number of cards in the deck. Using this skill adds 1 type of Bloom Story Card (1 card total) to the deck and removes this skill from the deck. Additionally, while in hand and the deck has 80 or more cards, amplify the effect value of all skills used by Bloom Story Cards by +1001%. When the deck has 95 or more cards and 500,000 Hearts have been collected, shuffle your hand.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ドローしたとき、デッキ枚数が多いほどAP回復速度を増加し、このスキルを使用すると、デッキから除外され、フラワーブックマークカードを1種類(合計1枚)山札に追加する。さらにデッキ枚数が80枚以上でドローしたとき、このステージ中、ブルームストーリーカードが使用するあらゆるスキルの効果値を+1001%増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "抽到此卡时，牌库中的卡牌越多，AP回复速度越高；使用此技能后，从卡组中移除，并将1个种类的花书签卡（共计1张）加入牌库。此外，当牌库卡牌数量在80张以上时抽到此卡，本场Live中，花开故事卡使用的所有技能效果值增幅+1001%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When drawn, the more cards in the deck, the more AP Recovery Speed increases; when this skill is used, it is removed from the deck and adds 1 type of Flower Bookmark Card (1 card total) to the draw pile. Additionally, when drawn with 80 or more cards in the deck, amplify the effect value of all skills used by Bloom Story Cards by +1001% for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ドローしたとき、デッキ枚数が多いほど、デッキ内のスリーズブーケ、ドレスカード、ブルームストーリーカード、ラビットクロックカード、フラワーブックマークカードのスキルの消費APを減少させる。さらにスキル使用後、ドレスカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "抽到此卡时，牌库中的卡牌越多，牌库内的Cerise Bouquet、礼服卡、花开故事卡、兔子时钟卡、花书签卡技能的消费AP越低。此外，使用技能后，大幅提升抽到礼服卡的概率。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When drawn, the more cards in the deck, the more the AP cost of skills on Cerise Bouquet, Dress Cards, Bloom Story Cards, Rabbit Clock Cards, and Flower Bookmark Cards in the deck is reduced. Additionally, after using a skill, the chance to draw a Dress Card is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ドローしたとき、デッキ枚数が多いほどスキルハートを獲得し、このスキルを使用すると、デッキから除外され、フラワーブックマークカードをドローする確率大幅アップ。さらにデッキ枚数が80枚以上で手札にある間、ブルームストーリーカードが使用するあらゆるスキルの効果値を+1001%増幅し、デッキ枚数が95枚以上でハートを500000個回収したとき、ビートハート1001回分のスキルハートを獲得する。",
+    "translation": {
+      "zh-CN": {
+        "text": "抽到此卡时，牌库中的卡牌越多，获得的技能心心越多；使用此技能后，从卡组中移除，并大幅提升抽到花书签卡的概率。此外，当牌库卡牌数量在80张以上且此卡在手牌中时，花开故事卡使用的所有技能效果值增幅+1001%；当牌库卡牌数量在95张以上且回收了500000个心心时，获得1001倍跳心的技能心心。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When drawn, the more cards in the deck, the more Skill Hearts are gained; when this skill is used, it is removed from the deck and the chance to draw a Flower Bookmark Card is greatly increased. Additionally, while in hand with 80 or more cards in the deck, amplify the effect value of all skills used by Bloom Story Cards by +1001%, and when 500,000 Hearts are collected with 95 or more cards in the deck, gain Skill Hearts equivalent to 1001 beats.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -78403,6 +79066,32 @@
     }
   },
   {
+    "raw": "ビートハート$10回分$のスキルハートを獲得、さらにこのステージ中、ハート上限を$+22$、獲得するLOVEを$+192%$し、ボルテージPt.を$+64$する。さらにムードがハッピー100のとき、ビートハート$96回分$のスキルハートを獲得、このステージ中、ハート上限を$+230$、獲得するLOVEを$+1920%$し、ボルテージPt.を$+640$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$10倍$跳心的技能心心，并且本场Live中，心心上限$+22$，获得LOVE$+192%$，Vo Pt.$+64$。此外，气氛为Happy100时，获得$96倍$跳心的技能心心，本场Live中，心心上限$+230$，获得LOVE$+1920%$，Vo Pt.$+640$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain $10$ Beat Hearts' worth of Skill Hearts, and for the rest of this stage, increase Heart Cap by $+22$, increase LOVE gained by $+192%$, and increase Voltage Pt. by $+64$. Additionally, if Mood is Happy 100, gain $96$ Beat Hearts' worth of Skill Hearts, increase Heart Cap by $+230$, increase LOVE gained by $+1920%$, and increase Voltage Pt. by $+640$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$10回分$のスキルハートを獲得、さらにこのステージ中、ハート上限を$+24$、獲得するLOVEを$+204%$し、ボルテージPt.を$+68$する。さらにムードがハッピー100のとき、ビートハート$102回分$のスキルハートを獲得、このステージ中、ハート上限を$+245$、獲得するLOVEを$+2040%$し、ボルテージPt.を$+680$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$10倍$跳心的技能心心，并且本场Live中，心心上限$+24$，获得LOVE$+204%$，Vo Pt.$+68$。此外，气氛为Happy100时，获得$102倍$跳心的技能心心，本场Live中，心心上限$+245$，获得LOVE$+2040%$，Vo Pt.$+680$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain $10$ Beat Hearts' worth of Skill Hearts, and for the rest of this stage, increase Heart Cap by $+24$, increase LOVE gained by $+204%$, and increase Voltage Pt. by $+68$. Additionally, if Mood is Happy 100, gain $102$ Beat Hearts' worth of Skill Hearts, increase Heart Cap by $+245$, increase LOVE gained by $+2040%$, and increase Voltage Pt. by $+680$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$10回分$のスキルハートを獲得、ボルテージPt.を$+40$、このステージ中、獲得するLOVEを$+10%$し、ハート上限を$+24$する。",
     "translation": {
       "zh-CN": {
@@ -79231,6 +79920,19 @@
       "en": {
         "text": "Gain Skill Hearts equivalent to $11$ beat hearts 9 times. Additionally, Hime enters 《Ignition Mode》.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$11回分$のスキルハートを獲得、さらにこのステージ中、ハート上限を$+25$、獲得するLOVEを$+216%$し、ボルテージPt.を$+72$する。さらにムードがハッピー100のとき、ビートハート$108回分$のスキルハートを獲得、このステージ中、ハート上限を$+259$、獲得するLOVEを$+2160%$し、ボルテージPt.を$+720$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$11倍$跳心的技能心心，并且本场Live中，心心上限$+25$，获得LOVE$+216%$，Vo Pt.$+72$。此外，气氛为Happy100时，获得$108倍$跳心的技能心心，本场Live中，心心上限$+259$，获得LOVE$+2160%$，Vo Pt.$+720$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain $11$ Beat Hearts' worth of Skill Hearts, and for the rest of this stage, increase Heart Cap by $+25$, increase LOVE gained by $+216%$, and increase Voltage Pt. by $+72$. Additionally, if Mood is Happy 100, gain $108$ Beat Hearts' worth of Skill Hearts, increase Heart Cap by $+259$, increase LOVE gained by $+2160%$, and increase Voltage Pt. by $+720$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -80236,6 +80938,19 @@
     }
   },
   {
+    "raw": "ビートハート$12回分$のスキルハートを獲得、さらにこのステージ中、ハート上限を$+28$、獲得するLOVEを$+240%$し、ボルテージPt.を$+80$する。さらにムードがハッピー100のとき、ビートハート$120回分$のスキルハートを獲得、このステージ中、ハート上限を$+288$、獲得するLOVEを$+2400%$し、ボルテージPt.を$+800$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$12倍$跳心的技能心心，并且本场Live中，心心上限$+28$，获得LOVE$+240%$，Vo Pt.$+80$。此外，气氛为Happy100时，获得$120倍$跳心的技能心心，本场Live中，心心上限$+288$，获得LOVE$+2400%$，Vo Pt.$+800$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain $12$ Beat Hearts' worth of Skill Hearts, and for the rest of this stage, increase Heart Cap by $+28$, increase LOVE gained by $+240%$, and increase Voltage Pt. by $+80$. Additionally, if Mood is Happy 100, gain $120$ Beat Hearts' worth of Skill Hearts, increase Heart Cap by $+288$, increase LOVE gained by $+2400%$, and increase Voltage Pt. by $+800$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$12回分$のスキルハートを獲得、ボルテージPt.を$+48$、このステージ中、獲得するLOVEを$+12%$し、ハート上限を$+29$する。",
     "translation": {
       "zh-CN": {
@@ -81146,6 +81861,32 @@
     }
   },
   {
+    "raw": "ビートハート$13回分$のスキルハートを獲得、さらにこのステージ中、ハート上限を$+29$、獲得するLOVEを$+252%$し、ボルテージPt.を$+84$する。さらにムードがハッピー100のとき、ビートハート$126回分$のスキルハートを獲得、このステージ中、ハート上限を$+302$、獲得するLOVEを$+2520%$し、ボルテージPt.を$+840$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$13倍$跳心的技能心心，并且本场Live中，心心上限$+29$，获得LOVE$+252%$，Vo Pt.$+84$。此外，气氛为Happy100时，获得$126倍$跳心的技能心心，本场Live中，心心上限$+302$，获得LOVE$+2520%$，Vo Pt.$+840$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain $13$ Beat Hearts' worth of Skill Hearts, and for the rest of this stage, increase Heart Cap by $+29$, increase LOVE gained by $+252%$, and increase Voltage Pt. by $+84$. Additionally, if Mood is Happy 100, gain $126$ Beat Hearts' worth of Skill Hearts, increase Heart Cap by $+302$, increase LOVE gained by $+2520%$, and increase Voltage Pt. by $+840$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$13回分$のスキルハートを獲得、さらにこのステージ中、ハート上限を$+31$、獲得するLOVEを$+264%$し、ボルテージPt.を$+88$する。さらにムードがハッピー100のとき、ビートハート$132回分$のスキルハートを獲得、このステージ中、ハート上限を$+317$、獲得するLOVEを$+2640%$し、ボルテージPt.を$+880$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$13倍$跳心的技能心心，并且本场Live中，心心上限$+31$，获得LOVE$+264%$，Vo Pt.$+88$。此外，气氛为Happy100时，获得$132倍$跳心的技能心心，本场Live中，心心上限$+317$，获得LOVE$+2640%$，Vo Pt.$+880$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain $13$ Beat Hearts' worth of Skill Hearts, and for the rest of this stage, increase Heart Cap by $+31$, increase LOVE gained by $+264%$, and increase Voltage Pt. by $+88$. Additionally, if Mood is Happy 100, gain $132$ Beat Hearts' worth of Skill Hearts, increase Heart Cap by $+317$, increase LOVE gained by $+2640%$, and increase Voltage Pt. by $+880$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$13回分$のスキルハートを獲得、ボルテージPt.を$+52$、このステージ中、獲得するLOVEを$+13%$し、ハート上限を$+31$する。",
     "translation": {
       "zh-CN": {
@@ -81926,6 +82667,19 @@
     }
   },
   {
+    "raw": "ビートハート$14回分$のスキルハートを獲得、さらにこのステージ中、ハート上限を$+32$、獲得するLOVEを$+276%$し、ボルテージPt.を$+92$する。さらにムードがハッピー100のとき、ビートハート$138回分$のスキルハートを獲得、このステージ中、ハート上限を$+331$、獲得するLOVEを$+2760%$し、ボルテージPt.を$+920$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$14倍$跳心的技能心心，并且本场Live中，心心上限$+32$，获得LOVE$+276%$，Vo Pt.$+92$。此外，气氛为Happy100时，获得$138倍$跳心的技能心心，本场Live中，心心上限$+331$，获得LOVE$+2760%$，Vo Pt.$+920$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain $14$ Beat Hearts' worth of Skill Hearts, and for the rest of this stage, increase Heart Cap by $+32$, increase LOVE gained by $+276%$, and increase Voltage Pt. by $+92$. Additionally, if Mood is Happy 100, gain $138$ Beat Hearts' worth of Skill Hearts, increase Heart Cap by $+331$, increase LOVE gained by $+2760%$, and increase Voltage Pt. by $+920$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$14回分$のスキルハートを獲得、ボルテージPt.を$+56$、このステージ中、獲得するLOVEを$+14%$し、ハート上限を$+34$する。",
     "translation": {
       "zh-CN": {
@@ -82429,6 +83183,19 @@
       "en": {
         "text": "Gain Skill Hearts equivalent to $15$ Beat Hearts 9 times. Additionally, when Mental is 50% or below, gain an additional Skill Hearts equivalent to $20$ Beat Hearts 9 times.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$15回分$のスキルハートを獲得、さらにこのステージ中、ハート上限を$+36$、獲得するLOVEを$+300%$し、ボルテージPt.を$+100$する。さらにムードがハッピー100のとき、ビートハート$150回分$のスキルハートを獲得、このステージ中、ハート上限を$+360$、獲得するLOVEを$+3000%$し、ボルテージPt.を$+1000$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$15倍$跳心的技能心心，并且本场Live中，心心上限$+36$，获得LOVE$+300%$，Vo Pt.$+100$。此外，气氛为Happy100时，获得$150倍$跳心的技能心心，本场Live中，心心上限$+360$，获得LOVE$+3000%$，Vo Pt.$+1000$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain $15$ Beat Hearts' worth of Skill Hearts, and for the rest of this stage, increase Heart Cap by $+36$, increase LOVE gained by $+300%$, and increase Voltage Pt. by $+100$. Additionally, if Mood is Happy 100, gain $150$ Beat Hearts' worth of Skill Hearts, increase Heart Cap by $+360$, increase LOVE gained by $+3000%$, and increase Voltage Pt. by $+1000$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -91221,6 +91988,19 @@
     }
   },
   {
+    "raw": "ビートハート$6回分$のスキルハートを獲得、さらにこのステージ中、ハート上限を$+14$、獲得するLOVEを$+120%$し、ボルテージPt.を$+40$する。さらにムードがハッピー100のとき、ビートハート$60回分$のスキルハートを獲得、このステージ中、ハート上限を$+144$、獲得するLOVEを$+1200%$し、ボルテージPt.を$+400$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$6倍$跳心的技能心心，并且本场Live中，心心上限$+14$，获得LOVE$+120%$，Vo Pt.$+40$。此外，气氛为Happy100时，获得$60倍$跳心的技能心心，本场Live中，心心上限$+144$，获得LOVE$+1200%$，Vo Pt.$+400$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain $6$ Beat Hearts' worth of Skill Hearts, and for the rest of this stage, increase Heart Cap by $+14$, increase LOVE gained by $+120%$, and increase Voltage Pt. by $+40$. Additionally, if Mood is Happy 100, gain $60$ Beat Hearts' worth of Skill Hearts, increase Heart Cap by $+144$, increase LOVE gained by $+1200%$, and increase Voltage Pt. by $+400$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$6回分$のスキルハートを獲得し、このステージ中、獲得するLOVEを$+2.1%$する。さらにボルテージPt.を$+4$する。",
     "translation": {
       "zh-CN": {
@@ -92491,6 +93271,32 @@
       "en": {
         "text": "Gain Skill Hearts equivalent to $799$ beat hearts. Additionally, increase the heart limit by $+799$ during this stage.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$7回分$のスキルハートを獲得、さらにこのステージ中、ハート上限を$+15$、獲得するLOVEを$+132%$し、ボルテージPt.を$+44$する。さらにムードがハッピー100のとき、ビートハート$66回分$のスキルハートを獲得、このステージ中、ハート上限を$+158$、獲得するLOVEを$+1320%$し、ボルテージPt.を$+440$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$7倍$跳心的技能心心，并且本场Live中，心心上限$+15$，获得LOVE$+132%$，Vo Pt.$+44$。此外，气氛为Happy100时，获得$66倍$跳心的技能心心，本场Live中，心心上限$+158$，获得LOVE$+1320%$，Vo Pt.$+440$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain $7$ Beat Hearts' worth of Skill Hearts, and for the rest of this stage, increase Heart Cap by $+15$, increase LOVE gained by $+132%$, and increase Voltage Pt. by $+44$. Additionally, if Mood is Happy 100, gain $66$ Beat Hearts' worth of Skill Hearts, increase Heart Cap by $+158$, increase LOVE gained by $+1320%$, and increase Voltage Pt. by $+440$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$7回分$のスキルハートを獲得、さらにこのステージ中、ハート上限を$+17$、獲得するLOVEを$+144%$し、ボルテージPt.を$+48$する。さらにムードがハッピー100のとき、ビートハート$72回分$のスキルハートを獲得、このステージ中、ハート上限を$+173$、獲得するLOVEを$+1440%$し、ボルテージPt.を$+480$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$7倍$跳心的技能心心，并且本场Live中，心心上限$+17$，获得LOVE$+144%$，Vo Pt.$+48$。此外，气氛为Happy100时，获得$72倍$跳心的技能心心，本场Live中，心心上限$+173$，获得LOVE$+1440%$，Vo Pt.$+480$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain $7$ Beat Hearts' worth of Skill Hearts, and for the rest of this stage, increase Heart Cap by $+17$, increase LOVE gained by $+144%$, and increase Voltage Pt. by $+48$. Additionally, if Mood is Happy 100, gain $72$ Beat Hearts' worth of Skill Hearts, increase Heart Cap by $+173$, increase LOVE gained by $+1440%$, and increase Voltage Pt. by $+480$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -93977,6 +94783,32 @@
     }
   },
   {
+    "raw": "ビートハート$8回分$のスキルハートを獲得、さらにこのステージ中、ハート上限を$+18$、獲得するLOVEを$+156%$し、ボルテージPt.を$+52$する。さらにムードがハッピー100のとき、ビートハート$78回分$のスキルハートを獲得、このステージ中、ハート上限を$+187$、獲得するLOVEを$+1560%$し、ボルテージPt.を$+520$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$8倍$跳心的技能心心，并且本场Live中，心心上限$+18$，获得LOVE$+156%$，Vo Pt.$+52$。此外，气氛为Happy100时，获得$78倍$跳心的技能心心，本场Live中，心心上限$+187$，获得LOVE$+1560%$，Vo Pt.$+520$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain $8$ Beat Hearts' worth of Skill Hearts, and for the rest of this stage, increase Heart Cap by $+18$, increase LOVE gained by $+156%$, and increase Voltage Pt. by $+52$. Additionally, if Mood is Happy 100, gain $78$ Beat Hearts' worth of Skill Hearts, increase Heart Cap by $+187$, increase LOVE gained by $+1560%$, and increase Voltage Pt. by $+520$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$8回分$のスキルハートを獲得、さらにこのステージ中、ハート上限を$+20$、獲得するLOVEを$+168%$し、ボルテージPt.を$+56$する。さらにムードがハッピー100のとき、ビートハート$84回分$のスキルハートを獲得、このステージ中、ハート上限を$+202$、獲得するLOVEを$+1680%$し、ボルテージPt.を$+560$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$8倍$跳心的技能心心，并且本场Live中，心心上限$+20$，获得LOVE$+168%$，Vo Pt.$+56$。此外，气氛为Happy100时，获得$84倍$跳心的技能心心，本场Live中，心心上限$+202$，获得LOVE$+1680%$，Vo Pt.$+560$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain $8$ Beat Hearts' worth of Skill Hearts, and for the rest of this stage, increase Heart Cap by $+20$, increase LOVE gained by $+168%$, and increase Voltage Pt. by $+56$. Additionally, if Mood is Happy 100, gain $84$ Beat Hearts' worth of Skill Hearts, increase Heart Cap by $+202$, increase LOVE gained by $+1680%$, and increase Voltage Pt. by $+560$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$8回分$のスキルハートを獲得し、このステージ中、獲得するLOVEを$+2.9%$する。さらにボルテージPt.を$+6$する。",
     "translation": {
       "zh-CN": {
@@ -95286,6 +96118,19 @@
       "en": {
         "text": "Gain Skill Heart equivalent to $9$ Beat Hearts 9 times. Additionally, Hime enters 《Ignition Mode》.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$9回分$のスキルハートを獲得、さらにこのステージ中、ハート上限を$+21$、獲得するLOVEを$+180%$し、ボルテージPt.を$+60$する。さらにムードがハッピー100のとき、ビートハート$90回分$のスキルハートを獲得、このステージ中、ハート上限を$+216$、獲得するLOVEを$+1800%$し、ボルテージPt.を$+600$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$9倍$跳心的技能心心，并且本场Live中，心心上限$+21$，获得LOVE$+180%$，Vo Pt.$+60$。此外，气氛为Happy100时，获得$90倍$跳心的技能心心，本场Live中，心心上限$+216$，获得LOVE$+1800%$，Vo Pt.$+600$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Gain $9$ Beat Hearts' worth of Skill Hearts, and for the rest of this stage, increase Heart Cap by $+21$, increase LOVE gained by $+180%$, and increase Voltage Pt. by $+60$. Additionally, if Mood is Happy 100, gain $90$ Beat Hearts' worth of Skill Hearts, increase Heart Cap by $+216$, increase LOVE gained by $+1800%$, and increase Voltage Pt. by $+600$ for the rest of this stage.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -99342,6 +100187,19 @@
       "en": {
         "text": "Increased draw probability during section 4 (excluding Fever section). Additionally, while Voltage Lv. is 8 or above, AP cost -2, and while Voltage Lv. is 10 or above, skill effect values increase.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ブルームストーリーカードを1種類(合計8枚)、ラビットクロックカードを1種類(合計1枚)、フラワーブックマークカードを1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的花开故事卡（共计8张）、1个种类的兔子时钟卡（共计1张）、1个种类的花书签卡（共计1张）加入牌库。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Add 1 type of Bloom Story Card (8 cards total), 1 type of Rabbit Clock Card (1 card total), and 1 type of Flower Bookmark Card (1 card total) to the draw pile.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -128596,6 +129454,19 @@
     }
   },
   {
+    "raw": "ラビットクロックカードを1種類(合計3枚)、フラワーブックマークカードを1種類(合計3枚)山札に追加する。さらに手札の全てのスキルを使用する。このスキル使用に必要なAPは、他の手札の全てのスキルのAPの合計からデッキ枚数に応じて減少した値になる。",
+    "translation": {
+      "zh-CN": {
+        "text": "将1个种类的兔子时钟卡（共计3张）、1个种类的花书签卡（共计3张）加入牌库。并且使用手牌中的全部技能。使用此技能所需的AP，等于手牌中其余所有技能的AP总和，再根据牌库卡牌数量减少后的值。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Add 1 type of Rabbit Clock Card (3 cards total) and 1 type of Flower Bookmark Card (3 cards total) to the draw pile. Additionally, use all skills in hand. The AP required to use this skill is reduced based on the number of cards in the deck from the total AP of all other skills in hand.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "リメイクドレスカード《華・麗・雅》を3種類(合計3枚)山札に追加する。さらに手札を全て捨てて、デッキから手札上限までスキルを引く。",
     "translation": {
       "zh-CN": {
@@ -131894,6 +132765,188 @@
       "en": {
         "text": "Reduce the AP cost of all skills in the deck by -3.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "山札にある小鈴のスキルの消費AP-2。さらに2回の間小鈴が使用するあらゆるスキル効果量を$+10.4%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "牌库中小铃技能的消费AP-2。此外，接下来2次小铃使用的所有技能效果量增幅$+10.4%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reduce the AP cost of Kosuzu's skills in the draw pile by 2. Additionally, amplify all skill effects used by Kosuzu by $+10.4%$ for 2 turns.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "山札にある小鈴のスキルの消費AP-2。さらに2回の間小鈴が使用するあらゆるスキル効果量を$+11.2%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "牌库中小铃技能的消费AP-2。此外，接下来2次小铃使用的所有技能效果量增幅$+11.2%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reduce the AP cost of Kosuzu's skills in the draw pile by 2. Additionally, amplify all skill effects used by Kosuzu by $+11.2%$ for 2 turns.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "山札にある小鈴のスキルの消費AP-2。さらに2回の間小鈴が使用するあらゆるスキル効果量を$+12%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "牌库中小铃技能的消费AP-2。此外，接下来2次小铃使用的所有技能效果量增幅$+12%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reduce the AP cost of Kosuzu's skills in the draw pile by 2. Additionally, amplify all skill effects used by Kosuzu by $+12%$ for 2 turns.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "山札にある小鈴のスキルの消費AP-2。さらに2回の間小鈴が使用するあらゆるスキル効果量を$+12.8%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "牌库中小铃技能的消费AP-2。此外，接下来2次小铃使用的所有技能效果量增幅$+12.8%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reduce the AP cost of Kosuzu's skills in the draw pile by 2. Additionally, amplify all skill effects used by Kosuzu by $+12.8%$ for 2 turns.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "山札にある小鈴のスキルの消費AP-2。さらに2回の間小鈴が使用するあらゆるスキル効果量を$+13.6%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "牌库中小铃技能的消费AP-2。此外，接下来2次小铃使用的所有技能效果量增幅$+13.6%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reduce the AP cost of Kosuzu's skills in the draw pile by 2. Additionally, amplify all skill effects used by Kosuzu by $+13.6%$ for 2 turns.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "山札にある小鈴のスキルの消費AP-2。さらに2回の間小鈴が使用するあらゆるスキル効果量を$+14.4%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "牌库中小铃的技能消费AP-2。此外，接下来2次，小铃使用的所有技能效果量增幅$+14.4%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reduce the AP cost of Kosuzu's skills in the deck by 2. Additionally, amplify all skill effects used by Kosuzu by $+14.4%$ for 2 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "山札にある小鈴のスキルの消費AP-2。さらに2回の間小鈴が使用するあらゆるスキル効果量を$+16%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "牌库中小铃的技能消费AP-2。此外，接下来2次，小铃使用的所有技能效果量增幅$+16%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reduce the AP cost of Kosuzu's skills in the deck by 2. Additionally, amplify all skill effects used by Kosuzu by $+16%$ for 2 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "山札にある小鈴のスキルの消費AP-2。さらに2回の間小鈴が使用するあらゆるスキル効果量を$+16.8%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "牌库中小铃的技能消费AP-2。此外，接下来2次，小铃使用的所有技能效果量增幅$+16.8%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reduce the AP cost of Kosuzu's skills in the deck by 2. Additionally, amplify all skill effects used by Kosuzu by $+16.8%$ for 2 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "山札にある小鈴のスキルの消費AP-2。さらに2回の間小鈴が使用するあらゆるスキル効果量を$+17.6%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "牌库中小铃的技能消费AP-2。此外，接下来2次，小铃使用的所有技能效果量增幅$+17.6%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reduce the AP cost of Kosuzu's skills in the deck by 2. Additionally, amplify all skill effects used by Kosuzu by $+17.6%$ for 2 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "山札にある小鈴のスキルの消費AP-2。さらに2回の間小鈴が使用するあらゆるスキル効果量を$+18.4%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "牌库中小铃的技能消费AP-2。此外，接下来2次，小铃使用的所有技能效果量增幅$+18.4%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reduce the AP cost of Kosuzu's skills in the deck by 2. Additionally, amplify all skill effects used by Kosuzu by $+18.4%$ for 2 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "山札にある小鈴のスキルの消費AP-2。さらに2回の間小鈴が使用するあらゆるスキル効果量を$+20%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "牌库中小铃的技能消费AP-2。此外，接下来2次，小铃使用的所有技能效果量增幅$+20%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reduce the AP cost of Kosuzu's skills in the deck by 2. Additionally, amplify all skill effects used by Kosuzu by $+20%$ for 2 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "山札にある小鈴のスキルの消費AP-2。さらに2回の間小鈴が使用するあらゆるスキル効果量を$+8%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "牌库中小铃的技能消费AP-2。此外，接下来2次，小铃使用的所有技能效果量增幅$+8%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reduce the AP cost of Kosuzu's skills in the deck by 2. Additionally, amplify all skill effects used by Kosuzu by $+8%$ for 2 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "山札にある小鈴のスキルの消費AP-2。さらに2回の間小鈴が使用するあらゆるスキル効果量を$+8.8%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "牌库中小铃的技能消费AP-2。此外，接下来2次，小铃使用的所有技能效果量增幅$+8.8%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reduce the AP cost of Kosuzu's skills in the deck by 2. Additionally, amplify all skill effects used by Kosuzu by $+8.8%$ for 2 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "山札にある小鈴のスキルの消費AP-2。さらに2回の間小鈴が使用するあらゆるスキル効果量を$+9.6%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "牌库中小铃的技能消费AP-2。此外，接下来2次，小铃使用的所有技能效果量增幅$+9.6%$。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reduce the AP cost of Kosuzu's skills in the deck by 2. Additionally, amplify all skill effects used by Kosuzu by $+9.6%$ for 2 times.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -135702,6 +136755,19 @@
       },
       "en": {
         "text": "Reset shuffle your hand and restore Mental to $93.6%$ of its maximum value. At this time, greatly increase the probability of drawing Rurino and Megumi's skills. Additionally, when Mood is either Happy or Mellow 100, increase the amount gained from Skill Heart gain effects by $+93.6%$ for 8 times.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルする。この時ラビットクロックカード、スリーズブーケのスキルをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "重置洗牌手牌。此时大幅提升抽到兔子时钟卡、Cerise Bouquet技能的概率。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Reset and shuffle your hand. At this time, the chance to draw Rabbit Clock cards and Cerise Bouquet skills is greatly increased.",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -152109,6 +153175,149 @@
       "en": {
         "text": "When used in the final section, recover $9$ AP and during this section, increase Skill Heart acquisition effects by $+489.6%$ and increase Heart limit by $+490$.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "最終セクションで使用したとき、デッキ内の全てのスキルの消費APを$-10$、APを$10$回復し、手札をリセットシャッフルする。このときスリーズブーケのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "在最终小节使用时，卡组内所有技能消费AP$-10$，恢复AP$10$，并重置洗牌手牌。此时大幅提升抽到Cerise Bouquet卡牌的概率。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the final section, reduce the AP cost of all skills in the deck by $-10$, restore $10$ AP, and reset and shuffle your hand. At this time, the chance to draw Cerise Bouquet cards is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "最終セクションで使用したとき、デッキ内の全てのスキルの消費APを$-11$、APを$11$回復し、手札をリセットシャッフルする。このときスリーズブーケのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "在最终小节使用时，卡组内所有技能消费AP$-11$，恢复AP$11$，并重置洗牌手牌。此时大幅提升抽到Cerise Bouquet卡牌的概率。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the final section, reduce the AP cost of all skills in the deck by $-11$, restore $11$ AP, and reset and shuffle your hand. At this time, the chance to draw Cerise Bouquet cards is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "最終セクションで使用したとき、デッキ内の全てのスキルの消費APを$-12$、APを$12$回復し、手札をリセットシャッフルする。このときスリーズブーケのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "在最终小节使用时，卡组内所有技能消费AP$-12$，恢复AP$12$，并重置洗牌手牌。此时大幅提升抽到Cerise Bouquet卡牌的概率。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the final section, reduce the AP cost of all skills in the deck by $-12$, restore $12$ AP, and reset and shuffle your hand. At this time, the chance to draw Cerise Bouquet cards is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "最終セクションで使用したとき、デッキ内の全てのスキルの消費APを$-13$、APを$13$回復し、手札をリセットシャッフルする。このときスリーズブーケのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "在最终小节使用时，卡组内所有技能消费AP$-13$，恢复AP$13$，并重置洗牌手牌。此时大幅提升抽到Cerise Bouquet卡牌的概率。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the final section, reduce the AP cost of all skills in the deck by $-13$, restore $13$ AP, and reset and shuffle your hand. At this time, the chance to draw Cerise Bouquet cards is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "最終セクションで使用したとき、デッキ内の全てのスキルの消費APを$-14$、APを$14$回復し、手札をリセットシャッフルする。このときスリーズブーケのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "在最终小节使用时，卡组内所有技能消费AP$-14$，恢复AP$14$，并重置洗牌手牌。此时大幅提升抽到Cerise Bouquet卡牌的概率。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the final section, reduce the AP cost of all skills in the deck by $-14$, restore $14$ AP, and reset and shuffle your hand. At this time, the chance to draw Cerise Bouquet cards is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "最終セクションで使用したとき、デッキ内の全てのスキルの消費APを$-16$、APを$16$回復し、手札をリセットシャッフルする。このときスリーズブーケのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "在最终小节使用时，卡组内所有技能消费AP$-16$，恢复AP$16$，并重置洗牌手牌。此时大幅提升抽到Cerise Bouquet卡牌的概率。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the final section, reduce the AP cost of all skills in the deck by $-16$, restore $16$ AP, and reset and shuffle your hand. At this time, the chance to draw Cerise Bouquet cards is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "最終セクションで使用したとき、デッキ内の全てのスキルの消費APを$-17$、APを$17$回復し、手札をリセットシャッフルする。このときスリーズブーケのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "在最终小节使用时，卡组内所有技能消费AP$-17$，恢复AP$17$，并重置洗牌手牌。此时大幅提升抽到Cerise Bouquet卡牌的概率。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the final section, reduce the AP cost of all skills in the deck by $-17$, restore $17$ AP, and reset and shuffle your hand. At this time, the chance to draw Cerise Bouquet cards is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "最終セクションで使用したとき、デッキ内の全てのスキルの消費APを$-18$、APを$18$回復し、手札をリセットシャッフルする。このときスリーズブーケのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "在最终小节使用时，卡组内所有技能消费AP$-18$，恢复AP$18$，并重置洗牌手牌。此时大幅提升抽到Cerise Bouquet卡牌的概率。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the final section, reduce the AP cost of all skills in the deck by $-18$, restore $18$ AP, and reset and shuffle your hand. At this time, the chance to draw Cerise Bouquet cards is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "最終セクションで使用したとき、デッキ内の全てのスキルの消費APを$-20$、APを$20$回復し、手札をリセットシャッフルする。このときスリーズブーケのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "在最终小节使用时，卡组内所有技能消费AP$-20$，恢复AP$20$，并重置洗牌手牌。此时大幅提升抽到Cerise Bouquet卡牌的概率。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the final section, reduce the AP cost of all skills in the deck by $-20$, restore $20$ AP, and reset and shuffle your hand. At this time, the chance to draw Cerise Bouquet cards is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "最終セクションで使用したとき、デッキ内の全てのスキルの消費APを$-8$、APを$8$回復し、手札をリセットシャッフルする。このときスリーズブーケのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "在最终小节使用时，卡组内所有技能消费AP$-8$，恢复AP$8$，并重置洗牌手牌。此时大幅提升抽到Cerise Bouquet卡牌的概率。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the final section, reduce the AP cost of all skills in the deck by $-8$, restore $8$ AP, and reset and shuffle your hand. At this time, the chance to draw Cerise Bouquet cards is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "最終セクションで使用したとき、デッキ内の全てのスキルの消費APを$-9$、APを$9$回復し、手札をリセットシャッフルする。このときスリーズブーケのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "在最终小节使用时，卡组内所有技能消费AP$-9$，恢复AP$9$，并重置洗牌手牌。此时大幅提升抽到Cerise Bouquet卡牌的概率。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "When used in the final section, reduce the AP cost of all skills in the deck by $-9$, restore $9$ AP, and reset and shuffle your hand. At this time, the chance to draw Cerise Bouquet cards is greatly increased.",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

@@ -1378,6 +1378,19 @@
     }
   },
   {
+    "raw": "メンタルの減少速度を75%増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将Mental的减少速度增加75%。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Increases the Mental decrease speed by 75%.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "メンタルを現在値の10%回復させる。",
     "translation": {
       "zh-CN": {

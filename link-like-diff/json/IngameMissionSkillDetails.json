@@ -732,6 +732,342 @@
         {
             "Id": 104251214013,
             "MissionText": "ボルテージPt.が0になる。"
+        },
+        {
+            "Id": 104290201001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104290201002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104290201003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104290201004,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104290201005,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104290201006,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104290202001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104290202002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104290202003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104290202004,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104290202005,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104290202006,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104290203001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104290203002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104290203003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104290203004,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104290203005,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104290203006,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104290204001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104290204002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104290204003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104290204004,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104290204005,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104290204006,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104290205001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104290205002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104290205003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104290205004,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104290205005,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104290205006,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104290206001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104290206002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104290206003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104290206004,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104290206005,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104290206006,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104290207001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104290207002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104290207003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104290207004,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104290207005,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104290207006,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104290208001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104290208002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104290208003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104290208004,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104290208005,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104290208006,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104290209001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104290209002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104290209003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104290209004,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104290209005,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104290209006,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104290210001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104290210002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104290210003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104290210004,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104290210005,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104290210006,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104290211001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104290211002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104290211003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104290211004,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104290211005,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104290211006,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104290212001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104290212002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104290212003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104290212004,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104290212005,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104290212006,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104290213001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104290213002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104290213003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104290213004,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104290213005,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104290213006,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
+        },
+        {
+            "Id": 104290214001,
+            "MissionText": "ハートを合計$TargetValue$個回収する。"
+        },
+        {
+            "Id": 104290214002,
+            "MissionText": "アトラクト効果をスキルで合計$TargetValue$％分発動させる。"
+        },
+        {
+            "Id": 104290214003,
+            "MissionText": "ボルテージPt.をスキルで合計$TargetValue$獲得する。"
+        },
+        {
+            "Id": 104290214004,
+            "MissionText": "リシャッフル効果をスキルで合計$TargetValue$回発動させる。"
+        },
+        {
+            "Id": 104290214005,
+            "MissionText": "手札上限増加効果をスキルで合計$TargetValue$枚分発動させる。"
+        },
+        {
+            "Id": 104290214006,
+            "MissionText": "ハート数の上限増加効果をスキルで合計$TargetValue$個分発動させる。"
         }
     ]
 }

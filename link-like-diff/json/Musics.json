@@ -1504,6 +1504,13 @@
             "ReleaseConditionText": "初めから習得"
         },
         {
+            "Id": 405137,
+            "Title": "不思議と君とライブラリー",
+            "TitleFurigana": "ふしぎときみとらいぶらりー",
+            "Description": "スリーズブーケ",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
             "Id": 405201,
             "Title": "テレパシ",
             "TitleFurigana": "てれぱし",

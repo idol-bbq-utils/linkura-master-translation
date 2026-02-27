@@ -247,6 +247,19 @@
     }
   },
   {
+    "raw": "『手札上限 +2枚』を解除してクリア",
+    "translation": {
+      "zh-CN": {
+        "text": "解除『手牌上限 +2张』并通关",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Clear by removing the '手札上限 +2枚' restriction",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "『消費AP-30』を解除してクリア",
     "translation": {
       "zh-CN": {

@@ -20501,6 +20501,19 @@
     }
   },
   {
+    "raw": "Happy 17th Birthday to Dear Kosuzu!\n「17歳の徒町です！」",
+    "translation": {
+      "zh-CN": {
+        "text": "Happy 17th Birthday to Dear Kosuzu!\n「17岁的徒町来啦！」",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Happy 17th Birthday to Dear Kosuzu!\n\"I'm 17 years old, Kachimachi here!\"",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "Happy 18th Birthday to Dear Kaho!\n「いえーい！　フラワー♪\n花帆はじゅーはっさいになりました～！」",
     "translation": {
       "zh-CN": {
@@ -56095,6 +56108,45 @@
     }
   },
   {
+    "raw": "[17th Birthday]徒町 小鈴",
+    "translation": {
+      "zh-CN": {
+        "text": "[17th Birthday]徒町 小铃",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[17th Birthday] Kosuzu Kachimachi",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[17th Birthday]徒町 小鈴 を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[17th Birthday]徒町 小铃 4次解放纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[17th Birthday] Kosuzu Kachimachi Sticker Commemorating 4 Unlocks",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[17th Birthday]徒町 小鈴 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[17th Birthday]徒町 小铃 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[17th Birthday] Kosuzu Kachimachi Unlock Complete",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[17th Birthday]日野下 花帆",
     "translation": {
       "zh-CN": {
@@ -72384,6 +72436,84 @@
     }
   },
   {
+    "raw": "[不思議と君とライブラリー]日野下 花帆",
+    "translation": {
+      "zh-CN": {
+        "text": "[不思議と君とライブラリー]日野下 花帆",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Fushigi to Kimi to Library] Kaho Hinoshita",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[不思議と君とライブラリー]日野下 花帆 を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[不思議と君とライブラリー]日野下 花帆 4次解放纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Fushigi to Kimi to Library] Kaho Hinoshita Sticker Commemorating 4 Unlocks",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[不思議と君とライブラリー]日野下 花帆 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[不思議と君とライブラリー]日野下 花帆 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Fushigi to Kimi to Library] Kaho Hinoshita Unlock Complete",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[不思議と君とライブラリー]百生 吟子",
+    "translation": {
+      "zh-CN": {
+        "text": "[不思議と君とライブラリー]百生 吟子",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Fushigi to Kimi to Library] Ginko Momose",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[不思議と君とライブラリー]百生 吟子 を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[不思議と君とライブラリー]百生 吟子 4次解放纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Fushigi to Kimi to Library] Ginko Momose Sticker Commemorating 4 Unlocks",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[不思議と君とライブラリー]百生 吟子 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[不思議と君とライブラリー]百生 吟子 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Fushigi to Kimi to Library] Ginko Momose Unlock Complete",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "[世界中を夢中に]大沢 瑠璃乃",
     "translation": {
       "zh-CN": {
@@ -75187,6 +75317,45 @@
       },
       "en": {
         "text": "[Haikei, Mirai no Kimi e] Kosuzu Kachimachi released successfully",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[拝啓、未来の君へ]村野 さやか",
+    "translation": {
+      "zh-CN": {
+        "text": "[拝啓、未来の君へ]村野 沙耶香",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Dear Future Me] Sayaka Murano",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[拝啓、未来の君へ]村野 さやか を4回解放した記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "[拝啓、未来の君へ]村野 沙耶香 4次解放纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Dear Future Me] Sayaka Murano Sticker Commemorating 4 Unlocks",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[拝啓、未来の君へ]村野 さやか 解放完了",
+    "translation": {
+      "zh-CN": {
+        "text": "[拝啓、未来の君へ]村野 沙耶香 解放完成",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "[Dear Future Me] Sayaka Murano Unlock Complete",
         "author": "claude-sonnet-4-5-20250929"
       }
     }
@@ -80765,6 +80934,19 @@
       "en": {
         "text": "Purchased \"Kosuzu's 16th Birthday Celebrate Pack\"",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "「Kosuzu's 17th Birthday セレブレイトパック」を購入",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「Kosuzu's 17th Birthday セレブレイトパック」",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Purchase the \"Kosuzu's 17th Birthday Celebrate Pack\"",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },
@@ -88461,6 +88643,45 @@
       "en": {
         "text": "『一生に夢が咲くように』 Mastery Lv. 30 Achieved",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "『不思議と君とライブラリー』のマスタリーLv.を30にした記念のステッカー",
+    "translation": {
+      "zh-CN": {
+        "text": "『不思議と君とライブラリー』精通等级达到30的纪念贴纸",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Sticker Commemorating Reaching Mastery Lv. 30 for 'Fushigi to Kimi to Library'",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "『不思議と君とライブラリー』マエストロ",
+    "translation": {
+      "zh-CN": {
+        "text": "『不思議と君とライブラリー』大师",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "'Fushigi to Kimi to Library' Maestro",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "『不思議と君とライブラリー』マスタリーLv.30到達",
+    "translation": {
+      "zh-CN": {
+        "text": "『不思議と君とライブラリー』精通等级达到30",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "'Fushigi to Kimi to Library' Mastery Lv. 30 Reached",
+        "author": "claude-sonnet-4-5-20250929"
       }
     }
   },

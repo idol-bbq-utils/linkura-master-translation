@@ -17017,6 +17017,19 @@
     }
   },
   {
+    "raw": "「Kosuzu's 17th Birthday セレブレイトパック」を購入して獲得したアイテムです。",
+    "translation": {
+      "zh-CN": {
+        "text": "购买「Kosuzu's 17th Birthday セレブレイトパック」获得的道具。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Items obtained by purchasing the 「Kosuzu's 17th Birthday セレブレイトパック」.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
     "raw": "「Kosuzu's 16th Birthday セレブレイトパック」を購入して獲得したアイテムです。",
     "translation": {
       "zh-CN": {
