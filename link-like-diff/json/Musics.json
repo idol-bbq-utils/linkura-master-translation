@@ -1511,6 +1511,20 @@
             "ReleaseConditionText": "初めから習得"
         },
         {
+            "Id": 405138,
+            "Title": "アイシイ",
+            "TitleFurigana": "あいしい",
+            "Description": "DOLLCHESTRA",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
+            "Id": 405139,
+            "Title": "EdelinieN",
+            "TitleFurigana": "えーでりにえん",
+            "Description": "Edel Note",
+            "ReleaseConditionText": "初めから習得"
+        },
+        {
             "Id": 405201,
             "Title": "テレパシ",
             "TitleFurigana": "てれぱし",
@@ -1563,6 +1577,13 @@
             "Id": 405208,
             "Title": "気まぐれロマンティック",
             "TitleFurigana": "きまぐれろまんてぃっく",
+            "Description": "一般カバー",
+            "ReleaseConditionText": "ミュージックPt. を使用して習得"
+        },
+        {
+            "Id": 405209,
+            "Title": "Blessing",
+            "TitleFurigana": "ぶれっしんぐ",
             "Description": "一般カバー",
             "ReleaseConditionText": "ミュージックPt. を使用して習得"
         },

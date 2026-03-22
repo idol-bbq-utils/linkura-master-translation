@@ -832,6 +832,19 @@
     }
   },
   {
+    "raw": "《拝啓、未来の君へ》",
+    "translation": {
+      "zh-CN": {
+        "text": "《拝啓、未来の君へ》",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "《To You in the Future》",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "《蒼のツバメ》",
     "translation": {
       "en": {
@@ -975,6 +988,71 @@
     }
   },
   {
+    "raw": "アイシイアクト",
+    "translation": {
+      "zh-CN": {
+        "text": "挚爱行动",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Icy Act",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "アイシイインフィニティ",
+    "translation": {
+      "zh-CN": {
+        "text": "挚爱无限",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Icy Infinity",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "アイシイモーメント",
+    "translation": {
+      "zh-CN": {
+        "text": "挚爱瞬间",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Icy Moment",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "アイシイワールド",
+    "translation": {
+      "zh-CN": {
+        "text": "挚爱世界",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Icy World",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "アイディアルシャドウ",
+    "translation": {
+      "zh-CN": {
+        "text": "理想之影",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Ideal Shadow",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "アウェイキングガイア",
     "translation": {
       "zh-CN": {
@@ -1062,6 +1140,19 @@
       "en": {
         "text": "Accel Control",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "アクトフロムチアー",
+    "translation": {
+      "zh-CN": {
+        "text": "来自应援的行动",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Act from Cheer",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -3107,6 +3198,19 @@
     }
   },
   {
+    "raw": "エクスプレス",
+    "translation": {
+      "zh-CN": {
+        "text": "快车直达",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Express",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "エグザクトアトラクション",
     "translation": {
       "zh-CN": {
@@ -4962,6 +5066,19 @@
       "zh-CN": {
         "text": "Sound Fusion",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サウンドフロムチアー",
+    "translation": {
+      "zh-CN": {
+        "text": "来自应援的声音",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Sound from Cheer",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -8632,6 +8749,19 @@
     }
   },
   {
+    "raw": "ドレス《拝啓、未来の君へ》",
+    "translation": {
+      "zh-CN": {
+        "text": "礼服《拝啓、未来の君へ》",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Dress《To You in the Future》",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ドレス《月夜見海月》",
     "translation": {
       "zh-CN": {
@@ -10452,6 +10582,19 @@
     }
   },
   {
+    "raw": "パラレルブライト",
+    "translation": {
+      "zh-CN": {
+        "text": "平行闪耀",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Parallel Bright",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "パワーオブエール",
     "translation": {
       "zh-CN": {
@@ -10621,6 +10764,19 @@
     }
   },
   {
+    "raw": "ビートユアベスト",
+    "translation": {
+      "zh-CN": {
+        "text": "击败你的最好",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Beat Your Best",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ピルグリム",
     "translation": {
       "zh-CN": {
@@ -10695,6 +10851,19 @@
       "en": {
         "text": "First Stage",
         "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "ファーストトゥラスト",
+    "translation": {
+      "zh-CN": {
+        "text": "从始至终",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "First to Last",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -11661,6 +11830,19 @@
     }
   },
   {
+    "raw": "プライムスケーター",
+    "translation": {
+      "zh-CN": {
+        "text": "王牌滑冰选手",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Prime Skater",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "プロテクトゲイン",
     "translation": {
       "zh-CN": {
@@ -12255,6 +12437,19 @@
       "en": {
         "text": "Useful Capture",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ラストトゥファースト",
+    "translation": {
+      "zh-CN": {
+        "text": "从终点到起点",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Last to First",
+        "author": "gpt-5.1"
       }
     }
   },

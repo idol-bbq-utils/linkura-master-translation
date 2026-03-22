@@ -130,6 +130,19 @@
     }
   },
   {
+    "raw": "APを$2$回復／最大値の$100%$分のメンタルを減少（この効果ではメンタルが0にならない）／このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "AP回复$2$／减少最大值$100%$的Mental（此效果不会使Mental变为0）／移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Restore $2$ AP / Reduce Mental by $100%$ of its maximum value (Mental cannot be reduced to 0 by this effect) / Remove this card from play",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "APを$2$回復／次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／FEVER中の時、このカードを除外する",
     "translation": {
       "zh-CN": {
@@ -256,6 +269,19 @@
       "en": {
         "text": "Restore $3$ AP / The voltage acquisition effect skill increases voltage acquisition by $28.87%$ for one turn / When the total skill activation count is 10 or more, remove this card from play",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "APを$3$回復／最大値の$100%$分のメンタルを減少（この効果ではメンタルが0にならない）／このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "AP回复$3$／减少最大值$100%$的Mental（此效果不会使Mental变为0）／移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Restore $3$ AP / Reduce Mental by $100%$ of its maximum value (Mental cannot be reduced to 0 by this effect) / Remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -412,6 +438,19 @@
       "en": {
         "text": "Restore $4$ AP / The voltage acquisition effect skill increases voltage acquisition by $37.12%$ for one turn / When the total skill activation count is 10 or more, remove this card from play",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "APを$4$回復／最大値の$100%$分のメンタルを減少（この効果ではメンタルが0にならない）／このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "AP回复$4$／减少最大值$100%$的Mental（此效果不会使Mental变为0）／移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Restore $4$ AP / Reduce Mental by $100%$ of its maximum value (Mental cannot be reduced to 0 by this effect) / Remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -702,6 +741,19 @@
     }
   },
   {
+    "raw": "APを$5$回復／最大値の$100%$分のメンタルを減少（この効果ではメンタルが0にならない）／このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "AP回复$5$／减少最大值$100%$的Mental（此效果不会使Mental变为0）／移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Restore $5$ AP / Reduce Mental by $100%$ of its maximum value (Mental cannot be reduced to 0 by this effect) / Remove this card from play",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "APを$6$回復／このカードのスキル発動回数が3回以上の時、このカードを除外する",
     "translation": {
       "zh-CN": {
@@ -780,6 +832,19 @@
     }
   },
   {
+    "raw": "APを$6$回復／最大値の$100%$分のメンタルを減少（この効果ではメンタルが0にならない）／このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "AP回复$6$／减少最大值$100%$的Mental（此效果不会使Mental变为0）／移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Restore $6$ AP / Reduce Mental by $100%$ of its maximum value (Mental cannot be reduced to 0 by this effect) / Remove this card from play",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "APを$7$回復／このカードのスキル発動回数が3回以上の時、このカードを除外する",
     "translation": {
       "zh-CN": {
@@ -802,6 +867,19 @@
       "zh-CN": {
         "text": "AP回复$7$／获得分数效果技能获得的分数值单次提升$206.25%$／获得Voltage效果技能的Voltage获得量单次提升$206.25%$／此卡技能发动5次以上时，AP回复$4$／此卡技能发动5次以上时，Vo Pt.减少$200pt$",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "APを$7$回復／最大値の$100%$分のメンタルを減少（この効果ではメンタルが0にならない）／このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "AP回复$7$／减少最大值$100%$的Mental（此效果不会使Mental变为0）／移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Restore $7$ AP / Reduce Mental by $100%$ of its maximum value (Mental cannot be reduced to 0 by this effect) / Remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -1062,6 +1140,19 @@
       "zh-CN": {
         "text": "AP回复&Voltage获得量提升&Voltage回复",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "APゲイン&メンタルダメージ",
+    "translation": {
+      "zh-CN": {
+        "text": "AP获得&Mental伤害",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "AP Gain & Mental Damage",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -3120,6 +3211,19 @@
     }
   },
   {
+    "raw": "このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$100.1%$上昇／このカードのスキル発動回数が4回以上の時、ボルテージPt.を$100pt$獲得／スキルの合計発動回数が25回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$255.75%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$100.1%$／此卡技能发动4次以上时，获得Vo Pt.$100pt$／技能总发动次数25次以上时，获得分数效果技能获得的分数值单次提升$255.75%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $100.1%$ for one turn / When this card's skill activation count is 4 or more, acquire $100pt$ of Voltage Points / When the total number of skill activations is 25 or more, the score acquisition effect skill increases score acquisition by $255.75%$ for one turn",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$101.2%$上昇／このカードのスキル発動回数が3回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が4回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$101.2%$上昇",
     "translation": {
       "en": {
@@ -3146,6 +3250,19 @@
     }
   },
   {
+    "raw": "このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$109.2%$上昇／このカードのスキル発動回数が4回以上の時、ボルテージPt.を$109pt$獲得／スキルの合計発動回数が25回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$279%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$109.2%$／此卡技能发动4次以上时，获得Vo Pt.$109pt$／技能总发动次数25次以上时，获得分数效果技能获得的分数值单次提升$279%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $109.2%$ for one turn / When this card's skill activation count is 4 or more, acquire $109pt$ of Voltage Points / When the total number of skill activations is 25 or more, the score acquisition effect skill increases score acquisition by $279%$ for one turn",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$11%$上昇／このカードのスキル発動回数が4回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$11%$上昇／このカードのスキル発動回数が6回以上の時、APを$1$回復",
     "translation": {
       "en": {
@@ -3168,6 +3285,19 @@
       "zh-CN": {
         "text": "此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$110.4%$／此卡技能发动3次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动4次以上时，获得分数效果技能获得的分数值单次提升$110.4%$",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$118.3%$上昇／このカードのスキル発動回数が4回以上の時、ボルテージPt.を$118pt$獲得／スキルの合計発動回数が25回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$302.25%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$118.3%$／此卡技能发动4次以上时，获得Vo Pt.$118pt$／技能总发动次数25次以上时，获得分数效果技能获得的分数值单次提升$302.25%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $118.3%$ for one turn / When this card's skill activation count is 4 or more, acquire $118pt$ of Voltage Points / When the total number of skill activations is 25 or more, the score acquisition effect skill increases score acquisition by $302.25%$ for one turn",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -3211,6 +3341,19 @@
     }
   },
   {
+    "raw": "このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$127.4%$上昇／このカードのスキル発動回数が4回以上の時、ボルテージPt.を$127pt$獲得／スキルの合計発動回数が25回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$325.5%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$127.4%$／此卡技能发动4次以上时，获得Vo Pt.$127pt$／技能总发动次数25次以上时，获得分数效果技能获得的分数值单次提升$325.5%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $127.4%$ for one turn / When this card's skill activation count is 4 or more, acquire $127pt$ of Voltage Points / When the total number of skill activations is 25 or more, the score acquisition effect skill increases score acquisition by $325.5%$ for one turn",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$129.6%$上昇／このカードのスキル発動回数が3回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が4回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$129.6%$上昇",
     "translation": {
       "zh-CN": {
@@ -3233,6 +3376,19 @@
       "zh-CN": {
         "text": "此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$13%$／此卡技能发动4次以上时，获得分数效果技能获得的分数值单次提升$13%$／此卡技能发动6次以上时，AP回复$1$",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$136.5%$上昇／このカードのスキル発動回数が4回以上の時、ボルテージPt.を$136pt$獲得／スキルの合計発動回数が25回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$348.75%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$136.5%$／此卡技能发动4次以上时，获得Vo Pt.$136pt$／技能总发动次数25次以上时，获得分数效果技能获得的分数值单次提升$348.75%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $136.5%$ for one turn / When this card's skill activation count is 4 or more, acquire $136pt$ of Voltage Points / When the total number of skill activations is 25 or more, the score acquisition effect skill increases score acquisition by $348.75%$ for one turn",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -3276,6 +3432,19 @@
     }
   },
   {
+    "raw": "このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$145.6%$上昇／このカードのスキル発動回数が4回以上の時、ボルテージPt.を$145pt$獲得／スキルの合計発動回数が25回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$372%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$145.6%$／此卡技能发动4次以上时，获得Vo Pt.$145pt$／技能总发动次数25次以上时，获得分数效果技能获得的分数值单次提升$372%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $145.6%$ for one turn / When this card's skill activation count is 4 or more, acquire $145pt$ of Voltage Points / When the total number of skill activations is 25 or more, the score acquisition effect skill increases score acquisition by $372%$ for one turn",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$15%$上昇／このカードのスキル発動回数が4回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$15%$上昇／このカードのスキル発動回数が6回以上の時、APを$2$回復",
     "translation": {
       "en": {
@@ -3302,6 +3471,19 @@
     }
   },
   {
+    "raw": "このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$154.7%$上昇／このカードのスキル発動回数が4回以上の時、ボルテージPt.を$154pt$獲得／スキルの合計発動回数が25回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$395.25%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$154.7%$／此卡技能发动4次以上时，获得Vo Pt.$154pt$／技能总发动次数25次以上时，获得分数效果技能获得的分数值单次提升$395.25%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $154.7%$ for one turn / When this card's skill activation count is 4 or more, acquire $154pt$ of Voltage Points / When the total number of skill activations is 25 or more, the score acquisition effect skill increases score acquisition by $395.25%$ for one turn",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$16%$上昇／このカードのスキル発動回数が4回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$16%$上昇／このカードのスキル発動回数が6回以上の時、APを$2$回復",
     "translation": {
       "en": {
@@ -3324,6 +3506,19 @@
       "en": {
         "text": "When this card's skill activation count is 3 or less, Voltage gain from Voltage acquisition effect skills increases by $162%$ for one time / When this card's skill activation count is 3 or less, return the next skill to be activated in order starting from the 1st card in the deck (excluded cards will not return) / When this card's skill activation count is 4 or more, score gain from score acquisition effect skills increases by $162%$ for one time",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$163.8%$上昇／このカードのスキル発動回数が4回以上の時、ボルテージPt.を$163pt$獲得／スキルの合計発動回数が25回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$418.5%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$163.8%$／此卡技能发动4次以上时，获得Vo Pt.$163pt$／技能总发动次数25次以上时，获得分数效果技能获得的分数值单次提升$418.5%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $163.8%$ for one turn / When this card's skill activation count is 4 or more, acquire $163pt$ of Voltage Points / When the total number of skill activations is 25 or more, the score acquisition effect skill increases score acquisition by $418.5%$ for one turn",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -3367,6 +3562,19 @@
     }
   },
   {
+    "raw": "このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$182%$上昇／このカードのスキル発動回数が4回以上の時、ボルテージPt.を$182pt$獲得／スキルの合計発動回数が25回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$465%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$182%$／此卡技能发动4次以上时，获得Vo Pt.$182pt$／技能总发动次数25次以上时，获得分数效果技能获得的分数值单次提升$465%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $182%$ for one turn / When this card's skill activation count is 4 or more, acquire $182pt$ of Voltage Points / When the total number of skill activations is 25 or more, the score acquisition effect skill increases score acquisition by $465%$ for one turn",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$183.6%$上昇／このカードのスキル発動回数が3回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が4回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$183.6%$上昇",
     "translation": {
       "zh-CN": {
@@ -3406,6 +3614,19 @@
     }
   },
   {
+    "raw": "このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$200.2%$上昇／このカードのスキル発動回数が4回以上の時、ボルテージPt.を$200pt$獲得／スキルの合計発動回数が25回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$511.5%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$200.2%$／此卡技能发动4次以上时，获得Vo Pt.$200pt$／技能总发动次数25次以上时，获得分数效果技能获得的分数值单次提升$511.5%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $200.2%$ for one turn / When this card's skill activation count is 4 or more, acquire $200pt$ of Voltage Points / When the total number of skill activations is 25 or more, the score acquisition effect skill increases score acquisition by $511.5%$ for one turn",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$216%$上昇／このカードのスキル発動回数が3回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が4回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$216%$上昇",
     "translation": {
       "zh-CN": {
@@ -3419,6 +3640,19 @@
     }
   },
   {
+    "raw": "このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$218.4%$上昇／このカードのスキル発動回数が4回以上の時、ボルテージPt.を$218pt$獲得／スキルの合計発動回数が25回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$558%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$218.4%$／此卡技能发动4次以上时，获得Vo Pt.$218pt$／技能总发动次数25次以上时，获得分数效果技能获得的分数值单次提升$558%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $218.4%$ for one turn / When this card's skill activation count is 4 or more, acquire $218pt$ of Voltage Points / When the total number of skill activations is 25 or more, the score acquisition effect skill increases score acquisition by $558%$ for one turn",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$22%$上昇／このカードのスキル発動回数が4回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$22%$上昇／このカードのスキル発動回数が6回以上の時、APを$2$回復",
     "translation": {
       "en": {
@@ -3428,6 +3662,19 @@
       "zh-CN": {
         "text": "此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$22%$／此卡技能发动4次以上时，获得分数效果技能获得的分数值单次提升$22%$／此卡技能发动6次以上时，AP回复$2$",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$236.6%$上昇／このカードのスキル発動回数が4回以上の時、ボルテージPt.を$236pt$獲得／スキルの合計発動回数が25回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$604.5%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$236.6%$／此卡技能发动4次以上时，获得Vo Pt.$236pt$／技能总发动次数25次以上时，获得分数效果技能获得的分数值单次提升$604.5%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $236.6%$ for one turn / When this card's skill activation count is 4 or more, acquire $236pt$ of Voltage Points / When the total number of skill activations is 25 or more, the score acquisition effect skill increases score acquisition by $604.5%$ for one turn",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -3480,6 +3727,19 @@
       "zh-CN": {
         "text": "此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$26%$／此卡技能发动4次以上时，获得分数效果技能获得的分数值单次提升$26%$／此卡技能发动6次以上时，AP回复$3$",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$273%$上昇／このカードのスキル発動回数が4回以上の時、ボルテージPt.を$273pt$獲得／スキルの合計発動回数が25回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$697.5%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$273%$／此卡技能发动4次以上时，获得Vo Pt.$273pt$／技能总发动次数25次以上时，获得分数效果技能获得的分数值单次提升$697.5%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $273%$ for one turn / When this card's skill activation count is 4 or more, acquire $273pt$ of Voltage Points / When the total number of skill activations is 25 or more, the score acquisition effect skill increases score acquisition by $697.5%$ for one turn",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -3636,6 +3896,19 @@
       "zh-CN": {
         "text": "此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$82.8%$／此卡技能发动3次以下时，下次发动的技能按卡组第1张开始的顺序返回（被移除的卡牌不会返回）／此卡技能发动4次以上时，获得分数效果技能获得的分数值单次提升$82.8%$",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$91%$上昇／このカードのスキル発動回数が4回以上の時、ボルテージPt.を$91pt$獲得／スキルの合計発動回数が25回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$232.5%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$91%$／此卡技能发动4次以上时，获得Vo Pt.$91pt$／技能总发动次数25次以上时，获得分数效果技能获得的分数值单次提升$232.5%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $91%$ for one turn / When this card's skill activation count is 4 or more, acquire $91pt$ of Voltage Points / When the total number of skill activations is 25 or more, the score acquisition effect skill increases score acquisition by $232.5%$ for one turn",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -24388,6 +24661,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$175pt$獲得／このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$390%$上昇／このカードのスキル発動回数が3回以下の時、APを$2$回復／スキルの合計発動回数が15回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$175pt$／此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$390%$／此卡技能发动3次以下时，AP回复$2$／技能总发动次数15次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $175pt$ of Voltage Points / When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $390%$ for one turn / When this card's skill activation count is 3 or less, restore $2$ AP / When the total number of skill activations is 15 or more, remove this card from play",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$175pt$獲得／このカードのスキル発動回数が4回以下の時、APを5回復／このカードのスキル発動回数が2回以下の時、APを5回復",
     "translation": {
       "zh-CN": {
@@ -24856,6 +25142,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$192pt$獲得／このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$429%$上昇／このカードのスキル発動回数が3回以下の時、APを$2$回復／スキルの合計発動回数が15回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$192pt$／此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$429%$／此卡技能发动3次以下时，AP回复$2$／技能总发动次数15次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $192pt$ of Voltage Points / When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $429%$ for one turn / When this card's skill activation count is 3 or less, restore $2$ AP / When the total number of skill activations is 15 or more, remove this card from play",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$193pt$獲得",
     "translation": {
       "zh-CN": {
@@ -25298,6 +25597,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$208pt$獲得／スキルの合計発動回数が3回以下の時、ボルテージPt.を$416pt$獲得／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$208pt$／技能总发动次数3次以下时，获得Vo Pt.$416pt$／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $208pt$ of Voltage Points / When the total number of skill activations is 3 or less, acquire $416pt$ of Voltage Points / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$208pt$獲得／メンタルが最大値の10％以下の時、ボルテージPt.を$459pt$獲得／このカードのスキル発動回数が1回以下の時、このカードを除外する",
     "translation": {
       "en": {
@@ -25424,6 +25736,19 @@
       "en": {
         "text": "Acquire $210pt$ of Voltage Points / When this card's skill activation count is 2 or more, reduce AP by $13$ / When this card's skill activation count is 2 or more, acquire $297pt$ of Voltage Points / When this card's skill activation count is 2 or more, remove this card from play",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$210pt$獲得／このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$468%$上昇／このカードのスキル発動回数が3回以下の時、APを$3$回復／スキルの合計発動回数が15回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$210pt$／此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$468%$／此卡技能发动3次以下时，AP回复$3$／技能总发动次数15次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $210pt$ of Voltage Points / When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $468%$ for one turn / When this card's skill activation count is 3 or less, restore $3$ AP / When the total number of skill activations is 15 or more, remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -25645,6 +25970,32 @@
       "en": {
         "text": "Gain $224pt$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$227pt$獲得／このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$507%$上昇／このカードのスキル発動回数が3回以下の時、APを$3$回復／スキルの合計発動回数が15回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$227pt$／此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$507%$／此卡技能发动3次以下时，AP回复$3$／技能总发动次数15次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $227pt$ of Voltage Points / When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $507%$ for one turn / When this card's skill activation count is 3 or less, restore $3$ AP / When the total number of skill activations is 15 or more, remove this card from play",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$228pt$獲得／スキルの合計発動回数が3回以下の時、ボルテージPt.を$457pt$獲得／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$228pt$／技能总发动次数3次以下时，获得Vo Pt.$457pt$／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $228pt$ of Voltage Points / When the total number of skill activations is 3 or less, acquire $457pt$ of Voltage Points / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -26039,6 +26390,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$245pt$獲得／このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$546%$上昇／このカードのスキル発動回数が3回以下の時、APを$3$回復／スキルの合計発動回数が15回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$245pt$／此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$546%$／此卡技能发动3次以下时，AP回复$3$／技能总发动次数15次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $245pt$ of Voltage Points / When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $546%$ for one turn / When this card's skill activation count is 3 or less, restore $3$ AP / When the total number of skill activations is 15 or more, remove this card from play",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$245pt$獲得／最大値の$25%$分のメンタルを減少（この効果ではメンタルが0にならない）／メンタルが最大値の50％以上の時、APを$3$回復",
     "translation": {
       "zh-CN": {
@@ -26074,6 +26438,19 @@
       "en": {
         "text": "Acquire $248pt$ of Voltage Points / When Mental is 1% or less of its maximum value, acquire $497pt$ of Voltage Points / When Mental is 1% or less of its maximum value, reduce AP by $17$ / When this card's skill activation count is 3 or more, remove this card from play",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$249pt$獲得／スキルの合計発動回数が3回以下の時、ボルテージPt.を$499pt$獲得／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$249pt$／技能总发动次数3次以下时，获得Vo Pt.$499pt$／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $249pt$ of Voltage Points / When the total number of skill activations is 3 or less, acquire $499pt$ of Voltage Points / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -26273,6 +26650,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$262pt$獲得／このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$585%$上昇／このカードのスキル発動回数が3回以下の時、APを$4$回復／スキルの合計発動回数が15回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$262pt$／此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$585%$／此卡技能发动3次以下时，AP回复$4$／技能总发动次数15次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $262pt$ of Voltage Points / When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $585%$ for one turn / When this card's skill activation count is 3 or less, restore $4$ AP / When the total number of skill activations is 15 or more, remove this card from play",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$267pt$獲得／このカードのスキル発動回数が2回以上の時、APを$13$減少／このカードのスキル発動回数が2回以上の時、ボルテージPt.を$379pt$獲得／このカードのスキル発動回数が2回以上の時、このカードを除外する",
     "translation": {
       "zh-CN": {
@@ -26334,6 +26724,19 @@
       "en": {
         "text": "Gain $270pt$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$270pt$獲得／スキルの合計発動回数が3回以下の時、ボルテージPt.を$541pt$獲得／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$270pt$／技能总发动次数3次以下时，获得Vo Pt.$541pt$／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $270pt$ of Voltage Points / When the total number of skill activations is 3 or less, acquire $541pt$ of Voltage Points / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -26507,6 +26910,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$280pt$獲得／このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$624%$上昇／このカードのスキル発動回数が3回以下の時、APを$4$回復／スキルの合計発動回数が15回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$280pt$／此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$624%$／此卡技能发动3次以下时，AP回复$4$／技能总发动次数15次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $280pt$ of Voltage Points / When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $624%$ for one turn / When this card's skill activation count is 3 or less, restore $4$ AP / When the total number of skill activations is 15 or more, remove this card from play",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$282pt$獲得／ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$282.75%$上昇／このカードのスキル発動回数が1回以下の時、APを$10$回復／このカードのスキル発動回数が1回以下の時、次に発動するスキルをデッキの1枚目から順に戻す（除外されたカードは戻らない）／このカードのスキル発動回数が2回以上の時、このカードを除外する／APを$9$回復",
     "translation": {
       "zh-CN": {
@@ -26598,6 +27014,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$291pt$獲得／スキルの合計発動回数が3回以下の時、ボルテージPt.を$582pt$獲得／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$291pt$／技能总发动次数3次以下时，获得Vo Pt.$582pt$／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $291pt$ of Voltage Points / When the total number of skill activations is 3 or less, acquire $582pt$ of Voltage Points / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$292pt$獲得／このカードを除外する",
     "translation": {
       "zh-CN": {
@@ -26620,6 +27049,19 @@
       "en": {
         "text": "Gain $292pt$ Voltage Pt. / When total skill activation count is 10 or more times, gain $468pt$ Voltage Pt. / Remove this card",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$297pt$獲得／このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$663%$上昇／このカードのスキル発動回数が3回以下の時、APを$4$回復／スキルの合計発動回数が15回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$297pt$／此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$663%$／此卡技能发动3次以下时，AP回复$4$／技能总发动次数15次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $297pt$ of Voltage Points / When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $663%$ for one turn / When this card's skill activation count is 3 or less, restore $4$ AP / When the total number of skill activations is 15 or more, remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -26780,6 +27222,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$312pt$獲得／スキルの合計発動回数が3回以下の時、ボルテージPt.を$624pt$獲得／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$312pt$／技能总发动次数3次以下时，获得Vo Pt.$624pt$／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $312pt$ of Voltage Points / When the total number of skill activations is 3 or less, acquire $624pt$ of Voltage Points / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$312pt$獲得／メンタルが最大値の10％以下の時、ボルテージPt.を$688pt$獲得／このカードのスキル発動回数が1回以下の時、このカードを除外する",
     "translation": {
       "en": {
@@ -26789,6 +27244,19 @@
       "zh-CN": {
         "text": "获得Vo Pt.$312pt$／Mental在最大值10%以下时，获得Vo Pt.$688pt$／此卡技能发动1次以下时，移除此卡",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$315pt$獲得／このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$702%$上昇／このカードのスキル発動回数が3回以下の時、APを$4$回復／スキルの合計発動回数が15回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$315pt$／此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$702%$／此卡技能发动3次以下时，AP回复$4$／技能总发动次数15次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $315pt$ of Voltage Points / When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $702%$ for one turn / When this card's skill activation count is 3 or less, restore $4$ AP / When the total number of skill activations is 15 or more, remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -26919,6 +27387,19 @@
       "en": {
         "text": "Gain $32pt$ Voltage Pt. / During FEVER, gain $64pt$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$333pt$獲得／スキルの合計発動回数が3回以下の時、ボルテージPt.を$666pt$獲得／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$333pt$／技能总发动次数3次以下时，获得Vo Pt.$666pt$／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $333pt$ of Voltage Points / When the total number of skill activations is 3 or less, acquire $666pt$ of Voltage Points / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -27274,6 +27755,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$350pt$獲得／このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$780%$上昇／このカードのスキル発動回数が3回以下の時、APを$5$回復／スキルの合計発動回数が15回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$350pt$／此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$780%$／此卡技能发动3次以下时，AP回复$5$／技能总发动次数15次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $350pt$ of Voltage Points / When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $780%$ for one turn / When this card's skill activation count is 3 or less, restore $5$ AP / When the total number of skill activations is 15 or more, remove this card from play",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$351pt$獲得／このカードを除外する",
     "translation": {
       "zh-CN": {
@@ -27283,6 +27777,19 @@
       "en": {
         "text": "Gain $351pt$ Voltage Pt. / Remove this card",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$353pt$獲得／スキルの合計発動回数が3回以下の時、ボルテージPt.を$707pt$獲得／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$353pt$／技能总发动次数3次以下时，获得Vo Pt.$707pt$／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $353pt$ of Voltage Points / When the total number of skill activations is 3 or less, acquire $707pt$ of Voltage Points / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -27413,6 +27920,19 @@
       "en": {
         "text": "Gain $36pt$ Voltage Pt. / During FEVER, gain $72pt$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$374pt$獲得／スキルの合計発動回数が3回以下の時、ボルテージPt.を$749pt$獲得／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$374pt$／技能总发动次数3次以下时，获得Vo Pt.$749pt$／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $374pt$ of Voltage Points / When the total number of skill activations is 3 or less, acquire $749pt$ of Voltage Points / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -27725,6 +28245,19 @@
       "en": {
         "text": "Acquire $382pt$ of Voltage Points / When Mental is 1% or less of its maximum value, acquire $765pt$ of Voltage Points / When Mental is 1% or less of its maximum value, reduce AP by $17$ / When this card's skill activation count is 3 or more, remove this card from play",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$385pt$獲得／このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$858%$上昇／このカードのスキル発動回数が3回以下の時、APを$5$回復／スキルの合計発動回数が15回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$385pt$／此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$858%$／此卡技能发动3次以下时，AP回复$5$／技能总发动次数15次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $385pt$ of Voltage Points / When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $858%$ for one turn / When this card's skill activation count is 3 or less, restore $5$ AP / When the total number of skill activations is 15 or more, remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -28093,6 +28626,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$416pt$獲得／スキルの合計発動回数が3回以下の時、ボルテージPt.を$832pt$獲得／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$416pt$／技能总发动次数3次以下时，获得Vo Pt.$832pt$／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $416pt$ of Voltage Points / When the total number of skill activations is 3 or less, acquire $832pt$ of Voltage Points / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$418pt$獲得／スキルの合計発動回数が3回以下の時、ボルテージPt.を$936pt$獲得／このカードを除外する／APを$20$回復",
     "translation": {
       "zh-CN": {
@@ -28271,6 +28817,19 @@
       "en": {
         "text": "Acquire $420pt$ of Voltage Points / When this card's skill activation count is 2 or more, reduce AP by $13$ / When this card's skill activation count is 2 or more, acquire $595pt$ of Voltage Points / When this card's skill activation count is 2 or more, remove this card from play",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$420pt$獲得／このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$936%$上昇／このカードのスキル発動回数が3回以下の時、APを$6$回復／スキルの合計発動回数が15回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$420pt$／此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$936%$／此卡技能发动3次以下时，AP回复$6$／技能总发动次数15次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $420pt$ of Voltage Points / When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $936%$ for one turn / When this card's skill activation count is 3 or less, restore $6$ AP / When the total number of skill activations is 15 or more, remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -28505,6 +29064,32 @@
       "en": {
         "text": "Gain $43pt$ Voltage Pt. / When Mental is at 70% or above of maximum value, gain $70pt$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$455pt$獲得／このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$1014%$上昇／このカードのスキル発動回数が3回以下の時、APを$6$回復／スキルの合計発動回数が15回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$455pt$／此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$1014%$／此卡技能发动3次以下时，AP回复$6$／技能总发动次数15次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $455pt$ of Voltage Points / When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $1014%$ for one turn / When this card's skill activation count is 3 or less, restore $6$ AP / When the total number of skill activations is 15 or more, remove this card from play",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$457pt$獲得／スキルの合計発動回数が3回以下の時、ボルテージPt.を$915pt$獲得／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$457pt$／技能总发动次数3次以下时，获得Vo Pt.$915pt$／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $457pt$ of Voltage Points / When the total number of skill activations is 3 or less, acquire $915pt$ of Voltage Points / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -29432,6 +30017,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$499pt$獲得／スキルの合計発動回数が3回以下の時、ボルテージPt.を$999pt$獲得／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$499pt$／技能总发动次数3次以下时，获得Vo Pt.$999pt$／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $499pt$ of Voltage Points / When the total number of skill activations is 3 or less, acquire $999pt$ of Voltage Points / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$49pt$獲得／このカードのスキル発動回数が1回以下の時、ボルテージPt.を$98pt$獲得",
     "translation": {
       "zh-CN": {
@@ -29913,6 +30511,19 @@
     }
   },
   {
+    "raw": "ボルテージPt.を$525pt$獲得／このカードのスキル発動回数が3回以下の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$1170%$上昇／このカードのスキル発動回数が3回以下の時、APを$8$回復／スキルの合計発動回数が15回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$525pt$／此卡技能发动3次以下时，获得Voltage效果技能的Voltage获得量单次提升$1170%$／此卡技能发动3次以下时，AP回复$8$／技能总发动次数15次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $525pt$ of Voltage Points / When this card's skill activation count is 3 or less, the voltage acquisition effect skill increases voltage acquisition by $1170%$ for one turn / When this card's skill activation count is 3 or less, restore $8$ AP / When the total number of skill activations is 15 or more, remove this card from play",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ボルテージPt.を$526pt$獲得／このカードを除外する",
     "translation": {
       "zh-CN": {
@@ -30221,6 +30832,19 @@
       "en": {
         "text": "Gain $53pt$ Voltage Pt. / When Mental is at 70% or more of maximum value, gain $85pt$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$541pt$獲得／スキルの合計発動回数が3回以下の時、ボルテージPt.を$1082pt$獲得／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$541pt$／技能总发动次数3次以下时，获得Vo Pt.$1082pt$／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $541pt$ of Voltage Points / When the total number of skill activations is 3 or less, acquire $1082pt$ of Voltage Points / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -31664,6 +32288,19 @@
       "en": {
         "text": "Gain $61pt$ Voltage Pt. / When Mental is at 70% or more of maximum value, gain $98pt$ Voltage Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージPt.を$624pt$獲得／スキルの合計発動回数が3回以下の時、ボルテージPt.を$1248pt$獲得／このカードのスキル発動回数が2回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Vo Pt.$624pt$／技能总发动次数3次以下时，获得Vo Pt.$1248pt$／此卡技能发动2次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire $624pt$ of Voltage Points / When the total number of skill activations is 3 or less, acquire $1248pt$ of Voltage Points / When this card's skill activation count is 2 or more, remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -37193,6 +37830,19 @@
     }
   },
   {
+    "raw": "ボルテージゲイン&ボルテージ獲得量アップ&APゲイン",
+    "translation": {
+      "zh-CN": {
+        "text": "Voltage获得&Voltage获得量提升&AP获得",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Voltage Gain & Voltage Acquisition Increase & AP Gain",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ボルテージゲイン&メンタルダメージ&APゲイン",
     "translation": {
       "zh-CN": {
@@ -40144,6 +40794,19 @@
     }
   },
   {
+    "raw": "ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$27%$上昇／メンタルが最大値の100％以上の時、APを$3$回復／このカードのスキル発動回数が3回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Voltage效果技能的Voltage获得量单次提升$27%$／Mental为最大值的100%以上时，AP回复$3$／此卡技能发动3次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The voltage acquisition effect skill increases voltage acquisition by $27%$ for one turn / When Mental is 100% or more of its maximum value, restore $3$ AP / When this card's skill activation count is 3 or more, remove this card from play",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$27%$上昇／メンタルが最大値の50％以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$28.98%$上昇",
     "translation": {
       "zh-CN": {
@@ -40339,6 +41002,19 @@
     }
   },
   {
+    "raw": "ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$29.7%$上昇／メンタルが最大値の100％以上の時、APを$3$回復／このカードのスキル発動回数が3回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Voltage效果技能的Voltage获得量单次提升$29.7%$／Mental为最大值的100%以上时，AP回复$3$／此卡技能发动3次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The voltage acquisition effect skill increases voltage acquisition by $29.7%$ for one turn / When Mental is 100% or more of its maximum value, restore $3$ AP / When this card's skill activation count is 3 or more, remove this card from play",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$29.7%$上昇／メンタルが最大値の50％以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$31.87%$上昇",
     "translation": {
       "zh-CN": {
@@ -40504,6 +41180,19 @@
       "en": {
         "text": "Voltage gained from Voltage-gaining effect skills increases by $32.4%$ for one time／When total skill activation count is 6 or less, Voltage gained from Voltage-gaining effect skills increases by $58.32%$ for one time",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$32.4%$上昇／メンタルが最大値の100％以上の時、APを$3$回復／このカードのスキル発動回数が3回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Voltage效果技能的Voltage获得量单次提升$32.4%$／Mental为最大值的100%以上时，AP回复$3$／此卡技能发动3次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The voltage acquisition effect skill increases voltage acquisition by $32.4%$ for one turn / When Mental is 100% or more of its maximum value, restore $3$ AP / When this card's skill activation count is 3 or more, remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -40686,6 +41375,19 @@
       "en": {
         "text": "Voltage gained from Voltage-gaining effect skills increases by $35.1%$ for one time／When total skill activation count is 6 or less, Voltage gained from Voltage-gaining effect skills increases by $63.18%$ for one time",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$35.1%$上昇／メンタルが最大値の100％以上の時、APを$3$回復／このカードのスキル発動回数が3回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Voltage效果技能的Voltage获得量单次提升$35.1%$／Mental为最大值的100%以上时，AP回复$3$／此卡技能发动3次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The voltage acquisition effect skill increases voltage acquisition by $35.1%$ for one turn / When Mental is 100% or more of its maximum value, restore $3$ AP / When this card's skill activation count is 3 or more, remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -40911,6 +41613,19 @@
     }
   },
   {
+    "raw": "ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$37.8%$上昇／メンタルが最大値の100％以上の時、APを$4$回復／このカードのスキル発動回数が3回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Voltage效果技能的Voltage获得量单次提升$37.8%$／Mental为最大值的100%以上时，AP回复$4$／此卡技能发动3次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The voltage acquisition effect skill increases voltage acquisition by $37.8%$ for one turn / When Mental is 100% or more of its maximum value, restore $4$ AP / When this card's skill activation count is 3 or more, remove this card from play",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$37.8%$上昇／メンタルが最大値の50％以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$40.57%$上昇",
     "translation": {
       "zh-CN": {
@@ -41050,6 +41765,19 @@
       "en": {
         "text": "Voltage gain from Voltage acquisition effect skills increases by $40.5%$ for one use / When total skill activation count is 6 or fewer, Voltage gain from Voltage acquisition effect skills increases by $72.9%$ for one use",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$40.5%$上昇／メンタルが最大値の100％以上の時、APを$4$回復／このカードのスキル発動回数が3回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Voltage效果技能的Voltage获得量单次提升$40.5%$／Mental为最大值的100%以上时，AP回复$4$／此卡技能发动3次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The voltage acquisition effect skill increases voltage acquisition by $40.5%$ for one turn / When Mental is 100% or more of its maximum value, restore $4$ AP / When this card's skill activation count is 3 or more, remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -41258,6 +41986,19 @@
       "en": {
         "text": "Voltage gain from Voltage acquisition effect skills increases by $43.2%$ for one use / When total skill activation count is 6 or fewer, Voltage gain from Voltage acquisition effect skills increases by $77.76%$ for one use",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$43.2%$上昇／メンタルが最大値の100％以上の時、APを$4$回復／このカードのスキル発動回数が3回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Voltage效果技能的Voltage获得量单次提升$43.2%$／Mental为最大值的100%以上时，AP回复$4$／此卡技能发动3次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The voltage acquisition effect skill increases voltage acquisition by $43.2%$ for one turn / When Mental is 100% or more of its maximum value, restore $4$ AP / When this card's skill activation count is 3 or more, remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -41479,6 +42220,19 @@
       "en": {
         "text": "Voltage gained from Voltage acquisition effect skills increases by $45.9%$ for one activation / When total skill activation count is 6 or fewer, Voltage gained from Voltage acquisition effect skills increases by $82.62%$ for one activation",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$45.9%$上昇／メンタルが最大値の100％以上の時、APを$5$回復／このカードのスキル発動回数が3回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Voltage效果技能的Voltage获得量单次提升$45.9%$／Mental为最大值的100%以上时，AP回复$5$／此卡技能发动3次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The voltage acquisition effect skill increases voltage acquisition by $45.9%$ for one turn / When Mental is 100% or more of its maximum value, restore $5$ AP / When this card's skill activation count is 3 or more, remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -41752,6 +42506,19 @@
       "en": {
         "text": "Voltage gained from Voltage gain effect skills increases by $48.6%$ for 1 time / When total skill activation count is 6 or less, Voltage gained from Voltage gain effect skills increases by $87.48%$ for 1 time",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$48.6%$上昇／メンタルが最大値の100％以上の時、APを$5$回復／このカードのスキル発動回数が3回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Voltage效果技能的Voltage获得量单次提升$48.6%$／Mental为最大值的100%以上时，AP回复$5$／此卡技能发动3次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The voltage acquisition effect skill increases voltage acquisition by $48.6%$ for one turn / When Mental is 100% or more of its maximum value, restore $5$ AP / When this card's skill activation count is 3 or more, remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -42155,6 +42922,19 @@
       "en": {
         "text": "Voltage gained from Voltage acquisition effect skills increases by $54%$ for one activation / When total skill activation count is 6 or fewer, Voltage gained from Voltage acquisition effect skills increases by $97.2%$ for one activation",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$54%$上昇／メンタルが最大値の100％以上の時、APを$6$回復／このカードのスキル発動回数が3回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Voltage效果技能的Voltage获得量单次提升$54%$／Mental为最大值的100%以上时，AP回复$6$／此卡技能发动3次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The voltage acquisition effect skill increases voltage acquisition by $54%$ for one turn / When Mental is 100% or more of its maximum value, restore $6$ AP / When this card's skill activation count is 3 or more, remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -42610,6 +43390,19 @@
       "en": {
         "text": "Voltage gained from Voltage acquisition effect skills increases by $59.4%$ for 1 activation / When total skill activations are 6 or fewer, Voltage gained from Voltage acquisition effect skills increases by $81.97%$ for 1 activation",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$59.4%$上昇／メンタルが最大値の100％以上の時、APを$6$回復／このカードのスキル発動回数が3回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Voltage效果技能的Voltage获得量单次提升$59.4%$／Mental为最大值的100%以上时，AP回复$6$／此卡技能发动3次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The voltage acquisition effect skill increases voltage acquisition by $59.4%$ for one turn / When Mental is 100% or more of its maximum value, restore $6$ AP / When this card's skill activation count is 3 or more, remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -43121,6 +43914,19 @@
     }
   },
   {
+    "raw": "ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$64.8%$上昇／メンタルが最大値の100％以上の時、APを$7$回復／このカードのスキル発動回数が3回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Voltage效果技能的Voltage获得量单次提升$64.8%$／Mental为最大值的100%以上时，AP回复$7$／此卡技能发动3次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The voltage acquisition effect skill increases voltage acquisition by $64.8%$ for one turn / When Mental is 100% or more of its maximum value, restore $7$ AP / When this card's skill activation count is 3 or more, remove this card from play",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$64.8%$上昇／メンタルが最大値の50％以上の時、ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$69.55%$上昇",
     "translation": {
       "zh-CN": {
@@ -43611,6 +44417,19 @@
       "en": {
         "text": "Voltage gained from Voltage gain effect skills increases by $70.2%$ for one instance / When total skill activation count is 6 or less, Voltage gained from Voltage gain effect skills increases by $96.87%$ for one instance",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$70.2%$上昇／メンタルが最大値の100％以上の時、APを$7$回復／このカードのスキル発動回数が3回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Voltage效果技能的Voltage获得量单次提升$70.2%$／Mental为最大值的100%以上时，AP回复$7$／此卡技能发动3次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The voltage acquisition effect skill increases voltage acquisition by $70.2%$ for one turn / When Mental is 100% or more of its maximum value, restore $7$ AP / When this card's skill activation count is 3 or more, remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -44482,6 +45301,19 @@
       "en": {
         "text": "Voltage gain from Voltage-gaining effect skills increases by $81%$ for 1 activation / When total skill activations are 6 or fewer, Voltage gain from Voltage-gaining effect skills increases by $145.8%$ for 1 activation",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージ獲得効果スキルによるボルテージ獲得量が、1回の間$81%$上昇／メンタルが最大値の100％以上の時、APを$9$回復／このカードのスキル発動回数が3回以上の時、このカードを除外する",
+    "translation": {
+      "zh-CN": {
+        "text": "获得Voltage效果技能的Voltage获得量单次提升$81%$／Mental为最大值的100%以上时，AP回复$9$／此卡技能发动3次以上时，移除此卡",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The voltage acquisition effect skill increases voltage acquisition by $81%$ for one turn / When Mental is 100% or more of its maximum value, restore $9$ AP / When this card's skill activation count is 3 or more, remove this card from play",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -45652,6 +46484,19 @@
       "en": {
         "text": "Voltage Acquisition Up",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボルテージ獲得量アップ&APゲイン",
+    "translation": {
+      "zh-CN": {
+        "text": "Voltage获得量提升&AP获得",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Voltage Acquisition Increase & AP Gain",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -57473,6 +58318,19 @@
     }
   },
   {
+    "raw": "合計アピール値の$210%$のスコアを獲得／このカードのスキル発動回数が5回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$438.75%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "获得总分值$210%$的分数／此卡技能发动5次以上时，获得分数效果技能获得的分数值单次提升$438.75%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire a score equal to $210%$ of the total Appeal Value / When this card's skill activation count is 5 or more, the score acquisition effect skill increases score acquisition by $438.75%$ for one turn",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "合計アピール値の$210.37%$のスコアを獲得",
     "translation": {
       "zh-CN": {
@@ -57924,6 +58782,19 @@
       "en": {
         "text": "Gain score equal to $229.68%$ of total appeal value / When Mental is at 75% or less of maximum value, recover 5 AP / When Mental is at 25% or less of maximum value, recover 5 AP",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "合計アピール値の$231%$のスコアを獲得／このカードのスキル発動回数が5回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$482.62%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "获得总分值$231%$的分数／此卡技能发动5次以上时，获得分数效果技能获得的分数值单次提升$482.62%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire a score equal to $231%$ of the total Appeal Value / When this card's skill activation count is 5 or more, the score acquisition effect skill increases score acquisition by $482.62%$ for one turn",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -58487,6 +59358,19 @@
     }
   },
   {
+    "raw": "合計アピール値の$252%$のスコアを獲得／このカードのスキル発動回数が5回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$526.5%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "获得总分值$252%$的分数／此卡技能发动5次以上时，获得分数效果技能获得的分数值单次提升$526.5%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire a score equal to $252%$ of the total Appeal Value / When this card's skill activation count is 5 or more, the score acquisition effect skill increases score acquisition by $526.5%$ for one turn",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "合計アピール値の$252.72%$のスコアを獲得",
     "translation": {
       "zh-CN": {
@@ -58756,6 +59640,19 @@
       "en": {
         "text": "Gain score equal to $27.3%$ of total appeal value / During FEVER, gain score equal to $54.6%$ of total appeal value",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "合計アピール値の$273%$のスコアを獲得／このカードのスキル発動回数が5回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$570.37%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "获得总分值$273%$的分数／此卡技能发动5次以上时，获得分数效果技能获得的分数值单次提升$570.37%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire a score equal to $273%$ of the total Appeal Value / When this card's skill activation count is 5 or more, the score acquisition effect skill increases score acquisition by $570.37%$ for one turn",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -59137,6 +60034,19 @@
     }
   },
   {
+    "raw": "合計アピール値の$294%$のスコアを獲得／このカードのスキル発動回数が5回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$614.25%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "获得总分值$294%$的分数／此卡技能发动5次以上时，获得分数效果技能获得的分数值单次提升$614.25%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire a score equal to $294%$ of the total Appeal Value / When this card's skill activation count is 5 or more, the score acquisition effect skill increases score acquisition by $614.25%$ for one turn",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "合計アピール値の$294.52%$のスコアを獲得／最大値の$25%$分のメンタルを減少（この効果ではメンタルが0にならない）／メンタルが最大値の50％以上の時、APを$3$回復",
     "translation": {
       "zh-CN": {
@@ -59371,6 +60281,19 @@
     }
   },
   {
+    "raw": "合計アピール値の$315%$のスコアを獲得／このカードのスキル発動回数が5回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$658.12%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "获得总分值$315%$的分数／此卡技能发动5次以上时，获得分数效果技能获得的分数值单次提升$658.12%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire a score equal to $315%$ of the total Appeal Value / When this card's skill activation count is 5 or more, the score acquisition effect skill increases score acquisition by $658.12%$ for one turn",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "合計アピール値の$315.9%$のスコアを獲得",
     "translation": {
       "zh-CN": {
@@ -59592,6 +60515,19 @@
     }
   },
   {
+    "raw": "合計アピール値の$336%$のスコアを獲得／このカードのスキル発動回数が5回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$702%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "获得总分值$336%$的分数／此卡技能发动5次以上时，获得分数效果技能获得的分数值单次提升$702%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire a score equal to $336%$ of the total Appeal Value / When this card's skill activation count is 5 or more, the score acquisition effect skill increases score acquisition by $702%$ for one turn",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "合計アピール値の$336.96%$のスコアを獲得",
     "translation": {
       "zh-CN": {
@@ -59722,6 +60658,19 @@
     }
   },
   {
+    "raw": "合計アピール値の$357%$のスコアを獲得／このカードのスキル発動回数が5回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$745.87%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "获得总分值$357%$的分数／此卡技能发动5次以上时，获得分数效果技能获得的分数值单次提升$745.87%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire a score equal to $357%$ of the total Appeal Value / When this card's skill activation count is 5 or more, the score acquisition effect skill increases score acquisition by $745.87%$ for one turn",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "合計アピール値の$358.02%$のスコアを獲得",
     "translation": {
       "zh-CN": {
@@ -59848,6 +60797,19 @@
       "en": {
         "text": "Acquire a score equal to $374.62%$ of the total Appeal Value / When Mental is 1% or less of its maximum value, the score acquisition effect skill increases score acquisition by $202.5%$ for one turn / When Mental is 1% or less of its maximum value, reduce AP by $8$",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "合計アピール値の$378%$のスコアを獲得／このカードのスキル発動回数が5回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$789.75%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "获得总分值$378%$的分数／此卡技能发动5次以上时，获得分数效果技能获得的分数值单次提升$789.75%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire a score equal to $378%$ of the total Appeal Value / When this card's skill activation count is 5 or more, the score acquisition effect skill increases score acquisition by $789.75%$ for one turn",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -60225,6 +61187,19 @@
       "en": {
         "text": "Gain score equal to $42.12%$ of total appeal value / During FEVER, gain score equal to $84.24%$ of total appeal value",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "合計アピール値の$420%$のスコアを獲得／このカードのスキル発動回数が5回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$877.5%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "获得总分值$420%$的分数／此卡技能发动5次以上时，获得分数效果技能获得的分数值单次提升$877.5%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire a score equal to $420%$ of the total Appeal Value / When this card's skill activation count is 5 or more, the score acquisition effect skill increases score acquisition by $877.5%$ for one turn",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -60693,6 +61668,19 @@
       "en": {
         "text": "Gain score equal to $46.41%$ of total appeal value／When in FEVER, gain score equal to $92.82%$ of total appeal value",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "合計アピール値の$462%$のスコアを獲得／このカードのスキル発動回数が5回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$965.25%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "获得总分值$462%$的分数／此卡技能发动5次以上时，获得分数效果技能获得的分数值单次提升$965.25%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire a score equal to $462%$ of the total Appeal Value / When this card's skill activation count is 5 or more, the score acquisition effect skill increases score acquisition by $965.25%$ for one turn",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -61191,6 +62179,19 @@
     }
   },
   {
+    "raw": "合計アピール値の$504%$のスコアを獲得／このカードのスキル発動回数が5回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$1053%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "获得总分值$504%$的分数／此卡技能发动5次以上时，获得分数效果技能获得的分数值单次提升$1053%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire a score equal to $504%$ of the total Appeal Value / When this card's skill activation count is 5 or more, the score acquisition effect skill increases score acquisition by $1053%$ for one turn",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "合計アピール値の$505.44%$のスコアを獲得",
     "translation": {
       "zh-CN": {
@@ -61629,6 +62630,19 @@
       "en": {
         "text": "Gain score equal to $54.6%$ of total appeal value / During FEVER, gain score equal to $109.2%$ of total appeal value",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "合計アピール値の$546%$のスコアを獲得／このカードのスキル発動回数が5回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$1140.75%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "获得总分值$546%$的分数／此卡技能发动5次以上时，获得分数效果技能获得的分数值单次提升$1140.75%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire a score equal to $546%$ of the total Appeal Value / When this card's skill activation count is 5 or more, the score acquisition effect skill increases score acquisition by $1140.75%$ for one turn",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -62812,6 +63826,19 @@
       "en": {
         "text": "Gain $63.88%$ of total appeal value as score/When Mental is 70% or more of maximum value, gain $102.21%$ of total appeal value as score",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "合計アピール値の$630%$のスコアを獲得／このカードのスキル発動回数が5回以上の時、スコア獲得効果スキルによるスコア獲得量が、1回の間$1316.25%$上昇",
+    "translation": {
+      "zh-CN": {
+        "text": "获得总分值$630%$的分数／此卡技能发动5次以上时，获得分数效果技能获得的分数值单次提升$1316.25%$",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Acquire a score equal to $630%$ of the total Appeal Value / When this card's skill activation count is 5 or more, the score acquisition effect skill increases score acquisition by $1316.25%$ for one turn",
+        "author": "gpt-5.1"
       }
     }
   },

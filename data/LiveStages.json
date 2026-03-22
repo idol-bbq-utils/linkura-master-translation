@@ -104,6 +104,19 @@
     }
   },
   {
+    "raw": "さやか、小鈴のスキルを使用するたび、APが14回復する。また、スキルを14回使用するたび、ステージ中、APの回復速度を-14%する。さらにステージ開始時、メイン効果がトークンカード追加およびリシャッフルであるデッキの全てのカードの消費APをステージ中常に+140する。",
+    "translation": {
+      "zh-CN": {
+        "text": "每当使用沙耶香、小铃的技能时，恢复14点AP。此外，每使用14次技能时，在本阶段内将AP的恢复速度降低14%。并且在Live开始时，使牌组中所有主要效果为追加令牌卡及重洗的卡牌的消耗AP在本阶段始终增加140。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Each time Sayaka or Kozue uses a skill, restore 14 AP. Also, every 14 skill uses, decrease the AP recovery rate by -14% for the remainder of the stage. Furthermore, at stage start, all cards in the deck whose main effect is adding a token card or Reshuffle have their AP cost permanently increased by +140 throughout the stage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "さやか、小鈴のスキルを使用するたび、このステージ中、ハート上限を+300し、APが3回復する。スキルを5回使用するたび、メンタルを最大値の50%減少させる。",
     "translation": {
       "zh-CN": {
@@ -1170,6 +1183,19 @@
     }
   },
   {
+    "raw": "ステージ開始時、デッキの全てのカードの消費APをステージ中常に-5する。またメイン効果が指定パラメータ無限化であるデッキの全てのカードの消費APをステージ中常に+100する。さらにメイン効果がトークンカード追加およびリシャッフルおよびハートキャプチャのスキルを使用するたび、デッキの全てのカードの消費APをステージ中常に+10する。",
+    "translation": {
+      "zh-CN": {
+        "text": "Live开始时，使牌组中所有卡牌的消耗AP在本阶段始终减少5点。此外，使牌组中所有主要效果为指定参数无限化的卡牌的消耗AP在本阶段始终增加100点。并且每当使用主要效果为追加令牌卡及重洗及心心捕获的技能时，使牌组中所有卡牌的消耗AP在本阶段始终增加10点。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "At stage start, all cards in the deck have their AP cost permanently reduced by -5 throughout the stage. Also, all cards in the deck whose main effect is making a specified parameter infinite have their AP cost permanently increased by +100 throughout the stage. Furthermore, each time a skill is used whose main effect is adding a token card, Reshuffle, or Heart Capture, permanently increase the AP cost of all cards in the deck by +10 for the remainder of the stage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ステージ開始時、デッキの全てのセラスの消費APをステージ中常に-5し、セラスのスキルを使用するたび、デッキの全てのカードの消費APを-2する。また、メイン効果がメンタル回復のスキルを使用するたび、デッキの全てのカードの消費APを+10する。",
     "translation": {
       "zh-CN": {
@@ -1391,6 +1417,19 @@
     }
   },
   {
+    "raw": "メイン効果がトークンカード追加のスキルを使用するたび、APが15回復する。また山札が切れるたび、ボルテージを-20000000する。",
+    "translation": {
+      "zh-CN": {
+        "text": "每当使用主要效果为追加令牌卡的技能时，恢复15点AP。此外，每当牌库用尽时，将Voltage减少20000000点。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Each time a skill is used whose main effect is adding a token card, restore 15 AP. Also, whenever the deck runs out, lose -20000000 Voltage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "メイン効果がトークンカード追加のスキルを使用するたび、APを10回復し、また山札が切れるたび、ステージ中、APの回復速度を-1%する。",
     "translation": {
       "zh-CN": {
@@ -1439,6 +1478,19 @@
       "zh-CN": {
         "text": "每当使用主要效果为追加Token卡牌或心心捕获的技能时,Voltage增加1500点,此外每当使用主要效果为增加Voltage或Mental护盾的技能时,Voltage减少3000点。",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "メイン効果がハートキャプチャのスキルを使用するたび、APが16回復する。また、スキルを3回使用するたび、メンタルを最大値の30%減少し、スキルを1回使用するたび、ステージ中、APの回復速度を-2%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "每当使用主要效果为心心捕获的技能时，恢复16点AP。此外，每使用3次技能时，使Mental减少最大值的30%，并且每使用1次技能时，在本阶段内将AP的恢复速度降低2%。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Each time a skill is used whose main effect is Heart Capture, restore 16 AP. Also, every 3 skill uses, decrease Mental by 30% of its max value, and each time a skill is used, decrease the AP recovery rate by -2% for the remainder of the stage.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -1846,6 +1898,19 @@
     }
   },
   {
+    "raw": "梢、綴理、慈のスキルを使用するたび、APを10回復する。またスキルを2回使用するたび、ステージ中、APの回復速度を-10%し、さらに山札が切れるたび、獲得するLOVEを-10000000%する。",
+    "translation": {
+      "zh-CN": {
+        "text": "每当使用梢、缀理、慈的技能时，恢复10点AP。此外，每使用2次技能时，在本阶段内将AP的恢复速度降低10%，并且每当牌库用尽时，获得的LOVE减少10000000%。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Each time Kozue, Tsuzuri, or Megumi uses a skill, restore 10 AP. Also, every 2 skill uses, decrease the AP recovery rate by -10% for the remainder of the stage, and furthermore, whenever the deck runs out, decrease the LOVE gained by -10000000%.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "梢のスキルを使用するたび、このステージ中、ハート上限を+300し、スキルを5回使用するたび、APが3減少する。",
     "translation": {
       "zh-CN": {
@@ -1920,6 +1985,19 @@
       "zh-CN": {
         "text": "瑠璃乃、沙耶香、小铃和塞拉斯每使用一次技能时，Voltage提升2000点，且每使用技能10次时，在本阶段内将AP的恢复速度降低5%。",
         "author": "qwen-mt-turbo"
+      }
+    }
+  },
+  {
+    "raw": "瑠璃乃、姫芽のスキルを使用するたび、APを15回復する。また、メイン効果がハートキャプチャのスキルを使用するたび、デッキの全てのカードの消費APをステージ中常に+1する。さらにステージ開始時、メイン効果が手札全使用のスキルであるデッキの全てのカードの消費APをステージ中常に+30し、山札が切れるたび、メンタルを最大値の30%減少する。",
+    "translation": {
+      "zh-CN": {
+        "text": "每当使用瑠璃乃、姬芽的技能时，恢复15点AP。此外，每当使用主要效果为心心捕获的技能时，使牌组中所有卡牌的消耗AP在本阶段始终增加1点。并且在Live开始时，使牌组中所有主要效果为使用全部手牌的技能卡牌的消耗AP在本阶段始终增加30点，每当牌库用尽时，使Mental减少最大值的30%。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Each time Rurino or Hime uses a skill, restore 15 AP. Also, each time a skill is used whose main effect is Heart Capture, permanently increase the AP cost of all cards in the deck by +1 throughout the stage. Furthermore, at stage start, all cards in the deck whose main effect is using all cards in hand have their AP cost permanently increased by +30 throughout the stage, and whenever the deck runs out, decrease Mental by 30% of its max value.",
+        "author": "gpt-5.1"
       }
     }
   },

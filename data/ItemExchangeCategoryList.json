@@ -52,6 +52,19 @@
     }
   },
   {
+    "raw": "メンバーシップ特典交換",
+    "translation": {
+      "zh-CN": {
+        "text": "会员特典兑换",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Membership Benefits Exchange",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ユメノシリーズ交換",
     "translation": {
       "en": {

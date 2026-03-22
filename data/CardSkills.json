@@ -845,6 +845,19 @@
     }
   },
   {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+32%$する。最終セクションで使用したとき、デッキにある全てのスキルの消費APを1度だけ1にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，AP回复速度$+32%$。在最后一个小节使用时，将牌组中所有技能的消费AP仅有1次变为1。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in the 1st section, increase AP Recovery Speed by $+32%$ during this section. When used in the final section, set the AP cost of all skills in the deck to 1, once.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+35.2%$、手札の上限枚数を3枚増加する。ブルームストーリーカードを1種類(合計30枚)山札に追加する。",
     "translation": {
       "zh-CN": {
@@ -854,6 +867,19 @@
       "en": {
         "text": "When used in the first section, increase AP Recovery Speed by $+35.2%$ and increase the maximum number of cards in hand by 3 during this section. Add 1 type of Bloom Story Card (30 cards total) to the deck.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+35.2%$する。最終セクションで使用したとき、デッキにある全てのスキルの消費APを1度だけ1にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，AP回复速度$+35.2%$。在最后一个小节使用时，将牌组中所有技能的消费AP仅有1次变为1。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in the 1st section, increase AP Recovery Speed by $+35.2%$ during this section. When used in the final section, set the AP cost of all skills in the deck to 1, once.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -871,6 +897,19 @@
     }
   },
   {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+38.4%$する。最終セクションで使用したとき、デッキにある全てのスキルの消費APを1度だけ1にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，AP回复速度$+38.4%$。在最后一个小节使用时，将牌组中所有技能的消费AP仅有1次变为1。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in the 1st section, increase AP Recovery Speed by $+38.4%$ during this section. When used in the final section, set the AP cost of all skills in the deck to 1, once.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+41.6%$、手札の上限枚数を3枚増加する。ブルームストーリーカードを1種類(合計30枚)山札に追加する。",
     "translation": {
       "zh-CN": {
@@ -880,6 +919,19 @@
       "en": {
         "text": "When used in the first section, increase AP Recovery Speed by $+41.6%$ and increase the maximum number of cards in hand by 3 during this section. Add 1 type of Bloom Story Card (30 cards total) to the deck.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+41.6%$する。最終セクションで使用したとき、デッキにある全てのスキルの消費APを1度だけ1にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，AP回复速度$+41.6%$。在最后一个小节使用时，将牌组中所有技能的消费AP仅有1次变为1。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in the 1st section, increase AP Recovery Speed by $+41.6%$ during this section. When used in the final section, set the AP cost of all skills in the deck to 1, once.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -897,6 +949,19 @@
     }
   },
   {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+44.8%$する。最終セクションで使用したとき、デッキにある全てのスキルの消費APを1度だけ1にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，AP回复速度$+44.8%$。在最后一个小节使用时，将牌组中所有技能的消费AP仅有1次变为1。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in the 1st section, increase AP Recovery Speed by $+44.8%$ during this section. When used in the final section, set the AP cost of all skills in the deck to 1, once.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+48%$、手札の上限枚数を3枚増加する。ブルームストーリーカードを1種類(合計30枚)山札に追加する。",
     "translation": {
       "zh-CN": {
@@ -906,6 +971,19 @@
       "en": {
         "text": "When used in the first section, increase AP Recovery Speed by $+48%$ and increase the maximum number of cards in hand by 3 during this section. Add 1 type of Bloom Story Card (30 cards total) to the deck.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+48%$する。最終セクションで使用したとき、デッキにある全てのスキルの消費APを1度だけ1にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，AP回复速度$+48%$。在最后一个小节使用时，将牌组中所有技能的消费AP仅有1次变为1。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in the 1st section, increase AP Recovery Speed by $+48%$ during this section. When used in the final section, set the AP cost of all skills in the deck to 1, once.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -923,6 +1001,19 @@
     }
   },
   {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+51.2%$する。最終セクションで使用したとき、デッキにある全てのスキルの消費APを1度だけ1にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，AP回复速度$+51.2%$。在最后一个小节使用时，将牌组中所有技能的消费AP仅有1次变为1。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in the 1st section, increase AP Recovery Speed by $+51.2%$ during this section. When used in the final section, set the AP cost of all skills in the deck to 1, once.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+54.4%$、手札の上限枚数を3枚増加する。ブルームストーリーカードを1種類(合計30枚)山札に追加する。",
     "translation": {
       "zh-CN": {
@@ -932,6 +1023,19 @@
       "en": {
         "text": "When used in the first section, increase AP Recovery Speed by $+54.4%$ and increase the maximum number of cards in hand by 3 during this section. Add 1 type of Bloom Story Card (30 cards total) to the deck.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+54.4%$する。最終セクションで使用したとき、デッキにある全てのスキルの消費APを1度だけ1にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，AP回复速度$+54.4%$。在最后一个小节使用时，将牌组中所有技能的消费AP仅有1次变为1。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in the 1st section, increase AP Recovery Speed by $+54.4%$ during this section. When used in the final section, set the AP cost of all skills in the deck to 1, once.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -949,6 +1053,19 @@
     }
   },
   {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+57.6%$する。最終セクションで使用したとき、デッキにある全てのスキルの消費APを1度だけ1にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，AP回复速度$+57.6%$。在最后一个小节使用时，将牌组中所有技能的消费AP仅有1次变为1。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in the 1st section, increase AP Recovery Speed by $+57.6%$ during this section. When used in the final section, set the AP cost of all skills in the deck to 1, once.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+64%$、手札の上限枚数を3枚増加する。ブルームストーリーカードを1種類(合計30枚)山札に追加する。",
     "translation": {
       "zh-CN": {
@@ -958,6 +1075,19 @@
       "en": {
         "text": "When used in the first section, increase AP Recovery Speed by $+64%$ and increase the maximum number of cards in hand by 3 during this section. Add 1 type of Bloom Story Card (30 cards total) to the deck.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+64%$する。最終セクションで使用したとき、デッキにある全てのスキルの消費APを1度だけ1にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，AP回复速度$+64%$。在最后一个小节使用时，将牌组中所有技能的消费AP仅有1次变为1。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in the 1st section, increase AP Recovery Speed by $+64%$ during this section. When used in the final section, set the AP cost of all skills in the deck to 1, once.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -975,6 +1105,19 @@
     }
   },
   {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+67.2%$する。最終セクションで使用したとき、デッキにある全てのスキルの消費APを1度だけ1にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，AP回复速度$+67.2%$。在最后一个小节使用时，将牌组中所有技能的消费AP仅有1次变为1。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in the 1st section, increase AP Recovery Speed by $+67.2%$ during this section. When used in the final section, set the AP cost of all skills in the deck to 1, once.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+70.4%$、手札の上限枚数を3枚増加する。ブルームストーリーカードを1種類(合計30枚)山札に追加する。",
     "translation": {
       "zh-CN": {
@@ -984,6 +1127,19 @@
       "en": {
         "text": "When used in the first section, increase AP Recovery Speed by $+70.4%$ and increase the maximum number of cards in hand by 3 during this section. Add 1 type of Bloom Story Card (30 cards total) to the deck.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+70.4%$する。最終セクションで使用したとき、デッキにある全てのスキルの消費APを1度だけ1にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，AP回复速度$+70.4%$。在最后一个小节使用时，将牌组中所有技能的消费AP仅有1次变为1。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in the 1st section, increase AP Recovery Speed by $+70.4%$ during this section. When used in the final section, set the AP cost of all skills in the deck to 1, once.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -1001,6 +1157,19 @@
     }
   },
   {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+73.6%$する。最終セクションで使用したとき、デッキにある全てのスキルの消費APを1度だけ1にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，AP回复速度$+73.6%$。在最后一个小节使用时，将牌组中所有技能的消费AP仅有1次变为1。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in the 1st section, increase AP Recovery Speed by $+73.6%$ during this section. When used in the final section, set the AP cost of all skills in the deck to 1, once.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+80%$、手札の上限枚数を3枚増加する。ブルームストーリーカードを1種類(合計30枚)山札に追加する。",
     "translation": {
       "zh-CN": {
@@ -1010,6 +1179,201 @@
       "en": {
         "text": "When used in the first section, increase AP Recovery Speed by $+80%$ and increase the maximum number of cards in hand by 3 during this section. Add 1 type of Bloom Story Card (30 cards total) to the deck.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、AP回復速度を$+80%$する。最終セクションで使用したとき、デッキにある全てのスキルの消費APを1度だけ1にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，AP回复速度$+80%$。在最后一个小节使用时，将牌组中所有技能的消费AP仅有1次变为1。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in the 1st section, increase AP Recovery Speed by $+80%$ during this section. When used in the final section, set the AP cost of all skills in the deck to 1, once.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、手札の上限枚数を$3枚$増加する。最終セクションで使用したとき、このセクション中、あらゆるスキル効果量を$32%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，手牌上限$+3张$。在最后一个小节使用时，本小节中，所有技能效果量增幅$32%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in the 1st section, increase max hand size by $3 cards$ during this section. When used in the final section, amplify all skill effects by $32%$ during this section.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、手札の上限枚数を$3枚$増加する。最終セクションで使用したとき、このセクション中、あらゆるスキル効果量を$35.2%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，手牌上限$+3张$。在最后一个小节使用时，本小节中，所有技能效果量增幅$35.2%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in the 1st section, increase max hand size by $3 cards$ during this section. When used in the final section, amplify all skill effects by $35.2%$ during this section.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、手札の上限枚数を$3枚$増加する。最終セクションで使用したとき、このセクション中、あらゆるスキル効果量を$38.4%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，手牌上限$+3张$。在最后一个小节使用时，本小节中，所有技能效果量增幅$38.4%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in the 1st section, increase max hand size by $3 cards$ during this section. When used in the final section, amplify all skill effects by $38.4%$ during this section.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、手札の上限枚数を$4枚$増加する。最終セクションで使用したとき、このセクション中、あらゆるスキル効果量を$41.6%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，手牌上限$+4张$。在最后一个小节使用时，本小节中，所有技能效果量增幅$41.6%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in the 1st section, increase max hand size by $4 cards$ during this section. When used in the final section, amplify all skill effects by $41.6%$ during this section.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、手札の上限枚数を$4枚$増加する。最終セクションで使用したとき、このセクション中、あらゆるスキル効果量を$44.8%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，手牌上限$+4张$。在最后一个小节使用时，本小节中，所有技能效果量增幅$44.8%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in the 1st section, increase max hand size by $4 cards$ during this section. When used in the final section, amplify all skill effects by $44.8%$ during this section.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、手札の上限枚数を$4枚$増加する。最終セクションで使用したとき、このセクション中、あらゆるスキル効果量を$48%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，手牌上限$+4张$。在最后一个小节使用时，本小节中，所有技能效果量增幅$48%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in the 1st section, increase max hand size by $4 cards$ during this section. When used in the final section, amplify all skill effects by $48%$ during this section.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、手札の上限枚数を$5枚$増加する。最終セクションで使用したとき、このセクション中、あらゆるスキル効果量を$51.2%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，手牌上限$+5张$。在最后一个小节使用时，本小节中，所有技能效果量增幅$51.2%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in the 1st section, increase max hand size by $5 cards$ during this section. When used in the final section, amplify all skill effects by $51.2%$ during this section.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、手札の上限枚数を$5枚$増加する。最終セクションで使用したとき、このセクション中、あらゆるスキル効果量を$54.4%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，手牌上限$+5张$。在最后一个小节使用时，本小节中，所有技能效果量增幅$54.4%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in the 1st section, increase max hand size by $5 cards$ during this section. When used in the final section, amplify all skill effects by $54.4%$ during this section.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、手札の上限枚数を$5枚$増加する。最終セクションで使用したとき、このセクション中、あらゆるスキル効果量を$57.6%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，手牌上限$+5张$。在最后一个小节使用时，本小节中，所有技能效果量增幅$57.6%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in the 1st section, increase max hand size by $5 cards$ during this section. When used in the final section, amplify all skill effects by $57.6%$ during this section.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、手札の上限枚数を$6枚$増加する。最終セクションで使用したとき、このセクション中、あらゆるスキル効果量を$64%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，手牌上限$+6张$。在最后一个小节使用时，本小节中，所有技能效果量增幅$64%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in the 1st section, increase max hand size by $6 cards$ during this section. When used in the final section, amplify all skill effects by $64%$ during this section.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、手札の上限枚数を$6枚$増加する。最終セクションで使用したとき、このセクション中、あらゆるスキル効果量を$67.2%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，手牌上限增加$6张$。在最终小节使用时，本小节中，所有技能效果量增幅$67.2%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in Section 1, increase max hand size by $6$ cards during this section. When used in the final section, amplify all skill effects by $67.2%$ during this section.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、手札の上限枚数を$7枚$増加する。最終セクションで使用したとき、このセクション中、あらゆるスキル効果量を$70.4%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，手牌上限增加$7张$。在最终小节使用时，本小节中，所有技能效果量增幅$70.4%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in Section 1, increase max hand size by $7$ cards during this section. When used in the final section, amplify all skill effects by $70.4%$ during this section.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、手札の上限枚数を$7枚$増加する。最終セクションで使用したとき、このセクション中、あらゆるスキル効果量を$73.6%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，手牌上限增加$7张$。在最终小节使用时，本小节中，所有技能效果量增幅$73.6%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in Section 1, increase max hand size by $7$ cards during this section. When used in the final section, amplify all skill effects by $73.6%$ during this section.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "1セクション目で使用したとき、このセクション中、手札の上限枚数を$8枚$増加する。最終セクションで使用したとき、このセクション中、あらゆるスキル効果量を$80%$増幅する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在第1个小节使用时，本小节中，手牌上限增加$8张$。在最终小节使用时，本小节中，所有技能效果量增幅$80%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When used in Section 1, increase max hand size by $8$ cards during this section. When used in the final section, amplify all skill effects by $80%$ during this section.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -7345,6 +7709,32 @@
     }
   },
   {
+    "raw": "APを$6$回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "AP回复$6$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Recover $6$ AP.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "APを$7$回復する。",
+    "translation": {
+      "zh-CN": {
+        "text": "AP回复$7$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Recover $7$ AP.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "APを$8$回復し、ボルテージPt.を-1020、メンタルを最大値の102％減少させる。さらにビートハート$408回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -7410,6 +7800,188 @@
     }
   },
   {
+    "raw": "APを0にし、このセクション中、AP回復速度を$+100.8%$、手札の上限枚数を4枚増加する。さらに手札をリセットシャッフルする。このときDOLLCHESTRAのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "将AP变为0，本小节中，AP回复速度$+100.8%$，手牌上限+4张。并且将手牌重置洗牌。此时大幅提升抽到DOLLCHESTRA卡牌的概率。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Set AP to 0, and during this section, increase AP Recovery Speed by $+100.8%$ and increase max hand size by 4 cards. Additionally, reset and shuffle your hand. At this time, the chance to draw DOLLCHESTRA cards is greatly increased.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "APを0にし、このセクション中、AP回復速度を$+112%$、手札の上限枚数を4枚増加する。さらに手札をリセットシャッフルする。このときDOLLCHESTRAのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "将AP变为0，本小节中，AP回复速度$+112%$，手牌上限+4张。并且将手牌重置洗牌。此时大幅提升抽到DOLLCHESTRA卡牌的概率。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Set AP to 0, and during this section, increase AP Recovery Speed by $+112%$ and increase max hand size by 4 cards. Additionally, reset and shuffle your hand. At this time, the chance to draw DOLLCHESTRA cards is greatly increased.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "APを0にし、このセクション中、AP回復速度を$+117.6%$、手札の上限枚数を4枚増加する。さらに手札をリセットシャッフルする。このときDOLLCHESTRAのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "将AP变为0，本小节中，AP回复速度$+117.6%$，手牌上限+4张。并且将手牌重置洗牌。此时大幅提升抽到DOLLCHESTRA卡牌的概率。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Set AP to 0, and during this section, increase AP Recovery Speed by $+117.6%$ and increase max hand size by 4 cards. Additionally, reset and shuffle your hand. At this time, the chance to draw DOLLCHESTRA cards is greatly increased.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "APを0にし、このセクション中、AP回復速度を$+123.2%$、手札の上限枚数を4枚増加する。さらに手札をリセットシャッフルする。このときDOLLCHESTRAのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "将AP变为0，本小节中，AP回复速度$+123.2%$，手牌上限+4张。并且将手牌重置洗牌。此时大幅提升抽到DOLLCHESTRA卡牌的概率。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Set AP to 0, and during this section, increase AP Recovery Speed by $+123.2%$ and increase max hand size by 4 cards. Additionally, reset and shuffle your hand. At this time, the chance to draw DOLLCHESTRA cards is greatly increased.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "APを0にし、このセクション中、AP回復速度を$+128.8%$、手札の上限枚数を4枚増加する。さらに手札をリセットシャッフルする。このときDOLLCHESTRAのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "将AP变为0，本小节中，AP回复速度$+128.8%$，手牌上限+4张。并且将手牌重置洗牌。此时大幅提升抽到DOLLCHESTRA卡牌的概率。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Set AP to 0, and during this section, increase AP Recovery Speed by $+128.8%$ and increase max hand size by 4 cards. Additionally, reset and shuffle your hand. At this time, the chance to draw DOLLCHESTRA cards is greatly increased.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "APを0にし、このセクション中、AP回復速度を$+140%$、手札の上限枚数を4枚増加する。さらに手札をリセットシャッフルする。このときDOLLCHESTRAのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "将AP变为0，本小节中，AP回复速度$+140%$，手牌上限+4张。并且将手牌重置洗牌。此时大幅提升抽到DOLLCHESTRA卡牌的概率。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Set AP to 0, and during this section, increase AP Recovery Speed by $+140%$ and increase max hand size by 4 cards. Additionally, reset and shuffle your hand. At this time, the chance to draw DOLLCHESTRA cards is greatly increased.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "APを0にし、このセクション中、AP回復速度を$+56%$、手札の上限枚数を4枚増加する。さらに手札をリセットシャッフルする。このときDOLLCHESTRAのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "将AP变为0，本小节中，AP回复速度$+56%$，手牌上限+4张。并且将手牌重置洗牌。此时大幅提升抽到DOLLCHESTRA卡牌的概率。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Set AP to 0, and during this section, increase AP Recovery Speed by $+56%$ and increase max hand size by 4 cards. Additionally, reset and shuffle your hand. At this time, the chance to draw DOLLCHESTRA cards is greatly increased.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "APを0にし、このセクション中、AP回復速度を$+61.6%$、手札の上限枚数を4枚増加する。さらに手札をリセットシャッフルする。このときDOLLCHESTRAのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "将AP变为0，本小节中，AP回复速度$+61.6%$，手牌上限+4张。并且将手牌重置洗牌。此时大幅提升抽到DOLLCHESTRA卡牌的概率。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Set AP to 0, and during this section, increase AP Recovery Speed by $+61.6%$ and increase max hand size by 4 cards. Additionally, reset and shuffle your hand. At this time, the chance to draw DOLLCHESTRA cards is greatly increased.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "APを0にし、このセクション中、AP回復速度を$+67.2%$、手札の上限枚数を4枚増加する。さらに手札をリセットシャッフルする。このときDOLLCHESTRAのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "将AP变为0，本小节中，AP回复速度$+67.2%$，手牌上限+4张。并且将手牌重置洗牌。此时大幅提升抽到DOLLCHESTRA卡牌的概率。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Set AP to 0, and during this section, increase AP Recovery Speed by $+67.2%$ and increase max hand size by 4 cards. Additionally, reset and shuffle your hand. At this time, the chance to draw DOLLCHESTRA cards is greatly increased.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "APを0にし、このセクション中、AP回復速度を$+72.8%$、手札の上限枚数を4枚増加する。さらに手札をリセットシャッフルする。このときDOLLCHESTRAのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "将AP变为0，本小节中，AP回复速度$+72.8%$，手牌上限+4张。并且将手牌重置洗牌。此时大幅提升抽到DOLLCHESTRA卡牌的概率。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Set AP to 0, and during this section, increase AP Recovery Speed by $+72.8%$ and increase max hand size by 4 cards. Additionally, reset and shuffle your hand. At this time, the chance to draw DOLLCHESTRA cards is greatly increased.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "APを0にし、このセクション中、AP回復速度を$+78.4%$、手札の上限枚数を4枚増加する。さらに手札をリセットシャッフルする。このときDOLLCHESTRAのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "将AP变为0，本小节中，AP回复速度$+78.4%$，手牌上限+4张。并且将手牌重置洗牌。此时大幅提升抽到DOLLCHESTRA卡牌的概率。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Set AP to 0, and during this section, increase AP Recovery Speed by $+78.4%$ and increase max hand size by 4 cards. Additionally, reset and shuffle your hand. At this time, the chance to draw DOLLCHESTRA cards is greatly increased.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "APを0にし、このセクション中、AP回復速度を$+84%$、手札の上限枚数を4枚増加する。さらに手札をリセットシャッフルする。このときDOLLCHESTRAのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "将AP变为0，本小节中，AP回复速度$+84%$，手牌上限+4张。并且将手牌重置洗牌。此时大幅提升抽到DOLLCHESTRA卡牌的概率。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Set AP to 0, and during this section, increase AP Recovery Speed by $+84%$ and increase max hand size by 4 cards. Additionally, reset and shuffle your hand. At this time, the chance to draw DOLLCHESTRA cards is greatly increased.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "APを0にし、このセクション中、AP回復速度を$+89.6%$、手札の上限枚数を4枚増加する。さらに手札をリセットシャッフルする。このときDOLLCHESTRAのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "将AP变为0，本小节中，AP回复速度$+89.6%$，手牌上限+4张。并且将手牌重置洗牌。此时大幅提升抽到DOLLCHESTRA卡牌的概率。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Set AP to 0, and during this section, increase AP Recovery Speed by $+89.6%$ and increase max hand size by 4 cards. Additionally, reset and shuffle your hand. At this time, the chance to draw DOLLCHESTRA cards is greatly increased.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "APを0にし、このセクション中、AP回復速度を$+95.2%$、手札の上限枚数を4枚増加する。さらに手札をリセットシャッフルする。このときDOLLCHESTRAのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "将AP变为0，本小节中，AP回复速度$+95.2%$，手牌上限+4张。并且将手牌重置洗牌。此时大幅提升抽到DOLLCHESTRA卡牌的概率。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Set AP to 0, and during this section, increase AP Recovery Speed by $+95.2%$ and increase max hand size by 4 cards. Additionally, reset and shuffle your hand. At this time, the chance to draw DOLLCHESTRA cards is greatly increased.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "DOLLCHESTRAのスキルを使用するたび、手札のこのスキルの消費AP-5。",
     "translation": {
       "zh-CN": {
@@ -7419,6 +7991,19 @@
       "en": {
         "text": "Each time a DOLLCHESTRA skill is used, this skill's AP cost in hand -5.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "DOLLCHESTRAのスキル使用後以外ドローされず、ドローしたとき、メンタルを最大値の14%減少、このセクション中、AP回復速度を-14%、手札の上限枚数を1枚減少させる。さらにこのスキルを14回使用したとき、デッキから除外、このステージ中、メンタルが0になってもメンタルダウンしなくなり、メンタルを最大値の1000％減少させ、ボルテージLv.を1000にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "除在使用DOLLCHESTRA技能之后之外不会被抽到，抽到时，Mental减少最大值的14%，本小节中，AP回复速度-14%，手牌上限-1张。此外，当此技能使用满14次时，从卡组中除外，本场Live中，即使Mental变为0也不会Mental Down，Mental减少最大值的1000％，并将Voltage等级变为1000。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Except after using a DOLLCHESTRA skill, this card cannot be drawn. When drawn, decrease Mental by 14% of its maximum value, and during this section, reduce AP Recovery Speed by -14% and reduce max hand size by 1 card. Additionally, when this skill has been used 14 times, remove it from the deck, and for the rest of this stage, you will no longer Mental Down even if Mental reaches 0, decrease Mental by 1000% of its maximum value, and set Voltage Lv. to 1000.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -7796,6 +8381,32 @@
       "zh-CN": {
         "text": "使用16次技能后，将1个种类的（共计1张）Manuscript Card加入牌库。并且Mental为100%时抽到时，接下来2次心心上限增加效果+32%。",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このスキルを2回使用すると、デッキから除外され、Bühnenstarカード追加を1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "此技能使用2次后，从卡组中除外，将1个种类的Bühnenstar卡追加（共计1张）加入牌库。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "After this skill has been used 2 times, remove it from the deck and add 1 type of Bühnenstar Card Add (1 card total) to the deck.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "このスキルを2回使用すると、デッキから除外され、Walküreカード追加を1種類(合計1枚)山札に追加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "此技能使用2次后，从卡组中除外，将1个种类的Walküre卡追加（共计1张）加入牌库。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "After this skill has been used 2 times, remove it from the deck and add 1 type of Walküre Card Add (1 card total) to the deck.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -9889,6 +10500,188 @@
       "en": {
         "text": "During this stage, AP recovery speed +3%.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-140%する。さらにこのステージ中、ビートハートの出現個数を$+10$し、ボルテージPt.が1秒ごとに$100800$ptずつ増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-140%。此外，本场Live中，跳心出现数量$+10$，Vo Pt.每秒$+100800$pt。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this stage, reduce AP Recovery Speed by -140%. Additionally, during this stage, increase the number of Beat Hearts appearing by $+10$ and increase Voltage Pt. by $100800$ pt every second.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-140%する。さらにこのステージ中、ビートハートの出現個数を$+10$し、ボルテージPt.が1秒ごとに$95200$ptずつ増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-140%。此外，本场Live中，跳心的出现数量$+10$，Vo Pt.每秒增加$95200$pt。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this stage, reduce AP Recovery Speed by -140%. Additionally, during this stage, increase the number of Beat Hearts that appear by $+10$ and increase Voltage Pt. by $95200$ pt every second.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-140%する。さらにこのステージ中、ビートハートの出現個数を$+11$し、ボルテージPt.が1秒ごとに$112000$ptずつ増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-140%。此外，本场Live中，跳心的出现数量$+11$，Vo Pt.每秒增加$112000$pt。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this stage, reduce AP Recovery Speed by -140%. Additionally, during this stage, increase the number of Beat Hearts that appear by $+11$ and increase Voltage Pt. by $112000$ pt every second.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-140%する。さらにこのステージ中、ビートハートの出現個数を$+12$し、ボルテージPt.が1秒ごとに$117600$ptずつ増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-140%。此外，本场Live中，跳心的出现数量$+12$，Vo Pt.每秒增加$117600$pt。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this stage, reduce AP Recovery Speed by -140%. Additionally, during this stage, increase the number of Beat Hearts that appear by $+12$ and increase Voltage Pt. by $117600$ pt every second.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-140%する。さらにこのステージ中、ビートハートの出現個数を$+12$し、ボルテージPt.が1秒ごとに$123200$ptずつ増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-140%。此外，本场Live中，跳心的出现数量$+12$，Vo Pt.每秒增加$123200$pt。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this stage, reduce AP Recovery Speed by -140%. Additionally, during this stage, increase the number of Beat Hearts that appear by $+12$ and increase Voltage Pt. by $123200$ pt every second.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-140%する。さらにこのステージ中、ビートハートの出現個数を$+13$し、ボルテージPt.が1秒ごとに$128800$ptずつ増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-140%。此外，本场Live中，跳心的出现数量$+13$，Vo Pt.每秒增加$128800$pt。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this stage, reduce AP Recovery Speed by -140%. Additionally, during this stage, increase the number of Beat Hearts that appear by $+13$ and increase Voltage Pt. by $128800$ pt every second.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-140%する。さらにこのステージ中、ビートハートの出現個数を$+14$し、ボルテージPt.が1秒ごとに$140000$ptずつ増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-140%。此外，本场Live中，跳心的出现数量$+14$，Vo Pt.每秒增加$140000$pt。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this stage, reduce AP Recovery Speed by -140%. Additionally, during this stage, increase the number of Beat Hearts that appear by $+14$ and increase Voltage Pt. by $140000$ pt every second.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-140%する。さらにこのステージ中、ビートハートの出現個数を$+6$し、ボルテージPt.が1秒ごとに$56000$ptずつ増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-140%。此外，本场Live中，跳心的出现数量$+6$，Vo Pt.每秒增加$56000$pt。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this stage, reduce AP Recovery Speed by -140%. Additionally, during this stage, increase the number of Beat Hearts that appear by $+6$ and increase Voltage Pt. by $56000$ pt every second.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-140%する。さらにこのステージ中、ビートハートの出現個数を$+6$し、ボルテージPt.が1秒ごとに$61600$ptずつ増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-140%。此外，本场Live中，跳心的出现数量$+6$，Vo Pt.每秒增加$61600$pt。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this stage, reduce AP Recovery Speed by -140%. Additionally, during this stage, increase the number of Beat Hearts that appear by $+6$ and increase Voltage Pt. by $61600$ pt every second.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-140%する。さらにこのステージ中、ビートハートの出現個数を$+7$し、ボルテージPt.が1秒ごとに$67200$ptずつ増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-140%。此外，本场Live中，跳心的出现数量$+7$，Vo Pt.每秒增加$67200$pt。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this stage, reduce AP Recovery Speed by -140%. Additionally, during this stage, increase the number of Beat Hearts that appear by $+7$ and increase Voltage Pt. by $67200$ pt every second.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-140%する。さらにこのステージ中、ビートハートの出現個数を$+7$し、ボルテージPt.が1秒ごとに$72800$ptずつ増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-140%。此外，本场Live中，跳心的出现数量$+7$，Vo Pt.每秒增加$72800$pt。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this stage, reduce AP Recovery Speed by -140%. Additionally, during this stage, increase the number of Beat Hearts that appear by $+7$ and increase Voltage Pt. by $72800$ pt every second.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-140%する。さらにこのステージ中、ビートハートの出現個数を$+8$し、ボルテージPt.が1秒ごとに$78400$ptずつ増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-140%。此外，本场Live中，跳心的出现数量$+8$，Vo Pt.每秒增加$78400$pt。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this stage, reduce AP Recovery Speed by -140%. Additionally, during this stage, increase the number of Beat Hearts that appear by $+8$ and increase Voltage Pt. by $78400$ pt every second.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-140%する。さらにこのステージ中、ビートハートの出現個数を$+8$し、ボルテージPt.が1秒ごとに$84000$ptずつ増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-140%。此外，本场Live中，跳心的出现数量$+8$，Vo Pt.每秒增加$84000$pt。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this stage, reduce AP Recovery Speed by -140%. Additionally, during this stage, increase the number of Beat Hearts that appear by $+8$ and increase Voltage Pt. by $84000$ pt every second.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、AP回復速度を-140%する。さらにこのステージ中、ビートハートの出現個数を$+9$し、ボルテージPt.が1秒ごとに$89600$ptずつ増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，AP回复速度-140%。此外，本场Live中，跳心的出现数量$+9$，Vo Pt.每秒增加$89600$pt。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this stage, reduce AP Recovery Speed by -140%. Additionally, during this stage, increase the number of Beat Hearts that appear by $+9$ and increase Voltage Pt. by $89600$ pt every second.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -16263,6 +17056,19 @@
     }
   },
   {
+    "raw": "このステージ中、ビートハートの出現個数を増加する。スキルのLvと泉のMember Fan Lv.が高いほど効果量が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，增加跳心的出现数量。技能等级与泉的Member Fan Lv.越高，效果量越大。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this stage, increase the number of Beat Hearts that appear. The higher the skill Lv. and Izumi's Member Fan Lv., the greater the effect.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このステージ中、ブーケカードの使用によるスキルハート獲得効果の獲得数を$+102%$する。",
     "translation": {
       "zh-CN": {
@@ -18092,6 +18898,19 @@
       "zh-CN": {
         "text": "本场Live中，气氛值向Mellow方向$+33$，本小节中，手牌上限减少2张。并且气氛为Mellow 100时，本场Live中，跳心出现数量+1，将手牌重置洗牌。",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このステージ中、ムード値を増加する。スキルのLvとセラスのMember Fan Lv.が高いほど効果量が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本场Live中，增加气氛值。技能等级与塞拉斯的Member Fan Lv.越高，效果量越大。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this stage, increase Mood. The higher the skill Lv. and Ceras's Member Fan Lv., the greater the effect.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -50778,6 +51597,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+10$し、手札をリセットシャッフルする。このときレターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるハート上限増加効果を$+480%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+10$，并将手牌重置洗牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用带来的心心上限增加效果$+480%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+10$ and reset-shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Heart Cap increase effect from using Letter cards by $+480%$ during this stage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+10$し、手札をリセットシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるスキルハート獲得効果による獲得数を$+480%$する。",
     "translation": {
       "zh-CN": {
@@ -50830,6 +51662,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+11$し、手札をリセットシャッフルする。このときレターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるハート上限増加効果を$+520%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+11$，并将手牌重置洗牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用带来的心心上限增加效果$+520%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+11$ and reset-shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Heart Cap increase effect from using Letter cards by $+520%$ during this stage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+11$し、手札をリセットシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるスキルハート獲得効果による獲得数を$+520%$する。",
     "translation": {
       "zh-CN": {
@@ -50852,6 +51697,32 @@
       "en": {
         "text": "During this section, increase Mood Value by $+11$. Additionally, when Mood is either Happy or Mellow at 100, increase the maximum number of cards in hand by 2 during this section and increase Heart Cap by $+156$ during this stage.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+12$し、手札をリセットシャッフルする。このときレターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるハート上限増加効果を$+560%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+12$，并将手牌重置洗牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用带来的心心上限增加效果$+560%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+12$ and reset-shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Heart Cap increase effect from using Letter cards by $+560%$ during this stage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+12$し、手札をリセットシャッフルする。このときレターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるハート上限増加効果を$+600%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+12$，并将手牌重置洗牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用带来的心心上限增加效果$+600%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+12$ and reset-shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Heart Cap increase effect from using Letter cards by $+600%$ during this stage.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -50908,6 +51779,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+13$し、手札をリセットシャッフルする。このときレターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるハート上限増加効果を$+640%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+13$，并将手牌重置洗牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用带来的心心上限增加效果$+640%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+13$ and reset-shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Heart Cap increase effect from using Letter cards by $+640%$ during this stage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+13$し、手札をリセットシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるスキルハート獲得効果による獲得数を$+640%$する。",
     "translation": {
       "zh-CN": {
@@ -50930,6 +51814,19 @@
       "en": {
         "text": "During this section, increase Mood Value by $+13$. Additionally, when Mood is either Happy or Mellow at 100, increase the maximum number of cards in hand by 2 during this section and increase Heart Cap by $+192$ during this stage.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+14$し、手札をリセットシャッフルする。このときレターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるハート上限増加効果を$+680%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+14$，并将手牌重置洗牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用带来的心心上限增加效果$+680%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+14$ and reset-shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Heart Cap increase effect from using Letter cards by $+680%$ during this stage.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -50960,6 +51857,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+15$し、手札をリセットシャッフルする。このときレターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるハート上限増加効果を$+720%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+15$，并将手牌重置洗牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用带来的心心上限增加效果$+720%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+15$ and reset-shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Heart Cap increase effect from using Letter cards by $+720%$ during this stage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+15$し、手札をリセットシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるスキルハート獲得効果による獲得数を$+720%$する。",
     "translation": {
       "zh-CN": {
@@ -50982,6 +51892,32 @@
       "en": {
         "text": "During this section, increase Mood Value by $+15$. Additionally, when Mood is either Happy or Mellow at 100, increase the maximum number of cards in hand by 2 during this section and increase Heart Cap by $+216$ during this stage.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+16$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるボルテージゲイン効果を$+400%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+16$，并将手牌洗牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用带来的获得Vo Pt.效果$+400%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+16$ and shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Voltage Gain effect from using Letter cards by $+400%$ during this stage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+16$し、手札をリセットシャッフルする。このときレターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるハート上限増加効果を$+800%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+16$，并将手牌重置洗牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用带来的心心上限增加效果$+800%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+16$ and reset-shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Heart Cap increase effect from using Letter cards by $+800%$ during this stage.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -51025,6 +51961,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+17$し、手札をリセットシャッフルする。このときレターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるハート上限増加効果を$+840%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+17$，将手牌重置洗牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用所带来的心心上限增加效果$+840%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+17$ and reset-shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Heart Cap increase effect from using Letter cards by $+840%$ during this stage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+17$し、手札をリセットシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるスキルハート獲得効果による獲得数を$+840%$する。",
     "translation": {
       "zh-CN": {
@@ -51047,6 +51996,32 @@
       "en": {
         "text": "During this section, increase Mood Value by $+17$. Additionally, when Mood is either Happy or Mellow at 100, increase the maximum number of cards in hand by 2 during this section and increase Heart Cap by $+252$ during this stage.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+18$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるボルテージゲイン効果を$+440%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+18$，并洗牌手牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用所带来的获得Vo Pt.效果$+440%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+18$ and shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Voltage Gain effect from using Letter cards by $+440%$ during this stage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+18$し、手札をリセットシャッフルする。このときレターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるハート上限増加効果を$+880%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+18$，将手牌重置洗牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用所带来的心心上限增加效果$+880%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+18$ and reset-shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Heart Cap increase effect from using Letter cards by $+880%$ during this stage.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -51090,6 +52065,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+19$し、手札をリセットシャッフルする。このときレターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるハート上限増加効果を$+920%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+19$，将手牌重置洗牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用所带来的心心上限增加效果$+920%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+19$ and reset-shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Heart Cap increase effect from using Letter cards by $+920%$ during this stage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+19$し、手札をリセットシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるスキルハート獲得効果による獲得数を$+920%$する。",
     "translation": {
       "zh-CN": {
@@ -51125,6 +52113,32 @@
       "en": {
         "text": "During this section, increase Mood Value by $+20$ and decrease Mental by 1000% of its maximum value. Additionally, gain Skill Hearts equivalent to $60$ Beat Hearts.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+20$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるボルテージゲイン効果を$+480%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+20$，并洗牌手牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用所带来的获得Vo Pt.效果$+480%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+20$ and shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Voltage Gain effect from using Letter cards by $+480%$ during this stage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+20$し、手札をリセットシャッフルする。このときレターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるハート上限増加効果を$+1000%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+20$，将手牌重置洗牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用所带来的心心上限增加效果$+1000%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+20$ and reset-shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Heart Cap increase effect from using Letter cards by $+1000%$ during this stage.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -51168,6 +52182,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+21$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるボルテージゲイン効果を$+520%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+21$，并洗牌手牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用所带来的获得Vo Pt.效果$+520%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+21$ and shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Voltage Gain effect from using Letter cards by $+520%$ during this stage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+21$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+208$し、ビートハート$52回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -51194,6 +52221,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+23$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるボルテージゲイン効果を$+560%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+23$，并洗牌手牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用所带来的获得Vo Pt.效果$+560%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+23$ and shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Voltage Gain effect from using Letter cards by $+560%$ during this stage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+23$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+224$し、ビートハート$56回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -51216,6 +52256,19 @@
       "en": {
         "text": "During this section, increase Mood Value by $+24$ and decrease Mental by 1000% of its maximum value. Additionally, gain Skill Hearts equivalent to $72$ Beat Hearts.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+24$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるボルテージゲイン効果を$+600%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+24$，并洗牌手牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用所带来的获得Vo Pt.效果$+600%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+24$ and shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Voltage Gain effect from using Letter cards by $+600%$ during this stage.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -51259,6 +52312,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+26$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるボルテージゲイン効果を$+640%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+26$，并洗牌手牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用所带来的获得Vo Pt.效果$+640%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+26$ and shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Voltage Gain effect from using Letter cards by $+640%$ during this stage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+26$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+256$し、ビートハート$64回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -51298,6 +52364,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+28$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるボルテージゲイン効果を$+680%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+28$，并洗牌手牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用所带来的获得Vo Pt.效果$+680%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+28$ and shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Voltage Gain effect from using Letter cards by $+680%$ during this stage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+28$する。さらにムードがハッピー、メロウいずれか100のとき、ボルテージPt.を$+272$し、ビートハート$68回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -51307,6 +52386,19 @@
       "en": {
         "text": "During this section, increase Mood by $+28$. Additionally, if Mood is either Happy or Mellow at 100, increase Voltage Pt. by $+272$ and gain Skill Hearts equivalent to $68$ beats of Beat Hearts.",
         "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+29$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるボルテージゲイン効果を$+720%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+29$，并洗牌手牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用所带来的获得Vo Pt.效果$+720%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+29$ and shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Voltage Gain effect from using Letter cards by $+720%$ during this stage.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -51363,6 +52455,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+32$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるボルテージゲイン効果を$+800%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+32$，并洗牌手牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用所带来的获得Vo Pt.效果$+800%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+32$ and shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Voltage Gain effect from using Letter cards by $+800%$ during this stage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+32$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるラブアトラクト効果を$+520%$する。",
     "translation": {
       "zh-CN": {
@@ -51398,6 +52503,19 @@
       "en": {
         "text": "During this section, increase Mood Value by $+34$ and decrease Mental by 1000% of its maximum value. Additionally, gain Skill Hearts equivalent to $102$ Beat Hearts.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+34$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるボルテージゲイン効果を$+840%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+34$，并洗牌手牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用所带来的获得Vo Pt.效果$+840%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+34$ and shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Voltage Gain effect from using Letter cards by $+840%$ during this stage.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -51441,6 +52559,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+36$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるボルテージゲイン効果を$+880%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+36$，并洗牌手牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用所带来的获得Vo Pt.效果$+880%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+36$ and shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Voltage Gain effect from using Letter cards by $+880%$ during this stage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+36$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるラブアトラクト効果を$+600%$する。",
     "translation": {
       "zh-CN": {
@@ -51463,6 +52594,19 @@
       "en": {
         "text": "During this section, increase Mood by $+36$. Additionally, if Mood is either Happy or Mellow at 100, increase Voltage Pt. by $+352$ and gain Skill Hearts equivalent to $88$ beats of Beat Hearts.",
         "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+37$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるボルテージゲイン効果を$+920%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+37$，并洗牌手牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用所带来的获得Vo Pt.效果$+920%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+37$ and shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Voltage Gain effect from using Letter cards by $+920%$ during this stage.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -51528,6 +52672,19 @@
       "en": {
         "text": "During this section, increase Mood value by $+40$ and increase the maximum number of cards in hand by 4. Additionally, reduce the AP cost of all skills in the deck by -8.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+40$し、手札をシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるボルテージゲイン効果を$+1000%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+40$，并洗牌手牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用所带来的获得Vo Pt.效果$+1000%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+40$ and shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Voltage Gain effect from using Letter cards by $+1000%$ during this stage.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -51896,6 +53053,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値を$+8$し、手札をリセットシャッフルする。このときレターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるハート上限増加効果を$+400%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+8$，将手牌重置洗牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用所带来的心心上限增加效果$+400%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+8$ and reset-shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Heart Cap increase effect from using Letter cards by $+400%$ during this stage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値を$+8$し、手札をリセットシャッフルする。この時レターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるスキルハート獲得効果による獲得数を$+400%$する。",
     "translation": {
       "zh-CN": {
@@ -51996,6 +53166,19 @@
       "en": {
         "text": "During this section, increase Mood value by $+88$ and increase the maximum number of cards in hand by 4. Additionally, reduce the AP cost of all skills in the deck by -8.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値を$+9$し、手札をリセットシャッフルする。このときレターカードをドローする確率大幅アップ。さらにムードがハッピー、メロウいずれか100のとき、このステージ中、レターカードの使用によるハート上限増加効果を$+440%$する。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值$+9$，将手牌重置洗牌。此时大幅提升抽到信件卡的概率。此外，当气氛为Happy或Mellow任一达到100时，本场Live中，信件卡使用所带来的心心上限增加效果$+440%$。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood by $+9$ and reset-shuffle your hand. At this time, the chance to draw a Letter card is greatly increased. Additionally, if Mood is either Happy or Mellow 100, increase the Heart Cap increase effect from using Letter cards by $+440%$ during this stage.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -52767,6 +53950,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をメロウ方向に$+20$、AP回復速度を$+5.6%$、手札の上限枚数を1枚増加する。さらにこのステージ中、メンタルの最大値の$56%$分のメンタル直接ダメージを無効にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+20$，AP回复速度$+5.6%$，手牌上限+1。此外，本场Live中，使最大Mental值$56%$分的Mental直接伤害无效化。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood toward Mellow by $+20$, increase AP Recovery Speed by $+5.6%$, and increase max hand size by 1 card. Additionally, during this stage, nullify $56%$ of max Mental value as direct Mental damage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をメロウ方向に$+20$する。さらにムードがメロウ50以上のとき、ボルテージPt.を$+160$、メンタルを最大値の20％減少させ、メロウ100以上のとき、このステージ中、獲得するLOVEを$+64%$、メンタルを最大値の30％減少させる。",
     "translation": {
       "zh-CN": {
@@ -52845,6 +54041,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をメロウ方向に$+22$、AP回復速度を$+6.2%$、手札の上限枚数を1枚増加する。さらにこのステージ中、メンタルの最大値の$61.6%$分のメンタル直接ダメージを無効にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+22$，AP回复速度$+6.2%$，手牌上限+1。此外，本场Live中，使最大Mental值$61.6%$分的Mental直接伤害无效化。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood toward Mellow by $+22$, increase AP Recovery Speed by $+6.2%$, and increase max hand size by 1 card. Additionally, during this stage, nullify $61.6%$ of max Mental value as direct Mental damage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をメロウ方向に$+22$する。さらにムードがメロウ50以上のとき、ボルテージPt.を$+180$、メンタルを最大値の20％減少させ、メロウ100以上のとき、このステージ中、獲得するLOVEを$+72%$、メンタルを最大値の30％減少させる。",
     "translation": {
       "zh-CN": {
@@ -52897,6 +54106,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をメロウ方向に$+24$、AP回復速度を$+6.8%$、手札の上限枚数を1枚増加する。さらにこのステージ中、メンタルの最大値の$67.2%$分のメンタル直接ダメージを無効にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+24$，AP回复速度$+6.8%$，手牌上限+1。此外，本场Live中，使最大Mental值$67.2%$分的Mental直接伤害无效化。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood toward Mellow by $+24$, increase AP Recovery Speed by $+6.8%$, and increase max hand size by 1 card. Additionally, during this stage, nullify $67.2%$ of max Mental value as direct Mental damage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をメロウ方向に$+24$する。さらにムードがメロウ50以上のとき、ボルテージPt.を$+200$、メンタルを最大値の20％減少させ、メロウ100以上のとき、このステージ中、獲得するLOVEを$+80%$、メンタルを最大値の30％減少させる。",
     "translation": {
       "zh-CN": {
@@ -52945,6 +54167,19 @@
       "en": {
         "text": "During this section, shift mood value toward Mellow by $+24$. Additionally, reduce Mental by 16% of max value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+26$、AP回復速度を$+7.3%$、手札の上限枚数を1枚増加する。さらにこのステージ中、メンタルの最大値の$72.8%$分のメンタル直接ダメージを無効にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+26$，AP回复速度$+7.3%$，手牌上限+1。此外，本场Live中，使最大Mental值$72.8%$分的Mental直接伤害无效化。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood toward Mellow by $+26$, increase AP Recovery Speed by $+7.3%$, and increase max hand size by 1 card. Additionally, during this stage, nullify $72.8%$ of max Mental value as direct Mental damage.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -53027,6 +54262,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をメロウ方向に$+28$、AP回復速度を$+7.9%$、手札の上限枚数を1枚増加する。さらにこのステージ中、メンタルの最大値の$78.4%$分のメンタル直接ダメージを無効にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+28$，AP回复速度$+7.9%$，手牌上限+1。此外，本场Live中，使最大Mental值$78.4%$分的Mental直接伤害无效化。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood toward Mellow by $+28$, increase AP Recovery Speed by $+7.9%$, and increase max hand size by 1 card. Additionally, during this stage, nullify $78.4%$ of max Mental value as direct Mental damage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をメロウ方向に$+28$する。さらにムードがメロウ50以上のとき、ボルテージPt.を$+230$、メンタルを最大値の20％減少させ、メロウ100以上のとき、このステージ中、獲得するLOVEを$+92%$、メンタルを最大値の30％減少させる。",
     "translation": {
       "zh-CN": {
@@ -53075,6 +54323,19 @@
       "en": {
         "text": "During this section, shift mood value toward Mellow by $+28$. Additionally, reduce Mental by 16% of max value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+30$、AP回復速度を$+8.4%$、手札の上限枚数を1枚増加する。さらにこのステージ中、メンタルの最大値の$84%$分のメンタル直接ダメージを無効にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+30$，AP回复速度$+8.4%$，手牌上限增加1张。此外，本场Live中，使Mental最大值$84%$分的Mental直接伤害无效化。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood toward Mellow by $+30$, AP Recovery Speed by $+8.4%$, and max hand size by 1. Additionally, during this stage, nullify $84%$ of max Mental value as direct Mental damage.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -53131,6 +54392,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をメロウ方向に$+32$、AP回復速度を$+9%$、手札の上限枚数を1枚増加する。さらにこのステージ中、メンタルの最大値の$89.6%$分のメンタル直接ダメージを無効にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+32$，AP回复速度$+9%$，手牌上限增加1张。此外，本场Live中，使Mental最大值$89.6%$分的Mental直接伤害无效化。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood toward Mellow by $+32$, AP Recovery Speed by $+9%$, and max hand size by 1. Additionally, during this stage, nullify $89.6%$ of max Mental value as direct Mental damage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をメロウ方向に$+32$する。さらにメロウ100のとき、3回の間ラブアトラクト効果を$+281.6%$する。",
     "translation": {
       "zh-CN": {
@@ -53153,6 +54427,19 @@
       "en": {
         "text": "During this section, shift mood value toward Mellow by $+32$. Additionally, reduce Mental by 16% of max value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+34$、AP回復速度を$+9.6%$、手札の上限枚数を1枚増加する。さらにこのステージ中、メンタルの最大値の$95.2%$分のメンタル直接ダメージを無効にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+34$，AP回复速度$+9.6%$，手牌上限增加1张。此外，本场Live中，使Mental最大值$95.2%$分的Mental直接伤害无效化。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood toward Mellow by $+34$, AP Recovery Speed by $+9.6%$, and max hand size by 1. Additionally, during this stage, nullify $95.2%$ of max Mental value as direct Mental damage.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -53183,6 +54470,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をメロウ方向に$+36$、AP回復速度を$+10.1%$、手札の上限枚数を1枚増加する。さらにこのステージ中、メンタルの最大値の$100.8%$分のメンタル直接ダメージを無効にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+36$，AP回复速度$+10.1%$，手牌上限增加1张。此外，本场Live中，使Mental最大值$100.8%$分的Mental直接伤害无效化。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood toward Mellow by $+36$, AP Recovery Speed by $+10.1%$, and max hand size by 1. Additionally, during this stage, nullify $100.8%$ of max Mental value as direct Mental damage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をメロウ方向に$+36$する。さらにメロウ100のとき、3回の間ラブアトラクト効果を$+316.8%$する。",
     "translation": {
       "zh-CN": {
@@ -53205,6 +54505,19 @@
       "en": {
         "text": "During this section, shift mood value toward Mellow by $+36$. Additionally, reduce Mental by 16% of max value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+40$、AP回復速度を$+11.2%$、手札の上限枚数を1枚増加する。さらにこのステージ中、メンタルの最大値の$112%$分のメンタル直接ダメージを無効にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+40$，AP回复速度$+11.2%$，手牌上限增加1张。此外，本场Live中，使Mental最大值$112%$分的Mental直接伤害无效化。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood toward Mellow by $+40$, AP Recovery Speed by $+11.2%$, and max hand size by 1. Additionally, during this stage, nullify $112%$ of max Mental value as direct Mental damage.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -53248,6 +54561,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をメロウ方向に$+42$、AP回復速度を$+11.8%$、手札の上限枚数を1枚増加する。さらにこのステージ中、メンタルの最大値の$117.6%$分のメンタル直接ダメージを無効にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+42$，AP回复速度$+11.8%$，手牌上限增加1张。此外，本场Live中，使Mental最大值$117.6%$分的Mental直接伤害无效化。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood toward Mellow by $+42$, AP Recovery Speed by $+11.8%$, and max hand size by 1. Additionally, during this stage, nullify $117.6%$ of max Mental value as direct Mental damage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をメロウ方向に$+42$する。さらにメロウ100のとき、3回の間ラブアトラクト効果を$+369.6%$する。",
     "translation": {
       "zh-CN": {
@@ -53270,6 +54596,19 @@
       "en": {
         "text": "During this section, shift mood value toward Mellow by $+42$. Additionally, reduce Mental by 16% of max value.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+44$、AP回復速度を$+12.4%$、手札の上限枚数を1枚増加する。さらにこのステージ中、メンタルの最大値の$123.2%$分のメンタル直接ダメージを無効にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+44$，AP回复速度$+12.4%$，手牌上限增加1张。此外，本场Live中，使Mental最大值$123.2%$分的Mental直接伤害无效化。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood toward Mellow by $+44$, AP Recovery Speed by $+12.4%$, and max hand size by 1. Additionally, during this stage, nullify $123.2%$ of max Mental value as direct Mental damage.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -53313,6 +54652,19 @@
     }
   },
   {
+    "raw": "このセクション中、ムード値をメロウ方向に$+46$、AP回復速度を$+12.9%$、手札の上限枚数を1枚増加する。さらにこのステージ中、メンタルの最大値の$128.8%$分のメンタル直接ダメージを無効にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+46$，AP回复速度$+12.9%$，手牌上限增加1张。此外，本场Live中，使Mental最大值$128.8%$分的Mental直接伤害无效化。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood toward Mellow by $+46$, AP Recovery Speed by $+12.9%$, and max hand size by 1. Additionally, during this stage, nullify $128.8%$ of max Mental value as direct Mental damage.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "このセクション中、ムード値をメロウ方向に$+46$する。さらにメロウ100のとき、3回の間ラブアトラクト効果を$+404.8%$する。",
     "translation": {
       "zh-CN": {
@@ -53348,6 +54700,19 @@
       "en": {
         "text": "During this section, increase Mood Value in the Mellow direction by +48. Additionally, during this section, increase the Love Attract effect used by Sayaka and Kosuzu by +240% and the Voltage Gain effect by +240%.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "このセクション中、ムード値をメロウ方向に$+50$、AP回復速度を$+14%$、手札の上限枚数を1枚増加する。さらにこのステージ中、メンタルの最大値の$140%$分のメンタル直接ダメージを無効にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "本小节中，气氛值向Mellow方向$+50$，AP回复速度$+14%$，手牌上限增加1张。此外，本场Live中，使Mental最大值$140%$分的Mental直接伤害无效化。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "During this section, increase Mood toward Mellow by $+50$, AP Recovery Speed by $+14%$, and max hand size by 1. Additionally, during this stage, nullify $140%$ of max Mental value as direct Mental damage.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -72527,6 +73892,188 @@
     }
   },
   {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を20000000吸収したとき、ビートハート$1040回分$のスキルハートを獲得、このステージ中、獲得するLOVEを$+10400000%$、ハート上限を$+104000$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌设置在舞台上，吸收LOVE+效果。吸收20000000点LOVE+效果时，获得$1040倍$跳心的技能心心，本场Live中，获得的LOVE$+10400000%$，心心上限$+104000$，并将此卡移入弃牌。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When it has absorbed 20000000 Love Attract effect, gain Skill Hearts equivalent to $1040$ Beat Hearts, and during this stage, increase LOVE gained by $+10400000%$, increase Heart Cap by $+104000$, then move this card to the discard pile.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を20000000吸収したとき、ビートハート$1120回分$のスキルハートを獲得、このステージ中、獲得するLOVEを$+11200000%$、ハート上限を$+112000$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌设置在舞台上，吸收LOVE+效果。吸收20000000点LOVE+效果时，获得$1120倍$跳心的技能心心，本场Live中，获得的LOVE$+11200000%$，心心上限$+112000$，并将此卡移入弃牌。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When it has absorbed 20000000 Love Attract effect, gain Skill Hearts equivalent to $1120$ Beat Hearts, and during this stage, increase LOVE gained by $+11200000%$, increase Heart Cap by $+112000$, then move this card to the discard pile.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を20000000吸収したとき、ビートハート$1200回分$のスキルハートを獲得、このステージ中、獲得するLOVEを$+12000000%$、ハート上限を$+120000$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌设置在舞台上，吸收LOVE+效果。吸收20000000点LOVE+效果时，获得$1200倍$跳心的技能心心，本场Live中，获得的LOVE$+12000000%$，心心上限$+120000$，并将此卡移入弃牌。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When it has absorbed 20000000 Love Attract effect, gain Skill Hearts equivalent to $1200$ Beat Hearts, and during this stage, increase LOVE gained by $+12000000%$, increase Heart Cap by $+120000$, then move this card to the discard pile.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を20000000吸収したとき、ビートハート$1280回分$のスキルハートを獲得、このステージ中、獲得するLOVEを$+12800000%$、ハート上限を$+128000$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌设置在舞台上，吸收LOVE+效果。吸收20000000点LOVE+效果时，获得$1280倍$跳心的技能心心，本场Live中，获得的LOVE$+12800000%$，心心上限$+128000$，并将此卡移入弃牌。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When it has absorbed 20000000 Love Attract effect, gain Skill Hearts equivalent to $1280$ Beat Hearts, and during this stage, increase LOVE gained by $+12800000%$, increase Heart Cap by $+128000$, then move this card to the discard pile.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を20000000吸収したとき、ビートハート$1360回分$のスキルハートを獲得、このステージ中、獲得するLOVEを$+13600000%$、ハート上限を$+136000$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌设置在舞台上，吸收LOVE+效果。吸收20000000点LOVE+效果时，获得$1360倍$跳心的技能心心，本场Live中，获得的LOVE$+13600000%$，心心上限$+136000$，并将此卡移入弃牌。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When it has absorbed 20000000 Love Attract effect, gain Skill Hearts equivalent to $1360$ Beat Hearts, and during this stage, increase LOVE gained by $+13600000%$, increase Heart Cap by $+136000$, then move this card to the discard pile.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を20000000吸収したとき、ビートハート$1440回分$のスキルハートを獲得、このステージ中、獲得するLOVEを$+14400000%$、ハート上限を$+144000$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌设置在舞台上，吸收LOVE+效果。吸收20000000点LOVE+效果时，获得$1440倍$跳心的技能心心，本场Live中，获得的LOVE$+14400000%$，心心上限$+144000$，并将此卡移入弃牌。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When it has absorbed 20000000 Love Attract effect, gain Skill Hearts equivalent to $1440$ Beat Hearts, and during this stage, increase LOVE gained by $+14400000%$, increase Heart Cap by $+144000$, then move this card to the discard pile.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を20000000吸収したとき、ビートハート$1600回分$のスキルハートを獲得、このステージ中、獲得するLOVEを$+16000000%$、ハート上限を$+160000$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌设置在舞台上，吸收LOVE+效果。吸收20000000点LOVE+效果时，获得$1600倍$跳心的技能心心，本场Live中，获得的LOVE$+16000000%$，心心上限$+160000$，并将此卡移入弃牌。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When it has absorbed 20000000 Love Attract effect, gain Skill Hearts equivalent to $1600$ Beat Hearts, and during this stage, increase LOVE gained by $+16000000%$, increase Heart Cap by $+160000$, then move this card to the discard pile.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を20000000吸収したとき、ビートハート$1680回分$のスキルハートを獲得、このステージ中、獲得するLOVEを$+16800000%$、ハート上限を$+168000$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌设置在舞台上，吸收LOVE+效果。吸收20000000点LOVE+效果时，获得$1680倍$跳心的技能心心，本场Live中，获得的LOVE$+16800000%$，心心上限$+168000$，并将此卡移入弃牌。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When it has absorbed 20000000 Love Attract effect, gain Skill Hearts equivalent to $1680$ Beat Hearts, and during this stage, increase LOVE gained by $+16800000%$, increase Heart Cap by $+168000$, then move this card to the discard pile.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を20000000吸収したとき、ビートハート$1760回分$のスキルハートを獲得、このステージ中、獲得するLOVEを$+17600000%$、ハート上限を$+176000$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌设置在舞台上，吸收LOVE+效果。吸收20000000点LOVE+效果时，获得$1760倍$跳心的技能心心，本场Live中，获得的LOVE$+17600000%$，心心上限$+176000$，并将此卡移入弃牌。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When it has absorbed 20000000 Love Attract effect, gain Skill Hearts equivalent to $1760$ Beat Hearts, and during this stage, increase LOVE gained by $+17600000%$, increase Heart Cap by $+176000$, then move this card to the discard pile.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を20000000吸収したとき、ビートハート$1840回分$のスキルハートを獲得、このステージ中、獲得するLOVEを$+18400000%$、ハート上限を$+184000$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌设置在舞台上，吸收LOVE+效果。吸收20000000点LOVE+效果时，获得$1840倍$跳心的技能心心，本场Live中，获得的LOVE$+18400000%$，心心上限$+184000$，并将此卡移入弃牌。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When it has absorbed 20000000 Love Attract effect, gain Skill Hearts equivalent to $1840$ Beat Hearts, and during this stage, increase LOVE gained by $+18400000%$, increase Heart Cap by $+184000$, then move this card to the discard pile.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を20000000吸収したとき、ビートハート$2000回分$のスキルハートを獲得、このステージ中、獲得するLOVEを$+20000000%$、ハート上限を$+200000$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌设置在舞台上，吸收LOVE+效果。吸收20000000点LOVE+效果时，获得$2000倍$跳心的技能心心，本场Live中，获得的LOVE$+20000000%$，心心上限$+200000$，并将此卡移入弃牌。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When it has absorbed 20000000 Love Attract effect, gain Skill Hearts equivalent to $2000$ Beat Hearts, and during this stage, increase LOVE gained by $+20000000%$, increase Heart Cap by $+200000$, then move this card to the discard pile.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を20000000吸収したとき、ビートハート$800回分$のスキルハートを獲得、このステージ中、獲得するLOVEを$+8000000%$、ハート上限を$+80000$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌设置在舞台上，吸收LOVE+效果。吸收20000000点LOVE+效果时，获得$800倍$跳心的技能心心，本场Live中，获得的LOVE$+8000000%$，心心上限$+80000$，并将此卡移入弃牌。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When it has absorbed 20000000 Love Attract effect, gain Skill Hearts equivalent to $800$ Beat Hearts, and during this stage, increase LOVE gained by $+8000000%$, increase Heart Cap by $+80000$, then move this card to the discard pile.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を20000000吸収したとき、ビートハート$880回分$のスキルハートを獲得、このステージ中、獲得するLOVEを$+8800000%$、ハート上限を$+88000$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌设置在舞台上，吸收LOVE+效果。吸收20000000点LOVE+效果时，获得$880倍$跳心的技能心心，本场Live中，获得的LOVE$+8800000%$，心心上限$+88000$，并将此卡移入弃牌。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When it has absorbed 20000000 Love Attract effect, gain Skill Hearts equivalent to $880$ Beat Hearts, and during this stage, increase LOVE gained by $+8800000%$, increase Heart Cap by $+88000$, then move this card to the discard pile.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を20000000吸収したとき、ビートハート$960回分$のスキルハートを獲得、このステージ中、獲得するLOVEを$+9600000%$、ハート上限を$+96000$し、捨札に移動する。",
+    "translation": {
+      "zh-CN": {
+        "text": "将卡牌设置在舞台上，吸收LOVE+效果。吸收20000000点LOVE+效果时，获得$960倍$跳心的技能心心，本场Live中，获得的LOVE$+9600000%$，心心上限$+96000$，并将此卡移入弃牌。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "The card is set to the stage and absorbs the Love Attract effect. When it has absorbed 20000000 Love Attract effect, gain Skill Hearts equivalent to $960$ Beat Hearts, and during this stage, increase LOVE gained by $+9600000%$, increase Heart Cap by $+96000$, then move this card to the discard pile.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "カードがステージにセットされ、ラブアトラクト効果を吸収する。ラブアトラクト効果を777%吸収したとき、ボルテージPt.を$+311$、このセクション中、ムード値を$+31$、ビートハートの出現個数を+2し、捨札に移動する。",
     "translation": {
       "en": {
@@ -74412,6 +75959,19 @@
     }
   },
   {
+    "raw": "スキル使用時1回まで、アイディアルシャドウカードを1種類(合計1枚)山札に追加する。手札にある間、DOLLCHESTRAのメンバーのスキルを使用したとき、手札をシャッフルし、APを9回復、さらにボルテージLv.950以上かつメンタルが0でハートを500000個回収したとき、手札をシャッフルし、ボルテージPt.を-1400000、ボルテージLv.が1000のときさらにボルテージPt.を-14000000する。このときDOLLCHESTRAのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "在本技能的使用次数内最多1次，将1个种类的理想之影卡（合计1张）加入牌库。只要在手牌中，在使用DOLLCHESTRA成员的技能时，将手牌洗牌，AP回复9点，并且在Vo等级950以上且Mental为0并回收500000个心心时，将手牌洗牌，Vo Pt.-1400000，Vo等级为1000时再追加Vo Pt.-14000000。此时，抽到DOLLCHESTRA卡牌的概率大幅上升。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Up to once when this skill is used, add 1 type of Ideal Shadow card (1 card total) to the deck. While this card is in your hand, when you use a DOLLCHESTRA member's skill, shuffle your hand and restore 9 AP. Furthermore, when Voltage Lv. is 950 or higher, Mental is 0, and you have collected 500000 Hearts, shuffle your hand, decrease Voltage Pt. by -1400000, and if Voltage Lv. is 1000, decrease Voltage Pt. by an additional -14000000. At this time, the chance to draw DOLLCHESTRA cards is greatly increased.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "スキル使用時1回まで、ペアカード[My Lucky Clover]日野下 花帆を1種類(合計1枚)山札に追加する。さらに手札にある状態でハートを4000個回収したとき、ビートハート40回分のスキルハートを獲得し、4回の間ハート上限増加効果を+40%する。",
     "translation": {
       "en": {
@@ -74464,6 +76024,19 @@
     }
   },
   {
+    "raw": "スキル使用時1回まで、レターカードを1種類(合計1枚)山札に追加する。さらにドローした時、このセクション中、デッキ内のレターカード1枚につき手札の上限枚数を1枚増加する。(最大5枚増加)",
+    "translation": {
+      "zh-CN": {
+        "text": "在技能使用时最多1次，将1种类的信件卡（合计1张）加入牌库。此外，抽到时，本小节中，每有1张在卡组中的信件卡，手牌上限+1（最多+5）。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Up to once when this skill is used, add 1 type of Letter card (1 card total) to the deck. Furthermore, when drawn, during this section increase the maximum hand size by 1 for each Letter card in the deck (up to a maximum increase of 5 cards).",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "スキル使用時1回まで、レターカードを1種類(合計1枚)山札に追加する。さらにドローした時、デッキ内のレターカード1枚につきAPを3回復する。(最大15回復)",
     "translation": {
       "zh-CN": {
@@ -74486,6 +76059,19 @@
       "en": {
         "text": "Up to once per skill use, add 1 type (1 card total) of Letter Card to the deck. Additionally, when a Letter Card is drawn while Mood is either Happy or Mellow 100, reduce the AP cost of Letter Cards in the deck by 3.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "スキル使用時1回まで、レターカードを1種類(合計1枚)山札に追加する。さらにムードがハッピー、メロウいずれか100でドローした時、デッキ内のドレスカード、レターカードのスキルの消費APを-3する。",
+    "translation": {
+      "zh-CN": {
+        "text": "在技能使用时最多1次，将1种类的信件卡（合计1张）加入牌库。此外，当气氛为Happy或Mellow任一达到100时抽到，卡组中礼服卡、信件卡的技能消费AP-3。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Up to once when this skill is used, add 1 type of Letter card (1 card total) to the deck. Furthermore, when drawn while Mood is either Happy or Mellow 100, reduce the AP cost of Dress cards and Letter cards in the deck by -3.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -76830,6 +78416,19 @@
     }
   },
   {
+    "raw": "ドレスカード《拝啓、未来の君へ》を1種類(合計2枚)山札に追加する。このときドレスカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "将礼服卡《拝啓、未来の君へ》1个种类（合计2张）加入牌库。此时大幅提升抽到礼服卡的概率。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Add 1 type (2 cards total) of the Dress card 《拝啓、未来の君へ》 to the deck. At this time, the chance to draw Dress cards is greatly increased.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ドレスカード《月夜見海月》を1種類(合計3枚)山札に追加する。さらにデッキ枚数が25枚以下のとき、ドレスカード《月夜見海月》を1種類(合計3枚)山札に追加する。",
     "translation": {
       "zh-CN": {
@@ -77103,6 +78702,32 @@
     }
   },
   {
+    "raw": "ドローしたとき、スキルハートを獲得し、8回の間ハート上限増加効果の効果量を増加する。泉のMember Fan Lv.が高いほど効果量が増加する。さらにセラスのMember Fan Lv.が100以上でハートを80000個回収したとき、手札をリセットシャッフルする。",
+    "translation": {
+      "zh-CN": {
+        "text": "抽到时，获得技能心心，并在接下来8次中提高心心上限增加效果的效果量。桂城泉的Member Fan Lv.越高，效果量越大。此外，当塞拉斯的Member Fan Lv.在100以上且回收心心80000个时，将手牌重置洗牌。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When drawn, gain Skill Hearts and, for 8 turns, increase the effect amount of Heart Cap Increase effects. The higher Izumi’s Member Fan Lv., the greater the effect. Furthermore, when Ceras’s Member Fan Lv. is 100 or higher and 80000 Hearts are collected, reset and shuffle your hand.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "ドローしたとき、スキルハートを獲得し、8回の間ラブアトラクト効果の効果量を増加する。セラスのMember Fan Lv.が高いほど効果量が増加する。さらに泉のMember Fan Lv.が100以上でハートを80000個回収したとき、手札をリセットシャッフルする。",
+    "translation": {
+      "zh-CN": {
+        "text": "抽到时，获得技能心心，并在接下来8次中提高LOVE+效果的效果量。塞拉斯的Member Fan Lv.越高，效果量越大。此外，当桂城泉的Member Fan Lv.在100以上且回收心心80000个时，将手牌重置洗牌。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When drawn, gain Skill Hearts and, for 8 turns, increase the effect amount of Love Attract effects. The higher Ceras’s Member Fan Lv., the greater the effect. Furthermore, when Izumi’s Member Fan Lv. is 100 or higher and 80000 Hearts are collected, reset and shuffle your hand.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ドローしたとき、デッキにある瑠璃乃のスキルの消費AP-9。さらに手札にある状態でムードがハッピー、メロウいずれか22以上で瑠璃乃のスキルを使用したとき、このセクション中、AP回復速度を+22%する。",
     "translation": {
       "zh-CN": {
@@ -77177,6 +78802,19 @@
       "en": {
         "text": "When drawn, the more cards in the deck, the more Skill Hearts are gained; when this skill is used, it is removed from the deck and the chance to draw a Flower Bookmark Card is greatly increased. Additionally, while in hand with 80 or more cards in the deck, amplify the effect value of all skills used by Bloom Story Cards by +1001%, and when 500,000 Hearts are collected with 95 or more cards in the deck, gain Skill Hearts equivalent to 1001 beats.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ドローしたとき、ボルテージLv.が高いほど、スキルハートを獲得し、このステージ中さやかが使用するあらゆるスキルの効果量を増幅する。手札にある間、DOLLCHESTRAのメンバーのスキルを使用したとき、手札をシャッフルし、デッキ内のDOLLCHESTRA、シャドウカードのスキルの消費APを-9、さらにボルテージLv.950以上かつメンタルが0でハートを500000個回収したとき、手札をシャッフルし、ボルテージPt.を-1400000、ボルテージLv.が1000のときさらにボルテージPt.を-14000000する。このときDOLLCHESTRAのカードをドローする確率大幅アップ。",
+    "translation": {
+      "zh-CN": {
+        "text": "抽到时，Voltage Lv.越高，获得的技能心心越多，并在本场Live中，沙耶香使用的一切技能效果量获得增幅。只要在手牌中，在使用DOLLCHESTRA成员的技能时，将手牌洗牌，卡组中DOLLCHESTRA、暗影卡的技能消费AP-9；此外，当Voltage Lv.在950以上且Mental为0并回收心心500000个时，将手牌洗牌，Vo Pt.-1400000，当Voltage Lv.为1000时，进一步Vo Pt.-14000000。此时大幅提升抽到DOLLCHESTRA卡的概率。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When drawn, the higher the Voltage Lv., the more Skill Hearts you gain, and during this stage amplify the effect amount of all skills used by Sayaka. While this card is in your hand, when you use a DOLLCHESTRA member’s skill, shuffle your hand and reduce the AP cost of DOLLCHESTRA and Shadow cards in the deck by -9. Furthermore, when Voltage Lv. is 950 or higher and Mental is 0 and 500000 Hearts are collected, shuffle your hand, decrease Voltage Pt. by -1400000, and when Voltage Lv. is 1000, decrease Voltage Pt. by an additional -14000000. At this time, the chance to draw DOLLCHESTRA cards is greatly increased.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -77749,6 +79387,19 @@
       "en": {
         "text": "When drawn, during this stage, increase LOVE gained and gain Skill Hearts. Effect increases based on Kozue's Member Fan Lv.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ドローした時、このセクション中、AP回復速度を+20%する。さらにこのスキルを使用すると、デッキから除外される。",
+    "translation": {
+      "zh-CN": {
+        "text": "抽到时，本小节中，AP回复速度+20%。此外，使用此技能时，从卡组中除外。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "When drawn, increase AP Recovery Speed by +20% during this section. Furthermore, when this skill is used, it is removed from the deck.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -85267,6 +86918,19 @@
     }
   },
   {
+    "raw": "ビートハート$20回分$のスキルハートを獲得し、ボルテージPt.を$+80$する。さらにムードがメロウ100のとき、このステージ中、獲得するLOVEを$+1200%$、ハート上限を$+200$する。ボルテージLv.200ごとにスキル効果値が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$20倍$跳心的技能心心，Vo Pt.$+80$。此外，当气氛为Mellow100时，本场Live中，获得的LOVE$+1200%$，心心上限$+200$。每当Voltage Lv.提升200，技能效果值就会增加。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $20$ Beat Hearts and increase Voltage Pt. by $+80$. Additionally, when Mood is Mellow 100, during this stage increase LOVE gained by $+1200%$ and Heart Cap by $+200$. Skill effect value increases for every 200 Voltage Lv.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$20回分$のスキルハートを獲得し、姫芽の《イグニッションモード》の状態を切り替える。さらにボルテージLv.が8以上の時、ビートハート$32回分$のスキルハートを追加で獲得し、ボルテージLv.が10以上の時、ビートハート$40回分$のスキルハートを追加で獲得する。",
     "translation": {
       "zh-CN": {
@@ -85865,6 +87529,19 @@
     }
   },
   {
+    "raw": "ビートハート$22回分$のスキルハートを獲得し、ボルテージPt.を$+88$する。さらにムードがメロウ100のとき、このステージ中、獲得するLOVEを$+1320%$、ハート上限を$+220$する。ボルテージLv.200ごとにスキル効果値が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$22倍$跳心的技能心心，Vo Pt.$+88$。此外，当气氛为Mellow100时，本场Live中，获得的LOVE$+1320%$，心心上限$+220$。每当Voltage Lv.提升200，技能效果值就会增加。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $22$ Beat Hearts and increase Voltage Pt. by $+88$. Additionally, when Mood is Mellow 100, during this stage increase LOVE gained by $+1320%$ and Heart Cap by $+220$. Skill effect value increases for every 200 Voltage Lv.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$22回分$のスキルハートを獲得し、姫芽の《イグニッションモード》の状態を切り替える。さらにボルテージLv.が8以上の時、ビートハート$36回分$のスキルハートを追加で獲得し、ボルテージLv.が10以上の時、ビートハート$44回分$のスキルハートを追加で獲得する。",
     "translation": {
       "zh-CN": {
@@ -86381,6 +88058,19 @@
       "en": {
         "text": "Gain Skill Hearts equivalent to $24$ Beat Hearts and increase LOVE gained by $+30%$ during this section. Additionally, when Mental is at 50% or below, gain Skill Hearts equivalent to $18$ Beat Hearts, and when Mental is at 25% or below, gain Skill Hearts equivalent to $24$ Beat Hearts.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$24回分$のスキルハートを獲得し、ボルテージPt.を$+96$する。さらにムードがメロウ100のとき、このステージ中、獲得するLOVEを$+1440%$、ハート上限を$+240$する。ボルテージLv.200ごとにスキル効果値が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$24倍$跳心的技能心心，Vo Pt.$+96$。此外，当气氛为Mellow100时，本场Live中，获得的LOVE$+1440%$，心心上限$+240$。每当Voltage Lv.提升200，技能效果值就会增加。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $24$ Beat Hearts and increase Voltage Pt. by $+96$. Additionally, when Mood is Mellow 100, during this stage increase LOVE gained by $+1440%$ and Heart Cap by $+240$. Skill effect value increases for every 200 Voltage Lv.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -86918,6 +88608,19 @@
     }
   },
   {
+    "raw": "ビートハート$26回分$のスキルハートを獲得し、ボルテージPt.を$+104$する。さらにムードがメロウ100のとき、このステージ中、獲得するLOVEを$+1560%$、ハート上限を$+260$する。ボルテージLv.200ごとにスキル効果値が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$26倍$跳心的技能心心，Vo Pt.$+104$。此外，当气氛为Mellow100时，本场Live中，获得的LOVE$+1560%$，心心上限$+260$。每当Voltage Lv.提升200，技能效果值就会增加。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $26$ Beat Hearts and increase Voltage Pt. by $+104$. Additionally, when Mood is Mellow 100, during this stage increase LOVE gained by $+1560%$ and Heart Cap by $+260$. Skill effect value increases for every 200 Voltage Lv.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$26回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -87239,6 +88942,19 @@
       "zh-CN": {
         "text": "获得$28倍$跳心的技能心心，失去最大mental值的25%，本小节中，获得LOVE$+68.4%$。并且Mental为0时，本小节中，获得LOVE$+684%$。",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$28回分$のスキルハートを獲得し、ボルテージPt.を$+112$する。さらにムードがメロウ100のとき、このステージ中、獲得するLOVEを$+1680%$、ハート上限を$+280$する。ボルテージLv.200ごとにスキル効果値が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$28倍$跳心的技能心心，Vo Pt.$+112$。此外，当气氛为Mellow100时，本场Live中，获得的LOVE$+1680%$，心心上限$+280$。每当Voltage Lv.提升200，技能效果值就会增加。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $28$ Beat Hearts and increase Voltage Pt. by $+112$. Additionally, when Mood is Mellow 100, during this stage increase LOVE gained by $+1680%$ and Heart Cap by $+280$. Skill effect value increases for every 200 Voltage Lv.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -87724,6 +89440,19 @@
     }
   },
   {
+    "raw": "ビートハート$30回分$のスキルハートを獲得し、ボルテージPt.を$+120$する。さらにムードがメロウ100のとき、このステージ中、獲得するLOVEを$+1800%$、ハート上限を$+300$する。ボルテージLv.200ごとにスキル効果値が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$30倍$跳心的技能心心，Vo Pt.$+120$。此外，当气氛为Mellow100时，本场Live中，获得的LOVE$+1800%$，心心上限$+300$。每当Voltage Lv.提升200，技能效果值就会增加。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $30$ Beat Hearts and increase Voltage Pt. by $+120$. Additionally, when Mood is Mellow 100, during this stage increase LOVE gained by $+1800%$ and Heart Cap by $+300$. Skill effect value increases for every 200 Voltage Lv.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$30回分$のスキルハートを獲得し、メンタルを最大値の25％減少させる。さらにこのセクション中、獲得するLOVEを$+74.1%$する。",
     "translation": {
       "zh-CN": {
@@ -87958,6 +89687,19 @@
     }
   },
   {
+    "raw": "ビートハート$32回分$のスキルハートを獲得し、ボルテージPt.を$+128$する。さらにムードがメロウ100のとき、このステージ中、獲得するLOVEを$+1920%$、ハート上限を$+320$する。ボルテージLv.200ごとにスキル効果値が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$32倍$跳心的技能心心，Vo Pt.$+128$。此外，当气氛为Mellow100时，本场Live中，获得的LOVE$+1920%$，心心上限$+320$。每当Voltage Lv.提升200，技能效果值就会增加。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $32$ Beat Hearts and increase Voltage Pt. by $+128$. Additionally, when Mood is Mellow 100, during this stage increase LOVE gained by $+1920%$ and Heart Cap by $+320$. Skill effect value increases for every 200 Voltage Lv.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$32回分$のスキルハートを獲得し、メンタルを最大値の25％減少させる。さらにこのセクション中、獲得するLOVEを$+79.8%$する。",
     "translation": {
       "zh-CN": {
@@ -88166,6 +89908,19 @@
     }
   },
   {
+    "raw": "ビートハート$34回分$のスキルハートを獲得し、ボルテージPt.を$+136$する。さらにムードがメロウ100のとき、このステージ中、獲得するLOVEを$+2040%$、ハート上限を$+340$する。ボルテージLv.200ごとにスキル効果値が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$34倍$跳心的技能心心，Vo Pt.$+136$。此外，当气氛为Mellow100时，本场Live中，获得的LOVE$+2040%$，心心上限$+340$。每当Voltage Lv.提升200，技能效果值就会增加。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $34$ Beat Hearts and increase Voltage Pt. by $+136$. Additionally, when Mood is Mellow 100, during this stage increase LOVE gained by $+2040%$ and Heart Cap by $+340$. Skill effect value increases for every 200 Voltage Lv.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$34回分$のスキルハートを獲得し、姫芽の《イグニッションモード》を解除する。メンタルが50%以下のとき、ビートハート$44回分$のスキルハートを追加で獲得し、メンタルが25%以下のとき、ビートハート$55回分$のスキルハートをさらに追加で獲得、メンタルが0%のとき、手札をリセットシャッフルする。",
     "translation": {
       "en": {
@@ -88370,6 +90125,19 @@
       "en": {
         "text": "Gain Skill Heart equivalent to $36$ Beat Hearts and gain $+33.7%$ LOVE for this stage. Additionally, when deck has exactly 21 cards, gain Skill Heart equivalent to $1938$ Beat Hearts and gain $+1870%$ LOVE for this stage.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$36回分$のスキルハートを獲得し、ボルテージPt.を$+144$する。さらにムードがメロウ100のとき、このステージ中、獲得するLOVEを$+2160%$、ハート上限を$+360$する。ボルテージLv.200ごとにスキル効果値が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$36倍$跳心的技能心心，Vo Pt.$+144$。此外，当气氛为Mellow100时，本场Live中，获得的LOVE$+2160%$，心心上限$+360$。每当Voltage Lv.提升200，技能效果值就会增加。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $36$ Beat Hearts and increase Voltage Pt. by $+144$. Additionally, when Mood is Mellow 100, during this stage increase LOVE gained by $+2160%$ and Heart Cap by $+360$. Skill effect value increases for every 200 Voltage Lv.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -89050,6 +90818,19 @@
     }
   },
   {
+    "raw": "ビートハート$40回分$のスキルハートを獲得し、ボルテージPt.を$+160$する。さらにムードがメロウ100のとき、このステージ中、獲得するLOVEを$+2400%$、ハート上限を$+400$する。ボルテージLv.200ごとにスキル効果値が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$40倍$跳心的技能心心，Vo Pt.$+160$。此外，当气氛为Mellow100时，本场Live中，获得的LOVE$+2400%$，心心上限$+400$。每当Voltage Lv.提升200，技能效果值就会增加。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $40$ Beat Hearts and increase Voltage Pt. by $+160$. Additionally, when Mood is Mellow 100, during this stage increase LOVE gained by $+2400%$ and Heart Cap by $+400$. Skill effect value increases for every 200 Voltage Lv.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$40回分$のスキルハートを獲得する。",
     "translation": {
       "zh-CN": {
@@ -89180,6 +90961,19 @@
     }
   },
   {
+    "raw": "ビートハート$42回分$のスキルハートを獲得し、ボルテージPt.を$+168$する。さらにムードがメロウ100のとき、このステージ中、獲得するLOVEを$+2520%$、ハート上限を$+420$する。ボルテージLv.200ごとにスキル効果値が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$42倍$跳心的技能心心，Vo Pt.$+168$。此外，当气氛为Mellow100时，本场Live中，获得的LOVE$+2520%$，心心上限$+420$。每当Voltage Lv.提升200，技能效果值就会增加。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $42$ Beat Hearts and increase Voltage Pt. by $+168$. Additionally, when Mood is Mellow 100, during this stage increase LOVE gained by $+2520%$ and Heart Cap by $+420$. Skill effect value increases for every 200 Voltage Lv.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "ビートハート$42回分$のスキルハートを獲得し、姫芽の《イグニッションモード》を解除する。メンタルが50%以下のとき、ビートハート$56回分$のスキルハートを追加で獲得し、メンタルが25%以下のとき、ビートハート$69回分$のスキルハートをさらに追加で獲得、メンタルが0%のとき、手札をリセットシャッフルする。",
     "translation": {
       "en": {
@@ -89306,6 +91100,19 @@
       "en": {
         "text": "Gain Skill Heart equivalent to Beat Heart $44 times$ and increase LOVE gained by $+41.6%$ during this stage. Additionally, when deck size is exactly 21 cards, gain Skill Heart equivalent to Beat Heart $2394 times$ and increase LOVE gained by $+2310%$ during this stage.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$44回分$のスキルハートを獲得し、ボルテージPt.を$+176$する。さらにムードがメロウ100のとき、このステージ中、獲得するLOVEを$+2640%$、ハート上限を$+440$する。ボルテージLv.200ごとにスキル効果値が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$44倍$跳心的技能心心，Vo Pt.$+176$。此外，当气氛为Mellow100时，本场Live中，获得的LOVE$+2640%$，心心上限$+440$。每当Voltage Lv.提升200，技能效果值就会增加。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $44$ Beat Hearts and increase Voltage Pt. by $+176$. Additionally, when Mood is Mellow 100, during this stage increase LOVE gained by $+2640%$ and Heart Cap by $+440$. Skill effect value increases for every 200 Voltage Lv.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -89449,6 +91256,19 @@
       "en": {
         "text": "Obtain $46$ Beat Heart worth of Skill Hearts and increase LOVE gained by $+43.6%$ during this stage. Furthermore, when deck size is exactly 21 cards, obtain $2508$ Beat Heart worth of Skill Hearts and increase LOVE gained by $+2420%$ during this stage.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$46回分$のスキルハートを獲得し、ボルテージPt.を$+184$する。さらにムードがメロウ100のとき、このステージ中、獲得するLOVEを$+2760%$、ハート上限を$+460$する。ボルテージLv.200ごとにスキル効果値が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$46倍$跳心的技能心心，Vo Pt.$+184$。此外，当气氛为Mellow100时，本场Live中，获得的LOVE$+2760%$，心心上限$+460$。每当Voltage Lv.提升200，技能效果值就会增加。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $46$ Beat Hearts and increase Voltage Pt. by $+184$. Additionally, when Mood is Mellow 100, during this stage increase LOVE gained by $+2760%$ and Heart Cap by $+460$. Skill effect value increases for every 200 Voltage Lv.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -90294,6 +92114,19 @@
       "en": {
         "text": "Gain Skill Hearts equivalent to 4 beats. For every Voltage Lv. 15, the effect amount increases, up to 200x at a maximum of Lv. 150. Additionally, when Mood is either Happy or Mellow 100, increase Voltage Pt. by $+224$.",
         "author": "gpt-5.2"
+      }
+    }
+  },
+  {
+    "raw": "ビートハート$50回分$のスキルハートを獲得し、ボルテージPt.を$+200$する。さらにムードがメロウ100のとき、このステージ中、獲得するLOVEを$+3000%$、ハート上限を$+500$する。ボルテージLv.200ごとにスキル効果値が増加する。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得$50倍$跳心的技能心心，Vo Pt.$+200$。此外，当气氛为Mellow100时，本场Live中，获得的LOVE$+3000%$，心心上限$+500$。每当Voltage Lv.提升200，技能效果值就会增加。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Gain Skill Hearts equivalent to $50$ Beat Hearts and increase Voltage Pt. by $+200$. Additionally, when Mood is Mellow 100, during this stage increase LOVE gained by $+3000%$ and Heart Cap by $+500$. Skill effect value increases for every 200 Voltage Lv.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -136769,6 +138602,19 @@
       "en": {
         "text": "Reset and shuffle your hand. At this time, the chance to draw Rabbit Clock cards and Cerise Bouquet skills is greatly increased.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "手札をリセットシャッフルする。さらにAPを0にする。",
+    "translation": {
+      "zh-CN": {
+        "text": "将手牌重置洗牌。此外，将AP变为0。",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Reset and shuffle your hand. Additionally, set AP to 0.",
+        "author": "gpt-5.1"
       }
     }
   },

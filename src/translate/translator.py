@@ -181,7 +181,7 @@ class OpenAITranslator(LLMTranslator):
 
     def get_default_model(self) -> str:
         """Get default OpenAI model"""
-        return "gpt-5.2"
+        return "gpt-5.1"
 
     def _setup_client(self):
         """Setup OpenAI API client"""

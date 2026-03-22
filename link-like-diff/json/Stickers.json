@@ -1854,6 +1854,12 @@
             "RequirementText": "[拝啓、未来の君へ]村野 さやか 解放完了"
         },
         {
+            "Id": 10325361,
+            "Name": "[アイシイ]村野 さやか",
+            "Text": "[アイシイ]村野 さやか を4回解放した記念のステッカー",
+            "RequirementText": "[アイシイ]村野 さやか 解放完了"
+        },
+        {
             "Id": 10328011,
             "Name": "[Prism Echo]村野 さやか",
             "Text": "[Prism Echo]村野 さやかを4回解放した記念のステッカー",
@@ -2032,6 +2038,12 @@
             "Name": "[蒼のツバメ]大沢 瑠璃乃",
             "Text": "[蒼のツバメ]大沢 瑠璃乃 を4回解放した記念のステッカー",
             "RequirementText": "[蒼のツバメ]大沢 瑠璃乃 解放完了"
+        },
+        {
+            "Id": 10334171,
+            "Name": "[拝啓、未来の君へ]大沢 瑠璃乃",
+            "Text": "[拝啓、未来の君へ]大沢 瑠璃乃 を4回解放した記念のステッカー",
+            "RequirementText": "[拝啓、未来の君へ]大沢 瑠璃乃 解放完了"
         },
         {
             "Id": 10335011,
@@ -2344,6 +2356,12 @@
             "Name": "[My Lucky Clover]百生 吟子",
             "Text": "[My Lucky Clover]百生 吟子 を4回解放した記念のステッカー",
             "RequirementText": "[My Lucky Clover]百生 吟子 解放完了"
+        },
+        {
+            "Id": 10414061,
+            "Name": "[拝啓、未来の君へ]百生 吟子",
+            "Text": "[拝啓、未来の君へ]百生 吟子 を4回解放した記念のステッカー",
+            "RequirementText": "[拝啓、未来の君へ]百生 吟子 解放完了"
         },
         {
             "Id": 10415011,
@@ -2716,6 +2734,12 @@
             "Name": "[リブウト]徒町 小鈴",
             "Text": "[リブウト]徒町 小鈴 を4回解放した記念のステッカー",
             "RequirementText": "[リブウト]徒町 小鈴 解放完了"
+        },
+        {
+            "Id": 10425241,
+            "Name": "[アイシイ]徒町 小鈴",
+            "Text": "[アイシイ]徒町 小鈴 を4回解放した記念のステッカー",
+            "RequirementText": "[アイシイ]徒町 小鈴 解放完了"
         },
         {
             "Id": 10428011,
@@ -3102,6 +3126,12 @@
             "RequirementText": "[廻天の車窓]桂城 泉 解放完了"
         },
         {
+            "Id": 10515121,
+            "Name": "[EdelinieN]桂城 泉",
+            "Text": "[EdelinieN]桂城 泉 を4回解放した記念のステッカー",
+            "RequirementText": "[EdelinieN]桂城 泉 解放完了"
+        },
+        {
             "Id": 10518011,
             "Name": "[Oracle Étude]桂城 泉",
             "Text": "[Oracle Étude]桂城 泉 を4回解放した記念のステッカー",
@@ -3220,6 +3250,12 @@
             "Name": "[再臨の車窓]セラス 柳田 リリエンフェルト",
             "Text": "[再臨の車窓]セラス 柳田 リリエンフェルト を4回解放した記念のステッカー",
             "RequirementText": "[再臨の車窓]セラス 柳田 リリエンフェルト 解放完了"
+        },
+        {
+            "Id": 10525121,
+            "Name": "[EdelinieN]セラス 柳田 リリエンフェルト",
+            "Text": "[EdelinieN]セラス 柳田 リリエンフェルト を4回解放した記念のステッカー",
+            "RequirementText": "[EdelinieN]セラス 柳田 リリエンフェルト 解放完了"
         },
         {
             "Id": 10528011,
@@ -7332,6 +7368,138 @@
             "RequirementText": "105期FinalTerm 第2回 サークル対抗戦に参加"
         },
         {
+            "Id": 20251201,
+            "Name": "105期FinalTerm 第3回 サークル対抗戦 1位",
+            "Text": "105期FinalTerm 第3回 サークル対抗戦 1位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第3回 サークル対抗戦 1位 入賞"
+        },
+        {
+            "Id": 20251202,
+            "Name": "105期FinalTerm 第3回 サークル対抗戦 2位",
+            "Text": "105期FinalTerm 第3回 サークル対抗戦 2位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第3回 サークル対抗戦 2位 入賞"
+        },
+        {
+            "Id": 20251203,
+            "Name": "105期FinalTerm 第3回 サークル対抗戦 3位",
+            "Text": "105期FinalTerm 第3回 サークル対抗戦 3位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第3回 サークル対抗戦 3位 入賞"
+        },
+        {
+            "Id": 20251204,
+            "Name": "105期FinalTerm 第3回 サークル対抗戦 4位",
+            "Text": "105期FinalTerm 第3回 サークル対抗戦 4位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第3回 サークル対抗戦 4位 入賞"
+        },
+        {
+            "Id": 20251205,
+            "Name": "105期FinalTerm 第3回 サークル対抗戦 5位",
+            "Text": "105期FinalTerm 第3回 サークル対抗戦 5位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第3回 サークル対抗戦 5位 入賞"
+        },
+        {
+            "Id": 20251206,
+            "Name": "105期FinalTerm 第3回 サークル対抗戦 6位",
+            "Text": "105期FinalTerm 第3回 サークル対抗戦 6位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第3回 サークル対抗戦 6位 入賞"
+        },
+        {
+            "Id": 20251207,
+            "Name": "105期FinalTerm 第3回 サークル対抗戦 7位",
+            "Text": "105期FinalTerm 第3回 サークル対抗戦 7位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第3回 サークル対抗戦 7位 入賞"
+        },
+        {
+            "Id": 20251208,
+            "Name": "105期FinalTerm 第3回 サークル対抗戦 8位",
+            "Text": "105期FinalTerm 第3回 サークル対抗戦 8位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第3回 サークル対抗戦 8位 入賞"
+        },
+        {
+            "Id": 20251209,
+            "Name": "105期FinalTerm 第3回 サークル対抗戦 9位",
+            "Text": "105期FinalTerm 第3回 サークル対抗戦 9位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第3回 サークル対抗戦 9位 入賞"
+        },
+        {
+            "Id": 20251210,
+            "Name": "105期FinalTerm 第3回 サークル対抗戦 10位",
+            "Text": "105期FinalTerm 第3回 サークル対抗戦 10位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第3回 サークル対抗戦 10位 入賞"
+        },
+        {
+            "Id": 20251211,
+            "Name": "105期FinalTerm 第3回 サークル対抗戦 TOP30位",
+            "Text": "105期FinalTerm 第3回 サークル対抗戦 TOP30位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第3回 サークル対抗戦 TOP30位 入賞"
+        },
+        {
+            "Id": 20251212,
+            "Name": "105期FinalTerm 第3回 サークル対抗戦 TOP100位",
+            "Text": "105期FinalTerm 第3回 サークル対抗戦 TOP100位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第3回 サークル対抗戦 TOP100位 入賞"
+        },
+        {
+            "Id": 20251213,
+            "Name": "105期FinalTerm 第3回 サークル対抗戦 TOP200位",
+            "Text": "105期FinalTerm 第3回 サークル対抗戦 TOP200位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第3回 サークル対抗戦 TOP200位 入賞"
+        },
+        {
+            "Id": 20251214,
+            "Name": "105期FinalTerm 第3回 サークル対抗戦 TOP300位",
+            "Text": "105期FinalTerm 第3回 サークル対抗戦 TOP300位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第3回 サークル対抗戦 TOP300位 入賞"
+        },
+        {
+            "Id": 20251215,
+            "Name": "105期FinalTerm 第3回 サークル対抗戦 TOP500位",
+            "Text": "105期FinalTerm 第3回 サークル対抗戦 TOP500位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第3回 サークル対抗戦 TOP500位 入賞"
+        },
+        {
+            "Id": 20251216,
+            "Name": "105期FinalTerm 第3回 サークル対抗戦 TOP1000位",
+            "Text": "105期FinalTerm 第3回 サークル対抗戦 TOP1000位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第3回 サークル対抗戦 TOP1000位 入賞"
+        },
+        {
+            "Id": 20251217,
+            "Name": "105期FinalTerm 第3回 サークル対抗戦 TOP1500位",
+            "Text": "105期FinalTerm 第3回 サークル対抗戦 TOP1500位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第3回 サークル対抗戦 TOP1500位 入賞"
+        },
+        {
+            "Id": 20251218,
+            "Name": "105期FinalTerm 第3回 サークル対抗戦 TOP2000位",
+            "Text": "105期FinalTerm 第3回 サークル対抗戦 TOP2000位 を称えるステッカー",
+            "RequirementText": "105期FinalTerm 第3回 サークル対抗戦 TOP2000位 入賞"
+        },
+        {
+            "Id": 20251219,
+            "Name": "105期FinalTerm 第3回 サークル対抗戦 参加",
+            "Text": "105期FinalTerm 第3回 サークル対抗戦 参加賞のステッカー",
+            "RequirementText": "105期FinalTerm 第3回 サークル対抗戦に参加"
+        },
+        {
+            "Id": 20251220,
+            "Name": "銀テープ『Bloom Garden Party 105期 Final Term Fes×LIVE』by 日野下 花帆",
+            "Text": "Bloom Garden Party 105期 Final Term Fes×LIVE",
+            "RequirementText": "105期FinalTerm 第3回 サークル対抗戦 TOP1500位 入賞"
+        },
+        {
+            "Id": 20251221,
+            "Name": "銀テープ『Bloom Garden Party 105期 Final Term Fes×LIVE』by 村野 さやか",
+            "Text": "Bloom Garden Party 105期 Final Term Fes×LIVE",
+            "RequirementText": "105期FinalTerm 第3回 サークル対抗戦 TOP1500位 入賞"
+        },
+        {
+            "Id": 20251222,
+            "Name": "銀テープ『Bloom Garden Party 105期 Final Term Fes×LIVE』by 大沢 瑠璃乃",
+            "Text": "Bloom Garden Party 105期 Final Term Fes×LIVE",
+            "RequirementText": "105期FinalTerm 第3回 サークル対抗戦 TOP1500位 入賞"
+        },
+        {
             "Id": 20330101,
             "Name": "Live Grand Prix 103期第1回個人戦 1位",
             "Text": "Live Grand Prix 103期第1回個人戦 1位 を称えるステッカー",
@@ -11364,6 +11532,132 @@
             "RequirementText": "Live Grand Prix 105期FinalTerm 第2回 個人戦に参加"
         },
         {
+            "Id": 20351201,
+            "Name": "Live Grand Prix 105期FinalTerm 第3回 個人戦 1位",
+            "Text": "Live Grand Prix 105期FinalTerm 第3回 個人戦 1位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第3回 個人戦 1位 入賞"
+        },
+        {
+            "Id": 20351202,
+            "Name": "Live Grand Prix 105期FinalTerm 第3回 個人戦 2位",
+            "Text": "Live Grand Prix 105期FinalTerm 第3回 個人戦 2位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第3回 個人戦 2位 入賞"
+        },
+        {
+            "Id": 20351203,
+            "Name": "Live Grand Prix 105期FinalTerm 第3回 個人戦 3位",
+            "Text": "Live Grand Prix 105期FinalTerm 第3回 個人戦 3位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第3回 個人戦 3位 入賞"
+        },
+        {
+            "Id": 20351204,
+            "Name": "Live Grand Prix 105期FinalTerm 第3回 個人戦 4位",
+            "Text": "Live Grand Prix 105期FinalTerm 第3回 個人戦 4位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第3回 個人戦 4位 入賞"
+        },
+        {
+            "Id": 20351205,
+            "Name": "Live Grand Prix 105期FinalTerm 第3回 個人戦 5位",
+            "Text": "Live Grand Prix 105期FinalTerm 第3回 個人戦 5位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第3回 個人戦 5位 入賞"
+        },
+        {
+            "Id": 20351206,
+            "Name": "Live Grand Prix 105期FinalTerm 第3回 個人戦 6位",
+            "Text": "Live Grand Prix 105期FinalTerm 第3回 個人戦 6位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第3回 個人戦 6位 入賞"
+        },
+        {
+            "Id": 20351207,
+            "Name": "Live Grand Prix 105期FinalTerm 第3回 個人戦 7位",
+            "Text": "Live Grand Prix 105期FinalTerm 第3回 個人戦 7位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第3回 個人戦 7位 入賞"
+        },
+        {
+            "Id": 20351208,
+            "Name": "Live Grand Prix 105期FinalTerm 第3回 個人戦 8位",
+            "Text": "Live Grand Prix 105期FinalTerm 第3回 個人戦 8位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第3回 個人戦 8位 入賞"
+        },
+        {
+            "Id": 20351209,
+            "Name": "Live Grand Prix 105期FinalTerm 第3回 個人戦 9位",
+            "Text": "Live Grand Prix 105期FinalTerm 第3回 個人戦 9位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第3回 個人戦 9位 入賞"
+        },
+        {
+            "Id": 20351210,
+            "Name": "Live Grand Prix 105期FinalTerm 第3回 個人戦 10位",
+            "Text": "Live Grand Prix 105期FinalTerm 第3回 個人戦 10位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第3回 個人戦 10位 入賞"
+        },
+        {
+            "Id": 20351211,
+            "Name": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP100位",
+            "Text": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP100位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP100位 入賞"
+        },
+        {
+            "Id": 20351212,
+            "Name": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP200位",
+            "Text": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP200位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP200位 入賞"
+        },
+        {
+            "Id": 20351213,
+            "Name": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP500位",
+            "Text": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP500位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP500位 入賞"
+        },
+        {
+            "Id": 20351214,
+            "Name": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP1000位",
+            "Text": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP1000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP1000位 入賞"
+        },
+        {
+            "Id": 20351215,
+            "Name": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP2000位",
+            "Text": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP2000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP2000位 入賞"
+        },
+        {
+            "Id": 20351216,
+            "Name": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP3000位",
+            "Text": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP3000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP3000位 入賞"
+        },
+        {
+            "Id": 20351217,
+            "Name": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP5000位",
+            "Text": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP5000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP5000位 入賞"
+        },
+        {
+            "Id": 20351218,
+            "Name": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP7000位",
+            "Text": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP7000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP7000位 入賞"
+        },
+        {
+            "Id": 20351219,
+            "Name": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP10000位",
+            "Text": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP10000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP10000位 入賞"
+        },
+        {
+            "Id": 20351220,
+            "Name": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP15000位",
+            "Text": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP15000位 を称えるステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP15000位 入賞"
+        },
+        {
+            "Id": 20351221,
+            "Name": "Live Grand Prix 105期FinalTerm 第3回 個人戦 参加",
+            "Text": "Live Grand Prix 105期FinalTerm 第3回 個人戦 参加賞のステッカー",
+            "RequirementText": "Live Grand Prix 105期FinalTerm 第3回 個人戦に参加"
+        },
+        {
             "Id": 40103101,
             "Name": "『Dream Believers（4人Ver.）』マエストロ",
             "Text": "『Dream Believers（4人Ver.）』のマスタリーLv.を30にした記念のステッカー",
@@ -12654,6 +12948,18 @@
             "RequirementText": "『不思議と君とライブラリー』マスタリーLv.30到達"
         },
         {
+            "Id": 40405138,
+            "Name": "『アイシイ』マエストロ",
+            "Text": "『アイシイ』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『アイシイ』マスタリーLv.30到達"
+        },
+        {
+            "Id": 40405139,
+            "Name": "『EdelinieN』マエストロ",
+            "Text": "『EdelinieN』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『EdelinieN』マスタリーLv.30到達"
+        },
+        {
             "Id": 40405201,
             "Name": "『テレパシ』マエストロ",
             "Text": "『テレパシ』のマスタリーLv.を30にした記念のステッカー",
@@ -12700,6 +13006,12 @@
             "Name": "『気まぐれロマンティック』マエストロ",
             "Text": "『気まぐれロマンティック』のマスタリーLv.を30にした記念のステッカー",
             "RequirementText": "『気まぐれロマンティック』マスタリーLv.30到達"
+        },
+        {
+            "Id": 40405209,
+            "Name": "『Blessing』マエストロ",
+            "Text": "『Blessing』のマスタリーLv.を30にした記念のステッカー",
+            "RequirementText": "『Blessing』マスタリーLv.30到達"
         },
         {
             "Id": 40405301,
@@ -13864,6 +14176,54 @@
             "Name": "[ラブカ]エネルギーカードフレーム（青）",
             "Text": "お気に入りのステッカーに重ねて使えるラブカ風のエネルギーカードフレーム（青）をご用意しました！ あなただけのラブカ風プロカを作っちゃおう！",
             "RequirementText": "「みらくらぱーく！ラブカ感謝祭 出演記念「WAWO!」パック」を購入"
+        },
+        {
+            "Id": 90000190,
+            "Name": "[スウィートリボンドレス]日野下 花帆",
+            "Text": "◎ハッピーホワイトデー2026◎",
+            "RequirementText": "「ハッピーホワイトデー☆カラフルキャンディお返しセット to スリーズブーケ」を購入"
+        },
+        {
+            "Id": 90000191,
+            "Name": "[スウィートリボンドレス]村野 さやか",
+            "Text": "◎ハッピーホワイトデー2026◎",
+            "RequirementText": "「ハッピーホワイトデー☆カラフルキャンディお返しセット to DOLLCHESTRA」を購入"
+        },
+        {
+            "Id": 90000192,
+            "Name": "[スウィートリボンドレス]大沢 瑠璃乃",
+            "Text": "◎ハッピーホワイトデー2026◎",
+            "RequirementText": "「ハッピーホワイトデー☆カラフルキャンディお返しセット to みらくらぱーく！」を購入"
+        },
+        {
+            "Id": 90000193,
+            "Name": "[スウィートリボンドレス]百生 吟子",
+            "Text": "◎ハッピーホワイトデー2026◎",
+            "RequirementText": "「ハッピーホワイトデー☆カラフルキャンディお返しセット to スリーズブーケ」を購入"
+        },
+        {
+            "Id": 90000194,
+            "Name": "[スウィートリボンドレス]徒町 小鈴",
+            "Text": "◎ハッピーホワイトデー2026◎",
+            "RequirementText": "「ハッピーホワイトデー☆カラフルキャンディお返しセット to DOLLCHESTRA」を購入"
+        },
+        {
+            "Id": 90000195,
+            "Name": "[スウィートリボンドレス]安養寺 姫芽",
+            "Text": "◎ハッピーホワイトデー2026◎",
+            "RequirementText": "「ハッピーホワイトデー☆カラフルキャンディお返しセット to みらくらぱーく！」を購入"
+        },
+        {
+            "Id": 90000196,
+            "Name": "[スウィートリボンドレス]セラス 柳田 リリエンフェルト",
+            "Text": "◎ハッピーホワイトデー2026◎",
+            "RequirementText": "「ハッピーホワイトデー☆カラフルキャンディお返しセット to Edel Note」を購入"
+        },
+        {
+            "Id": 90000197,
+            "Name": "[スウィートリボンドレス]桂城 泉",
+            "Text": "◎ハッピーホワイトデー2026◎",
+            "RequirementText": "「ハッピーホワイトデー☆カラフルキャンディお返しセット to Edel Note」を購入"
         },
         {
             "Id": 90010210,

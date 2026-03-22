@@ -171,6 +171,11 @@
             "Description": "105期FinalTerm 第2回 サークル対抗戦"
         },
         {
+            "Id": 705112,
+            "Name": "105期FinalTerm 第3回 サークル対抗戦",
+            "Description": "105期FinalTerm 第3回 サークル対抗戦"
+        },
+        {
             "Id": 803101,
             "Name": "ライブグランプリ 103期第1回個人戦",
             "Description": "ライブグランプリ 103期第1回個人戦"
@@ -329,6 +334,11 @@
             "Id": 805111,
             "Name": "Live Grand Prix 105期FinalTerm 第2回 個人戦",
             "Description": "Live Grand Prix 105期FinalTerm 第2回 個人戦"
+        },
+        {
+            "Id": 805112,
+            "Name": "Live Grand Prix 105期FinalTerm 第3回 個人戦",
+            "Description": "Live Grand Prix 105期FinalTerm 第3回 個人戦"
         }
     ]
 }

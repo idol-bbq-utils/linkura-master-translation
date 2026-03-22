@@ -104,6 +104,19 @@
     }
   },
   {
+    "raw": "ついに訪れる、四度目の桜。Bloom Garden Party\nを目前に102期の卒業生も蓮ノ空に帰ってきた。\n最高の、そして最後のステージの幕が上がるーー",
+    "translation": {
+      "zh-CN": {
+        "text": "第四度樱花终于来临。Bloom Garden Party\n即将开幕之际，第102期的毕业生们也回到了莲之空。\n最棒、也是最后的舞台，即将拉开帷幕ーー",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "At last, the fourth spring of cherry blossoms arrives.\nWith the Bloom Garden Party just ahead,\n the 102nd graduating class has also returned to Hasu no Sora.\nThe curtain rises on the greatest, and final, stageーー",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "イベントでの花帆と梢の渾身のパフォーマンスに\n興奮するさやかだったが、その隣でステージを見\nていた綴理の様子はどこか変で……？",
     "translation": {
       "zh-CN": {
@@ -555,6 +568,19 @@
       "en": {
         "text": "Episode 11 'A Story That Makes Dreams Bloom'",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "第12話『ずっと花咲く僕らの桜』",
+    "translation": {
+      "zh-CN": {
+        "text": "第12话《ずっと花咲く僕らの桜》",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Episode 12: 『ずっと花咲く僕らの桜』",
+        "author": "gpt-5.1"
       }
     }
   },

@@ -39,7 +39,7 @@ prompt = f"""{prompt_base}
 ## Detailed Requirements
 - Language: Translate Japanese into the target language.
 - Number of lines: The output should have the same number of lines as the input. Do not output any additional explanatory text.
-- Special symbols: <br> represents a line break, and should be preserved if needed. If there are \n line break symbols in the original text, please also preserve them as \n.
+- Special symbols: Retain the special symbols from the original text, for example, **keep $123$ as $123$ during translation.** <br> represents a line break, and should be preserved if needed. If there are \n line break symbols in the original text, please also preserve them as \n.
 - Natural fluency: The translation should conform to the expression habits of the target language, ensuring that the language is natural and fluent.
 - Correspondence: Each line of translation should correspond to the original text, without merging multiple lines or splitting a single line into multiple lines.
 - Specific translations: Use the following translations for specific names and terms:

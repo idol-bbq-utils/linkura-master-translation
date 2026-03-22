@@ -4696,6 +4696,21 @@
             "Description": "全メンバーのアピール値が72％上昇"
         },
         {
+            "Id": 20325361,
+            "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
+            "Description": "DOLLCHESTRAに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20325362,
+            "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
+            "Description": "DOLLCHESTRAに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20325363,
+            "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
+            "Description": "DOLLCHESTRAに所属するメンバーのアピール値が200％上昇"
+        },
+        {
             "Id": 20328011,
             "CenterAttributeName": "アピールアップ（DOLLCHESTRA）&APレデュース&CTレデュース",
             "Description": "DOLLCHESTRAに所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少"
@@ -5129,6 +5144,21 @@
             "Id": 20334163,
             "CenterAttributeName": "アピールアップ",
             "Description": "全メンバーのアピール値が54％上昇"
+        },
+        {
+            "Id": 20334171,
+            "CenterAttributeName": "アピールアップ（みらくらぱーく！）",
+            "Description": "みらくらぱーく！に所属するメンバーのアピール値が150％上昇"
+        },
+        {
+            "Id": 20334172,
+            "CenterAttributeName": "アピールアップ（みらくらぱーく！）",
+            "Description": "みらくらぱーく！に所属するメンバーのアピール値が150％上昇"
+        },
+        {
+            "Id": 20334173,
+            "CenterAttributeName": "アピールアップ（みらくらぱーく！）",
+            "Description": "みらくらぱーく！に所属するメンバーのアピール値が150％上昇"
         },
         {
             "Id": 20335011,
@@ -5917,6 +5947,21 @@
         },
         {
             "Id": 20414053,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が54％上昇"
+        },
+        {
+            "Id": 20414061,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が54％上昇"
+        },
+        {
+            "Id": 20414062,
+            "CenterAttributeName": "アピールアップ",
+            "Description": "全メンバーのアピール値が54％上昇"
+        },
+        {
+            "Id": 20414063,
             "CenterAttributeName": "アピールアップ",
             "Description": "全メンバーのアピール値が54％上昇"
         },
@@ -6849,6 +6894,21 @@
             "Id": 20425233,
             "CenterAttributeName": "アピールアップ",
             "Description": "全メンバーのアピール値が80％上昇"
+        },
+        {
+            "Id": 20425241,
+            "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
+            "Description": "DOLLCHESTRAに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20425242,
+            "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
+            "Description": "DOLLCHESTRAに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20425243,
+            "CenterAttributeName": "アピールアップ（DOLLCHESTRA）",
+            "Description": "DOLLCHESTRAに所属するメンバーのアピール値が200％上昇"
         },
         {
             "Id": 20428011,
@@ -7791,6 +7851,21 @@
             "Description": "桂城泉／セラスのアピール値が320%上昇／全てのスキルの消費APが2減少／クールタイムが1秒減少"
         },
         {
+            "Id": 20515121,
+            "CenterAttributeName": "アピールアップ（Edel Note）",
+            "Description": "Edel Noteに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20515122,
+            "CenterAttributeName": "アピールアップ（Edel Note）",
+            "Description": "Edel Noteに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20515123,
+            "CenterAttributeName": "アピールアップ（Edel Note）",
+            "Description": "Edel Noteに所属するメンバーのアピール値が200％上昇"
+        },
+        {
             "Id": 20518011,
             "CenterAttributeName": "アピールアップ（桂城泉）&APレデュース&CTレデュース",
             "Description": "桂城泉のアピール値が320％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少"
@@ -8094,6 +8169,21 @@
             "Id": 20525115,
             "CenterAttributeName": "廻天の車窓",
             "Description": "桂城泉／セラスのアピール値が320%上昇／全てのスキルの消費APが2減少／クールタイムが1秒減少"
+        },
+        {
+            "Id": 20525121,
+            "CenterAttributeName": "アピールアップ（Edel Note）",
+            "Description": "Edel Noteに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20525122,
+            "CenterAttributeName": "アピールアップ（Edel Note）",
+            "Description": "Edel Noteに所属するメンバーのアピール値が200％上昇"
+        },
+        {
+            "Id": 20525123,
+            "CenterAttributeName": "アピールアップ（Edel Note）",
+            "Description": "Edel Noteに所属するメンバーのアピール値が200％上昇"
         },
         {
             "Id": 20528011,

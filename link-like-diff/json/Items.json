@@ -3804,6 +3804,12 @@
             "Description": "スタイル解放素材(村野 さやか)"
         },
         {
+            "Id": 4032536,
+            "Name": "[アイシイ]村野 さやか 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(村野 さやか)"
+        },
+        {
             "Id": 4032801,
             "Name": "[Prism Echo]村野 さやか 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
@@ -3962,6 +3968,12 @@
         {
             "Id": 4033416,
             "Name": "[蒼のツバメ]大沢 瑠璃乃 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(大沢 瑠璃乃)"
+        },
+        {
+            "Id": 4033417,
+            "Name": "[拝啓、未来の君へ]大沢 瑠璃乃 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
             "Description": "スタイル解放素材(大沢 瑠璃乃)"
         },
@@ -4256,6 +4268,12 @@
         {
             "Id": 4041405,
             "Name": "[My Lucky Clover]百生 吟子 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(百生 吟子)"
+        },
+        {
+            "Id": 4041406,
+            "Name": "[拝啓、未来の君へ]百生 吟子 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
             "Description": "スタイル解放素材(百生 吟子)"
         },
@@ -4620,6 +4638,12 @@
             "Description": "スタイル解放素材(徒町 小鈴)"
         },
         {
+            "Id": 4042524,
+            "Name": "[アイシイ]徒町 小鈴 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(徒町 小鈴)"
+        },
+        {
             "Id": 4042801,
             "Name": "[Ether Aria]徒町 小鈴 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
@@ -4980,6 +5004,12 @@
             "Description": "スタイル解放素材(桂城 泉)"
         },
         {
+            "Id": 4051512,
+            "Name": "[EdelinieN]桂城 泉 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(桂城 泉)"
+        },
+        {
             "Id": 4051801,
             "Name": "[Oracle Étude]桂城 泉 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
@@ -5090,6 +5120,12 @@
         {
             "Id": 4052511,
             "Name": "[再臨の車窓]セラス 柳田 リリエンフェルト 解放Pt.",
+            "NameFurigana": "かいほうぽいんと",
+            "Description": "スタイル解放素材(セラス 柳田 リリエンフェルト)"
+        },
+        {
+            "Id": 4052512,
+            "Name": "[EdelinieN]セラス 柳田 リリエンフェルト 解放Pt.",
             "NameFurigana": "かいほうぽいんと",
             "Description": "スタイル解放素材(セラス 柳田 リリエンフェルト)"
         },

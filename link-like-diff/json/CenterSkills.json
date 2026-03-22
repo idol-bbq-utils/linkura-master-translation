@@ -34656,6 +34656,76 @@
             "Description": "【FEVER開始時に発動】ボルテージPt.を$348pt$獲得"
         },
         {
+            "Id": 10325360011,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【FEVER開始時に発動】合計アピール値の$139.5%$のスコアを獲得"
+        },
+        {
+            "Id": 10325360021,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【FEVER開始時に発動】合計アピール値の$153.45%$のスコアを獲得"
+        },
+        {
+            "Id": 10325360031,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【FEVER開始時に発動】合計アピール値の$167.4%$のスコアを獲得"
+        },
+        {
+            "Id": 10325360041,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【FEVER開始時に発動】合計アピール値の$181.35%$のスコアを獲得"
+        },
+        {
+            "Id": 10325360051,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【FEVER開始時に発動】合計アピール値の$195.3%$のスコアを獲得"
+        },
+        {
+            "Id": 10325360061,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【FEVER開始時に発動】合計アピール値の$209.25%$のスコアを獲得"
+        },
+        {
+            "Id": 10325360071,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【FEVER開始時に発動】合計アピール値の$223.2%$のスコアを獲得"
+        },
+        {
+            "Id": 10325360081,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【FEVER開始時に発動】合計アピール値の$237.15%$のスコアを獲得"
+        },
+        {
+            "Id": 10325360091,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【FEVER開始時に発動】合計アピール値の$251.1%$のスコアを獲得"
+        },
+        {
+            "Id": 10325360101,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【FEVER開始時に発動】合計アピール値の$279%$のスコアを獲得"
+        },
+        {
+            "Id": 10325360111,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【FEVER開始時に発動】合計アピール値の$306.9%$のスコアを獲得"
+        },
+        {
+            "Id": 10325360121,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【FEVER開始時に発動】合計アピール値の$334.8%$のスコアを獲得"
+        },
+        {
+            "Id": 10325360131,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【FEVER開始時に発動】合計アピール値の$362.7%$のスコアを獲得"
+        },
+        {
+            "Id": 10325360141,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【FEVER開始時に発動】合計アピール値の$418.5%$のスコアを獲得"
+        },
+        {
             "Id": 10328010011,
             "CenterSkillName": "ボルテージゲイン",
             "Description": "【ライブ開始時に発動】ボルテージPt.を$139pt$獲得"
@@ -37314,6 +37384,76 @@
             "Id": 10334160141,
             "CenterSkillName": "APゲイン",
             "Description": "【ライブ開始時に発動】APを$8$回復"
+        },
+        {
+            "Id": 10334170011,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$3$回復"
+        },
+        {
+            "Id": 10334170021,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$3$回復"
+        },
+        {
+            "Id": 10334170031,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$4$回復"
+        },
+        {
+            "Id": 10334170041,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$4$回復"
+        },
+        {
+            "Id": 10334170051,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$4$回復"
+        },
+        {
+            "Id": 10334170061,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$5$回復"
+        },
+        {
+            "Id": 10334170071,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$5$回復"
+        },
+        {
+            "Id": 10334170081,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$5$回復"
+        },
+        {
+            "Id": 10334170091,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$6$回復"
+        },
+        {
+            "Id": 10334170101,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$6$回復"
+        },
+        {
+            "Id": 10334170111,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$7$回復"
+        },
+        {
+            "Id": 10334170121,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$8$回復"
+        },
+        {
+            "Id": 10334170131,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$8$回復"
+        },
+        {
+            "Id": 10334170141,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$10$回復"
         },
         {
             "Id": 10335010011,
@@ -42704,6 +42844,76 @@
             "Id": 10414050141,
             "CenterSkillName": "APゲイン",
             "Description": "【ライブ開始時に発動】APを$10$回復"
+        },
+        {
+            "Id": 10414060011,
+            "CenterSkillName": "メンタル減少",
+            "Description": "【ライブ開始時に発動】最大値の$15%$分のメンタルを減少（この効果ではメンタルが0にならない）"
+        },
+        {
+            "Id": 10414060021,
+            "CenterSkillName": "メンタル減少",
+            "Description": "【ライブ開始時に発動】最大値の$15%$分のメンタルを減少（この効果ではメンタルが0にならない）"
+        },
+        {
+            "Id": 10414060031,
+            "CenterSkillName": "メンタル減少",
+            "Description": "【ライブ開始時に発動】最大値の$20%$分のメンタルを減少（この効果ではメンタルが0にならない）"
+        },
+        {
+            "Id": 10414060041,
+            "CenterSkillName": "メンタル減少",
+            "Description": "【ライブ開始時に発動】最大値の$20%$分のメンタルを減少（この効果ではメンタルが0にならない）"
+        },
+        {
+            "Id": 10414060051,
+            "CenterSkillName": "メンタル減少",
+            "Description": "【ライブ開始時に発動】最大値の$20%$分のメンタルを減少（この効果ではメンタルが0にならない）"
+        },
+        {
+            "Id": 10414060061,
+            "CenterSkillName": "メンタル減少",
+            "Description": "【ライブ開始時に発動】最大値の$25%$分のメンタルを減少（この効果ではメンタルが0にならない）"
+        },
+        {
+            "Id": 10414060071,
+            "CenterSkillName": "メンタル減少",
+            "Description": "【ライブ開始時に発動】最大値の$25%$分のメンタルを減少（この効果ではメンタルが0にならない）"
+        },
+        {
+            "Id": 10414060081,
+            "CenterSkillName": "メンタル減少",
+            "Description": "【ライブ開始時に発動】最大値の$25%$分のメンタルを減少（この効果ではメンタルが0にならない）"
+        },
+        {
+            "Id": 10414060091,
+            "CenterSkillName": "メンタル減少",
+            "Description": "【ライブ開始時に発動】最大値の$30%$分のメンタルを減少（この効果ではメンタルが0にならない）"
+        },
+        {
+            "Id": 10414060101,
+            "CenterSkillName": "メンタル減少",
+            "Description": "【ライブ開始時に発動】最大値の$30%$分のメンタルを減少（この効果ではメンタルが0にならない）"
+        },
+        {
+            "Id": 10414060111,
+            "CenterSkillName": "メンタル減少",
+            "Description": "【ライブ開始時に発動】最大値の$35%$分のメンタルを減少（この効果ではメンタルが0にならない）"
+        },
+        {
+            "Id": 10414060121,
+            "CenterSkillName": "メンタル減少",
+            "Description": "【ライブ開始時に発動】最大値の$40%$分のメンタルを減少（この効果ではメンタルが0にならない）"
+        },
+        {
+            "Id": 10414060131,
+            "CenterSkillName": "メンタル減少",
+            "Description": "【ライブ開始時に発動】最大値の$40%$分のメンタルを減少（この効果ではメンタルが0にならない）"
+        },
+        {
+            "Id": 10414060141,
+            "CenterSkillName": "メンタル減少",
+            "Description": "【ライブ開始時に発動】最大値の$50%$分のメンタルを減少（この効果ではメンタルが0にならない）"
         },
         {
             "Id": 10415010011,
@@ -48936,6 +49146,76 @@
             "Description": "【ライブ開始時に発動】APを$12$回復"
         },
         {
+            "Id": 10425240011,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$4$回復"
+        },
+        {
+            "Id": 10425240021,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$4$回復"
+        },
+        {
+            "Id": 10425240031,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$4$回復"
+        },
+        {
+            "Id": 10425240041,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$5$回復"
+        },
+        {
+            "Id": 10425240051,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$5$回復"
+        },
+        {
+            "Id": 10425240061,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$6$回復"
+        },
+        {
+            "Id": 10425240071,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$6$回復"
+        },
+        {
+            "Id": 10425240081,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$6$回復"
+        },
+        {
+            "Id": 10425240091,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$7$回復"
+        },
+        {
+            "Id": 10425240101,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$8$回復"
+        },
+        {
+            "Id": 10425240111,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$8$回復"
+        },
+        {
+            "Id": 10425240121,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$9$回復"
+        },
+        {
+            "Id": 10425240131,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$10$回復"
+        },
+        {
+            "Id": 10425240141,
+            "CenterSkillName": "APゲイン",
+            "Description": "【ライブ開始時に発動】APを$12$回復"
+        },
+        {
             "Id": 10428010011,
             "CenterSkillName": "ボルテージゲイン",
             "Description": "【ライブ開始時に発動】ボルテージPt.を$139pt$獲得"
@@ -54256,6 +54536,76 @@
             "Description": "【ライブ開始時に発動】APを$20$回復"
         },
         {
+            "Id": 10515120011,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$116pt$獲得"
+        },
+        {
+            "Id": 10515120021,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$127pt$獲得"
+        },
+        {
+            "Id": 10515120031,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$139pt$獲得"
+        },
+        {
+            "Id": 10515120041,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$151pt$獲得"
+        },
+        {
+            "Id": 10515120051,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$162pt$獲得"
+        },
+        {
+            "Id": 10515120061,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$174pt$獲得"
+        },
+        {
+            "Id": 10515120071,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$186pt$獲得"
+        },
+        {
+            "Id": 10515120081,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$197pt$獲得"
+        },
+        {
+            "Id": 10515120091,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$209pt$獲得"
+        },
+        {
+            "Id": 10515120101,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$232pt$獲得"
+        },
+        {
+            "Id": 10515120111,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$255pt$獲得"
+        },
+        {
+            "Id": 10515120121,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$279pt$獲得"
+        },
+        {
+            "Id": 10515120131,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$302pt$獲得"
+        },
+        {
+            "Id": 10515120141,
+            "CenterSkillName": "ボルテージゲイン",
+            "Description": "【FEVER開始時に発動】ボルテージPt.を$348pt$獲得"
+        },
+        {
             "Id": 10518010011,
             "CenterSkillName": "スコアアップ",
             "Description": "【ライブ終了時に発動】合計アピール値の$167.4%$のスコアを獲得"
@@ -55794,6 +56144,76 @@
             "Id": 10525110141,
             "CenterSkillName": "ボルテージゲイン",
             "Description": "【FEVER開始時に発動】ボルテージPt.を$731pt$獲得"
+        },
+        {
+            "Id": 10525120011,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【ライブ終了時に発動】合計アピール値の$139.5%$のスコアを獲得"
+        },
+        {
+            "Id": 10525120021,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【ライブ終了時に発動】合計アピール値の$153.45%$のスコアを獲得"
+        },
+        {
+            "Id": 10525120031,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【ライブ終了時に発動】合計アピール値の$167.4%$のスコアを獲得"
+        },
+        {
+            "Id": 10525120041,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【ライブ終了時に発動】合計アピール値の$181.35%$のスコアを獲得"
+        },
+        {
+            "Id": 10525120051,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【ライブ終了時に発動】合計アピール値の$195.3%$のスコアを獲得"
+        },
+        {
+            "Id": 10525120061,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【ライブ終了時に発動】合計アピール値の$209.25%$のスコアを獲得"
+        },
+        {
+            "Id": 10525120071,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【ライブ終了時に発動】合計アピール値の$223.2%$のスコアを獲得"
+        },
+        {
+            "Id": 10525120081,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【ライブ終了時に発動】合計アピール値の$237.15%$のスコアを獲得"
+        },
+        {
+            "Id": 10525120091,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【ライブ終了時に発動】合計アピール値の$251.1%$のスコアを獲得"
+        },
+        {
+            "Id": 10525120101,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【ライブ終了時に発動】合計アピール値の$279%$のスコアを獲得"
+        },
+        {
+            "Id": 10525120111,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【ライブ終了時に発動】合計アピール値の$306.9%$のスコアを獲得"
+        },
+        {
+            "Id": 10525120121,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【ライブ終了時に発動】合計アピール値の$334.8%$のスコアを獲得"
+        },
+        {
+            "Id": 10525120131,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【ライブ終了時に発動】合計アピール値の$362.7%$のスコアを獲得"
+        },
+        {
+            "Id": 10525120141,
+            "CenterSkillName": "スコアアップ",
+            "Description": "【ライブ終了時に発動】合計アピール値の$418.5%$のスコアを獲得"
         },
         {
             "Id": 10528010011,

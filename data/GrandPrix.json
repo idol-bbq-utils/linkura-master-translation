@@ -286,6 +286,19 @@
     }
   },
   {
+    "raw": "105期FinalTerm 第3回 サークル対抗戦",
+    "translation": {
+      "zh-CN": {
+        "text": "第105期最终赛季 第3回 社团对抗战",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "105th Term Final Term Round 3 Circle Competition",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "105期OpeningTerm サークル対抗戦",
     "translation": {
       "zh-CN": {
@@ -542,6 +555,19 @@
       "zh-CN": {
         "text": "Live Grand Prix 第105期最终赛季 第2回 个人战",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "Live Grand Prix 105期FinalTerm 第3回 個人戦",
+    "translation": {
+      "zh-CN": {
+        "text": "Live Grand Prix 第105期最终赛季 第3回 个人战",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "Live Grand Prix 105th Term Final Term Round 3 Individual Competition",
+        "author": "gpt-5.1"
       }
     }
   },

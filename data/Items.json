@@ -1521,6 +1521,32 @@
     }
   },
   {
+    "raw": "[EdelinieN]セラス 柳田 リリエンフェルト 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[EdelinieN]塞拉斯 柳田 利林费尔德 解放Pt.",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "[EdelinieN] Ceras Yanagida Lilienfeld Liberation Pt.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "[EdelinieN]桂城 泉 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[EdelinieN]桂城 泉 解放Pt.",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "[EdelinieN] Izumi Katsuragi Liberation Pt.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "[Eisprinzessin]村野 さやか 解放Pt.",
     "translation": {
       "zh-CN": {
@@ -3441,6 +3467,32 @@
       "en": {
         "text": "[ゆのくにガールズ！]Megumi Fujishima Liberation Pt.",
         "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "[アイシイ]徒町 小鈴 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[アイシイ]徒町 小铃 解放Pt.",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "[アイシイ] Kachimachi Kosuzu Liberation Pt.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
+    "raw": "[アイシイ]村野 さやか 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[アイシイ]村野 沙耶香 解放Pt.",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "[アイシイ] Sayaka Murano Liberation Pt.",
+        "author": "gpt-5.1"
       }
     }
   },
@@ -5850,6 +5902,19 @@
     }
   },
   {
+    "raw": "[拝啓、未来の君へ]大沢 瑠璃乃 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[拝啓、未来の君へ]大泽 瑠璃乃 解放Pt.",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "[拝啓、未来の君へ] Rurino Osawa Liberation Pt.",
+        "author": "gpt-5.1"
+      }
+    }
+  },
+  {
     "raw": "[拝啓、未来の君へ]徒町 小鈴 解放Pt.",
     "translation": {
       "zh-CN": {
@@ -5872,6 +5937,19 @@
       "en": {
         "text": "[拝啓、未来の君へ] Sayaka Murano Liberation Pt.",
         "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "[拝啓、未来の君へ]百生 吟子 解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "[拝啓、未来の君へ]百生 吟子 解放Pt.",
+        "author": "gpt-5.1"
+      },
+      "en": {
+        "text": "[拝啓、未来の君へ] Ginko Momose Liberation Pt.",
+        "author": "gpt-5.1"
       }
     }
   },
